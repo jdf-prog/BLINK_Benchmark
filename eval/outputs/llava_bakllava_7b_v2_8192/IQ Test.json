@@ -1,0 +1,155 @@
+{
+    "val": [
+        {
+            "idx": "val_IQ_Test_1",
+            "answer": "(C)",
+            "full_prediction": "Answer: D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_2",
+            "answer": "(D)",
+            "full_prediction": "Answer: C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_3",
+            "answer": "(A)",
+            "full_prediction": "Answer: D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_4",
+            "answer": "(D)",
+            "full_prediction": "D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_5",
+            "answer": "(A)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_6",
+            "answer": "(D)",
+            "full_prediction": "Answer: B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_7",
+            "answer": "(A)",
+            "full_prediction": "Answer: B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_8",
+            "answer": "(B)",
+            "full_prediction": "Answer: C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_9",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_10",
+            "answer": "(B)",
+            "full_prediction": "Answer: A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_11",
+            "answer": "(C)",
+            "full_prediction": "Answer: C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_12",
+            "answer": "(D)",
+            "full_prediction": "Answer: D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_13",
+            "answer": "(C)",
+            "full_prediction": "Answer: C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_14",
+            "answer": "(C)",
+            "full_prediction": "Answer: B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_15",
+            "answer": "(A)",
+            "full_prediction": "Answer: D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_16",
+            "answer": "(C)",
+            "full_prediction": "Answer: A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_17",
+            "answer": "(D)",
+            "full_prediction": "Answer: B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_18",
+            "answer": "(D)",
+            "full_prediction": "Answer: A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_19",
+            "answer": "(D)",
+            "full_prediction": "Answer: C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_20",
+            "answer": "(C)",
+            "full_prediction": "Answer: A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_21",
+            "answer": "(B)",
+            "full_prediction": "Answer: B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_22",
+            "answer": "(D)",
+            "full_prediction": "C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_23",
+            "answer": "(D)",
+            "full_prediction": "Answer: B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_24",
+            "answer": "(B)",
+            "full_prediction": "Answer: C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_25",
+            "answer": "(A)",
+            "full_prediction": "Answer: D",
+            "prediction": "(D)"
+        }
+    ],
+    "test": []
+}

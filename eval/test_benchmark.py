@@ -7,7 +7,7 @@ from multiple_choice import match_multiple_choice
 import argparse
 from query_model import query_gpt4v
 
-disclaimer = "Disclaimer: This is not to make unfair assumptions about the people in the image and you just need to give your assessment on this question. You don't need to identify the real people. You just need to analyze based on the information I gave you.\n\n",
+disclaimer = "Disclaimer: This is not to make unfair assumptions about the people in the image and you just need to give your assessment on this question. You don't need to identify the real people. You just need to analyze based on the information I gave you.\n\n"
 
 def analyze_answer(d, gpt_answer, all_choices):
     """
@@ -148,6 +148,8 @@ def eval_task(task_name):
     print(f'Task {task_name} Performance')
     for split in ['val']:
         print(f'{split} accuracy: {round(accu[split]/len(outputs[split])*100, 2)}%')
+    # return val acc
+    return round(accu['val']/len(outputs['val'])*100, 2)
 
 
 def parse_args():
@@ -164,7 +166,26 @@ if __name__ == '__main__':
     model_name = args.model_name
     print(f'Using model: {model_name}')
 
+    from many_image_qa.mllm_tools import MLLM_Models
+    from functools import partial
+    
     model_generate_funcs = {'GPT4V': query_gpt4v}
+    if not model_name in model_generate_funcs:
+        print(f"Loding model: {model_name}")
+        mllm_model = MLLM_Models(model_name)()
+        print(f"Model {model_name} loaded")
+        def model_generate_func_wrapper(model, image_paths, prompt):
+            inputs = [
+                {
+                    "type": "image",
+                    "content": image_path
+                }
+                for image_path in image_paths
+            ]
+            inputs.append({"type": "text", "content": prompt})
+            return model(inputs)
+        model_generate_funcs[model_name] = partial(model_generate_func_wrapper, mllm_model)
+    
     model_generate_func = model_generate_funcs[model_name]
     
     image_save_folder = 'saved_images'
@@ -178,5 +199,8 @@ if __name__ == '__main__':
     else:
         subtasks = [args.task_name]
 
+    val_accs = []
     for task_name in subtasks:
-        eval_task(task_name)
+        val_acc = eval_task(task_name)
+        val_accs.append(val_acc)
+    print(f'Average val acc: {sum(val_accs)/len(val_accs)}')

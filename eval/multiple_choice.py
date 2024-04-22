@@ -1,4 +1,5 @@
 from openai import OpenAI
+from easy_openai import openai_completions
 import os
 import time
 
@@ -42,14 +43,17 @@ def match_multiple_choice(question, options, prediction):
     
     for retry in range(retry_limit):
         try:
-            response = model.chat.completions.create(
-                model="gpt-3.5-turbo",
-                messages=[
-                    {"role": "user", "content": prompt},
-                ],
-                temperature=0.0,
-            )
-            return response.choices[0].message.content
+            results = openai_completions(model_name="gpt-35-turbo", prompts=[prompt], temperature=0.0)
+            response = results['completions'][0]
+            return response
+            # response = model.chat.completions.create(
+            #     model="gpt-3.5-turbo",
+            #     messages=[
+            #         {"role": "user", "content": prompt},
+            #     ],
+            #     temperature=0.0,
+            # )
+            # return response.choices[0].message.content
         except Exception as e:
             time.sleep(1)
     return '(Z) Failed to get multiple choice'
