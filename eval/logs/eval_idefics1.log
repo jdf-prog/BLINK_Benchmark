@@ -1,0 +1,1331 @@
+Default cache dir: /home/dongfu/.easy-openai/cache
+Using model: idefics1
+Loding model: idefics1
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:19<00:19, 19.88s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:34<00:00, 16.86s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:34<00:00, 17.31s/it]
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Model idefics1 loaded
+--------------------------------------------------
+Task Art_Style Performance
+val accuracy: 0.0%
+--------------------------------------------------
+Task Functional_Correspondence Performance
+val accuracy: 7.69%
+--------------------------------------------------
+Task Multi-view_Reasoning Performance
+val accuracy: 44.36%
+--------------------------------------------------
+Task Relative_Reflectance Performance
+val accuracy: 29.85%
+--------------------------------------------------
+Task Visual_Correspondence Performance
+val accuracy: 8.72%
+--------------------------------------------------
+Task Counting Performance
+val accuracy: 34.17%
+--------------------------------------------------
+Task IQ_Test Performance
+val accuracy: 5.33%
+--------------------------------------------------
+Task Object_Localization Performance
+val accuracy: 54.92%
+--------------------------------------------------
+Task Semantic_Correspondence Performance
+val accuracy: 0.0%
+--------------------------------------------------
+Task Visual_Similarity Performance
+val accuracy: 47.41%
+--------------------------------------------------
+Task Forensic_Detection Performance
+val accuracy: 22.73%
+--------------------------------------------------
+Task Jigsaw Performance
+val accuracy: 37.33%
+  0%|          | 0/124 [00:00<?, ?it/s]WARNING:root:Loaded cache base from /home/dongfu/.easy-openai/cache/gpt-35-turbo.jsonl.
+WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Ahuggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+
+prompt_batches: 100%|██████████| 1/1 [00:00<00:00,  1.16it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00,  1.16it/s]
+WARNING:root:Completed 1 examples in 0.9 seconds.
+  1%|          | 1/124 [00:10<21:21, 10.42s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 41.06it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+  2%|▏         | 2/124 [00:15<15:07,  7.44s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.71it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+  2%|▏         | 3/124 [00:21<13:02,  6.47s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][A
+prompt_batches: 100%|██████████| 1/1 [00:00<00:00,  2.63it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00,  2.63it/s]
+WARNING:root:Completed 1 examples in 0.4 seconds.
+  3%|▎         | 4/124 [00:26<12:07,  6.06s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 41.45it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+  4%|▍         | 5/124 [00:31<11:29,  5.79s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 41.71it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+  5%|▍         | 6/124 [00:37<11:06,  5.65s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 32.87it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+  6%|▌         | 7/124 [00:42<10:38,  5.46s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][A
+prompt_batches: 100%|██████████| 1/1 [00:01<00:00,  1.47s/it][Aprompt_batches: 100%|██████████| 1/1 [00:01<00:00,  1.48s/it]
+WARNING:root:Completed 1 examples in 1.5 seconds.
+  6%|▋         | 8/124 [00:49<11:32,  5.97s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.22it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+  7%|▋         | 9/124 [00:54<11:11,  5.84s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.62it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+  8%|▊         | 10/124 [01:00<10:48,  5.69s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.45it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+  9%|▉         | 11/124 [01:05<10:31,  5.59s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][A
+prompt_batches: 100%|██████████| 1/1 [00:00<00:00,  3.25it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00,  3.25it/s]
+WARNING:root:Completed 1 examples in 0.3 seconds.
+ 10%|▉         | 12/124 [01:11<10:39,  5.71s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 43.12it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 10%|█         | 13/124 [01:16<10:21,  5.60s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.70it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 11%|█▏        | 14/124 [01:22<10:07,  5.52s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.97it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 12%|█▏        | 15/124 [01:27<09:55,  5.46s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 43.05it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 13%|█▎        | 16/124 [01:32<09:44,  5.42s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.62it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 14%|█▎        | 17/124 [01:38<09:36,  5.39s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.98it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 15%|█▍        | 18/124 [01:43<09:28,  5.36s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.02it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 15%|█▌        | 19/124 [01:48<09:22,  5.36s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 37.30it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 16%|█▌        | 20/124 [01:54<09:15,  5.34s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.65it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 17%|█▋        | 21/124 [01:59<09:01,  5.26s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.04it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 18%|█▊        | 22/124 [02:04<08:59,  5.29s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.96it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 19%|█▊        | 23/124 [02:09<08:55,  5.30s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.61it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 19%|█▉        | 24/124 [02:15<08:45,  5.25s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.87it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 20%|██        | 25/124 [02:20<08:35,  5.21s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 37.63it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 21%|██        | 26/124 [02:25<08:37,  5.28s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.41it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 22%|██▏       | 27/124 [02:30<08:27,  5.23s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.76it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 23%|██▎       | 28/124 [02:36<08:24,  5.26s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.98it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 23%|██▎       | 29/124 [02:41<08:21,  5.28s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.74it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 24%|██▍       | 30/124 [02:46<08:17,  5.29s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 36.58it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 25%|██▌       | 31/124 [02:52<08:13,  5.31s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][A
+prompt_batches: 100%|██████████| 1/1 [00:02<00:00,  2.15s/it][Aprompt_batches: 100%|██████████| 1/1 [00:02<00:00,  2.15s/it]
+WARNING:root:Completed 1 examples in 2.1 seconds.
+ 26%|██▌       | 32/124 [02:59<09:07,  5.95s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.76it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 27%|██▋       | 33/124 [03:04<08:44,  5.77s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.13it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 27%|██▋       | 34/124 [03:10<08:27,  5.63s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.36it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 28%|██▊       | 35/124 [03:15<08:06,  5.47s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.67it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 29%|██▉       | 36/124 [03:20<07:57,  5.42s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 30.00it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 30%|██▉       | 37/124 [03:25<07:49,  5.39s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.77it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 31%|███       | 38/124 [03:31<07:42,  5.38s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 41.33it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 31%|███▏      | 39/124 [03:36<07:35,  5.36s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 36.67it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 32%|███▏      | 40/124 [03:41<07:29,  5.35s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.34it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 33%|███▎      | 41/124 [03:46<07:17,  5.27s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 41.05it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 34%|███▍      | 42/124 [03:52<07:07,  5.21s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.51it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 35%|███▍      | 43/124 [03:57<06:59,  5.18s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.23it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 35%|███▌      | 44/124 [04:02<06:58,  5.23s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.07it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 36%|███▋      | 45/124 [04:07<06:56,  5.27s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 41.44it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 37%|███▋      | 46/124 [04:13<06:51,  5.28s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.39it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 38%|███▊      | 47/124 [04:18<06:48,  5.31s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][A
+prompt_batches: 100%|██████████| 1/1 [00:00<00:00,  2.83it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00,  2.82it/s]
+WARNING:root:Completed 1 examples in 0.4 seconds.
+ 39%|███▊      | 48/124 [04:24<06:53,  5.44s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 41.43it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 40%|███▉      | 49/124 [04:29<06:45,  5.41s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.82it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 40%|████      | 50/124 [04:34<06:38,  5.38s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 36.58it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 41%|████      | 51/124 [04:40<06:32,  5.37s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.10it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 42%|████▏     | 52/124 [04:45<06:30,  5.43s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.19it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 43%|████▎     | 53/124 [04:51<06:23,  5.40s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 37.72it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 44%|████▎     | 54/124 [04:56<06:11,  5.30s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.08it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 44%|████▍     | 55/124 [05:01<06:01,  5.24s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][A
+prompt_batches: 100%|██████████| 1/1 [00:00<00:00,  2.64it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00,  2.64it/s]
+WARNING:root:Completed 1 examples in 0.4 seconds.
+ 45%|████▌     | 56/124 [05:07<06:19,  5.58s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 37.85it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 46%|████▌     | 57/124 [05:13<06:19,  5.66s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.05it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 47%|████▋     | 58/124 [05:19<06:11,  5.63s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.43it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 48%|████▊     | 59/124 [05:25<06:11,  5.72s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.80it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 48%|████▊     | 60/124 [05:30<05:58,  5.60s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.03it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 49%|████▉     | 61/124 [05:35<05:47,  5.51s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 41.40it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 50%|█████     | 62/124 [05:41<05:40,  5.49s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.44it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 51%|█████     | 63/124 [05:46<05:32,  5.45s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.43it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 52%|█████▏    | 64/124 [05:51<05:24,  5.41s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 41.30it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 52%|█████▏    | 65/124 [05:57<05:18,  5.40s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.39it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 53%|█████▎    | 66/124 [06:02<05:14,  5.43s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.87it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 54%|█████▍    | 67/124 [06:08<05:15,  5.54s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.68it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 55%|█████▍    | 68/124 [06:13<05:07,  5.49s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.95it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 56%|█████▌    | 69/124 [06:19<04:58,  5.43s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.91it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 56%|█████▋    | 70/124 [06:24<04:55,  5.47s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.54it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 57%|█████▋    | 71/124 [06:30<04:49,  5.47s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 36.33it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 58%|█████▊    | 72/124 [06:35<04:47,  5.53s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.11it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 59%|█████▉    | 73/124 [06:41<04:40,  5.51s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.26it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 60%|█████▉    | 74/124 [06:46<04:32,  5.46s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 37.44it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 60%|██████    | 75/124 [06:51<04:25,  5.42s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.83it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 61%|██████▏   | 76/124 [06:57<04:18,  5.39s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.50it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 62%|██████▏   | 77/124 [07:02<04:08,  5.30s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 37.37it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 63%|██████▎   | 78/124 [07:07<04:03,  5.30s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.48it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 64%|██████▎   | 79/124 [07:12<03:58,  5.30s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.08it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 65%|██████▍   | 80/124 [07:18<03:51,  5.25s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.75it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 65%|██████▌   | 81/124 [07:23<03:43,  5.20s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.04it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 66%|██████▌   | 82/124 [07:28<03:37,  5.19s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 36.73it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 67%|██████▋   | 83/124 [07:33<03:34,  5.23s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.62it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 68%|██████▊   | 84/124 [07:38<03:30,  5.26s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.37it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 69%|██████▊   | 85/124 [07:44<03:23,  5.22s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 36.95it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 69%|██████▉   | 86/124 [07:49<03:19,  5.25s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.49it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 70%|███████   | 87/124 [07:55<03:20,  5.41s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.50it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 71%|███████   | 88/124 [08:00<03:13,  5.38s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.67it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 72%|███████▏  | 89/124 [08:05<03:07,  5.36s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][A
+prompt_batches: 100%|██████████| 1/1 [00:00<00:00,  2.55it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00,  2.54it/s]
+WARNING:root:Completed 1 examples in 0.4 seconds.
+ 73%|███████▎  | 90/124 [08:11<03:09,  5.57s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.10it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 73%|███████▎  | 91/124 [08:17<03:06,  5.65s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][A
+prompt_batches: 100%|██████████| 1/1 [00:00<00:00,  2.92it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00,  2.92it/s]
+WARNING:root:Completed 1 examples in 0.3 seconds.
+ 74%|███████▍  | 92/124 [08:23<03:05,  5.78s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 41.98it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 75%|███████▌  | 93/124 [08:29<02:59,  5.79s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.72it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 76%|███████▌  | 94/124 [08:34<02:49,  5.65s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 43.35it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 77%|███████▋  | 95/124 [08:40<02:44,  5.66s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.80it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 77%|███████▋  | 96/124 [08:46<02:40,  5.72s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.32it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 78%|███████▊  | 97/124 [08:52<02:34,  5.74s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.84it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 79%|███████▉  | 98/124 [08:57<02:25,  5.61s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.91it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 80%|███████▉  | 99/124 [09:02<02:18,  5.53s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.05it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 81%|████████  | 100/124 [09:08<02:11,  5.46s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.55it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 81%|████████▏ | 101/124 [09:13<02:04,  5.42s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.91it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 82%|████████▏ | 102/124 [09:18<01:58,  5.39s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.66it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 83%|████████▎ | 103/124 [09:24<01:52,  5.36s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.74it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 84%|████████▍ | 104/124 [09:29<01:46,  5.35s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.80it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 85%|████████▍ | 105/124 [09:34<01:41,  5.34s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.63it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 85%|████████▌ | 106/124 [09:40<01:35,  5.33s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][A
+prompt_batches: 100%|██████████| 1/1 [00:00<00:00,  3.11it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00,  3.11it/s]
+WARNING:root:Completed 1 examples in 0.3 seconds.
+ 86%|████████▋ | 107/124 [09:46<01:34,  5.54s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.00it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 87%|████████▋ | 108/124 [09:51<01:27,  5.49s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 36.01it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 88%|████████▊ | 109/124 [09:56<01:21,  5.47s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.10it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 89%|████████▊ | 110/124 [10:02<01:18,  5.58s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 31.59it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 90%|████████▉ | 111/124 [10:08<01:11,  5.51s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 30.43it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 90%|█████████ | 112/124 [10:13<01:05,  5.48s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 37.17it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 91%|█████████ | 113/124 [10:18<00:59,  5.45s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 36.19it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 92%|█████████▏| 114/124 [10:24<00:54,  5.41s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 41.03it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 93%|█████████▎| 115/124 [10:29<00:47,  5.32s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.38it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 94%|█████████▎| 116/124 [10:34<00:42,  5.33s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 35.17it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 94%|█████████▍| 117/124 [10:40<00:37,  5.37s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.44it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 95%|█████████▌| 118/124 [10:45<00:32,  5.38s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.49it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 96%|█████████▌| 119/124 [10:51<00:27,  5.42s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 35.82it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 97%|█████████▋| 120/124 [10:56<00:22,  5.53s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.64it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 98%|█████████▊| 121/124 [11:02<00:16,  5.47s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 41.22it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 98%|█████████▊| 122/124 [11:07<00:10,  5.42s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 36.02it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 99%|█████████▉| 123/124 [11:12<00:05,  5.40s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.25it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+100%|██████████| 124/124 [11:18<00:00,  5.51s/it]100%|██████████| 124/124 [11:18<00:00,  5.47s/it]
+  0%|          | 0/124 [00:00<?, ?it/s]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.21it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+  1%|          | 1/124 [00:05<10:58,  5.36s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][A
+prompt_batches: 100%|██████████| 1/1 [00:00<00:00,  2.72it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00,  2.72it/s]
+WARNING:root:Completed 1 examples in 0.4 seconds.
+  2%|▏         | 2/124 [00:11<12:12,  6.00s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.54it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+  2%|▏         | 3/124 [00:17<11:30,  5.71s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.38it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+  3%|▎         | 4/124 [00:22<11:06,  5.55s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][A
+prompt_batches: 100%|██████████| 1/1 [00:00<00:00,  2.78it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00,  2.78it/s]
+WARNING:root:Completed 1 examples in 0.4 seconds.
+  4%|▍         | 5/124 [00:28<11:12,  5.65s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][A
+prompt_batches: 100%|██████████| 1/1 [00:00<00:00,  3.28it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00,  3.27it/s]
+WARNING:root:Completed 1 examples in 0.3 seconds.
+  5%|▍         | 6/124 [00:34<11:12,  5.70s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.24it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+  6%|▌         | 7/124 [00:39<10:53,  5.59s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.12it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+  6%|▋         | 8/124 [00:44<10:37,  5.49s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 37.59it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+  7%|▋         | 9/124 [00:50<10:26,  5.44s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][A
+prompt_batches: 100%|██████████| 1/1 [00:00<00:00,  3.07it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00,  3.07it/s]
+WARNING:root:Completed 1 examples in 0.3 seconds.
+  8%|▊         | 10/124 [00:55<10:32,  5.55s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.47it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+  9%|▉         | 11/124 [01:01<10:19,  5.48s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.40it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 10%|▉         | 12/124 [01:06<10:08,  5.43s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.10it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 10%|█         | 13/124 [01:11<09:59,  5.40s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.18it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 11%|█▏        | 14/124 [01:17<09:51,  5.38s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][A
+prompt_batches: 100%|██████████| 1/1 [00:00<00:00,  2.72it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00,  2.72it/s]
+WARNING:root:Completed 1 examples in 0.4 seconds.
+ 12%|█▏        | 15/124 [01:22<09:37,  5.30s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.24it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 13%|█▎        | 16/124 [01:27<09:35,  5.33s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 36.48it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 14%|█▎        | 17/124 [01:33<09:32,  5.35s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][A
+prompt_batches: 100%|██████████| 1/1 [00:00<00:00,  3.13it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00,  3.12it/s]
+WARNING:root:Completed 1 examples in 0.3 seconds.
+ 15%|█▍        | 18/124 [01:38<09:24,  5.33s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][A
+prompt_batches: 100%|██████████| 1/1 [00:00<00:00,  2.06it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00,  2.06it/s]
+WARNING:root:Completed 1 examples in 0.5 seconds.
+ 15%|█▌        | 19/124 [01:44<09:51,  5.63s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.39it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 16%|█▌        | 20/124 [01:50<09:39,  5.57s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 30.72it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 17%|█▋        | 21/124 [01:55<09:27,  5.51s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.17it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 18%|█▊        | 22/124 [02:00<09:18,  5.47s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.55it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 19%|█▊        | 23/124 [02:06<09:14,  5.49s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 36.15it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 19%|█▉        | 24/124 [02:11<08:56,  5.36s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.69it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 20%|██        | 25/124 [02:16<08:54,  5.40s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.56it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 21%|██        | 26/124 [02:22<08:46,  5.37s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][A
+prompt_batches: 100%|██████████| 1/1 [00:00<00:00,  2.59it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00,  2.59it/s]
+WARNING:root:Completed 1 examples in 0.4 seconds.
+ 22%|██▏       | 27/124 [02:28<09:00,  5.58s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.49it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 23%|██▎       | 28/124 [02:33<08:48,  5.51s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 36.68it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 23%|██▎       | 29/124 [02:39<08:44,  5.52s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.64it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 24%|██▍       | 30/124 [02:44<08:33,  5.46s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.93it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 25%|██▌       | 31/124 [02:49<08:24,  5.42s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 36.71it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 26%|██▌       | 32/124 [02:55<08:16,  5.40s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 41.44it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 27%|██▋       | 33/124 [03:00<08:09,  5.38s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.09it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 27%|██▋       | 34/124 [03:05<08:02,  5.36s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.85it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 28%|██▊       | 35/124 [03:11<07:56,  5.35s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.71it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 29%|██▉       | 36/124 [03:16<07:50,  5.34s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.49it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 30%|██▉       | 37/124 [03:21<07:44,  5.34s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][A
+prompt_batches: 100%|██████████| 1/1 [00:00<00:00,  2.89it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00,  2.88it/s]
+WARNING:root:Completed 1 examples in 0.3 seconds.
+ 31%|███       | 38/124 [03:27<07:50,  5.47s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.32it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 31%|███▏      | 39/124 [03:32<07:40,  5.42s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][A
+prompt_batches: 100%|██████████| 1/1 [00:00<00:00,  3.59it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00,  3.57it/s]
+WARNING:root:Completed 1 examples in 0.3 seconds.
+ 32%|███▏      | 40/124 [03:38<07:48,  5.58s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.32it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 33%|███▎      | 41/124 [03:44<07:36,  5.50s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.87it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 34%|███▍      | 42/124 [03:49<07:26,  5.44s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][A
+prompt_batches: 100%|██████████| 1/1 [00:00<00:00,  2.80it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00,  2.79it/s]
+WARNING:root:Completed 1 examples in 0.4 seconds.
+ 35%|███▍      | 43/124 [03:55<07:36,  5.64s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.83it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 35%|███▌      | 44/124 [04:00<07:25,  5.57s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.20it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 36%|███▋      | 45/124 [04:06<07:13,  5.49s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.45it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 37%|███▋      | 46/124 [04:11<07:04,  5.44s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.73it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 38%|███▊      | 47/124 [04:16<06:56,  5.41s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.24it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 39%|███▊      | 48/124 [04:22<06:49,  5.39s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.59it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 40%|███▉      | 49/124 [04:28<06:57,  5.56s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.79it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 40%|████      | 50/124 [04:33<06:50,  5.55s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 37.92it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 41%|████      | 51/124 [04:39<06:44,  5.54s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 37.87it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 42%|████▏     | 52/124 [04:44<06:34,  5.48s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.02it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 43%|████▎     | 53/124 [04:49<06:25,  5.43s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 33.05it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 44%|████▎     | 54/124 [04:55<06:21,  5.45s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.77it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 44%|████▍     | 55/124 [05:00<06:03,  5.26s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.94it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 45%|████▌     | 56/124 [05:05<05:59,  5.29s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.66it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 46%|████▌     | 57/124 [05:10<05:54,  5.29s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.84it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 47%|████▋     | 58/124 [05:16<05:49,  5.30s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.96it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 48%|████▊     | 59/124 [05:21<05:45,  5.31s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][A
+prompt_batches: 100%|██████████| 1/1 [00:00<00:00,  3.02it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00,  3.02it/s]
+WARNING:root:Completed 1 examples in 0.3 seconds.
+ 48%|████▊     | 60/124 [05:27<05:51,  5.50s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 41.72it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 49%|████▉     | 61/124 [05:32<05:44,  5.46s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 36.83it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 50%|█████     | 62/124 [05:38<05:37,  5.45s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 41.75it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 51%|█████     | 63/124 [05:43<05:30,  5.42s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.43it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 52%|█████▏    | 64/124 [05:49<05:27,  5.46s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.87it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 52%|█████▏    | 65/124 [05:54<05:20,  5.43s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.64it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 53%|█████▎    | 66/124 [05:59<05:13,  5.40s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.45it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 54%|█████▍    | 67/124 [06:05<05:06,  5.37s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 36.74it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 55%|█████▍    | 68/124 [06:10<04:59,  5.35s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.19it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 56%|█████▌    | 69/124 [06:16<04:56,  5.40s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.45it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 56%|█████▋    | 70/124 [06:21<04:50,  5.37s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 35.73it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 57%|█████▋    | 71/124 [06:26<04:43,  5.35s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.56it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 58%|█████▊    | 72/124 [06:32<04:41,  5.41s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][A
+prompt_batches: 100%|██████████| 1/1 [00:00<00:00,  2.95it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00,  2.95it/s]
+WARNING:root:Completed 1 examples in 0.3 seconds.
+ 59%|█████▉    | 73/124 [06:37<04:37,  5.45s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.96it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 60%|█████▉    | 74/124 [06:43<04:30,  5.41s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.79it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 60%|██████    | 75/124 [06:47<04:15,  5.22s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.92it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 61%|██████▏   | 76/124 [06:53<04:11,  5.24s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.22it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 62%|██████▏   | 77/124 [06:58<04:11,  5.36s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 36.39it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 63%|██████▎   | 78/124 [07:04<04:05,  5.33s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.60it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 64%|██████▎   | 79/124 [07:09<03:59,  5.32s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 41.31it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 65%|██████▍   | 80/124 [07:14<03:49,  5.22s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 37.61it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 65%|██████▌   | 81/124 [07:19<03:45,  5.25s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 37.75it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 66%|██████▌   | 82/124 [07:24<03:42,  5.29s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.41it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 67%|██████▋   | 83/124 [07:30<03:37,  5.31s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.71it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 68%|██████▊   | 84/124 [07:35<03:32,  5.30s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 41.67it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 69%|██████▊   | 85/124 [07:40<03:26,  5.30s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.54it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 69%|██████▉   | 86/124 [07:46<03:22,  5.32s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 37.48it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 70%|███████   | 87/124 [07:51<03:17,  5.32s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 41.15it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 71%|███████   | 88/124 [07:56<03:11,  5.33s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.81it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 72%|███████▏  | 89/124 [08:02<03:06,  5.34s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 31.10it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 73%|███████▎  | 90/124 [08:07<03:01,  5.35s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.23it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 73%|███████▎  | 91/124 [08:13<02:58,  5.41s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 36.06it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 74%|███████▍  | 92/124 [08:18<02:52,  5.40s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.05it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 75%|███████▌  | 93/124 [08:24<02:48,  5.44s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 41.57it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 76%|███████▌  | 94/124 [08:29<02:42,  5.41s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 36.41it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 77%|███████▋  | 95/124 [08:34<02:36,  5.40s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.26it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 77%|███████▋  | 96/124 [08:40<02:32,  5.45s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 32.14it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 78%|███████▊  | 97/124 [08:45<02:26,  5.42s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 32.56it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 79%|███████▉  | 98/124 [08:51<02:20,  5.39s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.08it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 80%|███████▉  | 99/124 [08:56<02:15,  5.44s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 37.96it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 81%|████████  | 100/124 [09:02<02:09,  5.41s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 37.80it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 81%|████████▏ | 101/124 [09:07<02:03,  5.39s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.48it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 82%|████████▏ | 102/124 [09:12<01:59,  5.43s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 41.00it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 83%|████████▎ | 103/124 [09:18<01:53,  5.40s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 35.71it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 84%|████████▍ | 104/124 [09:23<01:47,  5.39s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.47it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 85%|████████▍ | 105/124 [09:28<01:40,  5.27s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 41.89it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 85%|████████▌ | 106/124 [09:33<01:35,  5.29s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.75it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 86%|████████▋ | 107/124 [09:39<01:30,  5.30s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 37.52it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 87%|████████▋ | 108/124 [09:44<01:25,  5.32s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 28.82it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 88%|████████▊ | 109/124 [09:49<01:19,  5.33s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 39.08it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 89%|████████▊ | 110/124 [09:55<01:14,  5.33s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.74it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 90%|████████▉ | 111/124 [10:00<01:09,  5.33s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 29.41it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 90%|█████████ | 112/124 [10:06<01:04,  5.39s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 41.90it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 91%|█████████ | 113/124 [10:11<00:59,  5.38s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 38.82it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 92%|█████████▏| 114/124 [10:16<00:54,  5.42s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 35.56it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 93%|█████████▎| 115/124 [10:22<00:49,  5.49s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 35.48it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 94%|█████████▎| 116/124 [10:28<00:43,  5.50s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.46it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 94%|█████████▍| 117/124 [10:33<00:38,  5.45s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 35.73it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 95%|█████████▌| 118/124 [10:38<00:32,  5.42s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.28it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 96%|█████████▌| 119/124 [10:44<00:27,  5.40s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 42.12it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 97%|█████████▋| 120/124 [10:49<00:21,  5.28s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 35.65it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 98%|█████████▊| 121/124 [10:54<00:15,  5.29s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 37.66it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 98%|█████████▊| 122/124 [11:00<00:10,  5.45s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 40.97it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+ 99%|█████████▉| 123/124 [11:05<00:05,  5.43s/it]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][Aprompt_batches: 100%|██████████| 1/1 [00:00<00:00, 36.24it/s]
+WARNING:root:Completed 1 examples in 0.0 seconds.
+100%|██████████| 124/124 [11:11<00:00,  5.44s/it]100%|██████████| 124/124 [11:11<00:00,  5.41s/it]
+--------------------------------------------------
+Task Relative_Depth Performance
+val accuracy: 0.0%
+  0%|          | 0/143 [00:00<?, ?it/s]  1%|          | 1/143 [00:00<00:42,  3.33it/s]  1%|▏         | 2/143 [00:00<00:39,  3.58it/s]  2%|▏         | 3/143 [00:00<00:38,  3.63it/s]  3%|▎         | 4/143 [00:01<00:38,  3.61it/s]  3%|▎         | 5/143 [00:01<00:37,  3.68it/s]  4%|▍         | 6/143 [00:01<00:37,  3.69it/s]  5%|▍         | 7/143 [00:01<00:36,  3.74it/s]  6%|▌         | 8/143 [00:02<00:36,  3.70it/s]  6%|▋         | 9/143 [00:02<00:36,  3.69it/s]  7%|▋         | 10/143 [00:02<00:37,  3.53it/s]  8%|▊         | 11/143 [00:03<00:36,  3.62it/s]  8%|▊         | 12/143 [00:03<00:35,  3.67it/s]  9%|▉         | 13/143 [00:03<00:35,  3.70it/s] 10%|▉         | 14/143 [00:03<00:34,  3.70it/s] 10%|█         | 15/143 [00:04<00:34,  3.69it/s] 11%|█         | 16/143 [00:04<00:34,  3.72it/s] 12%|█▏        | 17/143 [00:04<00:33,  3.74it/s] 13%|█▎        | 18/143 [00:04<00:33,  3.76it/s] 13%|█▎        | 19/143 [00:05<00:32,  3.76it/s] 14%|█▍        | 20/143 [00:05<00:32,  3.79it/s] 15%|█▍        | 21/143 [00:05<00:32,  3.74it/s] 15%|█▌        | 22/143 [00:05<00:32,  3.76it/s] 16%|█▌        | 23/143 [00:06<00:31,  3.78it/s] 17%|█▋        | 24/143 [00:06<00:31,  3.79it/s] 17%|█▋        | 25/143 [00:06<00:31,  3.76it/s] 18%|█▊        | 26/143 [00:07<00:31,  3.76it/s] 19%|█▉        | 27/143 [00:07<00:30,  3.75it/s] 20%|█▉        | 28/143 [00:07<00:30,  3.77it/s] 20%|██        | 29/143 [00:07<00:30,  3.76it/s] 21%|██        | 30/143 [00:08<00:29,  3.78it/s] 22%|██▏       | 31/143 [00:08<00:29,  3.78it/s] 22%|██▏       | 32/143 [00:08<00:29,  3.71it/s] 23%|██▎       | 33/143 [00:08<00:30,  3.65it/s] 24%|██▍       | 34/143 [00:09<00:29,  3.68it/s] 24%|██▍       | 35/143 [00:09<00:29,  3.71it/s] 25%|██▌       | 36/143 [00:09<00:28,  3.73it/s] 26%|██▌       | 37/143 [00:09<00:28,  3.77it/s] 27%|██▋       | 38/143 [00:10<00:27,  3.77it/s] 27%|██▋       | 39/143 [00:10<00:27,  3.73it/s] 28%|██▊       | 40/143 [00:10<00:28,  3.64it/s] 29%|██▊       | 41/143 [00:11<00:28,  3.61it/s] 29%|██▉       | 42/143 [00:11<00:27,  3.65it/s] 30%|███       | 43/143 [00:11<00:27,  3.62it/s] 31%|███       | 44/143 [00:11<00:28,  3.46it/s] 31%|███▏      | 45/143 [00:12<00:28,  3.49it/s] 32%|███▏      | 46/143 [00:12<00:27,  3.55it/s] 33%|███▎      | 47/143 [00:12<00:26,  3.62it/s] 34%|███▎      | 48/143 [00:13<00:27,  3.50it/s] 34%|███▍      | 49/143 [00:13<00:27,  3.47it/s] 35%|███▍      | 50/143 [00:13<00:26,  3.45it/s] 36%|███▌      | 51/143 [00:13<00:26,  3.46it/s] 36%|███▋      | 52/143 [00:14<00:25,  3.55it/s] 37%|███▋      | 53/143 [00:14<00:24,  3.60it/s] 38%|███▊      | 54/143 [00:14<00:24,  3.58it/s] 38%|███▊      | 55/143 [00:15<00:24,  3.63it/s] 39%|███▉      | 56/143 [00:15<00:24,  3.58it/s] 40%|███▉      | 57/143 [00:15<00:24,  3.57it/s] 41%|████      | 58/143 [00:15<00:23,  3.64it/s] 41%|████▏     | 59/143 [00:16<00:24,  3.49it/s] 42%|████▏     | 60/143 [00:16<00:23,  3.53it/s] 43%|████▎     | 61/143 [00:16<00:22,  3.58it/s] 43%|████▎     | 62/143 [00:16<00:22,  3.57it/s] 44%|████▍     | 63/143 [00:17<00:22,  3.59it/s] 45%|████▍     | 64/143 [00:17<00:21,  3.63it/s] 45%|████▌     | 65/143 [00:17<00:21,  3.65it/s] 46%|████▌     | 66/143 [00:18<00:21,  3.58it/s] 47%|████▋     | 67/143 [00:18<00:21,  3.54it/s] 48%|████▊     | 68/143 [00:18<00:20,  3.61it/s] 48%|████▊     | 69/143 [00:18<00:20,  3.61it/s] 49%|████▉     | 70/143 [00:19<00:20,  3.52it/s] 50%|████▉     | 71/143 [00:19<00:19,  3.60it/s] 50%|█████     | 72/143 [00:19<00:19,  3.66it/s] 51%|█████     | 73/143 [00:20<00:19,  3.61it/s] 52%|█████▏    | 74/143 [00:20<00:18,  3.63it/s] 52%|█████▏    | 75/143 [00:20<00:19,  3.51it/s] 53%|█████▎    | 76/143 [00:20<00:18,  3.58it/s] 54%|█████▍    | 77/143 [00:21<00:18,  3.54it/s] 55%|█████▍    | 78/143 [00:21<00:17,  3.63it/s] 55%|█████▌    | 79/143 [00:21<00:17,  3.63it/s] 56%|█████▌    | 80/143 [00:21<00:17,  3.61it/s] 57%|█████▋    | 81/143 [00:22<00:17,  3.59it/s] 57%|█████▋    | 82/143 [00:22<00:17,  3.57it/s] 58%|█████▊    | 83/143 [00:22<00:17,  3.52it/s] 59%|█████▊    | 84/143 [00:23<00:16,  3.52it/s] 59%|█████▉    | 85/143 [00:23<00:16,  3.55it/s] 60%|██████    | 86/143 [00:23<00:15,  3.61it/s] 61%|██████    | 87/143 [00:23<00:15,  3.62it/s] 62%|██████▏   | 88/143 [00:24<00:15,  3.60it/s] 62%|██████▏   | 89/143 [00:24<00:14,  3.63it/s] 63%|██████▎   | 90/143 [00:24<00:14,  3.60it/s] 64%|██████▎   | 91/143 [00:25<00:14,  3.58it/s] 64%|██████▍   | 92/143 [00:25<00:14,  3.44it/s] 65%|██████▌   | 93/143 [00:25<00:14,  3.47it/s] 66%|██████▌   | 94/143 [00:25<00:14,  3.45it/s] 66%|██████▋   | 95/143 [00:26<00:13,  3.46it/s] 67%|██████▋   | 96/143 [00:26<00:13,  3.50it/s] 68%|██████▊   | 97/143 [00:26<00:13,  3.51it/s] 69%|██████▊   | 98/143 [00:27<00:13,  3.43it/s] 69%|██████▉   | 99/143 [00:27<00:12,  3.45it/s] 70%|██████▉   | 100/143 [00:27<00:12,  3.47it/s] 71%|███████   | 101/143 [00:27<00:11,  3.59it/s] 71%|███████▏  | 102/143 [00:28<00:11,  3.46it/s] 72%|███████▏  | 103/143 [00:28<00:11,  3.42it/s] 73%|███████▎  | 104/143 [00:28<00:11,  3.40it/s] 73%|███████▎  | 105/143 [00:29<00:12,  3.12it/s] 74%|███████▍  | 106/143 [00:29<00:11,  3.14it/s] 75%|███████▍  | 107/143 [00:29<00:11,  3.06it/s] 76%|███████▌  | 108/143 [00:30<00:11,  3.10it/s] 76%|███████▌  | 109/143 [00:30<00:10,  3.16it/s] 77%|███████▋  | 110/143 [00:30<00:11,  2.99it/s] 78%|███████▊  | 111/143 [00:31<00:10,  3.08it/s] 78%|███████▊  | 112/143 [00:31<00:11,  2.71it/s] 79%|███████▉  | 113/143 [00:31<00:10,  2.89it/s] 80%|███████▉  | 114/143 [00:32<00:09,  3.06it/s] 80%|████████  | 115/143 [00:32<00:08,  3.13it/s] 81%|████████  | 116/143 [00:32<00:08,  3.07it/s] 82%|████████▏ | 117/143 [00:33<00:08,  3.16it/s] 83%|████████▎ | 118/143 [00:33<00:08,  3.06it/s] 83%|████████▎ | 119/143 [00:33<00:07,  3.15it/s] 84%|████████▍ | 120/143 [00:34<00:07,  3.20it/s] 85%|████████▍ | 121/143 [00:34<00:06,  3.25it/s] 85%|████████▌ | 122/143 [00:34<00:06,  3.36it/s] 86%|████████▌ | 123/143 [00:34<00:05,  3.40it/s] 87%|████████▋ | 124/143 [00:35<00:05,  3.47it/s] 87%|████████▋ | 125/143 [00:35<00:05,  3.51it/s] 88%|████████▊ | 126/143 [00:35<00:05,  3.40it/s] 89%|████████▉ | 127/143 [00:36<00:04,  3.43it/s] 90%|████████▉ | 128/143 [00:36<00:04,  3.36it/s] 90%|█████████ | 129/143 [00:36<00:04,  3.44it/s] 91%|█████████ | 130/143 [00:36<00:03,  3.49it/s] 92%|█████████▏| 131/143 [00:37<00:03,  3.55it/s] 92%|█████████▏| 132/143 [00:37<00:03,  3.59it/s] 93%|█████████▎| 133/143 [00:37<00:02,  3.64it/s] 94%|█████████▎| 134/143 [00:38<00:02,  3.55it/s] 94%|█████████▍| 135/143 [00:38<00:02,  3.58it/s] 95%|█████████▌| 136/143 [00:38<00:01,  3.53it/s] 96%|█████████▌| 137/143 [00:38<00:01,  3.59it/s] 97%|█████████▋| 138/143 [00:39<00:01,  3.51it/s] 97%|█████████▋| 139/143 [00:39<00:01,  3.50it/s] 98%|█████████▊| 140/143 [00:39<00:00,  3.47it/s] 99%|█████████▊| 141/143 [00:40<00:00,  3.48it/s] 99%|█████████▉| 142/143 [00:40<00:00,  3.51it/s]100%|██████████| 143/143 [00:40<00:00,  3.52it/s]100%|██████████| 143/143 [00:40<00:00,  3.52it/s]
+  0%|          | 0/143 [00:00<?, ?it/s]  1%|          | 1/143 [00:00<00:48,  2.94it/s]  1%|▏         | 2/143 [00:00<00:41,  3.40it/s]  2%|▏         | 3/143 [00:00<00:40,  3.46it/s]WARNING:root:Using `openai_completions` on 1 prompts using gpt-35-turbo.
+WARNING:root:Kwargs to completion: {'temperature': 0.0}
+
+prompt_batches:   0%|          | 0/1 [00:00<?, ?it/s][A
+prompt_batches: 100%|██████████| 1/1 [00:01<00:00,  1.53s/it][Aprompt_batches: 100%|██████████| 1/1 [00:01<00:00,  1.53s/it]
+WARNING:root:Completed 1 examples in 1.5 seconds.
+  3%|▎         | 4/143 [00:06<05:05,  2.20s/it]  3%|▎         | 5/143 [00:07<04:10,  1.82s/it]  4%|▍         | 6/143 [00:07<02:57,  1.30s/it]  5%|▍         | 7/143 [00:07<02:12,  1.02it/s]  6%|▌         | 8/143 [00:08<01:42,  1.32it/s]  6%|▋         | 9/143 [00:08<01:21,  1.65it/s]  7%|▋         | 10/143 [00:08<01:08,  1.95it/s]  8%|▊         | 11/143 [00:08<00:58,  2.25it/s]  8%|▊         | 12/143 [00:09<00:50,  2.58it/s]  9%|▉         | 13/143 [00:09<00:45,  2.85it/s] 10%|▉         | 14/143 [00:09<00:43,  2.97it/s] 10%|█         | 15/143 [00:10<00:40,  3.18it/s] 11%|█         | 16/143 [00:10<00:38,  3.32it/s] 12%|█▏        | 17/143 [00:10<00:37,  3.34it/s] 13%|█▎        | 18/143 [00:10<00:36,  3.43it/s] 13%|█▎        | 19/143 [00:11<00:35,  3.52it/s] 14%|█▍        | 20/143 [00:11<00:34,  3.52it/s] 15%|█▍        | 21/143 [00:11<00:34,  3.58it/s] 15%|█▌        | 22/143 [00:11<00:33,  3.61it/s] 16%|█▌        | 23/143 [00:12<00:32,  3.69it/s] 17%|█▋        | 24/143 [00:12<00:32,  3.62it/s] 17%|█▋        | 25/143 [00:12<00:32,  3.68it/s] 18%|█▊        | 26/143 [00:13<00:32,  3.65it/s] 19%|█▉        | 27/143 [00:13<00:31,  3.68it/s] 20%|█▉        | 28/143 [00:13<00:32,  3.50it/s] 20%|██        | 29/143 [00:13<00:32,  3.46it/s] 21%|██        | 30/143 [00:14<00:32,  3.44it/s] 22%|██▏       | 31/143 [00:14<00:31,  3.56it/s] 22%|██▏       | 32/143 [00:14<00:30,  3.59it/s] 23%|██▎       | 33/143 [00:14<00:30,  3.65it/s] 24%|██▍       | 34/143 [00:15<00:29,  3.68it/s] 24%|██▍       | 35/143 [00:15<00:29,  3.64it/s] 25%|██▌       | 36/143 [00:15<00:29,  3.65it/s] 26%|██▌       | 37/143 [00:16<00:28,  3.70it/s] 27%|██▋       | 38/143 [00:16<00:27,  3.75it/s] 27%|██▋       | 39/143 [00:22<03:16,  1.89s/it] 28%|██▊       | 40/143 [00:22<02:24,  1.40s/it] 29%|██▊       | 41/143 [00:22<01:48,  1.07s/it] 29%|██▉       | 42/143 [00:22<01:23,  1.21it/s] 30%|███       | 43/143 [00:23<01:05,  1.52it/s] 31%|███       | 44/143 [00:23<00:54,  1.83it/s] 31%|███▏      | 45/143 [00:23<00:45,  2.17it/s] 32%|███▏      | 46/143 [00:23<00:39,  2.47it/s] 33%|███▎      | 47/143 [00:24<00:35,  2.73it/s] 34%|███▎      | 48/143 [00:24<00:32,  2.97it/s] 34%|███▍      | 49/143 [00:24<00:29,  3.14it/s] 35%|███▍      | 50/143 [00:25<00:28,  3.25it/s] 36%|███▌      | 51/143 [00:25<00:27,  3.39it/s] 36%|███▋      | 52/143 [00:25<00:26,  3.46it/s] 37%|███▋      | 53/143 [00:25<00:25,  3.54it/s] 38%|███▊      | 54/143 [00:26<00:24,  3.61it/s] 38%|███▊      | 55/143 [00:26<00:23,  3.67it/s] 39%|███▉      | 56/143 [00:26<00:23,  3.69it/s] 40%|███▉      | 57/143 [00:26<00:23,  3.68it/s] 41%|████      | 58/143 [00:27<00:23,  3.69it/s] 41%|████▏     | 59/143 [00:27<00:22,  3.68it/s] 42%|████▏     | 60/143 [00:27<00:22,  3.71it/s] 43%|████▎     | 61/143 [00:27<00:21,  3.75it/s] 43%|████▎     | 62/143 [00:28<00:21,  3.78it/s] 44%|████▍     | 63/143 [00:28<00:21,  3.71it/s] 45%|████▍     | 64/143 [00:28<00:21,  3.67it/s] 45%|████▌     | 65/143 [00:29<00:21,  3.70it/s] 46%|████▌     | 66/143 [00:29<00:20,  3.72it/s] 47%|████▋     | 67/143 [00:29<00:20,  3.71it/s] 48%|████▊     | 68/143 [00:29<00:20,  3.72it/s] 48%|████▊     | 69/143 [00:30<00:19,  3.75it/s] 49%|████▉     | 70/143 [00:30<00:19,  3.68it/s] 50%|████▉     | 71/143 [00:30<00:19,  3.71it/s] 50%|█████     | 72/143 [00:30<00:19,  3.72it/s] 51%|█████     | 73/143 [00:31<00:18,  3.73it/s] 52%|█████▏    | 74/143 [00:31<00:18,  3.78it/s] 52%|█████▏    | 75/143 [00:31<00:18,  3.77it/s] 53%|█████▎    | 76/143 [00:31<00:17,  3.79it/s] 54%|█████▍    | 77/143 [00:32<00:17,  3.71it/s] 55%|█████▍    | 78/143 [00:32<00:17,  3.67it/s] 55%|█████▌    | 79/143 [00:32<00:17,  3.63it/s] 56%|█████▌    | 80/143 [00:33<00:17,  3.65it/s] 57%|█████▋    | 81/143 [00:33<00:16,  3.68it/s] 57%|█████▋    | 82/143 [00:33<00:16,  3.65it/s] 58%|█████▊    | 83/143 [00:33<00:16,  3.69it/s] 59%|█████▊    | 84/143 [00:34<00:15,  3.72it/s] 59%|█████▉    | 85/143 [00:34<00:15,  3.75it/s] 60%|██████    | 86/143 [00:34<00:15,  3.74it/s] 61%|██████    | 87/143 [00:34<00:14,  3.76it/s] 62%|██████▏   | 88/143 [00:35<00:14,  3.75it/s] 62%|██████▏   | 89/143 [00:35<00:14,  3.63it/s] 63%|██████▎   | 90/143 [00:35<00:14,  3.66it/s] 64%|██████▎   | 91/143 [00:36<00:14,  3.69it/s] 64%|██████▍   | 92/143 [00:36<00:13,  3.69it/s] 65%|██████▌   | 93/143 [00:36<00:13,  3.72it/s] 66%|██████▌   | 94/143 [00:36<00:12,  3.79it/s] 66%|██████▋   | 95/143 [00:37<00:12,  3.80it/s] 67%|██████▋   | 96/143 [00:37<00:12,  3.80it/s] 68%|██████▊   | 97/143 [00:37<00:12,  3.78it/s] 69%|██████▊   | 98/143 [00:37<00:11,  3.78it/s] 69%|██████▉   | 99/143 [00:38<00:11,  3.77it/s] 70%|██████▉   | 100/143 [00:38<00:11,  3.78it/s] 71%|███████   | 101/143 [00:38<00:11,  3.77it/s] 71%|███████▏  | 102/143 [00:38<00:10,  3.75it/s] 72%|███████▏  | 103/143 [00:39<00:10,  3.78it/s] 73%|███████▎  | 104/143 [00:39<00:10,  3.78it/s] 73%|███████▎  | 105/143 [00:39<00:10,  3.76it/s] 74%|███████▍  | 106/143 [00:40<00:09,  3.74it/s] 75%|███████▍  | 107/143 [00:40<00:09,  3.74it/s] 76%|███████▌  | 108/143 [00:40<00:09,  3.67it/s] 76%|███████▌  | 109/143 [00:40<00:09,  3.70it/s] 77%|███████▋  | 110/143 [00:41<00:08,  3.69it/s] 78%|███████▊  | 111/143 [00:41<00:08,  3.67it/s] 78%|███████▊  | 112/143 [00:41<00:08,  3.65it/s] 79%|███████▉  | 113/143 [00:41<00:08,  3.68it/s] 80%|███████▉  | 114/143 [00:42<00:07,  3.70it/s] 80%|████████  | 115/143 [00:42<00:07,  3.71it/s] 81%|████████  | 116/143 [00:42<00:07,  3.74it/s] 82%|████████▏ | 117/143 [00:42<00:06,  3.73it/s] 83%|████████▎ | 118/143 [00:43<00:06,  3.72it/s] 83%|████████▎ | 119/143 [00:43<00:06,  3.75it/s] 84%|████████▍ | 120/143 [00:43<00:06,  3.76it/s] 85%|████████▍ | 121/143 [00:44<00:05,  3.74it/s] 85%|████████▌ | 122/143 [00:44<00:05,  3.77it/s] 86%|████████▌ | 123/143 [00:44<00:05,  3.80it/s] 87%|████████▋ | 124/143 [00:44<00:05,  3.76it/s] 87%|████████▋ | 125/143 [00:45<00:04,  3.74it/s] 88%|████████▊ | 126/143 [00:45<00:04,  3.77it/s] 89%|████████▉ | 127/143 [00:45<00:04,  3.64it/s] 90%|████████▉ | 128/143 [00:45<00:04,  3.62it/s] 90%|█████████ | 129/143 [00:46<00:03,  3.65it/s] 91%|█████████ | 130/143 [00:46<00:03,  3.61it/s] 92%|█████████▏| 131/143 [00:46<00:03,  3.62it/s] 92%|█████████▏| 132/143 [00:47<00:03,  3.67it/s] 93%|█████████▎| 133/143 [00:47<00:02,  3.70it/s] 94%|█████████▎| 134/143 [00:47<00:02,  3.71it/s] 94%|█████████▍| 135/143 [00:47<00:02,  3.70it/s] 95%|█████████▌| 136/143 [00:48<00:01,  3.72it/s] 96%|█████████▌| 137/143 [00:48<00:01,  3.71it/s] 97%|█████████▋| 138/143 [00:48<00:01,  3.72it/s] 97%|█████████▋| 139/143 [00:48<00:01,  3.69it/s] 98%|█████████▊| 140/143 [00:49<00:00,  3.71it/s] 99%|█████████▊| 141/143 [00:49<00:00,  3.73it/s] 99%|█████████▉| 142/143 [00:49<00:00,  3.72it/s]100%|██████████| 143/143 [00:50<00:00,  3.71it/s]100%|██████████| 143/143 [00:50<00:00,  2.86it/s]
+--------------------------------------------------
+Task Spatial_Relation Performance
+val accuracy: 53.15%
+Average val acc: 24.689999999999998

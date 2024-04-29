@@ -1,0 +1,50 @@
+Default cache dir: /home/dongfu/.easy-openai/cache
+Using model: idefics2
+Loding model: idefics2
+Using flash_attention_2 for attention implementation
+Loading checkpoint shards:   0%|          | 0/7 [00:00<?, ?it/s]Loading checkpoint shards:  14%|█▍        | 1/7 [00:08<00:53,  8.86s/it]Loading checkpoint shards:  29%|██▊       | 2/7 [00:16<00:39,  7.89s/it]Loading checkpoint shards:  43%|████▎     | 3/7 [00:23<00:31,  7.81s/it]Loading checkpoint shards:  57%|█████▋    | 4/7 [00:34<00:26,  8.83s/it]Loading checkpoint shards:  71%|███████▏  | 5/7 [00:42<00:16,  8.48s/it]Loading checkpoint shards:  86%|████████▌ | 6/7 [00:48<00:07,  7.96s/it]Loading checkpoint shards: 100%|██████████| 7/7 [00:55<00:00,  7.37s/it]Loading checkpoint shards: 100%|██████████| 7/7 [00:55<00:00,  7.88s/it]
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Model idefics2 loaded
+--------------------------------------------------
+Task Art_Style Performance
+val accuracy: 60.0%
+--------------------------------------------------
+Task Functional_Correspondence Performance
+val accuracy: 29.23%
+--------------------------------------------------
+Task Multi-view_Reasoning Performance
+val accuracy: 44.36%
+--------------------------------------------------
+Task Relative_Reflectance Performance
+val accuracy: 38.81%
+--------------------------------------------------
+Task Visual_Correspondence Performance
+val accuracy: 38.37%
+--------------------------------------------------
+Task Counting Performance
+val accuracy: 54.17%
+--------------------------------------------------
+Task IQ_Test Performance
+val accuracy: 28.0%
+--------------------------------------------------
+Task Object_Localization Performance
+val accuracy: 54.92%
+--------------------------------------------------
+Task Semantic_Correspondence Performance
+val accuracy: 21.58%
+--------------------------------------------------
+Task Visual_Similarity Performance
+val accuracy: 42.96%
+--------------------------------------------------
+Task Forensic_Detection Performance
+val accuracy: 28.79%
+--------------------------------------------------
+Task Jigsaw Performance
+val accuracy: 42.67%
+--------------------------------------------------
+Task Relative_Depth Performance
+val accuracy: 61.29%
+--------------------------------------------------
+Task Spatial_Relation Performance
+val accuracy: 87.41%
+Average val acc: 45.18285714285714
