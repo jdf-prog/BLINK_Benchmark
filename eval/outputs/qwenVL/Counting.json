@@ -1,0 +1,1446 @@
+{
+    "val": [
+        {
+            "idx": "val_Counting_1",
+            "answer": "(D)",
+            "full_prediction": "There is no existence of blue floats in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_2",
+            "answer": "(D)",
+            "full_prediction": "There is no existence of a black toilet in the image description.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_3",
+            "answer": "(B)",
+            "full_prediction": "There is no existence of a TV being hung up on the wall in the image description.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_4",
+            "answer": "(B)",
+            "full_prediction": "(B) 1",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_5",
+            "answer": "(A)",
+            "full_prediction": "(D) 5",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_6",
+            "answer": "(A)",
+            "full_prediction": "(C) 2",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_7",
+            "answer": "(C)",
+            "full_prediction": "There is no existence of any baseball players looking towards the camera in the image description.",
+            "prediction": "(D) 0"
+        },
+        {
+            "idx": "val_Counting_8",
+            "answer": "(B)",
+            "full_prediction": "(B) 1",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_9",
+            "answer": "(A)",
+            "full_prediction": "(C) 1",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_10",
+            "answer": "(C)",
+            "full_prediction": "There is no existence of a flat top in the image description.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_11",
+            "answer": "(B)",
+            "full_prediction": "There is no existence of people eating food in the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_12",
+            "answer": "(B)",
+            "full_prediction": "There are two glasses filled with water.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_13",
+            "answer": "(A)",
+            "full_prediction": "The man is wearing a hat.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Counting_14",
+            "answer": "(B)",
+            "full_prediction": "(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_15",
+            "answer": "(D)",
+            "full_prediction": "(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_16",
+            "answer": "(B)",
+            "full_prediction": "(C) 3",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_17",
+            "answer": "(C)",
+            "full_prediction": "There is only one person wearing a red coat in the image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_18",
+            "answer": "(B)",
+            "full_prediction": "There is no existence of fingers in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_19",
+            "answer": "(A)",
+            "full_prediction": "(C) 5",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_20",
+            "answer": "(A)",
+            "full_prediction": "(C) 4",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_21",
+            "answer": "(A)",
+            "full_prediction": "There is one red bus in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Counting_22",
+            "answer": "(C)",
+            "full_prediction": "There is no existence of people drinking water in the image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_23",
+            "answer": "(C)",
+            "full_prediction": "(C) 6",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_24",
+            "answer": "(B)",
+            "full_prediction": "(C) 3",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_25",
+            "answer": "(B)",
+            "full_prediction": "There is no existence of tomatoes in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_26",
+            "answer": "(B)",
+            "full_prediction": "There is no existence of a yellow bus in the image description.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_27",
+            "answer": "(B)",
+            "full_prediction": "(B) 1",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_28",
+            "answer": "(B)",
+            "full_prediction": "There is no existence of a bed in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_29",
+            "answer": "(D)",
+            "full_prediction": "There is no existence of red cars in the image description.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_30",
+            "answer": "(C)",
+            "full_prediction": "There is no existence of anyone wearing a green jacket in the image.",
+            "prediction": "(C) 0"
+        },
+        {
+            "idx": "val_Counting_31",
+            "answer": "(A)",
+            "full_prediction": "(C) 3",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_32",
+            "answer": "(A)",
+            "full_prediction": "There is no existence of green frogs in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_33",
+            "answer": "(C)",
+            "full_prediction": "(C) 4",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_34",
+            "answer": "(A)",
+            "full_prediction": "(C) 2",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_35",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) 5.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Counting_36",
+            "answer": "(B)",
+            "full_prediction": "There is no existence of wooden beams in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_37",
+            "answer": "(D)",
+            "full_prediction": "The batter is wearing a white uniform, so there is at least one person wearing a white uniform. The other players are wearing gray uniforms. Therefore, the correct answer is (C) 0.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_38",
+            "answer": "(A)",
+            "full_prediction": "The dog has a blue collar on its neck.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Counting_39",
+            "answer": "(B)",
+            "full_prediction": "There is only one blue bus in the image, so the answer is (B) 1.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_40",
+            "answer": "(C)",
+            "full_prediction": "There is no existence of any skiers wearing red in the image description.",
+            "prediction": "(C) 0"
+        },
+        {
+            "idx": "val_Counting_41",
+            "answer": "(C)",
+            "full_prediction": "(C) 1",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_42",
+            "answer": "(C)",
+            "full_prediction": "(C) 6",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_43",
+            "answer": "(B)",
+            "full_prediction": "The image shows a group of elephants, but it does not provide information about how many of them have their trunks in the water. Therefore, the answer cannot be determined with the given information.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_44",
+            "answer": "(A)",
+            "full_prediction": "There is no existence of any skiers doing a flip in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Counting_45",
+            "answer": "(A)",
+            "full_prediction": "There is no existence of any motors or vehicles driving near the bus in the image description.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Counting_46",
+            "answer": "(D)",
+            "full_prediction": "There is only one blue circle on the building, which is the clock on the tower.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_47",
+            "answer": "(D)",
+            "full_prediction": "There is no existence of people reading books in the image description.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_48",
+            "answer": "(D)",
+            "full_prediction": "The toilets with lids are (B) 1.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_49",
+            "answer": "(A)",
+            "full_prediction": "(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_50",
+            "answer": "(D)",
+            "full_prediction": "(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_51",
+            "answer": "(C)",
+            "full_prediction": "There is no existence of any people or eating activity in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_52",
+            "answer": "(B)",
+            "full_prediction": "There is only one red motorcycle in the picture, so the answer is (B) 1.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_53",
+            "answer": "(A)",
+            "full_prediction": "There is no existence of clear bottles of wine in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_54",
+            "answer": "(C)",
+            "full_prediction": "(C) 6",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_55",
+            "answer": "(D)",
+            "full_prediction": "There are 6 pieces of chicken nuggets in the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_56",
+            "answer": "(D)",
+            "full_prediction": "The number of candlights to the right of the television is (B) 5.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_57",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (C) 3. There are three players wearing face guards in the image, as they are all wearing helmets and protective gear while playing baseball.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_58",
+            "answer": "(D)",
+            "full_prediction": "(C) 2",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_59",
+            "answer": "(C)",
+            "full_prediction": "(C) 4",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_60",
+            "answer": "(D)",
+            "full_prediction": "(C) 5",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_61",
+            "answer": "(C)",
+            "full_prediction": "(C) 0",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_62",
+            "answer": "(D)",
+            "full_prediction": "(B) 0",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_63",
+            "answer": "(D)",
+            "full_prediction": "There is only one cow on the train.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_64",
+            "answer": "(B)",
+            "full_prediction": "The stove has four burners.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_65",
+            "answer": "(C)",
+            "full_prediction": "(C) 5",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_66",
+            "answer": "(B)",
+            "full_prediction": "The woman is wearing black gloves, and only one color is visible on her gloves. Therefore, the correct answer is (B) 1.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_67",
+            "answer": "(D)",
+            "full_prediction": "There are two white umbrellas on the left side.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Counting_68",
+            "answer": "(D)",
+            "full_prediction": "The boy is holding a baseball bat.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_69",
+            "answer": "(B)",
+            "full_prediction": "There is no existence of common vowels in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_70",
+            "answer": "(A)",
+            "full_prediction": "(C) 3",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_71",
+            "answer": "(C)",
+            "full_prediction": "There is no existence of yellow stars in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_72",
+            "answer": "(C)",
+            "full_prediction": "There is no existence of purple planes in the image description.",
+            "prediction": "(C) 0"
+        },
+        {
+            "idx": "val_Counting_73",
+            "answer": "(B)",
+            "full_prediction": "There are two elephants in the water - a mother elephant and her baby.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_74",
+            "answer": "(D)",
+            "full_prediction": "The image description does not provide enough information to determine the number of empty glasses.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_75",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (C) 3.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_76",
+            "answer": "(C)",
+            "full_prediction": "(C) 1",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_77",
+            "answer": "(B)",
+            "full_prediction": "(B) 1",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_78",
+            "answer": "(C)",
+            "full_prediction": "There is no existence of people climbing on the wall in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_79",
+            "answer": "(D)",
+            "full_prediction": "There is no existence of the number of consonants in the letters printed on the snowboard.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_80",
+            "answer": "(A)",
+            "full_prediction": "(C) 2",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_81",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (B) 4. There are four players wearing red shirts in the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_82",
+            "answer": "(A)",
+            "full_prediction": "(C) 5",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_83",
+            "answer": "(C)",
+            "full_prediction": "The image description mentions that there are two men wearing hats, so the answer is (D) 2.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_84",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (C) 5. There are five people wearing white hats in the image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_85",
+            "answer": "(D)",
+            "full_prediction": "The image description does not provide a specific number of telephone poles to the right of the truck. Therefore, the answer cannot be determined with the given information.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_86",
+            "answer": "(A)",
+            "full_prediction": "(C) 3",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_87",
+            "answer": "(A)",
+            "full_prediction": "There is no existence of people eating apples in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_88",
+            "answer": "(C)",
+            "full_prediction": "There is no existence of yellow bears in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_89",
+            "answer": "(A)",
+            "full_prediction": "(B) 5",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_90",
+            "answer": "(A)",
+            "full_prediction": "The stop sign has black letters.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_91",
+            "answer": "(B)",
+            "full_prediction": "There is no existence of the number of words on the sign in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_92",
+            "answer": "(C)",
+            "full_prediction": "(C) 2",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_93",
+            "answer": "(D)",
+            "full_prediction": "There is no existence of any people or activity in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_94",
+            "answer": "(C)",
+            "full_prediction": "There is no existence of a white motor or any motorcyclists driving a white motor in the image.",
+            "prediction": "(C) 0"
+        },
+        {
+            "idx": "val_Counting_95",
+            "answer": "(A)",
+            "full_prediction": "There is no existence of any people without hats in the image.",
+            "prediction": "(A) 0"
+        },
+        {
+            "idx": "val_Counting_96",
+            "answer": "(D)",
+            "full_prediction": "There is no existence of any sinking boats in the image description.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_97",
+            "answer": "(C)",
+            "full_prediction": "The image shows a woman wearing a solid red shirt, so there are at least two people in the image wearing red shirts. The other people in the image are wearing different colors, so the total number of people in solid red shirts cannot be determined with certainty. However, the most accurate choice among the given options would be (B) 5, as the image shows a group of people wearing red shirts.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_98",
+            "answer": "(D)",
+            "full_prediction": "There is no existence of a station or trains stopping at a station in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_99",
+            "answer": "(A)",
+            "full_prediction": "There is no existence of a red car or any people in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_100",
+            "answer": "(D)",
+            "full_prediction": "(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_101",
+            "answer": "(B)",
+            "full_prediction": "There is no existence of red buildings in the image description.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_102",
+            "answer": "(A)",
+            "full_prediction": "(C) 3",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_103",
+            "answer": "(C)",
+            "full_prediction": "(C) 1",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_104",
+            "answer": "(A)",
+            "full_prediction": "There is only one sign with a face on it, which is the banner on the right side of the building.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_105",
+            "answer": "(C)",
+            "full_prediction": "There is one sign with an arrow in the picture.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_106",
+            "answer": "(C)",
+            "full_prediction": "(C) 5",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_107",
+            "answer": "(C)",
+            "full_prediction": "(C) 3",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_108",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) 5.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_109",
+            "answer": "(B)",
+            "full_prediction": "(B) 1",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_110",
+            "answer": "(B)",
+            "full_prediction": "(C) 3",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_111",
+            "answer": "(D)",
+            "full_prediction": "There is no existence of tigers in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_112",
+            "answer": "(B)",
+            "full_prediction": "There are four bottles on the round table at the bottom of the photo.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_113",
+            "answer": "(B)",
+            "full_prediction": "(B) 1",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_114",
+            "answer": "(A)",
+            "full_prediction": "There is no existence of any people in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Counting_115",
+            "answer": "(D)",
+            "full_prediction": "(B) 2",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Counting_116",
+            "answer": "(A)",
+            "full_prediction": "(D) 3",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_117",
+            "answer": "(D)",
+            "full_prediction": "(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Counting_118",
+            "answer": "(D)",
+            "full_prediction": "(C) 0",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Counting_119",
+            "answer": "(C)",
+            "full_prediction": "There is no existence of anyone wearing a yellow shirt in the image.",
+            "prediction": "(C) 0"
+        },
+        {
+            "idx": "val_Counting_120",
+            "answer": "(A)",
+            "full_prediction": "The correct answer is (A) 1.",
+            "prediction": "(A)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Counting_1",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of any half-eaten burgers in the image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_2",
+            "answer": "hidden",
+            "full_prediction": "There is only one yellow surfboard, so the answer is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_3",
+            "answer": "hidden",
+            "full_prediction": "(C) 1",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_4",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of children or any people posing in the image description.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_5",
+            "answer": "hidden",
+            "full_prediction": "(C) 1",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_6",
+            "answer": "hidden",
+            "full_prediction": "The image shows apples in three sections.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_7",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of people reading books in the image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_8",
+            "answer": "hidden",
+            "full_prediction": "There are two train tracks in the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_9",
+            "answer": "hidden",
+            "full_prediction": "(D) 5",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_10",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of people sitting on the grass in the image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_11",
+            "answer": "hidden",
+            "full_prediction": "(C) 2",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_12",
+            "answer": "hidden",
+            "full_prediction": "(C) 3",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_13",
+            "answer": "hidden",
+            "full_prediction": "(C) 5",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_14",
+            "answer": "hidden",
+            "full_prediction": "There are three green vegetables: two zucchinis and one broccoli. So the answer is (C).",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_15",
+            "answer": "hidden",
+            "full_prediction": "There are two bottles of water on the table.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_16",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of people wearing red jackets in the image description.",
+            "prediction": "(C) 0"
+        },
+        {
+            "idx": "test_Counting_17",
+            "answer": "hidden",
+            "full_prediction": "The image shows a man and a baby, so there are two people wearing clothes. Therefore, the correct answer is (C) 2.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_18",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of window ac units in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Counting_19",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of any people playing football in the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_20",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of white bears in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Counting_21",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of people eating cake in the image description.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_22",
+            "answer": "hidden",
+            "full_prediction": "(C) 1",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_23",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) 6. There are six people carrying bags in the image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_24",
+            "answer": "hidden",
+            "full_prediction": "(C) 3",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_25",
+            "answer": "hidden",
+            "full_prediction": "(C) 4",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_26",
+            "answer": "hidden",
+            "full_prediction": "The image shows a man working in a fruit stand, so there is only one person in the fruit stands. Therefore, the answer is (A) 1.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_27",
+            "answer": "hidden",
+            "full_prediction": "(C) 4",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_28",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of any people or activity related to climbing on the pillar in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Counting_29",
+            "answer": "hidden",
+            "full_prediction": "There are 5 pieces of strawberry on the blue plate.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_30",
+            "answer": "hidden",
+            "full_prediction": "(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_31",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (D) 4. There are four people sitting down on the snowy hill.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_32",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of the number of letters in the train's street sign in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Counting_33",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of tennis or any players playing tennis in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Counting_34",
+            "answer": "hidden",
+            "full_prediction": "(C) 4",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_35",
+            "answer": "hidden",
+            "full_prediction": "There are four zebras standing in the water.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_36",
+            "answer": "hidden",
+            "full_prediction": "There is one unwrapped food on the table, which is the sandwich.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_37",
+            "answer": "hidden",
+            "full_prediction": "There is only one person wearing a hat in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_38",
+            "answer": "hidden",
+            "full_prediction": "There are two baby birds in the nest.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_39",
+            "answer": "hidden",
+            "full_prediction": "(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_40",
+            "answer": "hidden",
+            "full_prediction": "(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_41",
+            "answer": "hidden",
+            "full_prediction": "(C) 1",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_42",
+            "answer": "hidden",
+            "full_prediction": "There are two glasses of wine sitting on the table.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_43",
+            "answer": "hidden",
+            "full_prediction": "The propellers on the right side of the plane are described as \"large engines,\" so it is not possible to determine the exact number of propellers without more information. However, since the plane has four engines in total, it is likely that there are two propellers on the right side of the plane. Therefore, the closest choice would be (B) 4.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_44",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of black horses in the image description.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_45",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of any birds drinking water in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_46",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of any people or activity related to hand washing in the image description.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_47",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (B) 1.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_48",
+            "answer": "hidden",
+            "full_prediction": "The image shows a pineapple with four bananas on top of it. Therefore, the correct answer is (B) 4.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_49",
+            "answer": "hidden",
+            "full_prediction": "The image shows four people holding umbrellas, so there are four umbrellas in total. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_50",
+            "answer": "hidden",
+            "full_prediction": "The woman in the image is wearing glasses.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_51",
+            "answer": "hidden",
+            "full_prediction": "(C) 2",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_52",
+            "answer": "hidden",
+            "full_prediction": "(C) 1",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_53",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of watches in the image description.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_54",
+            "answer": "hidden",
+            "full_prediction": "(C) 5",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_55",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of any carrots being half eaten in the image description.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_56",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of any kids sleeping on the bed in the image description.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_57",
+            "answer": "hidden",
+            "full_prediction": "There are two rolling suitcases visible in the image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_58",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of zebras drinking water in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Counting_59",
+            "answer": "hidden",
+            "full_prediction": "(C) 2",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_60",
+            "answer": "hidden",
+            "full_prediction": "The number of propeller blades cannot be determined with certainty from the image. However, it is stated that there are two propellers, which implies that there are at least two blades on each propeller. Therefore, the correct answer is (C) 2.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_61",
+            "answer": "hidden",
+            "full_prediction": "(C) 5",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_62",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of children wearing green shirts in the image.",
+            "prediction": "(C) 0"
+        },
+        {
+            "idx": "test_Counting_63",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of people running near the truck in the image description.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_64",
+            "answer": "hidden",
+            "full_prediction": "(B) 2",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_65",
+            "answer": "hidden",
+            "full_prediction": "(C) 1",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_66",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of any books on the dashboard of the bus in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Counting_67",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of red plates with apples in the image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Counting_68",
+            "answer": "hidden",
+            "full_prediction": "(B) 1",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_69",
+            "answer": "hidden",
+            "full_prediction": "(C) 5",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_70",
+            "answer": "hidden",
+            "full_prediction": "(C) 1",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_71",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of any people kneeling on the ground in the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_72",
+            "answer": "hidden",
+            "full_prediction": "There are a total of 8 bear legs in the image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Counting_73",
+            "answer": "hidden",
+            "full_prediction": "(C) 0",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_74",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of curly hair in the image description.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_75",
+            "answer": "hidden",
+            "full_prediction": "(C) 5",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_76",
+            "answer": "hidden",
+            "full_prediction": "(C) 5",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_77",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of any cats or animals surfing in the image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_78",
+            "answer": "hidden",
+            "full_prediction": "(C) 0",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_79",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of white bears in the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_80",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of red flowers in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_81",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) 2. There are two tennis players wearing white shirts in the image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_82",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of an orange panda in the image description.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_83",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of people reading books in the image description.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_84",
+            "answer": "hidden",
+            "full_prediction": "(D) 2",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_85",
+            "answer": "hidden",
+            "full_prediction": "The image shows four boats with red sails. Therefore, the answer is (C).",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_86",
+            "answer": "hidden",
+            "full_prediction": "The image description does not provide enough information to determine the exact number of people wearing the color red. Therefore, the answer cannot be determined with certainty.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Counting_87",
+            "answer": "hidden",
+            "full_prediction": "There are two slices of fruit on the plate.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_88",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of people on the roof in the image description.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_89",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of small case letters in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Counting_90",
+            "answer": "hidden",
+            "full_prediction": "(C) 4",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_91",
+            "answer": "hidden",
+            "full_prediction": "(C) 2",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_92",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of buoys in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Counting_93",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of the color of the letters in the pool.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Counting_94",
+            "answer": "hidden",
+            "full_prediction": "(C) 3",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_95",
+            "answer": "hidden",
+            "full_prediction": "(C) 5",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_96",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of a white car in the image description.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_97",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of any person wearing a red shirt in the image description.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_98",
+            "answer": "hidden",
+            "full_prediction": "The image description mentions that \"several people are wearing hats,\" but it does not specify the exact number. Therefore, the answer cannot be determined with certainty. However, it is clear that at least one person is wearing a cap.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Counting_99",
+            "answer": "hidden",
+            "full_prediction": "(D) 1",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_100",
+            "answer": "hidden",
+            "full_prediction": "There are two brown bears in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_101",
+            "answer": "hidden",
+            "full_prediction": "The image shows a total of 6 people wearing green.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_102",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of a book in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Counting_103",
+            "answer": "hidden",
+            "full_prediction": "There are four black sheep in the field.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_104",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of a breakwater in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Counting_105",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of any airliners flying in the sky in the image description.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Counting_106",
+            "answer": "hidden",
+            "full_prediction": "The image description does not provide enough information to determine the exact number of blue umbrellas with white dots. Therefore, the answer cannot be determined with certainty.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Counting_107",
+            "answer": "hidden",
+            "full_prediction": "(C) 1",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_108",
+            "answer": "hidden",
+            "full_prediction": "(C) 2",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_109",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of any yellow cats in the image description.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_110",
+            "answer": "hidden",
+            "full_prediction": "(C) 2",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_111",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) 4. There are four clocks with white frames in the image.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_112",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (C) 3.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Counting_113",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of people eating food in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Counting_114",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of any people cleaning the table in the image description.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_115",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of a vegetarian pizza in the image description.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_116",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of pink hands in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Counting_117",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of flowers not yet opened in the image description.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Counting_118",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of a brown bus in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Counting_119",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of alcoholic beverages in the image description.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Counting_120",
+            "answer": "hidden",
+            "full_prediction": "There is no existence of a red plane in the image description.",
+            "prediction": "(A)"
+        }
+    ]
+}

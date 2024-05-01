@@ -1,0 +1,1614 @@
+{
+    "val": [
+        {
+            "idx": "val_Relative_Reflectance_1",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_2",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_3",
+            "answer": "(B)",
+            "full_prediction": "The image shows a hallway with a patterned floor and walls painted in a light green color. The points labeled A and B are on the floor, and the surface color of both points appears to be the same, which is a darker shade of green compared to the lighter green of the walls. Therefore, the answer is (A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_4",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_5",
+            "answer": "(C)",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_6",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_7",
+            "answer": "(C)",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_8",
+            "answer": "(C)",
+            "full_prediction": "The image shows a large room with a high ceiling and a balcony above. There are several people in the room, some sitting at tables and others standing or walking around. The floor appears to be made of wood, and the walls are painted white.\n\nThe point labeled A is located on the floor, and the point labeled B is on the balcony above. The surface color of the point A is darker than the surface color of the point B. The point A has a darker surface color than the point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_9",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_10",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_11",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_12",
+            "answer": "(A)",
+            "full_prediction": "The annotation A is darker than B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_13",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_14",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_15",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_16",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_17",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A appears to have a darker surface color compared to point B. The surface color of point A is more uniform and appears to be a darker shade of gray, while point B has a lighter shade of gray with some areas that are almost white.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_18",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_19",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_20",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_21",
+            "answer": "(A)",
+            "full_prediction": "The annotation A is darker than B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_22",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_23",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_24",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_25",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_26",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A appears to have a darker surface color compared to point B. The albedo of the surface at point A seems to be more uniform and less reflective, which gives it a darker appearance.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_27",
+            "answer": "(A)",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_28",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_29",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_30",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_31",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_32",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_33",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A appears to have a darker surface color compared to point B. The surface color of point A is more reddish-orange, while point B is more of a darker, muted orange.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_34",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_35",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_36",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_37",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_38",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_39",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_40",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_41",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_42",
+            "answer": "(B)",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_43",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_44",
+            "answer": "(C)",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_45",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_46",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_47",
+            "answer": "(C)",
+            "full_prediction": "The annotation A is on the person's cap, and the annotation B is on the person's shirt. The person is wearing a white shirt, and the cap is also white. The surface color of both the cap and the shirt is the same, which is white. Therefore, both annotations are on the same surface color, and the colors are about the same.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "val_Relative_Reflectance_48",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_49",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_50",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_51",
+            "answer": "(B)",
+            "full_prediction": "The annotation A is darker than annotation B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_52",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_53",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A appears to have a darker surface color compared to point B. The surface color of point A seems to be more reddish-brown, while point B has a lighter surface color, closer to a neutral or light brown.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_54",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_55",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_56",
+            "answer": "(B)",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_57",
+            "answer": "(A)",
+            "full_prediction": "The image you've provided is quite dark and it's difficult to discern the exact color of the surfaces. However, I can provide some general observations:\n\n- The point labeled A appears to be closer to the light source, as it is illuminated more than the other point.\n- The point labeled B is in a darker area of the room, which suggests it is further away from the light source.\n\nBased on these observations, it seems that point A has a darker surface color, as it is illuminated more by the light source. However, without a clear reference for the color of the surface, it's not possible to determine the exact difference in albedo between the two points.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_58",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_59",
+            "answer": "(B)",
+            "full_prediction": "The image you've provided is a bit blurry, but I'll do my best to describe the colors I can see.\n\nPoint A appears to be a darker shade of red, possibly indicating a darker area on the surface.\n\nPoint B seems to be a lighter shade of red, possibly indicating a lighter area on the surface.\n\nBased on this, I would say that Point B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_60",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_61",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_62",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_63",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, point A appears to have a darker surface color compared to point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_64",
+            "answer": "(A)",
+            "full_prediction": "The annotation A is darker than B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_65",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_66",
+            "answer": "(A)",
+            "full_prediction": "The annotation A is darker than B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_67",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_68",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_69",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_70",
+            "answer": "(C)",
+            "full_prediction": "The image provided is a bit blurry, but I'll do my best to describe the surface colors of points A and B.\n\nPoint A appears to have a darker surface color, possibly due to the presence of a darker object or a shadow on the surface.\n\nPoint B seems to have a lighter surface color, which could be due to the lighting in the room or the presence of a lighter object or a shadow on the surface.\n\nBased on this description, it seems that Point B has a darker surface color than Point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_71",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_72",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_73",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_74",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_75",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_76",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_77",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_78",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_79",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_80",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_81",
+            "answer": "(A)",
+            "full_prediction": "The image provided is a bit blurry, but I'll do my best to describe the surface colors of points A and B.\n\nPoint A appears to be a darker color, possibly due to the reflection of light on the surface. It could be a darker shade of the surrounding area or a darker object in the scene.\n\nPoint B seems to have a lighter surface color, which could be due to the reflection of light on the surface or the color of the object it is on.\n\nBased on this description, it seems that Point A is darker than Point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_82",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_83",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_84",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_85",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_86",
+            "answer": "(C)",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_87",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_88",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_89",
+            "answer": "(C)",
+            "full_prediction": "The annotation A is darker than B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_90",
+            "answer": "(C)",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_91",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_92",
+            "answer": "(A)",
+            "full_prediction": "The annotation A is darker than B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_93",
+            "answer": "(C)",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_94",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_95",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_96",
+            "answer": "(C)",
+            "full_prediction": "The annotation A is on a silver pot, and the annotation B is on a silver pot with a darker surface color. Therefore, point A has a darker surface color than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_97",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_98",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_99",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_100",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_101",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_102",
+            "answer": "(B)",
+            "full_prediction": "The image provided is a bit blurry, but I'll do my best to describe the surface colors.\n\nPoint A appears to have a darker surface color, possibly due to the presence of a darker object or a shadow on the surface.\n\nPoint B seems to have a lighter surface color, which could be due to the presence of a lighter object or a shadow on the surface.\n\nBased on the image, it seems that Point A has a darker surface color than Point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_103",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A appears to have a darker surface color compared to point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_104",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A appears to have a darker surface color compared to point B. The man in the image is wearing a dark jacket, and the letters A and B are also darker than the surrounding area. Therefore, the answer is (A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_105",
+            "answer": "(B)",
+            "full_prediction": "The point labeled A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_106",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_107",
+            "answer": "(C)",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_108",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, point A appears to have a darker surface color compared to point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_109",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_110",
+            "answer": "(C)",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_111",
+            "answer": "(C)",
+            "full_prediction": "Based on the image provided, point A appears to have a darker surface color compared to point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_112",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_113",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_114",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_115",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_116",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_117",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_118",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_119",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_120",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_121",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_122",
+            "answer": "(C)",
+            "full_prediction": "The image shows a bathroom sink with a beige countertop. Point A is annotated on the countertop, and point B is annotated on the floor. The surface color of point A is lighter than point B. Therefore, point A has a darker surface color than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_123",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_124",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_125",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_126",
+            "answer": "(A)",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_127",
+            "answer": "(C)",
+            "full_prediction": "The image provided is a bit blurry, but I'll do my best to describe the surface colors.\n\nPoint A appears to be a darker area, possibly due to shadows or a darker object.\n\nPoint B seems to be a lighter area, possibly due to the lighting in the room or the reflection of light on the surface.\n\nBased on the albedo of the surface, without the effect of shading, point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_128",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_129",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_130",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_131",
+            "answer": "(C)",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_132",
+            "answer": "(A)",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_133",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_134",
+            "answer": "(C)",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Relative_Reflectance_1",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_2",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_3",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A appears to have a darker surface color compared to point B. The surface color of point A is more reddish-brown, while point B is more of a lighter brown.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_4",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_5",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_6",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_7",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_8",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_9",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_10",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A appears to have a darker surface color compared to point B. The surface color of point A is more uniform and appears to be a darker shade of green, while point B has a lighter shade of green with some white specks.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_11",
+            "answer": "hidden",
+            "full_prediction": "The annotation A is darker than annotation B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_12",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A appears to have a darker surface color compared to point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_13",
+            "answer": "hidden",
+            "full_prediction": "The image shows a chair with a beige cushion and a darker cushion on the backrest. The darker cushion is labeled with the letter B. The surface color of the point labeled A is lighter than the surface color of the point labeled B. Therefore, the answer is (A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_14",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_15",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_16",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_17",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_18",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_19",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_20",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_21",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_22",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_23",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_24",
+            "answer": "hidden",
+            "full_prediction": "The image you've provided is a bit blurry, but I'll do my best to describe the colors.\n\nPoint A appears to have a darker surface color, possibly due to the reflection of light on a darker surface.\n\nPoint B seems to have a lighter surface color, possibly due to the reflection of light on a lighter surface.\n\nBased on this, I would say that Point A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_25",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_26",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_27",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A appears to have a darker surface color compared to point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_28",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_29",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_30",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_31",
+            "answer": "hidden",
+            "full_prediction": "The image shows a hallway with a light-colored floor and walls. Point A is located near the center of the image, while point B is closer to the right edge of the image.\n\nBased on the albedo of the surface, which is the color of the surface without the effect of shading, point A appears to have a darker surface color than point B. The floor in the hallway is a light color, and the walls are a lighter shade of yellow. Point A is closer to the floor, which is darker, while point B is closer to the wall, which is lighter. Therefore, point A has a darker surface color than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_32",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_33",
+            "answer": "hidden",
+            "full_prediction": "The annotation labeled A is darker than the annotation labeled B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_34",
+            "answer": "hidden",
+            "full_prediction": "The image you've provided is a bit blurry, but I'll do my best to describe the colors.\n\nPoint A appears to be a person wearing a dark suit, and the surface color of this point is darker than the surrounding area.\n\nPoint B seems to be a person wearing a red and white striped shirt, and the surface color of this point is lighter than the surrounding area.\n\nBased on the color information provided, it seems that Point B has a lighter surface color than Point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_35",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_36",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_37",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_38",
+            "answer": "hidden",
+            "full_prediction": "The annotation A is on the left side of the image, and the annotation B is on the right side of the image. The surface color of point A appears to be darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_39",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A appears to have a darker surface color compared to point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_40",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_41",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_42",
+            "answer": "hidden",
+            "full_prediction": "The image shows a large open space with a patterned floor and a ceiling with recessed lighting. There are no objects or surfaces that can be directly compared for albedo or color. The points labeled A and B are not visible in the image, so I cannot provide a comparison of their surface color. If you can provide the coordinates or a description of the points A and B, I could help you with the comparison.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_43",
+            "answer": "hidden",
+            "full_prediction": "The image shows a bedroom with a bed, lamps, and a curtain. There are two points labeled A and B.\n\nPoint A appears to be a darker surface color, as it is located near the bed and the lamp on the right side of the bed. The bed itself is a lighter color, and the lamp on the left side of the bed is also lighter. The curtains are a patterned design, and the floor appears to be a light color.\n\nPoint B is located on the left side of the bed, near the lamp on the left side. This point is lighter in color than point A.\n\nBased on the albedo of the surfaces without the effect of shading, point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_44",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_45",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_46",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_47",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_48",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_49",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A appears to have a darker surface color compared to point B. The area around point A seems to be more shadowed, which would result in a darker appearance.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_50",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_51",
+            "answer": "hidden",
+            "full_prediction": "The image you've provided is quite dark, and it's difficult to discern the exact color of the points labeled A and B. However, I can provide some general observations:\n\n- The point labeled A appears to be closer to the window, which might suggest that it is receiving more light.\n- The point labeled B is further away from the window, so it might be receiving less light.\n\nBased on these observations, it's possible that point A has a darker surface color due to the shade it is under, while point B is lighter due to the shade it is not under. However, without a clearer image or more information, it's not possible to accurately determine the surface color of the points.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_52",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_53",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_54",
+            "answer": "hidden",
+            "full_prediction": "The image shows a bed with a patterned bedspread and a star decoration on the wall. There are two points labeled A and B on the bedspread.\n\nPoint A appears to have a darker surface color compared to point B. The color of point A is more reddish-brown, while point B is more of a lighter brown with some red and white accents. Therefore, point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_55",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_56",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_57",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_58",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_59",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A appears to have a darker surface color compared to point B. The albedo of point A seems to be more uniform and darker than point B, which has a lighter and more textured appearance.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_60",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_61",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A appears to have a darker surface color compared to point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_62",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_63",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_64",
+            "answer": "hidden",
+            "full_prediction": "The image is a bit blurry, but it appears that point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_65",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_66",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_67",
+            "answer": "hidden",
+            "full_prediction": "The annotated point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_68",
+            "answer": "hidden",
+            "full_prediction": "The point labeled A is darker than the point labeled B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_69",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_70",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_71",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_72",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_73",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_74",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_75",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_76",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_77",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_78",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_79",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_80",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_81",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_82",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_83",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_84",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_85",
+            "answer": "hidden",
+            "full_prediction": "The image shows a toilet with a white seat and a white floor, and there are two points labeled A and B. The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_86",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_87",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_88",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_89",
+            "answer": "hidden",
+            "full_prediction": "The image shows two points labeled A and B on a surface with a pattern. The surface color of point A appears to be darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_90",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_91",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A appears to have a darker surface color compared to point B. The area around point A seems to be more shadowed, which indicates a darker surface color.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_92",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_93",
+            "answer": "hidden",
+            "full_prediction": "The annotated point labeled A is darker than the annotated point labeled B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_94",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_95",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_96",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_97",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_98",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_99",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_100",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_101",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_102",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_103",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_104",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_105",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_106",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_107",
+            "answer": "hidden",
+            "full_prediction": "The point labeled A has a darker surface color than the point labeled B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_108",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_109",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_110",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_111",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_112",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_113",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_114",
+            "answer": "hidden",
+            "full_prediction": "The image provided is a bit blurry, but I'll do my best to describe the surface colors of points A and B.\n\nPoint A appears to have a darker surface color, possibly due to the reflection of light on a darker surface. The reflection is more pronounced on the left side of the image, which suggests that the surface is darker than the surrounding area.\n\nPoint B, on the other hand, seems to have a lighter surface color. The reflection on this point is less pronounced, indicating that the surface is lighter than the surrounding area.\n\nBased on this observation, I would say that Point A has a darker surface color than Point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_115",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_116",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_117",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A appears to have a darker surface color compared to point B. The area around point A seems to be more shaded, which would result in a darker surface color.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_118",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_119",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_120",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_121",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_122",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_123",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_124",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_125",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_126",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_127",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, point A appears to have a darker surface color compared to point B. The albedo of the surface at point A seems to be more reflective, which would make it appear darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_128",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_129",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_130",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_131",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_132",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_133",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_134",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker.",
+            "prediction": "(A)"
+        }
+    ]
+}

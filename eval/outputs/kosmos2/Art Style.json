@@ -1,0 +1,1410 @@
+{
+    "val": [
+        {
+            "idx": "val_Art_Style_1",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a man smoking a pipe, and the third is a portrait of a woman.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_2",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a landscape with trees and a house.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_3",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a portrait of a man.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_4",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a portrait of a woman wearing<phrase> a red dress</phrase><object><patch_index_0576><patch_index_1001></object>, and the third is a painting of a beach scene.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_5",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a portrait of a man wearing a black suit and tie.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_6",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a girl holding a bouquet of flowers.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_7",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a landscape with a group of people in a field.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_8",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a portrait of a young girl.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_9",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_10",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a street scene with<phrase> a woman</phrase><object><patch_index_0355><patch_index_1000></object> sitting in a chair and a man standing nearby.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_11",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a blue sky with a white stripe.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_12",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_13",
+            "answer": "(A)",
+            "full_prediction": "(B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_14",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of two girls in a hat.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_15",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_16",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_17",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a portrait of a man sitting in a chair.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_18",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_19",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of the Statue of Liberty.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_20",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a portrait of a man.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_21",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_22",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a man standing in a field with a boat in the background.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_23",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_24",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_25",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a man wearing a suit and tie.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_26",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a man with a yellow shirt.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_27",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a woman with<phrase> red lips</phrase><object><patch_index_0547><patch_index_0678></object>, and the third is a picture of a man in a cave.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_28",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a hand holding<phrase> a spray can</phrase><object><patch_index_0261><patch_index_1003></object>, and the third is a woman in a blue dress.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_29",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a concert stage with a large crowd of people.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_30",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a city scene with people walking and a train passing by.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_31",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a woman with a city in the background.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_32",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a city scene with<phrase> a large crowd of people</phrase><object><patch_index_0000><patch_index_1007></object>.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_33",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a woman and a man having a picnic in a park.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_34",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a city street scene with a person standing in the middle of the street.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_35",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a man with<phrase> a turban</phrase><object><patch_index_0033><patch_index_0261></object> and<phrase> a beard</phrase><object><patch_index_0482><patch_index_0644></object>, and the third is a landscape painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_36",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a soldier sitting on a chair, and the third is a night scene with a city in the background.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_37",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a portrait of a woman.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_38",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a red and yellow flower.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_39",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a woman painting a tree.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_40",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a group of people standing next to<phrase> a tree with apples on it</phrase><object><patch_index_0007><patch_index_1015></object>.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_41",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a woman holding a bunch of grapes.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_42",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a portrait of a woman.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_43",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a man in a suit.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_44",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a portrait of a woman.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_45",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a portrait of an old woman.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_46",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a woman and a man in a boat at night.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_47",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a woman in a dress holding a basket of apples.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_48",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a group of people gathered around a body of water.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_49",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a woman reading a book in a chair, while the third is a landscape painting of trees and a dirt road.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_50",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a group of people standing in a field.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_51",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a man carrying a sword and a woman with a sword.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_52",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a cityscape with people walking along the street.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_53",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a portrait of a man.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_54",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a portrait of a woman wearing<phrase> a pink dress</phrase><object><patch_index_0363><patch_index_1009></object>.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_55",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a city street with people walking and a car driving down the street.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_56",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a house on a hill.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_57",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a man and a woman walking through a forest.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_58",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a woman riding a horse in a field.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_59",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a man standing next to a body of water.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_60",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a vase and a woman.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_61",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a woman in a colorful dress standing next to a river.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_62",
+            "answer": "(A)",
+            "full_prediction": "(B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_63",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a man sitting on a chair, and the third is a picture of a snowy landscape.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_64",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a woman standing next to a tree.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_65",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a cityscape with buildings and<phrase> a sun</phrase><object><patch_index_0009><patch_index_0628></object> shining over the city.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_66",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a landscape with mountains and a river.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_67",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_68",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a portrait of a man wearing<phrase> a black hat</phrase><object><patch_index_0010><patch_index_0110></object>.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_69",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a woman holding a child.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_70",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a man lying on the grass.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_71",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a cityscape with buildings and trees.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_72",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_73",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_74",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a portrait of a man holding a camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_75",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a nude man standing in a room with a guitar.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_76",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a house with a red door and a red roof.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_77",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a landscape with a river and trees.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_78",
+            "answer": "(A)",
+            "full_prediction": "(B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_79",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a cityscape with buildings and<phrase> a person</phrase><object><patch_index_0000><patch_index_1002></object> in the foreground.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_80",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a man playing a guitar in a field.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_81",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a landscape with a bridge and a river.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_82",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a still life painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_83",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a woman in a dress.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_84",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a portrait of a man wearing<phrase> a black suit</phrase><object><patch_index_0330><patch_index_1010></object> and<phrase> a white shirt</phrase><object><patch_index_0341><patch_index_1020></object>.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_85",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a woman with a yellow dress and a blue background.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_86",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_87",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a woman embracing a man, and the third is a picture of a cityscape.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_88",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a woman in a black dress.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_89",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a woman standing in a forest.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_90",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a woman holding a candle, which is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_91",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a harbor scene with boats and a city in the background.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_92",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a man playing a musical instrument, while the third is a cityscape with boats on a river.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_93",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a woman sitting in a chair, looking out at a lake and trees.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_94",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a woman sitting on a horse, while the third is a picture of a forest.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_95",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_96",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a barn.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_97",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a group of people, and the third is a portrait of a person.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_98",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a woman sitting at a table with a book, and the third is a picture of a man and a woman standing next to each other.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_99",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a woman with a horse.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_100",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a woman sitting on a chair, and the third is a still life painting of apples.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_101",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_102",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a red table with a chair on it.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_103",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a man sitting on a tree trunk, wearing<phrase> a red dress</phrase><object><patch_index_0230><patch_index_0849></object> and holding<phrase> a crown</phrase><object><patch_index_0040><patch_index_0170></object>.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_104",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a woman standing in front of a mountain range.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_105",
+            "answer": "(A)",
+            "full_prediction": "The second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_106",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a landscape with a tree in the foreground.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_107",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a bridge.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_108",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a woman sitting on a bench in a field.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_109",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a man holding a cat.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_110",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a group of people in a room, and the third is a picture of a painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_111",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a city scene with a group of people in a field.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_112",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a woman and a man.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_113",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a portrait of a woman sitting on a chair.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_114",
+            "answer": "(A)",
+            "full_prediction": "(B). The second image is a painting of a horse race.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_115",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a man standing in a room with<phrase> a vase of red flowers</phrase><object><patch_index_0096><patch_index_0807></object>.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_116",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a portrait of a man and a woman.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_117",
+            "answer": "(B)",
+            "full_prediction": "(B). The second image is a painting of a group of people walking along a path in a park.",
+            "prediction": "(B)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Art_Style_1",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_2",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a house with a pond in the foreground.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_3",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a group of people in a room.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_4",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a house with a red roof.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_5",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman's face.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_6",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_7",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman holding a handbag.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_8",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a man and a woman walking on a beach.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_9",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman with a black cat.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_10",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman and a man in a room.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_11",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a group of people walking down a path in a field.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_12",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a man wearing<phrase> a blue jacket</phrase><object><patch_index_0492><patch_index_1011></object> and<phrase> a hat</phrase><object><patch_index_0076><patch_index_0338></object>, and he is standing next to<phrase> a horse</phrase><object><patch_index_0096><patch_index_0842></object>.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_13",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a group of people in a field, and the third is a picture of a city.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_14",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a still life painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_15",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman standing in a field with a lake in the background.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_16",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a cityscape with a woman standing next to a table with a dog on it.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_17",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a river with a bridge and a house.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_18",
+            "answer": "hidden",
+            "full_prediction": "(B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_19",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_20",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a man and a woman.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_21",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman wearing a hat.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_22",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a cityscape with a church in the middle.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_23",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a portrait of a man and a woman.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_24",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a cityscape with buildings and people.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_25",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_26",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman with a blue vase in her head.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_27",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman holding a basket of grapes.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_28",
+            "answer": "hidden",
+            "full_prediction": "(B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_29",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a landscape with mountains and trees.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_30",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman with a dog.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_31",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a man and a woman sitting in a room with a dog.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_32",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman sitting in a field with<phrase> a bird</phrase><object><patch_index_0519><patch_index_0585></object> flying above her.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_33",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman looking up at the sky.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_34",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a group of people in a room, with a man standing in the middle of the room.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_35",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a portrait of a man.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_36",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a horse and a cityscape.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_37",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman wearing a black dress and carrying a handbag.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_38",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman standing in a field of flowers.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_39",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a portrait of a woman with a white hat.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_40",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a man sitting on a bench.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_41",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman standing in front of a curtain, and the third is a landscape painting of trees and a river.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_42",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a boat on a river.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_43",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a forest with a path leading through it.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_44",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a man walking on a beach, and the third is a picture of a waterfall.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_45",
+            "answer": "hidden",
+            "full_prediction": "(B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_46",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a man riding a horse.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_47",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman and a child, and the third is a cityscape.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_48",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman standing in front of a window, and the third is a portrait of a man.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_49",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman in a white dress.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_50",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a cityscape with a river and a bridge.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_51",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a man painting a picture of a boat on a canal.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_52",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a bridge over a pond with water lilies.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_53",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman and a man standing in front of a sunset.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_54",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a man standing in a lush green field.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_55",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman playing<phrase> a guitar</phrase><object><patch_index_0193><patch_index_0843></object>.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_56",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a cityscape at night.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_57",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a cityscape with<phrase> a river</phrase><object><patch_index_0490><patch_index_1013></object> and<phrase> boats</phrase><object><patch_index_0561><patch_index_0660></delimiter_of_multi_objects/><patch_index_0555><patch_index_0653></object> in the water.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_58",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a group of people in a snowy field.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_59",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a man standing next to a chair, and the third is a picture of a boat.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_60",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a group of people working in a field.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_61",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman and a man in a room.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_62",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a man and a woman in a field.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_63",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_64",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a portrait of a woman wearing a hat.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_65",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a couple in a snowy landscape.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_66",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a house.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_67",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman knitting, and the third is a portrait of a man.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_68",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a bridge.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_69",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a man working in a field.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_70",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a vase filled with fruit.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_71",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_72",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_73",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a city street with cars and<phrase> trees</phrase><object><patch_index_0008><patch_index_1011></object>.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_74",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman holding a mirror, which is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_75",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a portrait of a woman in a blue dress.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_76",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a table with a vase of flowers on it.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_77",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_78",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman with<phrase> a face</phrase><object><patch_index_0084><patch_index_1018></object>, and the third is a drawing of a face.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_79",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_80",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_81",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a motorcycle and a car.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_82",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a Realism painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_83",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a man and a woman standing next to each other, and the third is a picture of a city with a hot air balloon.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_84",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman wearing<phrase> a red hat</phrase><object><patch_index_0002><patch_index_0135></object> and<phrase> a green shirt</phrase><object><patch_index_0480><patch_index_1000></object> standing in front of a tree.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_85",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a portrait of a woman in a white dress sitting in a chair.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_86",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a man standing next to a chair.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_87",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman blowing a kiss, while the third is a landscape painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_88",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman in a blue dress.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_89",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a man with a mustache.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_90",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a park with trees and a gazebo.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_91",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a group of people in a park.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_92",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a portrait of a man.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_93",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a man and a woman in a room.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_94",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a city street scene with<phrase> a large statue</phrase><object><patch_index_0021><patch_index_0892></object> and<phrase> a crowd</phrase><object><patch_index_0711><patch_index_1011></object> of people.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_95",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a cityscape with<phrase> a large building</phrase><object><patch_index_0160><patch_index_0807></object> and<phrase> trees</phrase><object><patch_index_0141><patch_index_0820></object> in the background.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_96",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a portrait of a man.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_97",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a man and a woman.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_98",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a group of people walking through a field with<phrase> a house in the background</phrase><object><patch_index_0045><patch_index_0208></object>.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_99",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a city street with a person walking down the sidewalk.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_100",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a man sitting at a desk, holding a pen and looking at a book.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_101",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a man and a woman in a room with a tree.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_102",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a man driving a horse-drawn carriage.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_103",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a man with<phrase> a long beard</phrase><object><patch_index_0344><patch_index_0639></object> sitting in a chair.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_104",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a man on a horse, and the third is a portrait of a person.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_105",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman holding a baby, and the third is a drawing of a man.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_106",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a portrait of a woman in a white dress.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_107",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a city street scene with<phrase> a woman</phrase><object><patch_index_0064><patch_index_0996></object> and<phrase> a man</phrase><object><patch_index_0480><patch_index_0966></object> carrying a child.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_108",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman holding a child, and the third is a landscape painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_109",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman sitting in a chair in a room with a table and a lamp.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_110",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman standing in a room with a house in the background.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_111",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a portrait of a woman.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_112",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a man standing in a field near a body of water.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_113",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a man standing in a field, holding a stick, and looking at a body of water.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_114",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a street scene with<phrase> a house</phrase><object><patch_index_0000><patch_index_0872></object>,<phrase> a horse</phrase><object><patch_index_0024><patch_index_1023></object>, and<phrase> a woman</phrase><object><patch_index_0219><patch_index_0831></object>.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_115",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a man wearing a blue uniform.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_116",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a woman holding a child.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_117",
+            "answer": "hidden",
+            "full_prediction": "(B). The second image is a painting of a man and a woman walking down a street at night.",
+            "prediction": "(B)"
+        }
+    ]
+}

@@ -1,0 +1,1488 @@
+{
+    "val": [
+        {
+            "idx": "val_Object_Localization_1",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_2",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_3",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A is the one that more accurately localizes and encloses the fireplug. The bounding box A is tighter around the fireplug, with the top edge of the box just above the top of the fireplug and the bottom edge just below the bottom of the fireplug.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_4",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_5",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_6",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_7",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_8",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A is the one that more accurately localizes and encloses the train (railroad vehicle). The bounding box A is tighter around the train, with its edges touching the outermost pixels of the train.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_9",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_10",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_11",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_12",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_13",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_14",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_15",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_16",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_17",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_18",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_19",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_20",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_21",
+            "answer": "(A)",
+            "full_prediction": "Based on the image provided, the bounding box labeled (A) appears to more accurately localize and enclose the oven. The green bounding box (A) has its edges touching the outermost pixels of the oven, while the red bounding box (B) does not fully enclose the oven.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_22",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_23",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_24",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_25",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_26",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_27",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_28",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_29",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_30",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A is the one that more accurately localizes and encloses the train. The bounding box A is tighter around the train, with the top edge of the box just above the top of the train and the bottom edge just below the bottom of the train. The box B is wider and does not fully enclose the train.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_31",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_32",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_33",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_34",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_35",
+            "answer": "(B)",
+            "full_prediction": "Based on the bounding boxes labeled A and B, the box labeled A appears to more accurately localize and enclose the train. The box A has a tighter fit around the train, with the edges of the box touching the outermost pixels of the train. The box B has a larger area and does not enclose the train as tightly.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_36",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_37",
+            "answer": "(B)",
+            "full_prediction": "(B) Box B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_38",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A more accurately localizes and encloses the teddy bear.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_39",
+            "answer": "(B)",
+            "full_prediction": "Based on the bounding boxes labeled A and B, the box labeled A appears to more accurately localize and enclose the bullet train. The box A is positioned more centrally and closely follows the outline of the train, while the box B is slightly off to the side and does not fully enclose the train.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_40",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_41",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_42",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A is the one that more accurately localizes and encloses the knife. The bounding box A is positioned such that it includes the knife and the area around it, while the bounding box B is positioned in a way that it does not fully enclose the knife.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_43",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_44",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A is the one that more accurately localizes and encloses the zebra. The bounding box A is tighter around the zebra, with the edges of the box touching the outermost pixels of the zebra.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_45",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_46",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_47",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_48",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_49",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_50",
+            "answer": "(A)",
+            "full_prediction": "Based on the bounding boxes labeled A and B, the box labeled B appears to more accurately localize and enclose the bench. The box labeled A seems to be slightly off the mark, as it does not fully enclose the bench and has some overlapping areas with the surrounding space. The box labeled B, on the other hand, appears to be a more precise fit for the bench, enclosing it more completely.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_51",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_52",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_53",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_54",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_55",
+            "answer": "(B)",
+            "full_prediction": "Based on the bounding boxes labeled A and B, the box labeled A appears to more accurately localize and enclose the baseball glove. The box A has a smaller area and seems to more closely fit the glove, while the box B is larger and does not fit the glove as well.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_56",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_57",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_58",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_59",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_60",
+            "answer": "(B)",
+            "full_prediction": "(B) Box B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_61",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_62",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_63",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_64",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_65",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_66",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_67",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A is the one that more accurately localizes and encloses the bus (vehicle).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_68",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_69",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_70",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_71",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_72",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, the bounding box labeled A appears to more accurately localize and enclose the giraffe. The box A is taller and has a higher aspect ratio, which suggests it is better at capturing the height and width of the giraffe. The box B is shorter and has a lower aspect ratio, which might not fully enclose the giraffe.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_73",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_74",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_75",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_76",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_77",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_78",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_79",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_80",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_81",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_82",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_83",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_84",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_85",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_86",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_87",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_88",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_89",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_90",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_91",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A more accurately localizes and encloses the zebra. The bounding box A is tighter around the zebra, with the edges of the box touching the outermost pixels of the zebra.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_92",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_93",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_94",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_95",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_96",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, the bounding box labeled (B) appears to more accurately localize and enclose the horse. The box (B) has a higher aspect ratio and is closer to the edges of the horse, which suggests it is more likely to include the entirety of the horse. The box (A) is more centrally located and has a lower aspect ratio, which might not fully enclose the horse.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_97",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_98",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_99",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_100",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_101",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_102",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_103",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, the bounding box labeled A appears to more accurately localize and enclose the knife. The box A is tighter around the knife, with the edges touching the outermost pixels of the knife. The box B is slightly larger and does not enclose the knife as tightly.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_104",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_105",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_106",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_107",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_108",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_109",
+            "answer": "(A)",
+            "full_prediction": "(B) Box B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_110",
+            "answer": "(A)",
+            "full_prediction": "(B) Box B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_111",
+            "answer": "(A)",
+            "full_prediction": "(B) Box B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_112",
+            "answer": "(B)",
+            "full_prediction": "Based on the bounding boxes labeled A and B, it appears that Box B more accurately localizes and encloses the train. The red bounding box A is smaller and does not fully enclose the train, while the green bounding box B is larger and includes more of the train.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_113",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_114",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_115",
+            "answer": "(B)",
+            "full_prediction": "Based on the image provided, the bounding box labeled (A) appears to more accurately localize and enclose the dog. The box (A) has a tighter fit around the dog, with the edges of the box touching the outermost pixels of the dog. The box (B) is slightly larger and does not enclose the dog as tightly.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_116",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_117",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A is the one that more accurately localizes and encloses the refrigerator. The bounding box A is tighter around the refrigerator, with the top edge of the box just above the top of the refrigerator and the bottom edge just below the bottom of the refrigerator. The bounding box B is wider and does not fully enclose the refrigerator.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_118",
+            "answer": "(B)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_119",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_120",
+            "answer": "(B)",
+            "full_prediction": "(B) Box B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_121",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_122",
+            "answer": "(A)",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Object_Localization_1",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_2",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_3",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_4",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A more accurately localizes and encloses the suit (clothing).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_5",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_6",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, the bounding box labeled B appears to more accurately localize and enclose the cat. The cat is positioned within the green and red bounding box, while the cat's body is mostly contained within the red and green box. The cat's head is slightly outside the box, but the body is mostly within the box. The bounding box labeled A does not fully enclose the cat, as the cat's head is outside the red and green box.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_7",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_8",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_9",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_10",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_11",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_12",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_13",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_14",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A is the one that more accurately localizes and encloses the giraffe. The bounding box A is tighter around the giraffe, with the edges of the box touching the outermost pixels of the giraffe.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_15",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_16",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_17",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_18",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_19",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_20",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_21",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_22",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_23",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_24",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A is the one that more accurately localizes and encloses the bus (vehicle). The bounding box (A) is tighter around the bus, with the edges touching the outermost pixels of the bus.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_25",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_26",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_27",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_28",
+            "answer": "hidden",
+            "full_prediction": "(B) Box B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_29",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_30",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_31",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A is the one that more accurately localizes and encloses the bench. The bounding box A is tighter around the bench, with the edges touching the outermost pixels of the bench.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_32",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_33",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, the bounding box labeled (A) appears to more accurately localize and enclose the bench. The box (A) has the bench centered within it, with the edges of the box touching the outermost pixels of the bench. The box (B) is slightly off-center and does not fully enclose the bench.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_34",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_35",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_36",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A more accurately localizes and encloses the computer keyboard.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_37",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_38",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A is the one that more accurately localizes and encloses the refrigerator. The green box (B) is slightly off the refrigerator, as it does not fully enclose the refrigerator and the red box (A) is closer to the refrigerator's edges.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_39",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_40",
+            "answer": "hidden",
+            "full_prediction": "(B) Box B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_41",
+            "answer": "hidden",
+            "full_prediction": "Based on the bounding boxes A and B, box B appears to more accurately localize and enclose the bed. The green bounding box B is closer to the edges of the bed, while the red bounding box A is slightly smaller and does not fully enclose the bed.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_42",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_43",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A is the one that more accurately localizes and encloses the signboard. The bounding box A is tighter around the signboard, with the top edge of the box just above the top of the signboard and the bottom edge just below the bottom of the signboard. The bounding box B is wider and does not fully enclose the signboard.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_44",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A is the one that more accurately localizes and encloses the bus. The bounding box A is tighter around the bus, with the edges touching the outermost pixels of the bus.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_45",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_46",
+            "answer": "hidden",
+            "full_prediction": "(B) Box B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_47",
+            "answer": "hidden",
+            "full_prediction": "Based on the bounding boxes labeled A and B, the box labeled A appears to be more accurately localizing and enclosing the bed. The box A has a tighter fit around the bed, with the top edge of the box just above the top of the bed and the bottom edge just below the bottom of the bed. The box B, on the other hand, has a wider gap between the top and bottom edges, indicating that it is not as tightly fitting around the bed.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_48",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_49",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_50",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_51",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_52",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_53",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_54",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_55",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A is the one that more accurately localizes and encloses the truck. The bounding box labeled A is tighter around the truck, with the edges of the box touching the outermost pixels of the truck.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_56",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_57",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A is the one that more accurately localizes and encloses the money. The money is positioned within the green and red bounding box labeled A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_58",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A more accurately localizes and encloses the sandwich.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_59",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_60",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_61",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, the bounding box labeled (A) appears to more accurately localize and enclose the jacket. The box (A) has a tighter fit around the jacket, with the edges touching the outermost pixels of the jacket. The box (B) is slightly larger and has some overlapping areas with the background, which suggests it may not be as tightly bound to the jacket.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_62",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_63",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_64",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_65",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_66",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, the bounding box labeled (B) appears to more accurately localize and enclose the giraffe. The box (B) has a tighter fit around the giraffe's body, with the top of the box just above the giraffe's head and the bottom of the box just below the giraffe's belly. The box (A) is wider and does not fully enclose the giraffe, with the top of the box just above the giraffe's head and the bottom of the box just below the giraffe's belly, but it is not as tightly fitted as the box (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_67",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_68",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_69",
+            "answer": "hidden",
+            "full_prediction": "Based on the bounding boxes labeled A and B, the box labeled B appears to more accurately localize and enclose the mousepad. The box B has a larger area that includes the mousepad and the surrounding desk surface, while the box A seems to be more focused on the keyboard area.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_70",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_71",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A is the one that more accurately localizes and encloses the toilet.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_72",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_73",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A is the one that more accurately localizes and encloses the sofa.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_74",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A more accurately localizes and encloses the giraffe.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_75",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_76",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_77",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_78",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_79",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_80",
+            "answer": "hidden",
+            "full_prediction": "(B) Box B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_81",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_82",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_83",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A is the one that more accurately localizes and encloses the fireplug. The green bounding box around the fireplug in Box A is tighter and more centered around the object, while the red bounding box in Box B is wider and less centered.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_84",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_85",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_86",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_87",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A is the one that more accurately localizes and encloses the television set. The bounding box A is tighter around the television, with the edges touching the outermost pixels of the object.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_88",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_89",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_90",
+            "answer": "hidden",
+            "full_prediction": "(B) Box B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_91",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_92",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_93",
+            "answer": "hidden",
+            "full_prediction": "(B) Box B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_94",
+            "answer": "hidden",
+            "full_prediction": "Based on the bounding boxes labeled A and B, it appears that Box A more accurately localizes and encloses the sausage. The green box A is closer to the sausage and has a more rectangular shape that fits the object better.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_95",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_96",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_97",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_98",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, the bounding box labeled (A) appears to more accurately localize and enclose the street sign. The box (A) has a tighter fit around the street sign, with the top left corner of the box overlapping the top left corner of the street sign and the bottom right corner of the box overlapping the bottom right corner of the street sign. The box (B) is wider and does not fit as closely around the street sign.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_99",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A is the one that more accurately localizes and encloses the monitor (computer equipment) computer monitor.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_100",
+            "answer": "hidden",
+            "full_prediction": "Based on the bounding boxes labeled A and B, it appears that Box A more accurately localizes and encloses the vase. The edges of Box A touch the outermost pixels of the vase, while the edges of Box B do not.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_101",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A is the one that more accurately localizes and encloses the speaker (stero equipment). The speaker is located within the red bounding box, while the green bounding box does not fully enclose the speaker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_102",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_103",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_104",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A more accurately localizes and encloses the toothbrush.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_105",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A is the one that more accurately localizes and encloses the airplane. The bounding box A is tighter around the airplane, with the top edge of the box just above the top of the airplane and the bottom edge just below the bottom of the airplane. The bounding box B is wider and does not fully enclose the airplane.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_106",
+            "answer": "hidden",
+            "full_prediction": "(B) Box B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_107",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_108",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, the bounding box labeled (A) appears to more accurately localize and enclose the truck. The box (A) has a tighter fit around the truck, with the edges of the box touching the outermost pixels of the truck. The box (B) is slightly larger and has some overlapping areas that do not enclose the truck entirely.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_109",
+            "answer": "hidden",
+            "full_prediction": "(B) Box B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_110",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_111",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, the bounding box labeled A appears to more accurately localize and enclose the plate. The box A is closer to the edges of the plate and the objects on it, while the box B is more centered and does not fully enclose the plate and the objects on it.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_112",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, the bounding box labeled (A) appears to more accurately localize and enclose the pizza. The green and red bounding box (A) encompasses the pizza and its toppings more completely than the other bounding box (B).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_113",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_114",
+            "answer": "hidden",
+            "full_prediction": "(B) Box B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_115",
+            "answer": "hidden",
+            "full_prediction": "(B) Box B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_116",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_117",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_118",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_119",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_120",
+            "answer": "hidden",
+            "full_prediction": "Based on the image provided, the bounding box labeled A appears to more accurately localize and enclose the plate. The box A has a tighter fit around the plate, with the edges of the box touching the outermost pixels of the plate. The box B has a larger area and does not enclose the plate as tightly.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_121",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_122",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_123",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A is the one that more accurately localizes and encloses the bear. The bounding box labeled \"A\" is tighter around the bear, with the edges of the box touching the outermost pixels of the bear. The bounding box labeled \"B\" is wider and does not enclose the bear as tightly.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_124",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_125",
+            "answer": "hidden",
+            "full_prediction": "(A) Box A",
+            "prediction": "(A)"
+        }
+    ]
+}

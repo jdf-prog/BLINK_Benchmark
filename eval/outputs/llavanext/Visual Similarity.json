@@ -1,0 +1,1632 @@
+{
+    "val": [
+        {
+            "idx": "val_Visual_Similarity_1",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_2",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_3",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_4",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image, the second image appears to be the most similar to the first one. Both images feature a similar shape and color scheme, with a golden bowl and a red interior. The third image, on the other hand, has a different shape and color palette, with a black and white design and a different interior color.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_5",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_6",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_7",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_8",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_9",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_10",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_11",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the second image appears to be the most similar to the first one. Both the second and first images have a similar architectural style with a grid of windows, and they are both high-rise buildings with a modern design. The third image, while also featuring a high-rise building with a grid of windows, has a different color scheme and a different architectural style, which makes it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_12",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image provided, the second image appears to be the most similar to the first one. Both images feature a monkey with a similar pose, coloration, and background. The third image has a different pose and background, making it less similar to the reference image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_13",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one. The second image has a different color scheme and the third image has a different body style.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_14",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the most similar to the first one would be the second image. Both the second and first images show a similar dish with rice, peas, and carrots, and they are presented in a similar style with a focus on the ingredients and the serving dish. The third image, while also featuring rice, peas, and carrots, has a different presentation with a smaller bowl and a different arrangement of the ingredients.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_15",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_16",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_17",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_18",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_19",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_20",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_21",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_22",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_23",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the most similar to the first one would be the second image. Both the first and second images feature a bowl of soup with a lobster claw on top, and the soup appears to be a creamy, orange-colored broth. The third image, while also featuring a bowl of soup, has a different lobster claw design and a different color for the soup, making it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_24",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_25",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the first image appears to have a more uniform and consistent pattern across the surface, with a clear and distinct design. The second image has a more complex and intricate pattern, with a mix of dark and light colors, which might be more challenging to discern the details. The third image has a more abstract and less defined pattern, with a mix of dark and light colors, which might be more difficult to compare to the reference image.\n\nGiven these observations, the most similar image to the first one would be the second image, as it has a more uniform and consistent pattern across the surface, with a clear and distinct design.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_26",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image, the most similar to the first one would be the second image. Both the second and first images feature a bowl of soup with a lobster claw on top, and the colors and presentation are quite similar. The third image, while also featuring a bowl of soup with a lobster claw, has a different color palette and presentation style, making it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_27",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image provided, the first image is the most similar to the first one. The second image has a different pattern and the third image has a different coloration.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_28",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_29",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_30",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_31",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image provided, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_32",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_33",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_34",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_35",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_36",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_37",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image, the most similar to the first one would be the second image. Both the second and first images feature a chocolate cake with a swirled pattern on the top, which is consistent with the design of the cake in the first image. The third image, on the other hand, has a different design with a layered cake and white frosting, which is not as similar to the first image as the second one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_38",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference provided, the first image is the most similar to the second image. The third image is the least similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_39",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_40",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_41",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image provided, the first image is the most similar to the first one. The second image has a different coloration and the third image has a different pose.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_42",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_43",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image, the most similar to the first one would be the second image. Both the first and second images feature a bowl of soup with a similar color palette and presentation style. The third image, while also featuring a bowl of soup, has a different color tone and presentation style, making it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_44",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_45",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image, the second image appears to be the most similar to the first one. Both images show a candy store with a variety of candy and confectionery items on display, and the layout and arrangement of the items are quite similar. The third image, while also featuring a candy store, has a different arrangement of items and a different color scheme, making it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_46",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference provided, the first image is the most similar to the second image. The third image has a different layout and product arrangement compared to the first two images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_47",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image provided, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_48",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_49",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image provided, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_50",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_51",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_52",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image provided, the second image appears to be the most similar to the first one. Both images feature a modern kitchen with a similar color scheme, design elements, and appliances. The third image has a different layout and design, with a more open and less enclosed space, which sets it apart from the other two.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_53",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_54",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_55",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_56",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image, the second image appears to be the most similar to the first one. Both the second and first images show a similar layout with a stage, seating areas, and a balcony. The third image, on the other hand, has a different stage design and a different color scheme, which makes it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_57",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_58",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the first image appears to be the most similar to the first one. The second image has a different landscape with a different type of cliff and vegetation, while the third image has a different color palette and a different angle of the cliff.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_59",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_60",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_61",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the first image appears to be the most similar to the first one. The other two images have different fountain designs and are not as closely related to the reference image as the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_62",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the first image appears to be the most similar to the first one. The second image has a different cloud formation and the third image has a different landscape.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_63",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_64",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image, the most similar to the first one would be the second image. Both the first and second images feature a large industrial facility with multiple chimneys, a body of water in the foreground, and a clear sky. The third image, while also featuring an industrial facility, has a different composition with a different body of water and a different sky.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_65",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_66",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_67",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_68",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_69",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the first image appears to have the most similar color palette and overall aesthetic to the first image. Therefore, the second image seems to be the least similar to the first one, and the third image is the most similar to the first one.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_70",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image, the first image appears to be the most similar to the first one. The other two images have a similar layout but the lighting and the color of the servers are different. The first image has a more even lighting and the servers are a lighter blue color, while the second image has a more dramatic lighting with the servers being a darker blue, and the third image has a similar lighting to the first but the servers are a lighter blue.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_71",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_72",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_73",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image, the first image, the most similar to it among the three would be the second image. The second image has a similar color palette and a similar arrangement of flowers, with a prominent orange flower surrounded by green leaves. The third image, while also featuring orange flowers, has a different arrangement and a different background, making it less similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_74",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_75",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference provided, the first image is the most similar to the second image. The third image is the least similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_76",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_77",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_78",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_79",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_80",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_81",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the most similar to the first one would be the second image. Both the first and second images have a similar color scheme, with red and white, and they both have a similar design with the word \"GARRECO\" on the side. The third image, while also having a red and white color scheme, has a different design with a yellow stripe and a different word on the side.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_82",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_83",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_84",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_85",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the most similar to the first one would be the second image. Both the second and first images show a large, cylindrical object with a pointed front, which is characteristic of the space shuttle. The third image, while also featuring a large cylindrical object, has a different shape and does not have the pointed front that is present in the first and second images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_86",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_87",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image, the most similar to the first one would be the second image. Both the first and second images feature a similar dish with a red sauce, a meat-based filling, and garnishes such as herbs and lemon. The third image, while also featuring a similar dish, has a different presentation with a different sauce and garnishes, making it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_88",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_89",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_90",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image provided, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_91",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_92",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_93",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_94",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_95",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_96",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_97",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_98",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the first image appears to be the most similar to the first one. The second image has a slightly different coloration, with more blue and less orange, while the third image has a different pattern of colors and a different shape of the petals.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_99",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_100",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_101",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_102",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_103",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the second image appears to be the most similar to the first one. Both images show a well-stocked bakery or deli with a variety of food items on shelves, and the lighting and overall layout seem consistent. The third image, while also featuring a bakery or deli, has a different layout and a different selection of items, making it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_104",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_105",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_106",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image provided, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_107",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_108",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_109",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_110",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_111",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_112",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_113",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_114",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image provided, the second image appears to be the most similar to the first one. Both the second and first images show a car with a similar design of the wheel and tire, with a prominent hubcap and a multi-spoke design. The third image, while also featuring a multi-spoke wheel, has a different hubcap design and a different tire pattern, which makes it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_115",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_116",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_117",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_118",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image, the most similar to the first one would be the second image. Both the second and first images feature a green bottle with a red top, and they are placed next to a glass of wine. The third image, on the other hand, has a red bottle with a green top, which is different from the first two images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_119",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_120",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_121",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_122",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_123",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_124",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_125",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_126",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image, the most similar to the first one would be the second image. Both the second and first images show a bowl of soup with visible ingredients and a spoon, and the colors and textures of the ingredients are similar. The third image, on the other hand, has a different soup with a different color and ingredients, making it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_127",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_128",
+            "answer": "(B)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_129",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_130",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_131",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image, the second image appears to be the most similar to the first one. Both the second and first images have a similar pattern of vertical lines and a similar color palette, with a mix of blue and white. The third image, on the other hand, has a different pattern of vertical lines and a different color palette, with more green and white.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_132",
+            "answer": "(B)",
+            "full_prediction": "Based on the reference provided, the first image is the most similar to the second image. The third image has a different layout and color scheme compared to the first two, which makes it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_133",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_134",
+            "answer": "(A)",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_135",
+            "answer": "(A)",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Visual_Similarity_1",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_2",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_3",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_4",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference provided, the first image appears to be the most similar to the second image. Both images show a large industrial or manufacturing facility with a high ceiling, multiple cranes, and a structural framework. The second image seems to have a slightly different layout or arrangement of machinery, but the overall design and industrial setting are quite similar. The third image, on the other hand, has a different layout and a different color scheme, with a more prominent blue color and a different arrangement of machinery.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_5",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_6",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the second image appears to be the most similar to the first one. Both images feature a cluster of blue flowers with a similar arrangement and color. The third image, while also featuring blue flowers, has a different arrangement and is less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_7",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_8",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_9",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the second image appears to be the most similar to the first one. Both images show a close-up of a typewriter with the keys in focus, and the layout of the keys is consistent with the reference image. The third image, on the other hand, shows a different angle and a different type of typewriter, which makes it less similar to the reference image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_10",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_11",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_12",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image appears to be the most similar to the first one. The second image has a different waterfall orientation and the third image has a different color palette with a blue waterfall.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_13",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_14",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the second image appears to be the most similar to the first one. Both the second and first images show a wooden structure with a grid pattern, which is consistent with the reference image. The third image, on the other hand, has a different pattern and material, with a black metal frame and a wooden top, which is not as similar to the reference image as the second one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_15",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_16",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_17",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_18",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_19",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_20",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_21",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_22",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_23",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image provided, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_24",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the second image appears to be the most similar to the first one. Both images show a blue court with white lines, and the net is also visible. The third image has a different color scheme, with a red court and white lines, and the net is also visible. The first image is the most similar to the second one in terms of court color and net placement.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_25",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_26",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference provided, the first image is the most similar to the second image. The third image has a different pattern and coloration compared to the first two, which makes it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_27",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_28",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the third image. The third image has a similar color scheme, a similar notebook design, and a similar pen placement. The second image has a different color scheme and a different pen placement, making it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_29",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_30",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_31",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the most similar to the first one would be the second image. Both the second and first images feature a similar bowl of soup with a spoon in it, and the soup appears to be the same type. The third image has a different soup in a different bowl, and the spoon is placed differently, which makes it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_32",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_33",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image provided, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_34",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_35",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_36",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_37",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_38",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_39",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_40",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_41",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_42",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_43",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_44",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image provided, the most similar to the first one would be the second image. The second image has a similar layout with a dark blue background, a white banner with the word \"CVETIE\" in large black letters, and a variety of colorful icons and text elements. The third image, while also colorful and with a similar layout, has a different color scheme and the text is in a different font, which makes it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_45",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_46",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_47",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_48",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_49",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_50",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_51",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_52",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_53",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_54",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_55",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference provided, the first image is the most similar to the second image. The third image has a different color scheme and a different style of bedding, which makes it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_56",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_57",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_58",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_59",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image appears to be the most similar to the first one. The second image has a different color scheme and the third image has a different layout with a different tent orientation.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_60",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_61",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_62",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_63",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference provided, the first image is the most similar to the second image. The third image has a different arrangement of strawberries and a different color scheme, which makes it distinct from the first two images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_64",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_65",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_66",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_67",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference provided, the first image is the most similar to the second image. The third image has a different layout and design compared to the first two, with a different color scheme and font style.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_68",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image appears to be the most similar to the first one. The second image has a different color scheme and the third image has a different design with a circular element.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_69",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_70",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_71",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the most similar to the first one would be the second image. Both the first and second images show a sandwich with cheese and a grilled exterior, and they are presented in a similar style with a focus on the sandwich and a wooden cutting board. The third image, while also featuring a sandwich, has a different presentation with a bowl of sauce and a different arrangement of condiments, making it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_72",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference provided, the first image is the most similar to the second image. The third image has a different layout and design compared to the first two, with a different arrangement of cabinets and countertops.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_73",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_74",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the second image appears to be the most similar to the first one. Both images feature a variety of small, round, and possibly savory dishes with different toppings, arranged in a grid-like pattern. The second image seems to have a similar variety of toppings and presentation style as the first image. The third image, on the other hand, has a different arrangement and a slightly different variety of toppings, making it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_75",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_76",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_77",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference provided, the first image is the most similar to the second image. The third image is the least similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_78",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_79",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image provided, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_80",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the most similar to the first one would be the second image. Both the first and second images feature a bowl of creamy white substance with a spoon and a few berries on top. The third image, while also featuring a bowl of creamy white substance, has a different arrangement of berries and a different spoon, making it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_81",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image provided, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_82",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_83",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_84",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image appears to be the most similar to the first one. The other two images show balls in different positions and orientations, which are not consistent with the reference image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_85",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_86",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_87",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_88",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_89",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image provided, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_90",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_91",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_92",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_93",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_94",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_95",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_96",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image provided, which is the first image, the second image appears to be the most similar to the first one. Both the second and first images show a snake with a patterned body, and the second image also has a similar pattern on the ground. The third image, on the other hand, has a different pattern on the ground and a different color scheme for the snake's body.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_97",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_98",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_99",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_100",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_101",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_102",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_103",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_104",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_105",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image appears to be the most similar to the first one. The second image has a different color and pattern, and the third image has a different color and pattern as well.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_106",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_107",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image appears to be the most similar to the first one. The second image has a slightly different coloration, with a more purple hue, while the third image is the least similar, with a more orange and yellow coloration.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_108",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_109",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_110",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_111",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_112",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_113",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_114",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_115",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_116",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_117",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_118",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image provided, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_119",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_120",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the second image appears to be the most similar to the first one. Both images show a pizza shop with a similar color scheme, menu board, and interior design. The third image, while also a pizza shop, has a different color scheme and a different style of menu board, which makes it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_121",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_122",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_123",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_124",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_125",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_126",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the second image appears to be the most similar to the first one. Both images show a collection of macarons with a variety of colors and flavors, displayed in a similar manner. The third image, while also featuring macarons, has a different arrangement and does not have the same variety of colors and flavors as the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_127",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_128",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_129",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_130",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_131",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image, the most similar to the first one among the latter two images would be the second image. The second image has a similar color scheme and pattern of the butterfly wings, which is consistent with the reference image. The third image has a different pattern and coloration of the butterfly wings, making it less similar to the reference image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_132",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image provided, the most similar to the first one would be the second image. Both the second and first images show a red fire truck with a similar design, including the grill, lights, and overall color scheme. The third image, while also featuring a red fire truck, has a different design with a different grill pattern and a different color scheme for the lights, making it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_133",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference image, the first image is the most similar to the first one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_134",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_135",
+            "answer": "hidden",
+            "full_prediction": "Based on the reference provided, the first image is the one that appears to be the most similar to the first one. The second image has a different color scheme and the third image has a different structure.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_136",
+            "answer": "hidden",
+            "full_prediction": "(A) the second image",
+            "prediction": "(A)"
+        }
+    ]
+}

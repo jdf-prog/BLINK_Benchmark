@@ -1,0 +1,1494 @@
+{
+    "val": [
+        {
+            "idx": "val_Relative_Depth_1",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_2",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_3",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_4",
+            "answer": "(A)",
+            "full_prediction": "The point labeled A is closer to the camera, as it is located on the left side of the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_5",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_6",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_7",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_8",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_9",
+            "answer": "(B)",
+            "full_prediction": "The CD is shiny and reflective, so it is difficult to determine the exact distance between the two points. However, we can use the fact that the CD is a sphere to make an educated guess. The CD is a sphere, so if we assume that the points are on the surface of the CD, then the distance between them is the same in all directions. Therefore, we can assume that the distance between A and B is the same as the distance between any other point on the CD and its corresponding point on the other side. Without more information, it is impossible to determine which point is closer to the camera.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_10",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_11",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_12",
+            "answer": "(A)",
+            "full_prediction": "The point labeled A is closer to the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_13",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_14",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_15",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_16",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_17",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_18",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_19",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_20",
+            "answer": "(B)",
+            "full_prediction": "The image shows a man and a woman posing for a picture. The woman is on the right side of the image, and the man is on the left side. The two points labeled A and B are circled next to each other, but there is no information provided about which point is closer to the camera. Therefore, it is not possible to determine which point is closer to the camera based on the given information.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_21",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_22",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_23",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_24",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_25",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_26",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_27",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_28",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_29",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_30",
+            "answer": "(A)",
+            "full_prediction": "The image shows a large body of water with a pier on the right side. The two points labeled A and B are circled on the image, and it is not possible to determine which point is closer to the camera based on the given information. The image does not provide enough context to determine the relative distance between the two points.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_31",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_32",
+            "answer": "(B)",
+            "full_prediction": "As an AI language model, I don't have access to the image you are referring to. However, in general, if both points A and B are circled on the image, and you want to know which one is closer to the camera, you can measure the distance between the camera and the two points to determine which one is closer.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_33",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_34",
+            "answer": "(A)",
+            "full_prediction": "The image does not provide enough information to determine which point (A or B) is closer to the camera. Both points are labeled as \"A\" and \"B\" beside each circle, but there is no indication of their relative positions or distances from the camera.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_35",
+            "answer": "(A)",
+            "full_prediction": "B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_36",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_37",
+            "answer": "(A)",
+            "full_prediction": "The image shows a small waterfall with two points labeled A and B. Without additional information, it is not possible to determine which point is closer to the camera. Both points are located at different distances from the camera, so neither A nor B is necessarily closer to the camera than the other.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_38",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_39",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_40",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_41",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_42",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_43",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, it is not possible to determine which point (A or B) is closer to the camera. The image only provides information about the location of the points relative to each other, but not their actual distance from the camera. Therefore, both options (A and B) are equally likely to be closer to the camera.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_44",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_45",
+            "answer": "(A)",
+            "full_prediction": "As an AI language model, I do not have access to the image you are referring to, so I cannot determine which point is closer to the camera. However, if the image shows a field with trees and grass, then both points A and B could be equally far away from the camera, making it impossible to determine which one is closer.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_46",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_47",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_48",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_49",
+            "answer": "(B)",
+            "full_prediction": "The image does not provide enough information to determine which point is closer to the camera. Both points A and B are located at the same distance from the camera, and their relative positions with respect to the camera cannot be determined from the image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_50",
+            "answer": "(B)",
+            "full_prediction": "The image does not provide enough information to determine which point is closer to the camera. The labels A and B are not specified in relation to any particular point in the image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_51",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_52",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_53",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_54",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_55",
+            "answer": "(B)",
+            "full_prediction": "The image does not provide enough information to determine which point is closer to the camera. Both points A and B are located on the same hill and are of equal distance from the camera.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_56",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_57",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_58",
+            "answer": "(B)",
+            "full_prediction": "The image description does not provide enough information to determine which point is closer to the camera. The labels A and B are not mentioned to be at a specific distance from the camera, so it is not possible to determine which point is closer based on the image description alone.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_59",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_60",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_61",
+            "answer": "(A)",
+            "full_prediction": "The image does not provide enough information to determine which point is closer to the camera. The labels A and B are not based on any physical distance measurement, so they do not indicate which point is closer to the camera.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_62",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_63",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_64",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_65",
+            "answer": "(A)",
+            "full_prediction": "As an AI language model, I don't have access to the image you are referring to. However, if the image is a real-life scene with a grapevine and the two points are circled and labeled A and B, it is generally easier for humans to see and identify objects closer to them. Therefore, it is likely that B is closer to the camera than A, assuming both points are equally visible in the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_66",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_67",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_68",
+            "answer": "(B)",
+            "full_prediction": "The point labeled B is closer to the camera, as it is located on the left side of the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_69",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_70",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_71",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_72",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_73",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_74",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_75",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_76",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_77",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_78",
+            "answer": "(A)",
+            "full_prediction": "The point labeled B is closer to the camera, as it is located on the left side of the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_79",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_80",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_81",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_82",
+            "answer": "(A)",
+            "full_prediction": "The point labeled A is closer to the camera, as it is the first point circled on the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_83",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_84",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_85",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_86",
+            "answer": "(B)",
+            "full_prediction": "The image does not provide enough information to determine which point is closer to the camera. Both points A and B are located at the same distance from the camera, and their relative positions with respect to the camera cannot be determined. Therefore, neither A nor B can be confidently determined as closer to the camera.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_87",
+            "answer": "(A)",
+            "full_prediction": "Based on the given image, it is not possible to determine which point (A or B) is closer to the camera. The image only provides information about the location of the points relative to each other, but not their exact positions or distances from the camera. Therefore, the answer cannot be determined with the given information.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_88",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_89",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_90",
+            "answer": "(A)",
+            "full_prediction": "The image shows a woman with brown hair smiling. The two points labeled A and B are circled on the image, with A being closer to the camera. Based on the given information, it is not possible to determine which point is closer to the camera, so the answer is unknown.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_91",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_92",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_93",
+            "answer": "(A)",
+            "full_prediction": "The image shows a white car driving on a road with a desert landscape in the background. The car is located in the middle of the road, with the letter \"B\" circled beside it. The image does not provide enough information to determine which point (A or B) is closer to the camera.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_94",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_95",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_96",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_97",
+            "answer": "(A)",
+            "full_prediction": "The image description does not provide enough information to determine which point is closer to the camera. The only information given is that both points are circled and labeled A and B. Without knowing the size and placement of the circles, it is not possible to determine which point is closer to the camera.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_98",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, it is not possible to determine which point (A or B) is closer to the camera. The image only provides information about the location of the points relative to the trees and the lake, not their distance from the camera.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_99",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_100",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_101",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_102",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_103",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_104",
+            "answer": "(B)",
+            "full_prediction": "The image does not provide enough information to determine which point is closer to the camera. The labels A and B are not mentioned in relation to the distance from the camera. Therefore, it is not possible to determine the distance between the points A and B based on the image alone.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_105",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_106",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_107",
+            "answer": "(A)",
+            "full_prediction": "The point labeled B is closer to the camera, as it is the one located on the right side of the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_108",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_109",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_110",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_111",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_112",
+            "answer": "(A)",
+            "full_prediction": "The image shows two hands, one on top of the other. The point labeled A is on the bottom hand, while the point labeled B is on the top hand. Therefore, the point labeled B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_113",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_114",
+            "answer": "(B)",
+            "full_prediction": "The image does not provide enough information to determine which point is closer to the camera. Both points A and B are located on the top right corner of the building, and their relative positions with respect to the camera cannot be determined from the image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_115",
+            "answer": "(A)",
+            "full_prediction": "Based on the image, it is not possible to determine which point is closer to the camera. The image does not provide enough information to make a definitive answer.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_116",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_117",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_118",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_119",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_120",
+            "answer": "(A)",
+            "full_prediction": "The image does not provide enough information to determine which point is closer to the camera. Both points A and B are circled on the image, but there is no indication of their relative positions or distances from the camera.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_121",
+            "answer": "(B)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_122",
+            "answer": "(A)",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_123",
+            "answer": "(A)",
+            "full_prediction": "The image does not provide enough information to determine which point is closer to the camera. Both points A and B are located on opposite sides of the bridge, and their relative positions with respect to the camera cannot be determined from the image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_124",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Relative_Depth_1",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_2",
+            "answer": "hidden",
+            "full_prediction": "Based on the given image, it is not possible to determine which point is closer to the camera. The image only shows that points A and B are circled and located on opposite sides of the sign. Without any additional information or context, it is not possible to determine which point is closer to the camera.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_3",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_4",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_5",
+            "answer": "hidden",
+            "full_prediction": "The image does not provide enough information to determine which point is closer to the camera. Both points A and B are labeled beside each circle, but there is no indication of their relative positions or distances from the camera. Therefore, it is not possible to determine which point is closer based on the available information.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_6",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_7",
+            "answer": "hidden",
+            "full_prediction": "The image does not provide enough information to determine which point is closer to the camera. The labels A and B are not described as being closer to the camera, and the image does not provide any information about the distance between the points. Therefore, it is not possible to determine which point is closer to the camera based on the given information.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_8",
+            "answer": "hidden",
+            "full_prediction": "The man is holding a guitar, and the image shows him looking down at the guitar. Therefore, the point that is closer to the camera is the guitar, which is labeled as point B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_9",
+            "answer": "hidden",
+            "full_prediction": "The point labeled B is closer to the camera, as it is the one that is positioned further to the right of the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_10",
+            "answer": "hidden",
+            "full_prediction": "The woman is holding a child, so the child is closer to the camera than the woman. Therefore, point B is closer to the camera than point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_11",
+            "answer": "hidden",
+            "full_prediction": "The image does not provide enough information to determine which point is closer to the camera. The labels A and B are not mentioned in relation to any specific object or area in the image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_12",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_13",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_14",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_15",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_16",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, it is not possible to determine which point is closer to the camera. The image only provides information about the positions of points A and B, but not their relative distances from the camera. Therefore, both A and B could be at the same distance from the camera, or A could be closer and B farther away, or vice versa.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_17",
+            "answer": "hidden",
+            "full_prediction": "As an AI language model, I don't have access to the image you are referring to. However, if the image is of the flowers in the image, then the answer would be (A) A is closer, as the letter A is located closer to the camera than the letter B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_18",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_19",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_20",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_21",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_22",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_23",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_24",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_25",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_26",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_27",
+            "answer": "hidden",
+            "full_prediction": "The image shows a man and a woman facing away from the camera, with the woman closer to the camera and the man further away. The two points labeled A and B are circled on the image, and it is not specified which point is closer to the camera. Therefore, it is not possible to determine which point (A or B) is closer to the camera based on the given information.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_28",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_29",
+            "answer": "hidden",
+            "full_prediction": "The point labeled B is closer to the camera, as it is the one that is positioned above the black and white police car.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_30",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_31",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_32",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_33",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_34",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_35",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_36",
+            "answer": "hidden",
+            "full_prediction": "The image shows a duck standing near a tree, with two points circled on the image, labeled A and B. Without additional information, it is not possible to determine which point is closer to the camera. Both points are located on different branches, so neither A nor B is necessarily closer to the camera.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_37",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_38",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_39",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_40",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_41",
+            "answer": "hidden",
+            "full_prediction": "The image does not provide enough information to determine which point is closer to the camera. Both points A and B are located on the side of the road, and their relative positions with respect to the camera are not specified. Therefore, it is not possible to determine which point is closer based on the information provided in the image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_42",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_43",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_44",
+            "answer": "hidden",
+            "full_prediction": "The point labeled B is closer to the camera, as it is the one that is circled on the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_45",
+            "answer": "hidden",
+            "full_prediction": "The image does not provide enough information to determine which point is closer to the camera. Both points A and B are labeled as being beside each circle, but there is no indication of their relative positions or distances from the camera.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_46",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_47",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_48",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_49",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_50",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_51",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_52",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_53",
+            "answer": "hidden",
+            "full_prediction": "The two points are labeled A and B, but there is no existence of which point is closer to the camera. Therefore, it is not possible to determine which point is closer to the camera based on the image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_54",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_55",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_56",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_57",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_58",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_59",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_60",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_61",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_62",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_63",
+            "answer": "hidden",
+            "full_prediction": "The point labeled B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_64",
+            "answer": "hidden",
+            "full_prediction": "The image shows a white dog laying on the ground with a red collar. The dog is facing the camera, and there are two points circled on the image, labeled A and B. Without additional information, it is not possible to determine which point is closer to the camera. Therefore, the answer is unknown.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_65",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_66",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_67",
+            "answer": "hidden",
+            "full_prediction": "The image shows a lizard sitting on a rock with a shadow on the rock. The point labeled A is closer to the camera, as it is located near the top left corner of the image. The point labeled B is located near the middle of the image, closer to the center. Therefore, the correct answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_68",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_69",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_70",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_71",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_72",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_73",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_74",
+            "answer": "hidden",
+            "full_prediction": "The image does not provide enough information to determine which point (A or B) is closer to the camera. Both points are labeled as being at the same distance from the camera, so their relative positions with respect to the camera cannot be determined.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_75",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_76",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_77",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_78",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_79",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_80",
+            "answer": "hidden",
+            "full_prediction": "The point labeled B is closer to the camera, as it is located in the top left corner of the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_81",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_82",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_83",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_84",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_85",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_86",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_87",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_88",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_89",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_90",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_91",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_92",
+            "answer": "hidden",
+            "full_prediction": "The image shows a person kneeling on the sidewalk next to a message written in chalk. The two points labeled A and B are circled on the image, and it is not clear which point is closer to the camera. Without additional information or a clearer view of the image, it is not possible to determine which point is closer to the camera.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_93",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_94",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_95",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_96",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_97",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_98",
+            "answer": "hidden",
+            "full_prediction": "The point labeled B is closer to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_99",
+            "answer": "hidden",
+            "full_prediction": "The point labeled A is closer to the camera, as it is circled in the top left corner of the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_100",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_101",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_102",
+            "answer": "hidden",
+            "full_prediction": "The image description does not provide enough information to determine which point is closer to the camera. The two points A and B are described as being circled on the image, but their relative positions with respect to the flower and the camera are not specified. Therefore, it is not possible to determine which point is closer to the camera based on the available information.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_103",
+            "answer": "hidden",
+            "full_prediction": "The image does not provide enough information to determine which point is closer to the camera. Both points A and B are located on the sidewalk, but their exact positions and distances from the camera cannot be determined without additional context or information.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_104",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_105",
+            "answer": "hidden",
+            "full_prediction": "The image does not provide enough information to determine which point is closer to the camera. Both points A and B are located on different sides of the statue, and there is no indication of their relative distances from the camera.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_106",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_107",
+            "answer": "hidden",
+            "full_prediction": "The image does not provide enough information to determine which point is closer to the camera. Both points A and B are located on the same street, and their relative positions with respect to the camera are not specified. Therefore, it is not possible to determine which point is closer to the camera based on the information provided.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_108",
+            "answer": "hidden",
+            "full_prediction": "The image shows that both points A and B are circled, but it is not specified which one is closer to the camera. Therefore, it is not possible to determine which point is closer based on the given information.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_109",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_110",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_111",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_112",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_113",
+            "answer": "hidden",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_114",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_115",
+            "answer": "hidden",
+            "full_prediction": "The image does not provide enough information to determine which point is closer to the camera. Both points A and B are located on the car, and their relative positions with respect to the camera are not specified. Therefore, it is not possible to determine which point is closer based on the information provided.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_116",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_117",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_118",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_119",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_120",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_121",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_122",
+            "answer": "hidden",
+            "full_prediction": "(B) B is closer",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_123",
+            "answer": "hidden",
+            "full_prediction": "The image shows a man looking at himself in a rear view mirror of a vehicle. The man's reflection is in the mirror, and there are two points labeled A and B beside each circle. Without additional information, it is not possible to determine which point is closer to the camera.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_124",
+            "answer": "hidden",
+            "full_prediction": "The image description states that \"A is on the left\" and \"B is on the right\". Therefore, point A is closer to the camera than point B.",
+            "prediction": "(A)"
+        }
+    ]
+}

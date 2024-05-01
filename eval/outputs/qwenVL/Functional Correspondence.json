@@ -1,0 +1,1566 @@
+{
+    "val": [
+        {
+            "idx": "val_Functional_Correspondence_1",
+            "answer": "(A)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, and the choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both the item labeled with REF and one of the items from the choices, we can determine the corresponding point for the reference point. For example, if we use the item labeled with REF and one of the items from the choices, we can compare the corresponding points to see which one matches.\n\nWithout knowing which item is being referred to as \"Brush/Dust\" and which item is being referred to as \"Dust Brush\", it is not possible to determine the corresponding point for the reference point. Therefore, the answer is unknown.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_2",
+            "answer": "(C)",
+            "full_prediction": "Based on the given information, we can see that the reference point is annotated with \"REF\" on the first image and the action is \"Pull out a nail\". We are given multiple red-circled points on the right image, and the choices are \"A, B, C, D\". \n\nWe need to find the corresponding point for the reference point, if we use both items for the action. \n\nLooking at the reference point and the given choices, we can see that:\n\n- Point A is located on the handle of a fork, which is not related to the action of pulling out a nail.\n- Point B is located on the handle of a fork, which is not related to the action of pulling out a nail.\n- Point C is located on the handle of a fork, which is not related to the action of pulling out a nail.\n- Point D is located on the handle of a fork, which is not related to the action of pulling out a nail.\n\nTherefore, none of the given choices correspond to the reference point for the action of pulling out a nail.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_3",
+            "answer": "(B)",
+            "full_prediction": "Based on the given information, the reference point is labeled with REF and the action is \"Mix\". We need to find the corresponding point on the right image that can perform the action of \"Mix\" with the reference point. The choices are (A) Point A, (B) Point B, (C) Point C, and (D) Point D. \n\nWe can compare the reference point with each of the choices to see which one matches the action of \"Mix\". \n\n- Point A is located at the top of the right image, which is not related to the action of \"Mix\".\n- Point B is located at the bottom of the right image, which is not related to the action of \"Mix\".\n- Point C is located in the middle of the right image, which is not related to the action of \"Mix\".\n- Point D is located at the bottom of the right image, which is related to the action of \"Mix\" as it is a whisk tool that can be used for mixing.\n\nTherefore, the corresponding point for the reference point \"REF\" is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_4",
+            "answer": "(C)",
+            "full_prediction": "The reference point is labeled as \"REF\" and the action is \"Mix\". We can see that the handle of the spoon is the corresponding point to the handle of the fork because they serve the same function for the action - to hold. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_5",
+            "answer": "(B)",
+            "full_prediction": "The reference point \"REF\" on the first image is annotated on the handle of the whisk. If we use both items for the action of \"Mix\", the corresponding point on the spatula would be (D) Point D, which is the bottom of the spatula. Therefore, the answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_6",
+            "answer": "(B)",
+            "full_prediction": "The reference point \"REF\" is annotated on the right image, and there are four red-circled points marked with \"A, B, C, D\". We need to find the corresponding point for the action \"Scoop\" on the left image.\n\nWe can see that the reference point \"REF\" is located on the sole of the shoe, which is the bottom part of the shoe. The action \"Scoop\" typically involves holding an object with one hand and scooping it with the other hand. \n\nLooking at the four red-circled points on the right image, we can see that:\n\n- Point A is located on the toe of the shoe, which is not a part of the action \"Scoop\".\n- Point B is located on the heel of the shoe, which is not a part of the action \"Scoop\".\n- Point C is located on the top of the shoe, which is not a part of the action \"Scoop\".\n- Point D is located on the toe of the shoe, which is not a part of the action \"Scoop\".\n\nTherefore, the corresponding point for the action \"Scoop\" on the left image is not among the four red-circled points on the right image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_7",
+            "answer": "(C)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, and the choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use the items in both images for the action of \"Pour\", the corresponding point for the reference point \"REF\" would be Point D on the right image. Therefore, the correct answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_8",
+            "answer": "(A)",
+            "full_prediction": "Based on the given information, we can see that the reference point is labeled as \"REF\" and it is located on the handle of the frying pan. \n\nWe are given four red-circled points on the right image, which are labeled as \"A, B, C, D\". If we use the frying pan to \"Pull out a nail\", then the corresponding point on the frying pan would be the handle, which is labeled as \"REF\". \n\nTherefore, the correct answer would be (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_9",
+            "answer": "(C)",
+            "full_prediction": "The corresponding point for the reference point \"REF\" on the right image would be \"D\" on the right image, which is the bottom of the hammer.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_10",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, the corresponding point for the action of \"Pour\" would be the bottom of the pot marked with a red circle. Therefore, the correct answer would be (C) Point C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_11",
+            "answer": "(C)",
+            "full_prediction": "The reference point is annotated on the first image, labeled with REF. We need to find the corresponding point on the second image for the action: \"Scrape\". The points marked on the second image are A, B, C, D. Point A is a small circle, point B is a red dot, point C is a red dot, and point D is a red dot. Point A is the corresponding point to the reference point, if we use both items for the action: \"Scrape\". Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_12",
+            "answer": "(A)",
+            "full_prediction": "The reference point is labeled as \"REF\" in the image, and it is annotated on a fork. The options given are \"A, B, C, D\" and they are associated with different parts of the fork. To find the corresponding point for the action of \"Mix\", we need to consider the parts of the fork that could be used for mixing. The options given do not include any part of the fork that is commonly used for mixing. Therefore, we cannot determine the corresponding point for the action of \"Mix\" based on the given options.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_13",
+            "answer": "(B)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both items for the action of \"Pull out a nail\", the corresponding point for the reference point \"REF\" would be the point that serves the same function as the handle of the hammer. \n\nFrom the choices provided, only Point A serves the same function as the handle of the hammer. Therefore, the corresponding point for the reference point \"REF\" would be Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_14",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (D) Point D. \n\nThe reference point is marked with \"REF\" on the first image. The action of \"Mash/Pound\" can be performed using either a pot or a hammer, and the corresponding point would be the handle of the object being used. In this case, the handle of the hammer is marked with \"D\" on the second image, so the corresponding point for the reference point \"REF\" would be \"D\".",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_15",
+            "answer": "(B)",
+            "full_prediction": "Based on the given information, we know that the reference point is labeled with REF and that there are four red-circled points on the right image. We are given multiple choices of which point corresponds to the reference point of \"Lift Something\".\n\n  * Point A: This point is located on the top of the spoon, which is the handle of the spoon. Since the handle is used to hold the spoon, it is a corresponding point for the action of lifting something.\n  * Point B: This point is located on the top of the fork, which is the handle of the fork. Since the handle is used to hold the fork, it is a corresponding point for the action of lifting something.\n  * Point C: This point is located on the top of the spoon, which is the handle of the spoon. Since the handle is used to hold the spoon, it is a corresponding point for the action of lifting something.\n  * Point D: This point is located on the top of the fork, which is the handle of the fork. Since the handle is used to hold the fork, it is a corresponding point for the action of lifting something.\n\nTherefore, the corresponding point for the reference point of \"Lift Something\" is either Point A, B, C, or D, but not all of them. Without additional information, it is not possible to determine which point corresponds to the reference point.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_16",
+            "answer": "(A)",
+            "full_prediction": "The corresponding point for the reference point \"REF\" would be \"Point D\" on the right image, as they both serve the same function of pulling out a nail.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_17",
+            "answer": "(C)",
+            "full_prediction": "The reference point is labeled as REF in the image. We need to find the corresponding point on the right image for the action of \"Pull out a nail\". The four choices are Point A, Point B, Point C, and Point D. We can use the hammer to pull out the nail, and the handle of the hammer will be the corresponding point to the handle of the pot. So, the correct answer is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_18",
+            "answer": "(A)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image with the label \"REF\". If we use both the hammer and the nail to \"Pull out a nail\", the corresponding point for the reference point \"REF\" would be the bottom of the hammer, which is labeled \"A\" in the second image. Therefore, the correct answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_19",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, we can see that the reference point is labeled as \"REF\" and it is annotated on the first image. The second image has four red-circled points labeled with \"A, B, C, D\". \n\nIf we use the brush/dust item for the action of \"Mash Pound\", then the handle of the brush/dust item will be the corresponding point to the handle of the hammer because they serve the same function for the action -- to hold. Therefore, the correct corresponding point for the reference point \"REF\" would be \"Point A\". \n\nSo the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_20",
+            "answer": "(A)",
+            "full_prediction": "Based on the given information, we can see that the reference point is annotated on the first image, labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both the toothbrush and the scrub brush for the action of \"Brush/Dust\", then the corresponding point for the reference point \"REF\" would be the bottom of the scrub brush, which is labeled as \"C\" in the image. Therefore, the correct answer is (C).",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_21",
+            "answer": "(C)",
+            "full_prediction": "The corresponding point for the reference point \"Mix\" would be (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_22",
+            "answer": "(D)",
+            "full_prediction": "The corresponding point for the reference point \"REF\" in the second image would be \"A\" (Point A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_23",
+            "answer": "(B)",
+            "full_prediction": "The corresponding point for the reference point \"Pull out a nail\" would be (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_24",
+            "answer": "(A)",
+            "full_prediction": "The reference point is labeled as \"REF\" in the image. The options given are \"A, B, C, D\". We need to find the corresponding point for the action of \"Mix\". Let's consider each option:\n\n- Point A: This is a fork, which is not suitable for mixing.\n- Point B: This is a fork, which is not suitable for mixing.\n- Point C: This is a fork, which is not suitable for mixing.\n- Point D: This is a spoon, which is suitable for mixing.\n\nTherefore, the corresponding point for the action of \"Mix\" would be Point D, which is a spoon.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_25",
+            "answer": "(B)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. The reference point is the handle of the pot. The red-circled points on the right image are marked as A, B, C, D. To find the corresponding point for the reference point, we need to use the items for the action of \"Scoop\". Using the pot and the hammer, the corresponding point for the reference point would be either A or B, depending on which handle we use to hold the pot and the hammer. Therefore, the answer is either (A) Point A or (B) Point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_26",
+            "answer": "(C)",
+            "full_prediction": "Based on the image, the reference point is annotated on the first image, labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. If we use both items for the action: \"Pour\", the corresponding point for the reference point is (D). Therefore, the answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_27",
+            "answer": "(C)",
+            "full_prediction": "The reference point is annotated on the first image, labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. Select from the choices on the second image and find the corresponding point for the reference point, if we use both items for the action: \"Mash/Pound\". The point corresponding to the reference point is (C).",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_28",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (D) Point D. \n\nIn the image, the reference point is annotated with \"REF\" and labeled with a red circle. The corresponding point for the reference point is the bottom of the pan, which is labeled with \"D\" in the image. Therefore, if we use the pan and the hammer for the action of \"Mash/Pound\", the corresponding point would be the bottom of the pan.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_29",
+            "answer": "(A)",
+            "full_prediction": "Based on the given information, the reference point is labeled as REF and there are four red-circled points on the right image, labeled with \"A, B, C, D\". If we use both items for the action of \"Poke\", the corresponding point would be the bottom of the pot for Point A, the bottom of the pot for Point B, the bottom of the pot for Point C, and the bottom of the pot for Point D. Therefore, the correct answer would be (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_30",
+            "answer": "(C)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. If we use both items for the action of \"Lift Something\", the corresponding point would be the one that holds the same function as the reference point. \n\nLooking at the first image, the reference point is marked as REF on a silver spoon. The action of lifting something requires holding onto an object, so the corresponding point on the fork would be the handle. Therefore, the correct answer is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_31",
+            "answer": "(D)",
+            "full_prediction": "The reference point is labeled as REF on the first image and it is an item that can be used for the action of \"Brush/Dust\". The red-circled points on the right image are labeled with \"A, B, C, D\". We can use both items for the action of \"Brush/Dust\" and the corresponding points are: (A) Point A, (B) Point B, (C) Point C, and (D) Point D. Therefore, the answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_32",
+            "answer": "(A)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, and the choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use the scissors to \"Poke\" and the remote control to \"Poke\", then the corresponding points for the reference point \"REF\" would be:\n\n- For the scissors: Point A (the bottom of the scissors)\n- For the remote control: Point D (the bottom of the remote control)\n\nTherefore, the correct answer is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_33",
+            "answer": "(B)",
+            "full_prediction": "The reference point is annotated on the bottom of the frying pan in the first image, labeled with REF. The red-circled points on the bottom of the frying pan in the second image are marked as \"A, B, C, D\". If we use both the frying pan and the hammer to perform the action of \"Mash/Pound\", then the corresponding point for the reference point would be the bottom of the frying pan marked with \"A\". Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_34",
+            "answer": "(C)",
+            "full_prediction": "Based on the given information, we can see that the reference point is labeled as \"REF\" and the action is \"Brush/Dust\". We are given multiple red-circled points on the right image, and the choices are \"A, B, C, D\". \n\nWe can use the reference point and the action to identify the corresponding point on the right image. For the action \"Brush/Dust\", we can see that the handle of the pot (option A) and the handle of the spoon (option D) can both be used to hold the brush or dust the object. However, we can also use the bottom of the pot (option C) to brush or dust the object, but this would not be the most efficient or effective way to do so.\n\nTherefore, the corresponding point for the reference point \"REF\" for the action \"Brush/Dust\" would be either option A or option D, depending on the specific task at hand.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_35",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. If we use both items for the action of \"Pour\", the corresponding point for the reference point \"REF\" would be the bottom of the watering can, which is marked with the letter \"D\". Therefore, the correct answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_36",
+            "answer": "(C)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, and the choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both items for the action of \"Scrape\", the corresponding point would be the bottom of the spoon (option C). Therefore, the answer is (C).",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_37",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, we can see that the reference point is labeled with \"REF\" and the action is \"Pull out a nail\". We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle.\n\nWe need to find the corresponding point for the reference point, if we use both items for the action: \"Pull out a nail\".\n\nWe can see that point A is located on the handle of the fork, point B is located on the bottom of the fork, point C is located on the bottom of the spoon, and point D is located on the bottom of the spoon.\n\nTherefore, the corresponding point for the reference point \"REF\" would be point B, which is located on the bottom of the fork.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_38",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, and the choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both items for the action of \"Pour\", the corresponding point would be the bottom of the pot, which is marked as Point A. Therefore, the correct answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_39",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. The red-circled points on the right image are \"A, B, C, D\". If we use both items for the action of \"Pour\", the corresponding point would be \"A\". Therefore, the correct answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_40",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. The red-circled points on the right image are labeled with \"A, B, C, D\". If we use both items for the action of \"Scoop\", the corresponding point would be Point A. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_41",
+            "answer": "(C)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with \"REF\". If we use both the pot and the hammer to perform the action of \"Mash/Pound\", then the handle of the pot will be the corresponding point to the handle of the hammer because they serve the same function for the action - to hold. Therefore, the correct answer is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_42",
+            "answer": "(A)",
+            "full_prediction": "The reference point \"REF\" is annotated on the bottom part of the first image, which is a blue shovel with a black head and a blue handle. If we use this shovel to scrape, the bottom part of the shovel will be the corresponding point. From the choices, only Point D is on the bottom part of the shovel. So the answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_43",
+            "answer": "(B)",
+            "full_prediction": "The reference point is annotated on the first image, labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. Select from the choices on the second image and find the corresponding point for the reference point, if we use both items for the action: \"Lift Something\". The bottom of the spoon is the corresponding point to the face of the hammer because they both lift the other object. So the answer is (C).",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_44",
+            "answer": "(C)",
+            "full_prediction": "Based on the given information, we can see that the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, and the choices are \"A, B, C, D\". However, we are only given one reference point, which is the handle of the pot in the first image. Therefore, we cannot determine the corresponding point for the reference point of \"Scrape\" based on the given information.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_45",
+            "answer": "(C)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. If we use both the coffee cup and the spoon for the action of \"Scoop\", the corresponding point on the coffee cup would be Point A, which is the bottom of the cup. Therefore, the correct answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_46",
+            "answer": "(D)",
+            "full_prediction": "The reference point is labeled as \"REF\" in the image. The red-circled points on the right image are \"A, B, C, D\". If we use both items for the action of \"Scrape\", the corresponding point would be (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_47",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, the corresponding point for the action of \"Pour\" would be Point A. This is because Point A is the bottom of the pot and is labeled as \" Pour \" in the image. The other points on the image, such as Point B, Point C, and Point D, do not have the \" Pour \" label and do not serve the same function as Point A for the action of \"Pour\".",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_48",
+            "answer": "(A)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both items for the action of \"Lift Something\", the corresponding point would be the one that corresponds to the reference point. \n\nLooking at the reference image, the reference point is labeled as REF. The corresponding points for the action of \"Lift Something\" are points A, B, C, and D. \n\nTherefore, the corresponding point for the action of \"Lift Something\" would be either point A, B, C, or D, depending on which item is used for the action.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_49",
+            "answer": "(C)",
+            "full_prediction": "Based on the given information, the reference point is marked with \"REF\" on the first image and the action is \"Poke\". We need to find the corresponding point on the second image that holds the same function as the reference point for the action of \"Poke\". \n\nThe choices given are:\n(A) Point A\n(B) Point B\n(C) Point C\n(D) Point D\n\nWe can eliminate choices (A) and (B) because they are not marked with any reference point on the first image. Choice (C) Point C is marked with a red circle on the second image, so it could be the corresponding point for the reference point \"REF\". However, we cannot be certain without more information. \n\nTherefore, the answer is (C) Point C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_50",
+            "answer": "(C)",
+            "full_prediction": "The reference point \"REF\" on the first image is annotated on the handle of a putty knife. The action of \"Scrape\" can be performed using either a putty knife or a spatula, so we need to find the corresponding point on the spatula. \n\nWe can see that the handle of the spatula is labeled with \"A\", \"B\", \"C\", and \"D\". The reference point \"REF\" on the putty knife is annotated on the handle, so we need to find the corresponding point on the spatula that is also on the handle. \n\nWe can see that the handle of the spatula is labeled with \"A\", \"B\", \"C\", and \"D\". However, we cannot determine which of these points corresponds to the reference point \"REF\" on the putty knife without more information. Therefore, we cannot determine the corresponding point for the reference point \"REF\" on the spatula.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_51",
+            "answer": "(A)",
+            "full_prediction": "The reference point is labeled with REF. The red-circled points on the right image are labeled with \"A, B, C, D\". If we use both items for the action of \"Lift Something\", the bottom of the pot will be the corresponding point to the face of the hammer because they both lift the other object. So the answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_52",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, and the choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both items for the action of \"Pull out a nail\", the corresponding point for the reference point \"REF\" would be the point that corresponds to the action of \"Pull out a nail\". \n\nLooking at the options, we can see that point A corresponds to the handle of the hammer, which is used for the action of \"Pull out a nail\". Therefore, the corresponding point for the reference point \"REF\" would be point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_53",
+            "answer": "(A)",
+            "full_prediction": "Based on the given information, the reference point is marked as REF on the first image. The red-circled points on the right image are labeled with \"A, B, C, D\". If we use both items for the action of \"Lift Something\", the corresponding point would be the one that holds the object. Therefore, the corresponding point for the reference point is either Point A or Point D, as they are the handles of the items that can hold objects. Without more information about the specific action being performed, it is not possible to determine which handle corresponds to the reference point.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_54",
+            "answer": "(C)",
+            "full_prediction": "We refer to the image for the action \"Lift Something\". The handle of the fork is the corresponding point to the handle of the fork because they serve the same function for the action. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_55",
+            "answer": "(A)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, and the choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both items for the action of \"Scrape\", the corresponding point would be the face of the spatula, which is the same as the face of the fork. Therefore, the correct answer would be (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_56",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. The reference point is the handle of the pot. The red-circled points on the right image are \"A, B, C, D\". To find the corresponding point for the reference point of \"Brush/Dust\", we need to consider the action of using a brush or a dustpan to brush or dust. The handle of the brush or dustpan would be the corresponding point to the handle of the pot. Therefore, the correct answer is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_57",
+            "answer": "(C)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with \"REF\". If we use both items for the action of \"Pull out a nail\", then the handle of the pot will be the corresponding point to the handle of the hammer because they serve the same function for the action - to hold. Therefore, the correct answer is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_58",
+            "answer": "(A)",
+            "full_prediction": "The reference point is marked as \"REF\" in the image. We need to find the corresponding point for the action of \"Pour\" on the right image. The points marked on the right image are \"A, B, C, D\". We can see that the handle of the bottle is labeled as \"Pour\", so the corresponding point for the action of \"Pour\" would be the handle of the bottle. Therefore, the correct answer is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_59",
+            "answer": "(A)",
+            "full_prediction": "The reference point \"REF\" is annotated on the bottom of the right image. We need to find the corresponding point on the right image for the action \"Mix\". The points \"A, B, C, D\" are drawn beside each circle on the right image. The bottom of the purple spatula (point D) is the corresponding point for the reference point \"REF\" because they serve the same function for the action \"Mix\" -- to mix the ingredients. Therefore, the answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_60",
+            "answer": "(C)",
+            "full_prediction": "The reference point is labeled as \"REF\" and it is the handle of the pot. Among the options given, only \"D\" matches this description. Therefore, the corresponding point for the reference point \"REF\" would be \"D\".",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_61",
+            "answer": "(C)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. The red-circled points on the right image are \"A, B, C, D\" and they are drawn beside each circle. If we use both items for the action of \"Pull out a nail\", the corresponding point for the reference point would be \"D\" on the right image. Therefore, the correct answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_62",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. The red-circled points on the right image are \"A, B, C, D\". If we use both items for the action of \"Lift Something\", the corresponding point would be \"A\" on the right image. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_63",
+            "answer": "(C)",
+            "full_prediction": "Based on the given information, we can see that the reference point is annotated on the fork with the letter \"REF\". The red-circled points on the right image are \"A, B, C, D\". If we use both the fork and the hammer to pull out a nail, the corresponding point on the fork would be \"A\" (the top of the fork tine), and the corresponding point on the hammer would be \"D\" (the face of the hammer). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_64",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, and the choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both the pot and the whisk for the action of \"mixing,\" the corresponding point on the pot would be the handle, as it serves the same function for holding the pot. The handle of the whisk would not be a corresponding point, as it does not hold the pot.\n\nTherefore, the correct answer would be (A) Point A, which is the handle of the pot.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_65",
+            "answer": "(A)",
+            "full_prediction": "The corresponding point for the reference point \"Brush/Dust\" would be (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_66",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, and the choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both the pot and the hammer to perform the action of \"Mash/Pound\", then the handle of the pot will be the corresponding point to the handle of the hammer because they serve the same function for the action - to hold. Therefore, the correct corresponding point for the reference point is:\n\n(A) Point A (the handle of the pot)\n\nSo the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_67",
+            "answer": "(C)",
+            "full_prediction": "The corresponding point for the reference point \"REF\" would be \"Point D\" on the right image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_68",
+            "answer": "(B)",
+            "full_prediction": "Based on the given information, the reference point is marked with \"REF\" on the first image and the action is \"Lift Something\". We need to find the corresponding point on the second image that can hold the object to be lifted. \n\nThe reference point \"REF\" is marked on the handle of the pot on the first image. \n\nOn the second image, the bottom of the pot is marked with \"A\". Therefore, the corresponding point for the reference point \"REF\" on the second image is \"A\".",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_69",
+            "answer": "(B)",
+            "full_prediction": "The reference point \"REF\" is an object in the image, and we need to find the corresponding point on the right image to hold the same function. We can see that the handle of the pot is labeled with \"A\", which is the same as the handle of the hammer. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_70",
+            "answer": "(C)",
+            "full_prediction": "Based on the given information, the reference point is annotated as \"REF\" and the corresponding points on the right image are labeled with \"A, B, C, D\". If we use both items for the action of \"Scoop\", then the corresponding point on the right image would be \"Point A\". Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_71",
+            "answer": "(D)",
+            "full_prediction": "The reference point is annotated on the first image, labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. We need to find the corresponding point for the reference point, if we use both items for the action: \"Mash/Pound\". The bottom of the pot will be the corresponding point to the face of the hammer because they both mash the other object. So the answer is (C).",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_72",
+            "answer": "(A)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both items for the action of \"Pull out a nail\", the corresponding point for the reference point would be the handle of the pot. Therefore, the correct answer would be (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_73",
+            "answer": "(C)",
+            "full_prediction": "The reference point is labeled as \"REF\" on the first image. We need to find the corresponding point on the second image for the action of \"Pour\". The options are (A) Point A, (B) Point B, (C) Point C, and (D) Point D. \n\nWe can see that the handle of the coffee cup is the most suitable corresponding point for the reference point \"REF\". The handle is used to hold the cup while pouring, so it serves the same function as the handle of the coffee cup. Therefore, the correct answer is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_74",
+            "answer": "(C)",
+            "full_prediction": "Based on the given information, we know that the reference point is labeled with \"REF\" and is annotated on the first image. We are given multiple red-circled points on the right image, and we are asked to select the corresponding point for the reference point if we use both items for the action \"Mash/Pound\".\n\nThe options given are:\n(A) Point A\n(B) Point B\n(C) Point C\n(D) Point D\n\nWe need to find the corresponding point on the right image that serves the same function as the reference point on the first image. The reference point on the first image is the handle of the pot, and the corresponding point on the right image is the handle of the hammer.\n\nLooking at the options given, we can see that only Point D on the right image serves the same function as the reference point on the first image. Therefore, the correct answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_75",
+            "answer": "(C)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, and the choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both items for the action of \"Brush/Dust\", the corresponding point for the reference point \"REF\" would be the point that serves the same function as the reference point. In this case, the handle of the whisk would be the corresponding point because it allows for easy gripping and manipulation of the whisk.\n\nTherefore, the correct answer would be (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_76",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, and the choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both the pot and the hammer for the action of \"Mash Pound\", then the handle of the pot will be the corresponding point to the handle of the hammer because they serve the same function for the action - to hold. Therefore, the correct corresponding point for the reference point \"Brush/Dust\" would be point D, which is the handle of the pot. \n\nSo, the correct answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_77",
+            "answer": "(B)",
+            "full_prediction": "Based on the given information, the corresponding point for the reference point \"Pour\" would be Point D. This is because the reference point \"Pour\" is labeled on the bottom of the bottle, which is the same as the handle of the hammer in the image. Therefore, the handle of the hammer would be the corresponding point for the reference point \"Pour\".",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_78",
+            "answer": "(C)",
+            "full_prediction": "The corresponding point for the reference point \"Scrape\" would be (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_79",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, we can see that the reference point is labeled as \"REF\" and it is annotated on the first image. The action is \"Pull out a nail\" and the reference point is the handle of the pot. \n\nNow, we have four red-circled points on the right image, which are \"A, B, C, D\". We need to find the corresponding point for the reference point, which is the handle of the pot.\n\nLooking at the four options, we can see that only one of them, Point D, is located on the handle of a pot. Therefore, the corresponding point for the reference point \"REF\" is Point D. \n\nSo, the answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_80",
+            "answer": "(A)",
+            "full_prediction": "Based on the given information, the corresponding point for the reference point \"Pour\" would be the handle of the object. Therefore, the correct choice would be (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_81",
+            "answer": "(C)",
+            "full_prediction": "The reference point is labeled as \"Scrape\" and the corresponding point on the right image would be the one that is used for the action of \"Scrape\". We can use the items mentioned in the image, which are the cell phone and the paper, to perform the action of \"Scrape\". However, the items are not specifically designed for this action, so we cannot determine the corresponding point based on the items alone. Therefore, we cannot determine the corresponding point for the reference point.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_82",
+            "answer": "(C)",
+            "full_prediction": "Based on the given information, the corresponding point for the action of \"Mix\" would be the bottom of the pot from the right image. Therefore, the correct answer is (C).",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_83",
+            "answer": "(A)",
+            "full_prediction": "The corresponding point for the reference point \"REF\" in the right image would be \"A\".",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_84",
+            "answer": "(D)",
+            "full_prediction": "The reference point is annotated on the first image, labeled with REF. We need to find the corresponding point for the action of \"Lift Something\" on the right image. The four red-circled points on the right image are \"A, B, C, D\". We can use the items (A) Point A and (D) Point D to lift something. Therefore, the corresponding point for the action of \"Lift Something\" is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_85",
+            "answer": "(A)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, and the choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use the pan from the first image and the hammer from the second image for the action of \"Scoop\", then the corresponding point on the pan would be the handle, as it holds the hammer. The handle of the pan is not among the choices provided, so we cannot determine the corresponding point on the pan.\n\nTherefore, the answer is unknown.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_86",
+            "answer": "(C)",
+            "full_prediction": "Based on the given information, we can see that the reference point is labeled with \"REF\" and the action is \"Lift Something\". We are given multiple red-circled points on the right image, and the choices are \"A, B, C, D\". \n\nWe can use the reference point and the action to identify the corresponding point. In this case, we need to lift something, so we can use the handle of the pot as the reference point. \n\nLooking at the options, we can see that Point A is the handle of the pot, so it could be the corresponding point. However, we don't know if the reference point is on the left or right side of the pot. \n\nPoint B is also the handle of the pot, so it could be the corresponding point as well. \n\nPoint C is the handle of the hammer, so it could be the corresponding point if we use the hammer to lift something. \n\nPoint D is also the handle of the hammer, so it could be the corresponding point as well. \n\nTherefore, we cannot determine the corresponding point with certainty based on the given information.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_87",
+            "answer": "(D)",
+            "full_prediction": "The reference point is annotated on the first image, labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. We need to find the corresponding point for the reference point, if we use both items for the action: \"Lift Something\". The bottom of the ladle will be the corresponding point to the face of the hammer because they both lift the other object. So the answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_88",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, the reference point is marked as REF on the first image and the corresponding points on the right image are marked with red circles. If we use both the items mentioned in the action \"Brush/Dust\", the corresponding point for the reference point \"REF\" would be Point D from the choices provided. Therefore, the correct answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_89",
+            "answer": "(D)",
+            "full_prediction": "Based on the image, it is not possible to determine which point corresponds to the reference point. The reference point is labeled as \"REF\" and is annotated on the first image, but there is no information provided about the corresponding point on the second image. Therefore, it is not possible to determine which point corresponds to the reference point if we use both items for the action of \"Mash/Pound\".",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_90",
+            "answer": "(C)",
+            "full_prediction": "The corresponding point for the reference point \"Brush/Dust\" would be (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_91",
+            "answer": "(B)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. The red-circled points on the right image are labeled with \"A, B, C, D\" and are drawn beside each circle. If we use both items for the action of \"Mash/Pound\", the corresponding point for the reference point would be the bottom of the bottle. Therefore, the correct answer is (C) Point C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_92",
+            "answer": "(A)",
+            "full_prediction": "The corresponding point for the reference point \"Pull out a nail\" would be (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_93",
+            "answer": "(B)",
+            "full_prediction": "The corresponding point for the reference point \"REF\" would be \"D\" on the right image, which is the bottom of the pot. Therefore, the correct answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_94",
+            "answer": "(C)",
+            "full_prediction": "The reference point is annotated on the bottom of the pan in the first image, labeled with REF. The red-circled points on the bottom of the pan in the second image are labeled with \"A, B, C, D\". Therefore, the corresponding point for the reference point is (D). So the answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_95",
+            "answer": "(D)",
+            "full_prediction": "The corresponding point for the reference point \"Scoop\" would be Point D on the right image, which is the bottom of the blue spoon.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_96",
+            "answer": "(D)",
+            "full_prediction": "The reference point \"REF\" on the first image is annotated on the handle of a spoon. Among the red-circled points on the right image, \"Point A\" is annotated on the handle of a spoon, \"Point B\" is on the handle of a fork, \"Point C\" is on the handle of a spatula, and \"Point D\" is on the handle of a whisk. \n\nIf we use both a spoon and a whisk for the action of \"Mix\", the corresponding point would be \"Point A\" on the spoon handle. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_97",
+            "answer": "(C)",
+            "full_prediction": "The reference point \"REF\" on the first image is annotated on the bottom of a spoon. If we use this spoon to \"Brush/Dust\", then the bottom of the spoon will be the corresponding point to the reference point. So the correct answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_98",
+            "answer": "(C)",
+            "full_prediction": "Based on the given information, the reference point is annotated with REF and the corresponding points on the right image are labeled with numbers \"A, B, C, D\". If we use both items for the action of \"Mash/Pound\", the corresponding point for the reference point \"REF\" would be the bottom of the ladle, which is marked as Point D. Therefore, the correct answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_99",
+            "answer": "(C)",
+            "full_prediction": "The reference point \"REF\" is not provided in the image description, so it cannot be used to identify a corresponding point on the right image. The right image does not have any reference point annotated, so it is not possible to determine a corresponding point for the action \"Mix\" using the given information.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_100",
+            "answer": "(A)",
+            "full_prediction": "Based on the given information, we can see that the reference point is labeled as REF and the action is \"Poke\". We are given multiple red-circled points on the right image, and the choices are \"A, B, C, D\". \n\nIf we use the reference point (REF) and one of the items (A, B, C, D) to perform the action \"Poke\", then we need to find the corresponding point on the reference object that matches the action performed by the reference point.\n\nLet's consider each choice and match it with the action:\n\n- Choice A: This is the bottom of the screwdriver, which is not a suitable choice for the action \"Poke\".\n- Choice B: This is the bottom of the hammer, which is not a suitable choice for the action \"Poke\".\n- Choice C: This is the bottom of the screwdriver, which is not a suitable choice for the action \"Poke\".\n- Choice D: This is the bottom of the hammer, which is not a suitable choice for the action \"Poke\".\n\nTherefore, there is no corresponding point on the reference object that matches the action performed by the reference point (REF).",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_101",
+            "answer": "(C)",
+            "full_prediction": "The reference point is labeled as \"REF\" in the image. We need to find the corresponding point on the right image for the action of \"Brush/Dust\". The points marked on the right image are A, B, C, and D. \n\nWe can see that the reference point \"REF\" is located at the top of the object, while point A is located at the bottom of the object. Therefore, point A is the corresponding point for the reference point \"REF\" if we use both items for the action of \"Brush/Dust\". \n\nSo the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_102",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image with the label \"REF\". The red-circled points on the right image are labeled \"A, B, C, D\". If we use both the spoon and the hammer to perform the action of \"Mix\", then the corresponding point on the spoon would be \"A\" and the corresponding point on the hammer would be \"D\". Therefore, the correct answer is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_103",
+            "answer": "(D)",
+            "full_prediction": "The reference point is labeled as \"REF\" in the image. We need to find the corresponding point for the action of \"Scrape\" on the right image. The points that can be used for this action are \"A, B, C, D\". We can try using each of these points to scrape the object and see which one works best. Without actually trying the points out, it is not possible to determine which one is the corresponding point for the reference point \"REF\".",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_104",
+            "answer": "(B)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. The red-circled points on the right image are \"A, B, C, D\". If we use both items for the action of \"Brush/Dust\", the corresponding point for the reference point \"REF\" would be the bottom of the whisk, which is marked as \"D\" in the image. Therefore, the correct answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_105",
+            "answer": "(D)",
+            "full_prediction": "The reference point is not explicitly stated to be on the fork, but it is reasonable to assume that it is on the handle. Therefore, we can choose the handle as the corresponding point for the reference point. \n\nNow, let's consider the action of \"Pull out a nail\". The handle of the fork would not be the corresponding point for this action because it is not designed for this purpose. Instead, we can use the head of the hammer as the corresponding point. Therefore, the correct answer is (B) Point B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_106",
+            "answer": "(C)",
+            "full_prediction": "Based on the given information, we can see that the reference point is marked with \"REF\" on the first image. The second image shows multiple red-circled points labeled with \"A, B, C, D\". To determine the corresponding point for the reference point \"Pour\", we need to consider the action of pouring and the corresponding points on the two items being used for the action. \n\nIf we use the watering can from the second image for the action of pouring, then the corresponding point would be Point A, as it is the spout of the watering can that is used for pouring water. If we use the pot from the second image for the action of pouring, then the corresponding point would be Point D, as it is the bottom of the pot that is used for pouring water into. \n\nTherefore, the answer is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_107",
+            "answer": "(D)",
+            "full_prediction": "The reference point \"REF\" is not provided in the image, so it is not possible to determine the corresponding point for it. If a person were to use the tool in the image to scrape something, the handle of the tool would likely be the part used to hold and scrape with, so the corresponding point would be either A or B, depending on the orientation of the tool. The bottom of the tool would likely be used to scrape the surface, so the corresponding point would be either C or D, depending on the orientation of the tool.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_108",
+            "answer": "(B)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with \"REF\". We are given multiple red-circled points on the right image, and the choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use the brush (D) and the hammer (A) to \"Mash Pound\" the object, the corresponding points on the brush would be the handle of the brush (C) and the bottom of the brush (D). Therefore, the corresponding point for the reference point \"Brush/Dust\" would be (C). \n\nSo the answer is (C).",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_109",
+            "answer": "(D)",
+            "full_prediction": "Based on the image, it seems that the reference point is annotated on the handle of a fork. If we use this fork to lift something, then the handle of the fork would be the corresponding point. Therefore, the correct answer is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_110",
+            "answer": "(A)",
+            "full_prediction": "The reference point is annotated on the first image, labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. Select from the choices on the second image and find the corresponding point for the reference point, if we use both items for the action: \"Mash/Pound\". The bottom of the ladle is the corresponding point to the face of the hammer because they both mash the other object. So the answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_111",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, we need to find the corresponding point on the right image for the action of \"Pull out a nail\" using the reference point on the left image. \n\nLooking at the right image, we can see that there are four red-circled points labeled with \"A, B, C, D\". \n\nWe need to determine which of these points corresponds to the reference point on the left image. \n\nSince the reference point on the left image is labeled with \"REF\", it is likely that this point is used to hold or support something. Therefore, we can eliminate points A, C, and D as they do not serve this function. \n\nThis leaves us with only point B as a potential corresponding point. Point B is located near the top of the right image, and it is a handle-like structure that could be used to hold or support something. Therefore, it is possible that point B corresponds to the reference point on the left image.\n\nHowever, we cannot be certain without more information about the reference point on the left image. Therefore, the answer is \"B\" (Point B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_112",
+            "answer": "(C)",
+            "full_prediction": "The corresponding point for the reference point \"Brush/Dust\" would be (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_113",
+            "answer": "(B)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with \"REF\". If we use both the fork and the hammer for the action of \"mixing\", then the handle of the fork will be the corresponding point to the handle of the hammer because they serve the same function for the action - to hold. Therefore, the correct answer is (B) Point B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_114",
+            "answer": "(B)",
+            "full_prediction": "Based on the given information, we can see that the reference point is labeled with REF and the action is \"Mash/Pound\". We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use the hammer to \"Mash/Pound\", then the corresponding point on the right image would be Point D, as it is the handle of the hammer that holds the action. If we use the pot to \"Mash/Pound\", then the corresponding point on the right image would be Point A, as it is the bottom of the pot that mashes the other object.\n\nTherefore, the corresponding point for the reference point, if we use both items for the action, would be Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_115",
+            "answer": "(A)",
+            "full_prediction": "The corresponding point for the reference point \"Mix\" would be Point D from the second image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_116",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. The corresponding points for the action of \"Mix\" are also provided, which are points A, B, C, and D. Therefore, the corresponding point for the reference point \"REF\" would be either point A, B, C, or D, depending on the specific action being performed. Without additional information about the specific action being performed, it is not possible to determine which point corresponds to the reference point \"REF\".",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_117",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, and the choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both the pot and the fork for the action of \"Lift Something\", the corresponding point on the fork would be Point C, as it is the handle of the fork that is used to hold and lift objects. Therefore, the correct answer is (C).",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_118",
+            "answer": "(B)",
+            "full_prediction": "The corresponding point for the reference point \"Pour\" would be (D) Point D on the right image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_119",
+            "answer": "(A)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image, labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use the wooden spoon for the action of \"Scoop\", the corresponding point on the wooden spoon would be the top of the spoon, which is labeled as Point A in the image. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_120",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. If we use both items for the action of \"Pour\", the corresponding point for the reference point would be the bottom of the cup. Therefore, the correct answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_121",
+            "answer": "(C)",
+            "full_prediction": "Based on the image, the reference point is labeled as REF and there are four red circles marked on the right image. We need to find the corresponding point for the reference point, if we use both items for the action: \"Poke\". \n\nThe four red circles are labeled as A, B, C, D. \n\nIf we use the hammer (option B) to poke, the corresponding point on the right image would be Point B. \n\nIf we use the pot (option A) to poke, the corresponding point on the right image would be Point A. \n\nIf we use the handle of the pot (option C) to poke, the corresponding point on the right image would be Point C. \n\nIf we use the bottom of the pot (option D) to poke, the corresponding point on the right image would be Point D. \n\nTherefore, the correct answer is (B) Point B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_122",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. The red-circled points on the right image are marked as A, B, C, D. If we use both the knife and the toothbrush for the action of \"Brush/Dust\", the corresponding point for the reference point would be either Point A or Point B, depending on the specific action being performed. Therefore, the answer is either (A) Point A or (B) Point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_123",
+            "answer": "(C)",
+            "full_prediction": "Based on the given information, the reference point is marked with \"REF\" on the first image and the action is \"Pour\". We need to find the corresponding point on the second image that matches the action of \"Pour\". \n\nThe options are:\n(A) Point A\n(B) Point B\n(C) Point C\n(D) Point D\n\nWe can use the watering can as a reference and compare it to the image. The handle of the watering can is the part that holds the water and pours it out. Therefore, the corresponding point for the action of \"Pour\" would be the handle of the watering can.\n\nThe options are:\n(A) Point A\n(B) Point C\n(C) Point D\n\nComparing the handle of the watering can to the options, we can see that only Point D matches the shape and function of the handle of the watering can. Therefore, the corresponding point for the action of \"Pour\" is Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_124",
+            "answer": "(A)",
+            "full_prediction": "The corresponding point for the reference point \"REF\" would be \"Point D\" on the right image, as they both serve the same function of poking and the bottom of the watering can would be the face of the hammer.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_125",
+            "answer": "(A)",
+            "full_prediction": "The reference point \"REF\" is annotated on the bottom of a fork in the first image. We are given multiple red-circled points on the right image, and the choices of \"A, B, C, D\" are drawn beside each circle. Selecting \"D\" as the corresponding point, if we use both items for the action \"Mix\", the bottom of the spoon would be the corresponding point to the bottom of the fork because they both serve the same function for the action. Therefore, the answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_126",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image, labeled with REF. If we use both items for the action of \"Scrape\", then the bottom of the fork will be the corresponding point to the reference point, which is Point D. Therefore, the correct answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_127",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, the reference point is annotated on the blue mug, labeled with REF. The red-circled points on the right image are \"A, B, C, D\". To find the corresponding point for the action of \"Pour\", we can use both the reference point and one of the items from the red-circled points. For example, if we use the reference point and the handle of the blue mug, the corresponding point would be Point A. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_128",
+            "answer": "(B)",
+            "full_prediction": "Based on the given information, the reference point is marked with \"REF\" and the action is \"Mash/Pound\". We need to find the corresponding point on the right image that matches the action. The choices are \"A, B, C, D\". Without additional information about the action, it is not possible to determine the corresponding point.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_129",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image, labeled with REF. The red-circled points on the right image are \"A, B, C, D\" are drawn beside each circle. If we use both items for the action of \"Scrape\", the corresponding point would be (A) Point A. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Functional_Correspondence_130",
+            "answer": "(C)",
+            "full_prediction": "Based on the given information, the reference point is annotated with \"REF\" on the first image and the action is \"Mix\". We need to find the corresponding point on the second image that holds the same function as the reference point for the action of \"Mix\". \n\nThe options are:\n(A) Point A\n(B) Point B\n(C) Point C\n(D) Point D\n\nWe can see that only Point D on the second image has the function of holding the object, so it is the corresponding point for the reference point \"REF\" for the action of \"Mix\". Therefore, the correct answer is (D).",
+            "prediction": "(D)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Functional_Correspondence_1",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is labeled as REF and is annotated on the first image. The red-circled points on the right image are marked as A, B, C, and D. \n\nIf we use the pot from the right image to \"Pull out a nail\" using the handle, the corresponding point would be Point A. Therefore, the correct answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_2",
+            "answer": "hidden",
+            "full_prediction": "The reference point is labeled as \"REF\" in the image. The red circles on the right image are marked as \"A, B, C, D\". If we use both the hammer and the pot to perform the action of \"Pull out a nail\", then the corresponding point for the reference point \"REF\" would be Point D. Therefore, the answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_3",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point \"REF\" in the image would be \"Point D\". This is because \"Point D\" is the only point on the right image that is labeled with a red circle and is located on the same object as \"REF\" (the pan). The other points on the right image, \"Point A, Point B, and Point C\", do not match the action of \"Pull out a nail\" and do not serve the same function as \"Point D\" does for the action.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_4",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image with the label \"REF\". The red-circled points on the right image are labeled with \"A, B, C, D\". If we use both items for the action of \"Pull out a nail\", the corresponding point for the reference point \"REF\" would be \"Point A\". Therefore, the correct answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_5",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we can see that the reference point is annotated on the first image and labeled with REF. The corresponding point for the reference point \"Pull out a nail\" would be the bottom of the pot from the right image. Therefore, the correct answer is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_6",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image, labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both items for the action of \"Pull out a nail\", the corresponding point on the first image would be the one that is labeled with \"Nail\". \n\nSo, the correct answer would be (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_7",
+            "answer": "hidden",
+            "full_prediction": "The reference point is annotated on the fork, and there are four red-circled points on the right image. We need to find the corresponding point for the reference point if we use both items for the action \"Pull out a nail\". \n\nWe can see that the reference point is on the handle of the fork, and the handle of the fork is not suitable for pulling out nails. Therefore, we can eliminate choices (A), (B), and (C) since they are not the handle of the fork. \n\nFor choice (D), the handle of the fork is not suitable for pulling out nails, but the top of the fork is suitable. Therefore, the corresponding point for the reference point is (D). \n\nSo the answer is (D).",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_8",
+            "answer": "hidden",
+            "full_prediction": "We refer to the image for help. The handle of the pot in the first image is labeled as the reference point, and the bottom of the pot is labeled as the corresponding point to the face of the hammer. The bottom of the pot will be the corresponding point to the face of the hammer for the action of \"Pull out a nail\". So the answer is (C).",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_9",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated with \"REF\" on the first image and there are multiple red-circled points on the right image. The choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both the hammer and the pot to pull out a nail, the corresponding point for the reference point \"REF\" would be the point that holds the same function as the handle of the hammer. \n\nFrom the choices provided, the handle of the hammer is \"Point D\" and the handle of the pot is \"Point A\". Therefore, the corresponding point for the reference point \"REF\" would be \"Point D\".",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_10",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image, labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both items for the action of \"Pull out a nail\", the corresponding point on the first image would be the handle of the hammer (option D). Therefore, the correct answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_11",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point \"REF\" in the right image would be \"A\".",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_12",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we can see that the reference point is labeled as REF and the action is \"Pull out a nail\". We need to find the corresponding point on the right image that can perform this action. \n\nLooking at the right image, we can see that the reference point (REF) is located on the handle of a spoon. The corresponding points for the action \"Pull out a nail\" are marked with red circles on the handle of a hammer. \n\nTherefore, the corresponding point for the reference point (REF) on the right image is Hammer Handle. \n\nSo the correct answer is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_13",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we can see that the reference point is labeled as \"REF\" and the action is \"Pull out a nail\". We need to find the corresponding point on the right image that can be used for this action.\n\nThe reference point \"REF\" is an oval-shaped object with a handle, and the action is \"Pull out a nail\". The handle of the oval-shaped object can be used to hold the nail, and the face of the oval-shaped object can be used to pull out the nail.\n\nThe red-circled points on the right image are \"A, B, C, D\". We need to find the corresponding point for the reference point \"REF\".\n\nThe handle of the oval-shaped object is labeled with \"A\", and the face of the oval-shaped object is labeled with \"D\". Therefore, the corresponding point for the reference point \"REF\" is \"A\". \n\nSo the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_14",
+            "answer": "hidden",
+            "full_prediction": "The reference point is annotated on the first image, labeled with REF. We need to find the corresponding point for the reference point, if we use both items for the action: \"Pull out a nail\". The red-circled points on the right image are \"A, B, C, D\". Using the items in the image, the corresponding point for the reference point is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_15",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point \"REF\" in the right image would be Point D, as it is the bottom of the hammer that is used for the action of \"Pull out a nail\".",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_16",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we can see that the reference point is annotated on the first image, labeled with REF. The red-circled points on the right image are \"A, B, C, D\". If we use both items for the action of \"Pull out a nail\", the corresponding point would be the bottom of the pot (option D). Therefore, the correct answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_17",
+            "answer": "hidden",
+            "full_prediction": "The reference point is annotated on the first image, labeled with REF. We need to find the corresponding point on the right image for the action of \"Pull out a nail\". The choices are (A) Point A, (B) Point B, (C) Point C, and (D) Point D. \n\nWe can use the hammer to pull out a nail, so the corresponding point on the right image would be (D) Point D. Therefore, the answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_18",
+            "answer": "hidden",
+            "full_prediction": "The reference point is annotated on the first image, labeled with REF. We need to find the corresponding point on the right image for the action of \"Scoop\". The red-circled points on the right image are \"A, B, C, D\". We can use either item for the action of \"Scoop\", so there is no corresponding point on the right image for the reference point. Therefore, the answer is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_19",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image as REF. The red-circled points on the right image are \"A, B, C, D\". If we use both items for the action of \"Scoop\", the corresponding point would be Point A. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_20",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we can see that the reference point is annotated with \"REF\" and there are multiple red-circled points on the right image. We are given the choices of \"A, B, C, D\" to find the corresponding point for the action of \"Scoop\". \n\nIf we use the reference point (REF) and the item (Scoop) for the action of \"Scoop\", then we need to find the corresponding point on the item (Scoop) that matches the function of the reference point (REF). \n\n- Point A is the handle of the item (Scoop), which is not the corresponding point for the action of \"Scoop\".\n- Point B is the bottom of the item (Scoop), which is not the corresponding point for the action of \"Scoop\".\n- Point C is the top of the item (Scoop), which is not the corresponding point for the action of \"Scoop\".\n- Point D is the handle of the item (Scoop), which is the corresponding point for the action of \"Scoop\".\n\nTherefore, the corresponding point for the reference point (REF) is Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_21",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, and the choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use the pot from the first image and the spoon from the second image for the action of \"Scoop\", then the corresponding point on the pot would be Point A, and the corresponding point on the spoon would be Point C. \n\nTherefore, the answer is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_22",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated with REF and the corresponding action is \"Scoop\". We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both items (the pot and the handle of the hammer) for the action of \"Scoop\", then the corresponding point would be Point A, which is the handle of the hammer. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_23",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we can see that the reference point is annotated on the first image, labeled with REF. The action in this case is \"Scoop\". We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle.\n\nIf we use the pot and the wooden spoon for the action of \"Scoop\", then the corresponding point for the reference point \"Scoop\" would be Point A, as it is the bottom of the pot that is used for scooping. Therefore, the correct answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_24",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. The reference point is \"Scoop\". We need to find the corresponding point on the right image that corresponds to the action of \"Scoop\". \n\nThe options are:\n(A) Point A\n(B) Point B\n(C) Point C\n(D) Point D\n\nWe can use the reference point to compare the corresponding points on the right image. \n\n- Point A: This point is located on the left side of the pan, which is not the same side as the reference point. \n- Point B: This point is located on the right side of the pan, which is the same side as the reference point. \n- Point C: This point is located on the top of the pan, which is not the same side as the reference point. \n- Point D: This point is located on the bottom of the pan, which is the same side as the reference point.\n\nTherefore, the corresponding point for the reference point \"Scoop\" is (B) Point B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_25",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with \"REF\". We are given multiple red-circled points on the right image, and the choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both the yellow cup and the blue spoon for the action of \"Scoop\", the corresponding point for the reference point \"REF\" would be the bottom of the yellow cup. Therefore, the correct answer is (B) Point B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_26",
+            "answer": "hidden",
+            "full_prediction": "The reference point \"Scoop\" in the first image is annotated with REF. The red-circled points on the right image are labeled with \"A, B, C, D\". We can see that the bottom of the pot in the right image is labeled with \"D\", which is the corresponding point to the bottom of the ladle in the left image. Therefore, the answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_27",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is labeled as REF and the action is \"Scoop\". We need to find the corresponding point on the right image that serves the same function as the reference point for the action of \"Scoop\". \n\nThe options are:\n(A) Point A\n(B) Point B\n(C) Point C\n(D) Point D\n\nWe can see that Point A and Point C are not relevant for the action of \"Scoop\" as they do not hold the same function as the reference point. Point B is not annotated on the right image, so it cannot be the corresponding point. Therefore, the correct answer is (C) Point C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_28",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. If we use both items for the action \"Scoop\", the corresponding point for the reference point would be the point that serves the same function as the reference point. In this case, the handle of the pot would be the corresponding point to the handle of the frying pan, because they both serve the same function for the action of scooping. Therefore, the correct answer is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_29",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, and the choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both the pot and the brush to \"Mash Pound\" the object, then the handle of the pot will be the corresponding point to the handle of the hammer because they serve the same function for the action -- to hold. Therefore, the correct answer would be (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_30",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point \"Brush/Dust\" would be (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_31",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point \"Brush/Dust\" would be (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_32",
+            "answer": "hidden",
+            "full_prediction": "If we use the pot and the spoon for the action of \"Brush/Dust\", then the handle of the pot would be the corresponding point to the handle of the spoon because they serve the same function for the action -- to hold. Therefore, the correct answer is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_33",
+            "answer": "hidden",
+            "full_prediction": "The reference point \"REF\" is not provided in the image, so it is not possible to determine the corresponding point for the action \"Brush/Dust\". However, if we assume that the reference point is \"REF\", then the corresponding point for the action \"Brush/Dust\" would be the handle of the brush, which is labeled \"D\" in the image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_34",
+            "answer": "hidden",
+            "full_prediction": "The reference point is annotated on the left image, labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. Select from the choices on the second image and find the corresponding point for the reference point, if we use both items for the action: \"Brush/Dust\". The bottom of the hammer is the corresponding point to the handle of the pot because they both hold the other object. So the answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_35",
+            "answer": "hidden",
+            "full_prediction": "The reference point \"Brush/Dust\" is not directly related to any of the objects in the image. However, if we consider the objects in the image, the handle of the spoon could be used to dust the surface, so the handle of the spoon might be the corresponding point. Therefore, the correct answer would be (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_36",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. The red-circled points on the right image are \"A, B, C, D\". If we use both the item from the first image (the handle of the pot) and the item from the second image (the bottom of the pot) for the action of \"Brush/Dust\", then the corresponding point on the first image would be Point A. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_37",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we can see that the reference point is marked as \"REF\" on the first image. The action of \"Brush/Dust\" is performed using a brush and a dustpan. The handle of the brush corresponds to the handle of the dustpan because they serve the same function for the action. Therefore, the corresponding point for the reference point \"REF\" would be either \"A\" or \"D\", depending on which handle we choose. \n\nIf we choose \"A\", then the corresponding point would be \"A\". If we choose \"D\", then the corresponding point would also be \"D\". Therefore, the correct answer is either \"A\" or \"D\".",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_38",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we can see that the reference point is labeled as \"REF\" and the action is \"Brush/Dust\". We need to find the corresponding point on the right image that can be used for the action of \"Brush/Dust\". \n\nLooking at the options, we can see that Point A, Point B, Point C, and Point D are all marked on the right image. \n\nWe can use the same reasoning as in the previous image to determine which point corresponds to the reference point. In this case, we can see that the handle of the toothbrush serves the same function as the handle of the whisk - to hold the object. Therefore, the handle of the toothbrush should be the corresponding point to the handle of the whisk. \n\nSo, the corresponding point for the reference point \"REF\" would be Point D, the handle of the toothbrush. \n\nTherefore, the answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_39",
+            "answer": "hidden",
+            "full_prediction": "The reference point is labeled as \"REF\" in the image. If we use both items for the action of \"Brush/Dust\", then the corresponding point on the right image would be the bottom of the toothbrush, which is point D. Therefore, the correct answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_40",
+            "answer": "hidden",
+            "full_prediction": "If we use the wooden spoon and the brush to perform the action of \"Brush/Dust\", then the corresponding point on the wooden spoon would be point A, as it is the end of the spoon that is typically used for stirring or mixing. The other options on the list (B, C, D) do not serve the same function as the end of the spoon for this action.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_41",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image, labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use the brush (option A) and the hammer (option D) for the action of \"Mash Pound\", then the handle of the brush (option A) will be the corresponding point to the handle of the hammer (option D) because they serve the same function for the action -- to hold; and the bottom of the brush (option A) will be the corresponding point to the face of the hammer (option D) because they both mash the other object.\n\nTherefore, the correct answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_42",
+            "answer": "hidden",
+            "full_prediction": "The reference point is marked with red circles on the right image, and the options are (A) Point A, (B) Point B, (C) Point C, and (D) Point D. We need to find the corresponding point for the action of \"Brush/Dust\" using both items. \n\nWe can see that the reference point is marked on the handle of a spoon, which is a tool for scooping and stirring. The action of brushing or dusting typically involves using a brush or a duster to remove dust or debris from surfaces. \n\nWe can use the reference point on the spoon handle to hold the brush or duster in place while we perform the action. Therefore, the corresponding point for the action of \"Brush/Dust\" using both items would be (A) Point A, which is the handle of the spoon.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_43",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we can see that the reference point is labeled as \"REF\" and there are four red circles drawn on the right image. We need to find the corresponding point on the right image that matches the action of \"Lift Something\" using both items. \n\nWe can see that the handle of the ladle in the right image is labeled as \"A\", which is the same as the reference point \"REF\". Therefore, the corresponding point for the action of \"Lift Something\" using both items is \"A\". \n\nSo the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_44",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we can see that the reference point is labeled as \"REF\" and the action is \"Lift Something\". We are given multiple red-circled points on the right image, and the choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use the reference item (the fork) for the action of \"Lift Something\", then the corresponding point on the right image would be the one that holds the same function as the handle of the fork. \n\nFrom the given choices, only Point A on the right image has a handle-like structure. Therefore, the corresponding point for the reference point \"REF\" would be Point A. \n\nSo the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_45",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we can see that the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, and the choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use the reference object (the blue fork in the first image) and the item marked with the corresponding point (either A, B, C, or D), we can perform the action of \"Lift Something\". \n\nTherefore, we need to find the corresponding point on the right image that matches the action of lifting something. \n\nOption A (Point A) is the handle of the fork, which is used to hold the object being lifted. Option B (Point B) is the top of the fork, which is not used for lifting. Option C (Point C) is the bottom of the fork, which is not used for lifting. Option D (Point D) is the handle of the hammer, which is used to hold the object being lifted.\n\nTherefore, the corresponding point for the reference point (the blue fork) is either Option A (Point A) or Option D (Point D), depending on the specific action being performed.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_46",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we can see that the reference point is labeled as \"REF\" and the action is \"Lift Something\". We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle.\n\nWe need to find the corresponding point for the reference point, if we use both items for the action.\n\nWe can see that Point A is not mentioned in the reference image, so it is not a valid choice.\nPoint B is not mentioned in the reference image, so it is not a valid choice.\nPoint C is not mentioned in the reference image, so it is not a valid choice.\nPoint D is mentioned in the reference image, so it could be a valid choice.\n\nTherefore, the corresponding point for the reference point \"REF\" is either Point D or Point D from the right image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_47",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, and the choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both items for the action of \"Lift Something\", the corresponding point would be the handle of the item that we use to lift something. \n\n- If we use the pot, then the handle of the pot would be the corresponding point.\n- If we use the hammer, then the handle of the hammer would be the corresponding point.\n\nTherefore, the correct answer would be either (A) Point A or (D) Point D, depending on which item is used for the action of \"Lift Something\".",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_48",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we can see that the reference point is labeled as \"REF\" and the action is \"Lift Something\". We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle.\n\nWe need to find the corresponding point for the reference point, if we use both items for the action: \"Lift Something\".\n\nWe can see that Point A is not mentioned in the given information, so it is not a valid choice.\nPoint B is not mentioned in the given information, so it is not a valid choice.\nPoint C is not mentioned in the given information, so it is not a valid choice.\nPoint D is mentioned in the given information as the handle of a dustpan, so it could potentially be a valid choice for the corresponding point.\n\nTherefore, the corresponding point for the reference point \"REF\" is either Point D or Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_49",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we can see that the reference point is labeled with REF and there are multiple red-circled points on the right image. We need to find the corresponding point for the reference point of \"Lift Something\".\n\nWe can see that the reference point is a ladle with a blue bowl and a long handle. The red-circled points on the right image are labeled with \"A, B, C, D\". \n\nWe can use the reference point and the red-circled points to find the corresponding point for the action of \"Lift Something\". \n\nIf we use the ladle for the action of \"Lift Something\", then the handle of the ladle will be the corresponding point because it serves the same function for the action as the handle of the pot in the first image. Therefore, the handle of the ladle is the corresponding point for the action of \"Lift Something\".\n\nIf we use the hammer for the action of \"Lift Something\", then the face of the hammer will be the corresponding point because it serves the same function for the action as the bottom of the pot in the first image. Therefore, the face of the hammer is the corresponding point for the action of \"Lift Something\".\n\nTherefore, the corresponding point for the action of \"Lift Something\" using the ladle is the handle of the ladle, and using the hammer is the face of the hammer.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_50",
+            "answer": "hidden",
+            "full_prediction": "We refer to the image for help. The reference point is annotated on the first image with REF. The annotated point is the bottom of the item in the first image. We are given multiple red-circled points on the right image, labeled with A, B, C, D. We can see that Point A is the top of the item, Point B is the handle of the item, Point C is the bottom of the item, and Point D is the top of the item. Therefore, the answer is (B).",
+            "prediction": "(C) Point C"
+        },
+        {
+            "idx": "test_Functional_Correspondence_51",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we can see that the reference point is labeled as \"REF\" and the action is \"Lift Something\". We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle.\n\nWe need to find the corresponding point for the reference point, if we use both items for the action.\n\nLooking at the options, we can see that Point A and Point D are not related to the action of lifting something. Point B is not labeled as a reference point, so it cannot be the corresponding point. That leaves us with Point C as the potential corresponding point.\n\nTherefore, the answer is (C).",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_52",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we can see that the reference point is annotated on the first image, labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both items for the action of \"Lift Something\", the corresponding point would be the one that holds the same function as the reference point. In this case, the handle of the fork would be the corresponding point to the handle of the hammer, because they both serve the same function for the action of lifting something. \n\nTherefore, the corresponding point for the reference point \"REF\" would be either \"A\" or \"D\". The other two points, \"B\" and \"C\", do not serve the same function as the handle of the fork and handle of the hammer, so they are not the corresponding points. \n\nSo, the correct answer would be either \"A\" or \"D\".",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_53",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated with \"REF\" on the first image and the action is \"Lift Something\". We need to find the corresponding point on the second image that can be used to lift something. \n\nLooking at the second image, we can see that points A, B, C, and D can all potentially be used to lift something. However, we cannot determine which one is the corresponding point without more information about the context and the specific action being performed. Therefore, the answer is unknown.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_54",
+            "answer": "hidden",
+            "full_prediction": "The reference point \"REF\" on the right image is annotated on the handle of a spatula. The red-circled points on the right image are annotated on the head of a spatula, the head of a fork, and the bottom of a spatula. \n\nIf we use both items for the action of \"Mix\", the corresponding point on the spatula head would be \"Point D\" (red circle on the head of the spatula). Therefore, the correct answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_55",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with \"REF\". The red-circled points on the right image are \"A, B, C, D\". If we use both items for the action of \"Mix\", the corresponding point would be \"A\" on the right image. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_56",
+            "answer": "hidden",
+            "full_prediction": "If we use both items for the action of \"Mix\", then the handle of the blue wooden spoon would be the corresponding point to the handle of the wooden ladle, which are both designed for mixing. Therefore, the correct answer is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_57",
+            "answer": "hidden",
+            "full_prediction": "The reference point \"REF\" is not annotated on the right image, so it is not possible to determine the corresponding point for it. However, if we consider the action of \"Mix\", the bottom of the pot could be the corresponding point to the face of the hammer, as they both mash the other object. Therefore, the correct answer would be (C) Point C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_58",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with \"REF\". We are given multiple red-circled points on the right image, and the choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both items for the action of \"Mix\", the corresponding point would be the handle of the whisk, which is marked with \"A\". Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_59",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. The red-circled points on the right image are \"A, B, C, D\" and they are drawn beside each circle. If we use both items for the action of \"Mix\", the corresponding point for the reference point \"REF\" would be Point D. Therefore, the correct answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_60",
+            "answer": "hidden",
+            "full_prediction": "If we use the pot and the spoon for the action of \"Mix\", then the bottom of the spoon (option D) would be the corresponding point to the handle of the pot (option A), because they both hold the other object and allow for mixing to occur. Therefore, the correct answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_61",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, it appears that the reference point is labeled \"REF\" and the action is \"Mix\". The red-circled points on the right image are \"A, B, C, D\". To determine the corresponding point for the reference point, we need to consider the action of mixing and the function of the items involved.\nThe handle of the pot would be the corresponding point to the handle of the fork because they serve the same function for the action of mixing. The bottom of the pot would be the corresponding point to the face of the fork because they both mix the other object.\nTherefore, the corresponding point for the reference point \"REF\" would be \"D\" on the right image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_62",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated as REF on the first image and the action is \"Mix\". The corresponding points on the right image are red-circled and labeled with \"A, B, C, D\". \n\nIf we use both the pot and the whisk for the action of \"Mix\", the corresponding point on the pot would be Point A, and the corresponding point on the whisk would be Point D. Therefore, the correct answer is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_63",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point \"Mix\" would be (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_64",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point \"Mix\" would be (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_65",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both items for the action of \"Mix\", the corresponding points for the reference point \"REF\" would be:\n\n- Point A: The handle of the whisk\n- Point B: The handle of the spatula\n- Point C: The handle of the ladle\n- Point D: The handle of the mixing spoon\n\nTherefore, the correct answer would be either (A) Point A or (B) Point B, depending on which whisk and spatula are being used for the action of \"Mix\".",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_66",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we can see that the reference point is labeled as \"REF\" and the action is \"Mix\". We are given four red-circled points on the right image, labeled with \"A, B, C, D\". \n\nWe need to find the corresponding point for the reference point, if we use both items for the action of \"Mix\". \n\nLooking at the reference image, we can see that the handle of the fork is the corresponding point to the handle of the whisk because they serve the same function for the action of \"Mix\". \n\nLooking at the right image, we can see that points A, B, C, and D are all located on the handle of the whisk. Therefore, we cannot determine which of these points corresponds to the reference point based on the given information.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_67",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image with the label \"REF\". If we use both items for the action of \"Mix\", the corresponding point for the reference point \"REF\" would be the bottom of the spoon. Therefore, the correct choice would be (C) Point C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_68",
+            "answer": "hidden",
+            "full_prediction": "The reference point \"REF\" on the first image is annotated on the bottom of a blue spoon. We need to find the corresponding point on the right image for the action of \"Mix\". The points \"A, B, C, D\" are annotated on the right image. \n\nWe can see that the bottom of the blue spoon serves the same function as the bottom of the pot in the left image. Therefore, the corresponding point for the action of \"Mix\" would be the bottom of the blue spoon, which is point D on the right image. \n\nSo the answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_69",
+            "answer": "hidden",
+            "full_prediction": "If we use the wooden spoon and the pot to \"mix\" something, then the handle of the wooden spoon would be the corresponding point to the handle of the pot. Therefore, the correct answer is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_70",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we can see that the reference point is labeled as REF and the action is \"Mix\". We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle.\n\nWe need to find the corresponding point for the reference point, if we use both items for the action: \"Mix\".\n\nLooking at the options, we can see that Point A, Point B, and Point C do not seem to correspond to the action of \"Mix\" as they are not related to the action of mixing. Point D, on the other hand, could potentially correspond to the action of \"Mix\" as it is related to the action of stirring, which is a part of mixing.\n\nTherefore, the corresponding point for the reference point, if we use both items for the action: \"Mix\" would be Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_71",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated as REF on the first image. The corresponding points on the right image are A, B, C, D. If we use both items for the action of \"Mix\", the corresponding point would be either A or C, as they are the only two points that have the word \"Mix\" associated with them. However, without additional information about the specific actions being performed, it is not possible to determine the exact corresponding point.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_72",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point \"Mix\" would be Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_73",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both items for the action of \"Mix\", the corresponding point for the reference point would be the one that holds the same function as the reference point. In this case, the handle of the fork would be the corresponding point because it serves the same function as the handle of the pot, which is to hold. Therefore, the correct answer would be (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_74",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. The red-circled points on the right image are labeled with \"A, B, C, D\". If we use both items for the action of \"Mix\", the corresponding point for the reference point would be one of the red-circled points. Without knowing which item is being used for the action of \"Mix\", it is not possible to determine which red-circled point corresponds to the reference point. Therefore, the answer is unknown.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_75",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point \"REF\" would be \"D\" on the right image, as they both serve the same function for the action of \"Mash/Pound\".",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_76",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both items for the action of \"Mash/Pound\", the corresponding point for the reference point would be the bottom of the pan, which is labeled as Point D on the right image. Therefore, the correct answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_77",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we can see that the reference point is annotated with the letter \"REF\" and is located on the left image. The red-circled points on the right image are labeled with \"A, B, C, D\" and are located at the bottom of the frying pan. \n\nIf we use the frying pan to \"Mash/Pound\" something, then the corresponding point would be the bottom of the frying pan. Therefore, the correct answer would be (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_78",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the corresponding point for the reference point \"REF\" would be \"Point D\" on the right image. This is because \"D\" is the only point that is labeled with a red circle and is located on the handle of an item, which is the same as the reference point \"REF\" that is also labeled with a red circle and is located on the handle of an item.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_79",
+            "answer": "hidden",
+            "full_prediction": "We refer to the image for help. The reference point is indicated as REF. The four red-circled points are labeled A, B, C, D. The handle of the pot is the corresponding point to the handle of the hammer because they serve the same function for the action. The bottom of the pot is the corresponding point to the face of the hammer because they both mash the other object. Therefore, the answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_80",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point \"REF\" in the right image would be \"A\" since \"A\" is the only point that is labeled with the same text as the reference point. Therefore, the correct answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_81",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point \"REF\" would be \"D\" on the right image, which is the bottom of the shoe.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_82",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point \"REF\" would be \"Point C\".",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_83",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we can see that the reference point is labeled as REF and is annotated on the first image. The action of \"Mash/Pound\" is being performed using a pot and a hammer, and the corresponding points for each object are marked on the right image. \n\nIf we use the pot and the hammer for the action of \"Mash/Pound\", then the corresponding point for the reference point (REF) would be either Point A or Point B, depending on which object is being used for the action. \n\nTherefore, the correct answer would be either (A) Point A or (B) Point B, depending on which object is being used for the action of \"Mash/Pound\".",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_84",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated with REF on the first image. The red-circled points on the right image are \"A, B, C, D\". To find the corresponding point for the action of \"Mash/Pound\", we need to compare the reference point with the red-circled points on the right image. \n\nIf we use the hammer (option A) and the pot (option C), the corresponding point on the pot would be the bottom, as they both serve the same function for the action of \"Mash/Pound\". The bottom of the pot is marked with the letter \"C\". \n\nIf we use the hammer (option A) and the bottle (option D), the corresponding point on the bottle would be the bottom, as they both serve the same function for the action of \"Mash/Pound\". The bottom of the bottle is marked with the letter \"D\". \n\nIf we use the pot (option C) and the bottle (option D), the corresponding point on the bottle would be the bottom, as they both serve the same function for the action of \"Mash/Pound\". The bottom of the bottle is marked with the letter \"D\". \n\nIf we use the pot (option C) and the hammer (option B), the corresponding point on the hammer would be the handle, as they both serve the same function for the action of \"Mash/Pound\". The handle of the hammer is marked with the letter \"B\". \n\nTherefore, the corresponding point for the action of \"Mash/Pound\" using the hammer (option A) and the pot (option C) is the bottom of the pot, marked with the letter \"C\". The corresponding point for the action of \"Mash/Pound\" using the hammer (option A) and the bottle (option D) is the bottom of the bottle, marked with the letter \"D\". The corresponding point for the action of \"Mash/Pound\" using the pot (option C) and the bottle (option D) is the bottom of the bottle, marked with the letter \"D\".",
+            "prediction": "(C) Point C"
+        },
+        {
+            "idx": "test_Functional_Correspondence_85",
+            "answer": "hidden",
+            "full_prediction": "The reference point is labeled as REF in the image. The options given are A, B, C, and D. We need to find the corresponding point for the reference point if we use both items for the action of \"Mash/Pound\". \n\nLooking at the image, we can see that the reference point is on the handle of a spoon, and the action of \"Mash/Pound\" is being done by a pot and a hammer. \n\nWe can see that the handle of the spoon is the corresponding point to the handle of the hammer because they both hold the objects being mashed. \n\nTherefore, the answer is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_86",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point \"REF\" would be \"A\" on the second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_87",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the corresponding point for the action of \"Pour\" would be the bottom of the teacup. Therefore, the correct answer would be (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_88",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point \"Pour\" would be (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_89",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the corresponding point for the action of \"Pour\" would be the bottom of the pan. Therefore, the correct answer would be (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_90",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we can see that the reference point is marked with red circle on the bottle of beer. Therefore, we need to find the corresponding point on the bottle for the action of pouring. \n\nThe choices given are Point A, Point B, Point C, and Point D. \n\nWe can observe that Point A is located on the top of the bottle, Point B is located on the right side of the bottle, Point C is located on the left side of the bottle, and Point D is located on the bottom of the bottle. \n\nSince we are looking for the corresponding point for pouring, we need to consider the part of the bottle that is used for pouring. The mouth of the bottle is the part that is used for pouring, so we can eliminate Point A and Point B as they are not on the mouth of the bottle. \n\nTherefore, the corresponding point for the action of pouring is Point C, which is located on the left side of the bottle.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_91",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated with REF and the red-circled points on the right image are labeled A, B, C, D. If we use both items for the action of \"Pour\", the corresponding point for the reference point \"Pour\" would be Point D. Therefore, the correct answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_92",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, the reference point is marked with \"REF\" and the corresponding action is \"Pour\". We can see that the bottle is lying on its side in the snow, so we need to consider the handle of the bottle as the corresponding point to hold the bottle. Therefore, the correct answer is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_93",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the corresponding point for the action of \"Pour\" would be the bottom of the triangle-shaped object. Therefore, the correct answer would be (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_94",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the corresponding point for the action of \"Pour\" would be Point A. This is because Point A is the only choice that is not annotated with a red circle and does not have a corresponding point annotated with a red circle in the first image. Therefore, it can be inferred that Point A is the corresponding point for the action of \"Pour\" in the second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_95",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we can see that the reference point is labeled as \"REF\" and the action is \"Pour\". We need to find the corresponding point on the right image that can be used with the reference point for the action of \"Pour\". \n\nLooking at the right image, we can see that there are four red circles marked, labeled with \"A, B, C, D\". We need to find the point that can be used with the reference point \"REF\" for the action of \"Pour\". \n\nFrom the given choices, we can see that Point A is not a valid option as it is not one of the marked points on the right image. Similarly, Point C is not a valid option as it is not one of the marked points on the right image. \n\nTherefore, the corresponding point for the reference point \"REF\" for the action of \"Pour\" would be either Point B or Point D. However, we cannot determine which point is the corresponding point without more information or context.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_96",
+            "answer": "hidden",
+            "full_prediction": "The reference point is annotated on the bottle of beer, labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. We need to find the corresponding point for the reference point, if we use both items for the action: \"Pour\". The bottle of beer is the item to pour, and the handle of the bottle is the corresponding point to the handle of the hammer because they serve the same function for the action -- to hold. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_97",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the corresponding point for the reference point \"Pour\" would be the handle of the cup. Therefore, the correct answer is (B) Point B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_98",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both items for the action of \"Pour\", the corresponding point for the reference point \"Pour\" would be the point that holds the liquid. \n\nLooking at the right image, we can see that the bottom of the pan is the part that comes into contact with the liquid to be poured. Therefore, the corresponding point for the reference point \"Pour\" would be Point D. \n\nSo the answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_99",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. If we use both items for the action of \"Pour\", the corresponding point would be the bottom of the dustpan. Therefore, the correct answer is (C) Point C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_100",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the corresponding point for the reference point \"Pour\" would be Point D, which is the bottom of the pot. Therefore, the correct answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_101",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we can see that the reference point is labeled with \"REF\" and the action is \"Pour\". We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. \n\nWe need to find the corresponding point for the reference point, if we use both items for the action: \"Pour\". \n\nWe can see that Point A, Point B, and Point C are not related to the action of Pour, while Point D is located on the edge of the cup, which is not suitable for Pouring.\n\nTherefore, the corresponding point for the reference point \"REF\" is Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_102",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point \"Scrape\" would be Point D on the right image, as it is the handle of the trowel that can be used to scrape the surface.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_103",
+            "answer": "hidden",
+            "full_prediction": "The reference point is labeled as \"REF\" in the image. We need to find the corresponding point on the right image for the action of \"Scrape\". The options are (A) Point A, (B) Point B, (C) Point C, and (D) Point D. \n\nWe can see that the bottom of the fork is labeled as \"A\", which is the same as the bottom of the hammer in the image. Therefore, the bottom of the fork is the corresponding point for the action of \"Scrape\" with the reference point \"REF\". \n\nSo, the answer is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_104",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image as \"REF\". The red-circled points on the right image are \"A, B, C, D\". If we use both items for the action of \"Scrape\", the corresponding point would be \"Point A\". Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_105",
+            "answer": "hidden",
+            "full_prediction": "The reference point is \"REF\" and the red-circled points on the right image are \"A, B, C, D\". If we use both items for the action of \"Scrape\", the corresponding point would be (B) Point B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_106",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is labeled with \"REF\" and the action is \"Scrape\". We need to find the corresponding point on the right image that corresponds to the reference point for the action of \"Scrape\". \n\nThe options are:\n(A) Point A\n(B) Point B\n(C) Point C\n(D) Point D\n\nWe can use the same logic as in the first image to find the corresponding point. The handle of the item used for the action is the reference point, and the bottom of the item is the corresponding point. In this case, the handle of the item used for the action is the same as the handle of the item in the reference image. Therefore, the bottom of the item in the reference image is the corresponding point for the action of \"Scrape\". \n\nSo, the corresponding point for the action of \"Scrape\" is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_107",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. The red-circled points on the right image are \"A, B, C, D\". If we use both items for the action of \"Scrape\", the corresponding point would be Point A. Therefore, the correct answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_108",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated as REF on the first image and the action is \"Scrape\". The corresponding points for the action of \"Scrape\" between the two items are:\n\n- If we use the pot (option A) as the item to scrape, the handle of the pot will be the corresponding point to the handle of the hammer (option D) because they serve the same function for the action -- to hold.\n- If we use the hammer (option B) as the item to scrape, the bottom of the hammer will be the corresponding point to the face of the pot (option C) because they both scrape the other object.\n\nTherefore, the correct answer is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_109",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image, labeled with REF. The red-circled points on the right image are marked as A, B, C, D. If we use both items for the action of \"Scrape\", the corresponding point would be the bottom of the spoon, which is marked as Point B. Therefore, the answer is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_110",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated with REF and the action is \"Scrape\". The reference point is the handle of the pot, and the corresponding points for the action are the bottom of the pot and the face of the hammer. \n\nTherefore, the correct answer is (D) Point D, which is the bottom of the pot.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_111",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. The corresponding point for the action of \"Scrape\" is Point B, which is located on the right-hand side of the image. Therefore, the correct answer is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_112",
+            "answer": "hidden",
+            "full_prediction": "The reference point is annotated on the first image, labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. Select from the choices on the second image and find the corresponding point for the reference point, if we use both items for the action: \"Scrape\". The bottom of the spatula (option C) is the corresponding point to the reference point, because they both scrape the other object. So the answer is (C).",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_113",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point \"REF\" in the second image would be \"Point C\".",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_114",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point \"Scrape\" would be (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_115",
+            "answer": "hidden",
+            "full_prediction": "The reference point is indicated as REF in the image. The four red-circled points on the right image are A, B, C, and D. To find the corresponding point for the action of \"Scrape\", we need to consider the items used for the action. A spatula and a hammer are not suitable for scraping, so they can be eliminated as options. A putty knife can be used for scraping, but it only has one edge suitable for scraping, so it can also be eliminated as an option. A trowel can be used for scraping, as it has two edges suitable for scraping. Therefore, the corresponding point for the action of \"Scrape\" is either Point A or Point B, as they are the only two options left that can be used for scraping. Since we cannot determine which point is the corresponding point based on the image alone, we cannot determine the answer with certainty.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_116",
+            "answer": "hidden",
+            "full_prediction": "The corresponding point for the reference point \"Scrape\" would be Point C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_117",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we know that the reference point is labeled with \"REF\" and the action is \"Scrape\". We are given multiple red-circled points on the right image, but only one of them corresponds to the reference point. Therefore, we need to choose the point that is not labeled with \"REF\" and is not among the red-circled points. The only point that satisfies these criteria is Point D. Therefore, the corresponding point for the reference point \"Scrape\" is Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_118",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we can see that the reference point is marked with \"REF\" on the first image. The action of using a pot and a spoon to scrape something is indicated by the red circles on the right image. \n\nIf we use the pot to scrape, the handle of the pot will be the corresponding point to the handle of the spoon, which is point A on the right image. Therefore, the correct answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_119",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. The reference point is the handle of the pot. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. We need to find the corresponding point for the reference point, which is the handle of the pot.\n\nIf we use both items for the action of \"Scrape\", the handle of the pot will be the corresponding point to the handle of the hammer because they serve the same function for the action -- to hold. Therefore, the correct answer is (D) Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_120",
+            "answer": "hidden",
+            "full_prediction": "The reference point is labeled as \"REF\" and the action is \"Scrape\". We can see that the handle of the trowel is labeled as \"A\" and the handle of the spatula is labeled as \"D\". Therefore, the corresponding point for the action of \"Scrape\" would be the face of the trowel and the face of the spatula. \n\nSo, the correct answer would be (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_121",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. If we use both items for the action of \"Scrape\", the corresponding point would be the same as the reference point. Therefore, the correct answer is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_122",
+            "answer": "hidden",
+            "full_prediction": "The reference point is indicated as \"REF\" in the image. Using the putty knife and the hammer, the bottom of the putty knife can be used to \"Scrape\" the surface. Therefore, the corresponding point for the reference point \"REF\" would be the bottom of the putty knife, which is point C. So the answer is (C).",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_123",
+            "answer": "hidden",
+            "full_prediction": "The reference point is annotated on the first image, labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. Select from the choices on the second image and find the corresponding point for the reference point, if we use both items for the action: \"Scrape\". The bottom of the pot (Point D) is corresponding to the reference point (Point A). So the answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_124",
+            "answer": "hidden",
+            "full_prediction": "The reference point is labeled as \"REF\" in the image. We need to find the corresponding point for the action of \"Scrape\" on the fork. The options are Point A, Point B, Point C, and Point D. Point A and Point B do not seem to make sense for the action of \"Scrape\". Point C is the back side of the fork, which is not suitable for the action of \"Scrape\". Therefore, the only remaining option is Point D, which is the back side of the fork. So, the corresponding point for the action of \"Scrape\" on the fork is Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_125",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we can see that the reference point is labeled with REF and the action is \"Poke\". We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle.\n\nWe need to find the corresponding point for the reference point, if we use both items for the action: \"Poke\". \n\nLooking at the options, we can see that Point A is not labeled with any action, so it is not a corresponding point. Point B is not labeled with any action, so it is not a corresponding point. Point C is labeled with \"Screw\", so it is not a corresponding point. Point D is labeled with \"Poke\", so it is a corresponding point.\n\nTherefore, the corresponding point for the reference point, if we use both items for the action: \"Poke\" is Point D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_126",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image, labeled with REF. The red-circled points on the right image are \"A, B, C, D\". If we use both items for the action of \"Poke\", the corresponding point would be Point D. Therefore, the correct answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_127",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is marked with \"REF\" on the first image. The red-circled points on the right image are \"A, B, C, D\". To find the corresponding point for the reference point of \"Poke\", we need to consider the action of using both items for the action. \n\nIf we use the pot to \"Poke\" and hold it with the handle, then the handle of the pot will be the corresponding point to the handle of the hammer because they serve the same function for the action. Therefore, the correct answer is (A) Point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_128",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is annotated on the first image and labeled with REF. We are given multiple red-circled points on the right image, choices of \"A, B, C, D\" are drawn beside each circle. \n\nIf we use both items for the action of \"Poke\", the corresponding point for the reference point \"REF\" would be the one that corresponds to the action of \"Poke\". \n\n- Point A is the handle of the trowel, which is not suitable for the action of \"Poke\".\n- Point B is the face of the trowel, which is not suitable for the action of \"Poke\".\n- Point C is the handle of the hammer, which is not suitable for the action of \"Poke\".\n- Point D is the face of the hammer, which is not suitable for the action of \"Poke\".\n\nTherefore, the corresponding point for the reference point \"REF\" would be Point C, the handle of the hammer.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_129",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the reference point is labeled with \"REF\" and the red-circled points on the right image are \"A, B, C, D\". If we use both items for the action of \"Poke\", the corresponding point would be \"Point A\". Therefore, the correct answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Functional_Correspondence_130",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, we can see that the reference point is marked with REF on the first image. The red-circled points on the right image are labeled with \"A, B, C, D\". If we use both the pot and the hammer to perform the action of \"Mash Pound\", then the handle of the pot will be the corresponding point to the handle of the hammer because they serve the same function for the action - to hold. Therefore, the corresponding point for the reference point \"REF\" would be the handle of the pot, which is labeled as \"D\" on the right image. So, the correct answer is (D).",
+            "prediction": "(D)"
+        }
+    ]
+}

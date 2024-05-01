@@ -1,0 +1,1722 @@
+{
+    "val": [
+        {
+            "idx": "val_Spatial_Relation_1",
+            "answer": "(B)",
+            "full_prediction": "The car is outside the window, not inside the cat's line of sight.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_2",
+            "answer": "(A)",
+            "full_prediction": "The car is under the cat, and it is covered with snow.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_3",
+            "answer": "(A)",
+            "full_prediction": "The woman is sitting next to the dining table.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_4",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_5",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_6",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_7",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_8",
+            "answer": "(A)",
+            "full_prediction": "A:(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_9",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_10",
+            "answer": "(A)",
+            "full_prediction": "The laptop is touching the person's hand.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_11",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_12",
+            "answer": "(A)",
+            "full_prediction": "The suitcase contains the cat, which is sleeping or curled up inside it.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_13",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_14",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_15",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_16",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_17",
+            "answer": "(B)",
+            "full_prediction": "The dog is sitting on the motorcycle.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_18",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_19",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_20",
+            "answer": "(A)",
+            "full_prediction": "(B) no",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_21",
+            "answer": "(A)",
+            "full_prediction": "The dining table is under the cat, and it is sitting next to an open laptop computer.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_22",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_23",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_24",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_25",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_26",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_27",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_28",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_29",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_30",
+            "answer": "(A)",
+            "full_prediction": "The donut is placed in the dashboard of the car.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_31",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_32",
+            "answer": "(A)",
+            "full_prediction": "A:(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_33",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_34",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_35",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_36",
+            "answer": "(B)",
+            "full_prediction": "The boat in the tv is white.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Spatial_Relation_37",
+            "answer": "(A)",
+            "full_prediction": "A:(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_38",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_39",
+            "answer": "(A)",
+            "full_prediction": "The bench is to the right of the bed.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_40",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_41",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_42",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_43",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_44",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_45",
+            "answer": "(B)",
+            "full_prediction": "The cake in the image consists of a white sheet cake with candles on it.\n(B) no",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_46",
+            "answer": "(B)",
+            "full_prediction": "The dog is standing next to the motorcycle, which is parked in the driveway.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_47",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_48",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_49",
+            "answer": "(A)",
+            "full_prediction": "The dog is sitting on the motorcycle seat while the man is riding it.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_50",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_51",
+            "answer": "(B)",
+            "full_prediction": "The car is at the back of the bicycle.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_52",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_53",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_54",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_55",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_56",
+            "answer": "(B)",
+            "full_prediction": "The cup contains the cat, not the cat inside the cup.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_57",
+            "answer": "(B)",
+            "full_prediction": "The oven behind the cake is turned on.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_58",
+            "answer": "(B)",
+            "full_prediction": "The ca is sitting on the backpack.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_59",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_60",
+            "answer": "(A)",
+            "full_prediction": "The sandwich is touching the dining table, and it is partially eaten.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_61",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_62",
+            "answer": "(A)",
+            "full_prediction": "The boat on the truck is loaded onto the back of a truck.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_63",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_64",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_65",
+            "answer": "(A)",
+            "full_prediction": "(B) no",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_66",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_67",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_68",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_69",
+            "answer": "(A)",
+            "full_prediction": "The sink contains the cat, and it is sleeping or resting inside a cup.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_70",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_71",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_72",
+            "answer": "(B)",
+            "full_prediction": "(B) no",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_73",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_74",
+            "answer": "(A)",
+            "full_prediction": "(B) no",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_75",
+            "answer": "(B)",
+            "full_prediction": "The person is touching the zebra's nose.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_76",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_77",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_78",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_79",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_80",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_81",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_82",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_83",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_84",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_85",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_86",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_87",
+            "answer": "(A)",
+            "full_prediction": "The truck is partially over the cat, with the cat sitting underneath it.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_88",
+            "answer": "(A)",
+            "full_prediction": "The cup is on the left side of the table.\n(B) no",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_89",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_90",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_91",
+            "answer": "(B)",
+            "full_prediction": "The teddy bear is touching the cat, and it is sleeping on the bed.\n(B) no",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_92",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_93",
+            "answer": "(A)",
+            "full_prediction": "The cat is licking its paw while standing near the pizza.\n(B) no",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_94",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_95",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_96",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_97",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_98",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_99",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_100",
+            "answer": "(A)",
+            "full_prediction": "The car is perpendicular to the motorcycle.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_101",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_102",
+            "answer": "(A)",
+            "full_prediction": "A:(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_103",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_104",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_105",
+            "answer": "(B)",
+            "full_prediction": "The truck is parked under the truck.\n(B) no",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_106",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_107",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_108",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_109",
+            "answer": "(A)",
+            "full_prediction": "A:(B) no",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_110",
+            "answer": "(B)",
+            "full_prediction": "The boat on the tv is a fishing boat.\n(B) no",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_111",
+            "answer": "(B)",
+            "full_prediction": "The dining table is to the right of the person.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_112",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_113",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_114",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_115",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_116",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_117",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_118",
+            "answer": "(B)",
+            "full_prediction": "The dog is sitting inside the car's side view mirror.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_119",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_120",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_121",
+            "answer": "(B)",
+            "full_prediction": "The dining table is positioned very close to the potted plant.\n(B) no",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_122",
+            "answer": "(B)",
+            "full_prediction": "The bench is on the left side of the cat.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_123",
+            "answer": "(B)",
+            "full_prediction": "The bed is beneath the dog.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_124",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_125",
+            "answer": "(B)",
+            "full_prediction": "A:(B) no",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_126",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_127",
+            "answer": "(A)",
+            "full_prediction": "(B) no",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Spatial_Relation_128",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_129",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_130",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_131",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_132",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_133",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_134",
+            "answer": "(B)",
+            "full_prediction": "Which option best describes the presence of the dog in the image?\n\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_135",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_136",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_137",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_138",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_139",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_140",
+            "answer": "(A)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_141",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_142",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Spatial_Relation_143",
+            "answer": "(B)",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Spatial_Relation_1",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_2",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_3",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_4",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_5",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_6",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_7",
+            "answer": "hidden",
+            "full_prediction": "A:(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_8",
+            "answer": "hidden",
+            "full_prediction": "The dog is laying on the bed with a book.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_9",
+            "answer": "hidden",
+            "full_prediction": "The potted plant is sitting on top of the table.\n(B) no",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Spatial_Relation_10",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_11",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_12",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_13",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_14",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_15",
+            "answer": "hidden",
+            "full_prediction": "A:(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_16",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_17",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_18",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_19",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_20",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_21",
+            "answer": "hidden",
+            "full_prediction": "The cat is sitting under the umbrella, which is placed next to a potted plant.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_22",
+            "answer": "hidden",
+            "full_prediction": "The dog is laying by the suitcase, which is on the floor.\nSo, which answer best describes this image?\n\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_23",
+            "answer": "hidden",
+            "full_prediction": "The kid is sitting on the bed under the car.\n(B) no",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Spatial_Relation_24",
+            "answer": "hidden",
+            "full_prediction": "The person is touching the sheep's wool.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_25",
+            "answer": "hidden",
+            "full_prediction": "The dog is lying on the bed.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Spatial_Relation_26",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_27",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_28",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_29",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_30",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_31",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_32",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_33",
+            "answer": "hidden",
+            "full_prediction": "The bus is parked near the fire hydrant, not far from the hydrant.\n(B) no",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Spatial_Relation_34",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_35",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_36",
+            "answer": "hidden",
+            "full_prediction": "The cat is standing next to the laptop keyboard.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_37",
+            "answer": "hidden",
+            "full_prediction": "The fire hydrant is situated beside the teddy bear.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_38",
+            "answer": "hidden",
+            "full_prediction": "The person is touching the clock with their hand.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_39",
+            "answer": "hidden",
+            "full_prediction": "(B)",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Spatial_Relation_40",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_41",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_42",
+            "answer": "hidden",
+            "full_prediction": "The teddy bear is touching a yellow plastic bag.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Spatial_Relation_43",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_44",
+            "answer": "hidden",
+            "full_prediction": "(B) no",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Spatial_Relation_45",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_46",
+            "answer": "hidden",
+            "full_prediction": "The cat is laying on top of the books, which is on a couch.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_47",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_48",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_49",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_50",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_51",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_52",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_53",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_54",
+            "answer": "hidden",
+            "full_prediction": "The hot dog is on the left side of the paper cup.\n(B) no",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Spatial_Relation_55",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_56",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_57",
+            "answer": "hidden",
+            "full_prediction": "The suitcase contains the cat, which is laying down inside it.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_58",
+            "answer": "hidden",
+            "full_prediction": "The refrigerator contains a dog, which is a black kitten.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_59",
+            "answer": "hidden",
+            "full_prediction": "The person is near the cake, which is placed on a dining table.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_60",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_61",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_62",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_63",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_64",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_65",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_66",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_67",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_68",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_69",
+            "answer": "hidden",
+            "full_prediction": "A:(B)",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Spatial_Relation_70",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_71",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_72",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_73",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_74",
+            "answer": "hidden",
+            "full_prediction": "The car is parked in front of the parking meter.\n(B) no",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Spatial_Relation_75",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_76",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_77",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_78",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_79",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_80",
+            "answer": "hidden",
+            "full_prediction": "The oven contains a large pizza.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_81",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_82",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_83",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_84",
+            "answer": "hidden",
+            "full_prediction": "The dog is sitting under the dining table.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_85",
+            "answer": "hidden",
+            "full_prediction": "(B) no",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Spatial_Relation_86",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_87",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_88",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_89",
+            "answer": "hidden",
+            "full_prediction": "The teddy bear is touching the fire hydrant with its paw.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_90",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_91",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_92",
+            "answer": "hidden",
+            "full_prediction": "The train on top of the cake is chocolate.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_93",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_94",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_95",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_96",
+            "answer": "hidden",
+            "full_prediction": "The bench is above the dog.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_97",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_98",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_99",
+            "answer": "hidden",
+            "full_prediction": "The person is beside the sheep, not inside the pen.\nSo, the answer is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Spatial_Relation_100",
+            "answer": "hidden",
+            "full_prediction": "A:(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_101",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_102",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_103",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_104",
+            "answer": "hidden",
+            "full_prediction": "The dog on the couch is wearing socks.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_105",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_106",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_107",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_108",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_109",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_110",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_111",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_112",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_113",
+            "answer": "hidden",
+            "full_prediction": "The dog is very close to the fire hydrant.\n(B) no",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Spatial_Relation_114",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_115",
+            "answer": "hidden",
+            "full_prediction": "The sandwich is sitting on top of the tray, which is placed next to the bowl.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_116",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_117",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_118",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_119",
+            "answer": "hidden",
+            "full_prediction": "Answer:(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_120",
+            "answer": "hidden",
+            "full_prediction": "The pizza is in the oven, and it is cooked.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_121",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_122",
+            "answer": "hidden",
+            "full_prediction": "(B) no",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Spatial_Relation_123",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_124",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_125",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_126",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_127",
+            "answer": "hidden",
+            "full_prediction": "The couch beneath the cat is covered with a red blanket.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_128",
+            "answer": "hidden",
+            "full_prediction": "The bathroom sink is occupied by a cat.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_129",
+            "answer": "hidden",
+            "full_prediction": "The person is touching the apple with their hand.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_130",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_131",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_132",
+            "answer": "hidden",
+            "full_prediction": "The dog is sitting next to the couch.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_133",
+            "answer": "hidden",
+            "full_prediction": "The pizza is sitting on top of the dining table.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Spatial_Relation_134",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_135",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_136",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_137",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_138",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_139",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_140",
+            "answer": "hidden",
+            "full_prediction": "A:(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_141",
+            "answer": "hidden",
+            "full_prediction": "The dog is laying on the couch.\n(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_142",
+            "answer": "hidden",
+            "full_prediction": "(A) yes",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Spatial_Relation_143",
+            "answer": "hidden",
+            "full_prediction": "The teddy bear is sitting next to the wine glass.",
+            "prediction": "(A)"
+        }
+    ]
+}

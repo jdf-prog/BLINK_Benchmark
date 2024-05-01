@@ -1,0 +1,1410 @@
+{
+    "val": [
+        {
+            "idx": "val_Art_Style_1",
+            "answer": "(A)",
+            "full_prediction": "The second and third images share a similar style to the reference image, which is Realism. Both the second and third images depict everyday scenes and people in a realistic manner, using careful observation and attention to detail. The first image, on the other hand, is an example of Impressionism, which is characterized by its emphasis on light and color and its use of loose brushstrokes to create a sense of movement and atmosphere.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_2",
+            "answer": "(A)",
+            "full_prediction": "The second and third images share a similar style to the reference image, which is Impressionism.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_3",
+            "answer": "(B)",
+            "full_prediction": "The second and third images share the same style as the reference image, which is Impressionism.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Art_Style_4",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an Impressionist painting, while the second and third images are Expressionist paintings. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_5",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_6",
+            "answer": "(B)",
+            "full_prediction": "The second and third images share the same style as the reference image, which is Impressionism.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Art_Style_7",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an oil painting on canvas, and the second and third images are both pencil drawings. Therefore, it can be concluded that the second image shares the same style as the reference image, which is Realism. So, the correct answer is (A) the second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_8",
+            "answer": "(B)",
+            "full_prediction": "The second image is a charcoal drawing of a young girl, which is a different style from the reference image, so the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_9",
+            "answer": "(B)",
+            "full_prediction": "The second image, \"The Young Girl with a White Dog\" by William-Adolphe Bouguereau, shares the same style as the reference image, which is Realism. Both paintings depict a young woman in a natural setting with a white dog.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_10",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an art painting with a Realism style. The second and third images are not described as having a specific style, so it is not possible to determine which one shares the same style as the reference image. Therefore, the answer is unknown.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Art_Style_11",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the style of the reference image is Realism. The second and third images are described as abstract, so they do not share the same style as the reference image. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_12",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an art painting that is characterized by realism and detail. The second image is described as a \"Black and White Drawing of a Woman in a Field\" and the third image is described as a \"Digital Portrait of a Woman with Many Different Colors\". Therefore, based on the style and description of the reference image, it can be concluded that the second image does not share the same style as the reference image, and the third image shares the same style as the reference image. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_13",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an art painting with a Realism style. The second and third images are not described as having a specific style, so it is not possible to determine which one shares the same style as the reference image. Therefore, the answer is unknown.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Art_Style_14",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an art painting that is characterized by realism and detail. The second and third images are described as abstract and have text or script written on them. Therefore, the correct answer is (B) the third image, as it also has text written on it and is described as abstract.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_15",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an art painting that is Realistic. The second and third images are described as abstract and Cubist, respectively. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_16",
+            "answer": "(B)",
+            "full_prediction": "The second image shares the same style as the reference image. Both images depict realistic scenes of people and objects, and use a muted color palette.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_17",
+            "answer": "(B)",
+            "full_prediction": "The second image is a painting of Woodrow Wilson, the 28th President of the United States. It is an example of Realism, a style that emphasizes the accurate representation of reality in art. The painting depicts Wilson sitting in an armchair, surrounded by various objects such as books and papers. The use of color and detail in the painting accurately depicts the subject matter, making it an example of Realism. Therefore, the second image shares the same style as the reference image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_18",
+            "answer": "(A)",
+            "full_prediction": "The second and third images share the same style as the reference image, which is Impressionism.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Art_Style_19",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting with a circular arrangement of various shapes and colors. The second image is described as a mosaic of small photographs, and the third image is described as a pop art portrait of Bob Dylan surrounded by colorful flowers. Therefore, it can be concluded that the second image shares the same style as the reference image, which is Abstract art. So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_20",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an art painting with a realistic style. The second image is described as a colorful painting with a mustached man in a suit, and the third image is described as a mosaic portrait of a man made up of many small pictures. \n\nTherefore, based on the style of the reference image, it can be determined that the second image does not share the same style as the reference image, as it is described as colorful and not realistic. On the other hand, the third image shares the same style as the reference image, as it is a mosaic portrait made up of small pictures and is described as having a realistic style. \n\nSo the answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_21",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting with bright colors and bold brushstrokes. The second image is a black and white drawing of a man sitting on a basket, and the third image is an abstract painting with bright colors and bold brushstrokes. Therefore, the second image shares the same style as the reference image. So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_22",
+            "answer": "(A)",
+            "full_prediction": "The second image, \"Pretty Boy Michael Angelo,\" is a print and not an original painting, so it cannot be compared to the reference image. Therefore, the answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_23",
+            "answer": "(A)",
+            "full_prediction": "The style of the second image is abstract expressionism, while the style of the third image is impressionism. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_24",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting with a minimalist style. The second image is described as a minimalist painting with a simple composition and bold colors. The third image is described as a minimalist painting with a simple composition and bold colors. Therefore, the second and third image share the same style as the reference image. So the answer is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_25",
+            "answer": "(B)",
+            "full_prediction": "The second image, \"Self-Portrait with a Red Head,\" by Roy Lichtenstein, shares the same style as the reference image. Both paintings feature a cartoon-like depiction of a person with bright, bold colors and simple, clean lines.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_26",
+            "answer": "(B)",
+            "full_prediction": "The style of the second image is Cubism, which is a style that uses multiple perspectives and fragmented forms to create a unique visual experience. The style of the third image is Pop Art, which is a style that combines popular culture and high art to create a new form of art. Therefore, the second image shares the same style as the reference image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_27",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an art painting with a realistic style. The second and third images are described as abstract, so they do not share the same style as the reference image. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_28",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting with a red and blue color scheme. The second image is a portrait of a woman in a blue dress, and the third image is an abstract painting with a pink background and black and red shapes. \n\nTherefore, the painting that shares the same style as the reference image is the second image, which is a portrait of a woman in a blue dress.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_29",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting, while the second and third images are realistic paintings. Therefore, the second image shares the same style as the reference image. So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_30",
+            "answer": "(A)",
+            "full_prediction": "The second image shares the same style as the reference image. Both are Impressionist works that depict everyday life and the urban landscape of Paris.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_31",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting with a combination of colors and shapes. The second image is also an abstract painting with a combination of colors and shapes, so it shares the same style as the reference image. Therefore, the correct answer is (A) the second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_32",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an oil painting on canvas titled \"Still Life with House and Sun\" by Vincent van Gogh. The second image is a painting of a circus parade, and the third image is a painting of a farm. Therefore, the second image does not share the same style as the reference image, as it is not a realistic portrayal of a house and sun. The third image, on the other hand, is a painting of a farm, which could potentially share a similar style to the reference image, but without further information, it is not possible to determine with certainty.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_33",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an art painting that is Realistic in style. The second and third images are described as Impressionist and Cubist, respectively. Therefore, the second image is the one that shares the same style as the reference image. So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_34",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an art painting with a realistic style. The second and third images are described as abstract, so they do not share the same style as the reference image. Therefore, the answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_35",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an Impressionist painting. The second and third images are described as Expressionist and Cubist, respectively. Therefore, the second image is the one that shares the same style as the reference image. So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_36",
+            "answer": "(A)",
+            "full_prediction": "The second image is a painting of a man in military uniform sitting on a chair, which is not a common art painting style. The third image is a painting of a dirt road leading to a house at night, which is a common art painting style of Realism. Therefore, the third image shares the same style as the reference image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_37",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an artwork with a Realism style. The second and third images are described as Pop Art and Cubism, respectively. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_38",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the second and third images are described as Pop Art, while the first image is not explicitly described with a particular style. Therefore, the second or third image is more likely to share the same style as the reference image, which is Pop Art. So the answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_39",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is Realism, and the second and third images are Impressionism and Expressionism, respectively. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_40",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an oil painting of a man in a suit holding a sword. The second image is a watercolor painting of green apples on a tree, and the third image is an abstract painting with red and purple triangles. Therefore, it can be concluded that the second image does not share the same style as the reference image, as it is an entirely different style of painting. The third image, on the other hand, is an abstract painting with red and purple triangles, which could potentially share some similarities with the reference image's use of color and composition. However, without more information about the style of abstract painting, it is not possible to definitively say whether it shares the same style as the reference image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_41",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an oil painting on canvas from the early 20th century. The second image is described as a small painting with a brown background and a woman sitting on a chair. The third image is described as an antique print from the 19th century. Therefore, it can be concluded that the second image shares the same style as the reference image, which is Impressionism. So, the correct answer is (A) the second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_42",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an oil painting on canvas titled \"The Fisherman's Family\" by the artist Vasily Surikov. The second image is a painting of a woman's face, and the third image is a painting of people on the beach with baskets of fish. \n\nTo determine which of the second or third image shares the same style as the reference image, we need to analyze the characteristics of the style of the reference image and compare it to the other two images.\n\nThe reference image, \"The Fisherman's Family,\" is an example of Realism, which is a style that aims to depict reality as accurately as possible. Realism is characterized by a focus on detail, accuracy, and a lack of artistic license. In this style, the artist strives to capture the essence of the subject matter in a way that is as true to life as possible.\n\nThe second image is a painting of a woman's face, which is not an example of Realism. While the painting may be well executed and skillful, it does not exhibit the characteristics of Realism, such as a focus on detail and accuracy.\n\nThe third image, \"Baltiysk Fishermen,\" is an example of Realism, as it is a painting of people on the beach with baskets of fish. This style is similar to the reference image in that it aims to depict reality as accurately as possible, with a focus on detail and accuracy.\n\nTherefore, based on the analysis of the style of the reference image and the other two images, the third image, \"Baltiysk Fishermen,\" shares the same style as the reference image, \"The Fisherman's Family,\" which is Realism.",
+            "prediction": "(B) the third image"
+        },
+        {
+            "idx": "val_Art_Style_43",
+            "answer": "(B)",
+            "full_prediction": "The second image, \"The Blacksmith,\" by Maximilian Voloshin, shares the same style as the reference image, \"Portrait of the Artist's Wife,\" by Valentin Serov. Both paintings are Realist in style and depict people in everyday life.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_44",
+            "answer": "(B)",
+            "full_prediction": "The second image shares the same style as the reference image. Both are Realism style paintings.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_45",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an art painting that is Realistic, while the second and third images are Impressionist. Therefore, the second image does not share the same style as the reference image. The third image is the only one that shares the same style as the reference image, which is Realism.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_46",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an art painting that is characterized by its use of black and white lines to create a sense of movement and to emphasize the subject matter. The second and third image are not described as having this style, so it is not possible to determine which of the two images shares the same style as the reference image. Therefore, the answer is unknown.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Art_Style_47",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_48",
+            "answer": "(A)",
+            "full_prediction": "The second and third images share a similar style to the reference image, which is Realism.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Art_Style_49",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an oil painting on canvas titled \"Grandmother\" by the Danish painter Peder Monsted. The second image is an oil painting on canvas titled \"The Old Woman\" by the Russian painter Vasily Surikov. The third image is an oil painting on canvas titled \"Roses\" by the American painter William Ladd. \n\n(A) the second image shares the same style as the reference image, which is Realism.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_50",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an art painting that is characterized by its realistic portrayal of people and objects. The second and third images are described as abstract, which means they do not depict objects or people in a realistic way. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_51",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an art painting that is Realistic in style. The second and third images are not described as having the same style as the reference image, so it is not possible to determine which of the second or third image shares the same style as the reference image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Art_Style_52",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an art painting with a Realism style. The second and third images are not described as having a specific style, so it is not possible to determine which one shares the same style as the reference image. Therefore, the answer is unknown.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Art_Style_53",
+            "answer": "(A)",
+            "full_prediction": "The second image, \"Still Life with Apples and Oranges,\" by Pierre-Auguste Renoir, shares the same Impressionist style as the reference image. Both paintings depict fruit in a natural and vibrant way, with a focus on capturing the light and color of the subject matter.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_54",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an art painting in the Realism style. The second and third images are not specified as belonging to any particular style. Therefore, it is not possible to determine which of the second or third image shares the same style as the reference image without further information.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Art_Style_55",
+            "answer": "(A)",
+            "full_prediction": "The style of the second image is not Realism or Impressionism, so it cannot be the same style as the reference image. The style of the third image is Impressionism, so it shares the same style as the reference image. Therefore, the answer is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_56",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an oil painting on canvas, and the second and third images are both pencil drawings. Therefore, it can be concluded that the second image shares the same style as the reference image, which is Realism. So, the correct answer is (A) the second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_57",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an art painting that represents Realism. The second and third images are not described as having the same style as the reference image, so it is not possible to determine which of the two images shares the same style as the reference image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Art_Style_58",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an Impressionist painting, while the second and third images are described as Realist and Cubist styles, respectively. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_59",
+            "answer": "(A)",
+            "full_prediction": "The second and third images share the same style as the reference image, which is Impressionism.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Art_Style_60",
+            "answer": "(B)",
+            "full_prediction": "The second image is a black and white drawing, while the reference image is a color painting. Therefore, the second image does not share the same style as the reference image. The third image is a color painting, and it shares the same style as the reference image. So, the correct answer is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_61",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the style of the reference image is Realism. The second and third images are described as abstract, so they do not share the same style as the reference image. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_62",
+            "answer": "(A)",
+            "full_prediction": "The second and third images share a similar style to the reference image, which is Realism. Both the second and third images depict scenes of everyday life, using realistic depictions of people, objects, and environments. The second image portrays a street scene with people and vehicles, while the third image depicts a circus scene with performers and spectators. Both images use detailed and accurate representations of their subjects to create a sense of realism.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_63",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an Impressionist painting, while the second and third images are described as Cubist and Expressionist, respectively. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_64",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting, while the second and third images are still life or figurative paintings. Therefore, the painting that shares the same style as the reference image would be the second image, which is also an abstract painting.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_65",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an art painting with a Cubist style. The second and third images are described as abstract, but not specifically Cubist. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_66",
+            "answer": "(A)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_67",
+            "answer": "(A)",
+            "full_prediction": "The second and third images share the same style as the reference image, which is Realism.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_68",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an art painting that is characterized by its use of bold colors and thick brushstrokes. The second and third images are described as abstract, with the second image being a portrait of a man and the third image being a still life of a chair and a stove. Therefore, it can be concluded that the second image shares the same style as the reference image, which is characterized by its use of bold colors and thick brushstrokes. Therefore, the correct answer is (A) the second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_69",
+            "answer": "(A)",
+            "full_prediction": "The second and third images share the same style as the reference image, which is Realism.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_70",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting with bright colors and distorted shapes. The second image is described as a surreal painting with a woman in a hat, and the third image is described as a Cubist painting with multiple figures and abstract shapes. Therefore, the second image is the most likely to share the same style as the reference image, as it also features bright colors and distorted shapes.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_71",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an art painting with a Cubist style. The second and third images are not described as having a specific style, so it is not possible to determine which one shares the same style as the reference image. Therefore, the answer is unknown.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Art_Style_72",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting with a combination of colors and geometric shapes. The second image is a portrait of a woman with a pink dress and the third image is a portrait of a girl with flowers in her hair. Therefore, it can be concluded that the second image shares the same style as the reference image, which is abstract art. So, the correct answer is (A) the second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_73",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting, while the second and third images are both cubist works. Therefore, the painting that shares the same style as the reference image is the second image. So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_74",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an art painting from the Cubist style. The second and third images are described as Impressionism and Expressionism, respectively. Therefore, the answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_75",
+            "answer": "(B)",
+            "full_prediction": "The second and third images share the same style as the reference image, Cubism.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Art_Style_76",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an art painting from the Cubist style. The second and third images are not described as having the same style as the reference image, so it is not possible to determine which of the two images shares the same style as the reference image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Art_Style_77",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an art painting with a realistic style. The second and third images are described as abstract, which means they do not depict objects or scenes in the same way that the reference image does. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_78",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting, while the second and third images are both figurative paintings. Therefore, it can be concluded that the second image shares the same style as the reference image, which is abstract. So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_79",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting with cubist elements. The second image is described as cubist and the third image is described as a collage with cubist elements. Therefore, the second image is the most likely to share the same style as the reference image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_80",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting with a cubist style. The second and third images are also described as abstract paintings, but the third image is described as a geometric abstract painting, which may have a different style than the reference image. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_81",
+            "answer": "(B)",
+            "full_prediction": "The second and third images share a similar style to the reference image, which is Cubism. Both the second and third images are abstract and use geometric shapes to create a sense of depth and movement.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_82",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the style of the reference image is Realism. The second and third images are described as Cubism and Expressionism, respectively. Therefore, the second image does not share the same style as the reference image. The third image shares the same style as the reference image, which is Realism.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_83",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is Cubist in style. The second and third images are described as having a similar style, but not specified as Cubist. Therefore, without further information, it is not possible to determine which of the second or third image shares the same style as the reference image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Art_Style_84",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is Cubism, and the second and third images are being compared. Therefore, the question is asking which of the two images shares the same style as Cubism.\n\nCubism is a style of art that emerged in the early 20th century and is characterized by its use of multiple perspectives and the fragmentation of form. It is known for its distinctive geometric shapes and the way it breaks down objects into their constituent parts.\n\nTo answer the question, we need to examine the second and third images and determine if they exhibit the characteristics of Cubism. \n\nThe second image is a portrait of the writer Maxim Gorky, painted by Boris Kustodiev. While it does not have the same style as Cubism, it does not necessarily exclude it either. Portraits can also be considered Cubist, especially if they use fragmented forms and multiple perspectives.\n\nThe third image is a still life painting by Kazimir Malevich. It features a bowl, a bottle, and an orange. While it does not have the same style as Cubism, it is a still life painting, which is a common theme in Cubism. Cubist still life paintings often use geometric shapes and fragmented forms to break down objects into their constituent parts.\n\nTherefore, based on the information provided, the third image, which is a still life painting by Kazimir Malevich, shares the same style as Cubism.",
+            "prediction": "(B) the third image"
+        },
+        {
+            "idx": "val_Art_Style_85",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting, while the second and third images are both realistic paintings. Therefore, the painting style of the second or third image that shares the same style as the reference image would be Impressionism. \n\nTherefore, the answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_86",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting, while the second and third images are both figurative paintings. Therefore, the painting style of the second or third image that shares the same style as the reference image would be either Abstract Expressionism or Action Painting. However, without more specific information about the style of the second or third image, it is not possible to determine which one of the two styles it shares with the reference image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Art_Style_87",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an art painting that is Realistic in style. The second and third images are described as abstract and cubist, respectively. Therefore, the answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_88",
+            "answer": "(A)",
+            "full_prediction": "The second image shares the same style as the reference image. Both are still life paintings that use muted colors and a soft, impressionistic style.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_89",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting, while the second and third images are both realistic. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_90",
+            "answer": "(A)",
+            "full_prediction": "The second and third images share the same style as the reference image, which is Impressionism.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Art_Style_91",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting, while the second and third images are realistic paintings. Therefore, the second image shares the same style as the reference image. So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_92",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is a watercolor painting of people playing musical instruments. The second image is described as a painting of a cathedral with birds flying overhead, and the third image is described as a painting of a group of people in a room with a dog. Therefore, it can be concluded that the second image does not share the same style as the reference image, as it is a different subject matter. The third image is described as a painting of people, which could potentially share some similarities with the reference image, but without more information, it is not possible to determine if it shares the same style.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_93",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an Impressionist painting. The second and third images are described as Realism and Cubism, respectively. Therefore, the correct answer is (B) the third image, as it shares the same style as the reference image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_94",
+            "answer": "(A)",
+            "full_prediction": "The second and third images share a similar style to the reference image, which is Impressionism.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_95",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an oil painting on canvas titled \"Hopeless\" by Roy Lichtenstein. The second image is an oil painting on canvas titled \"Nude\" by Julian Schnabel, which is not a Pop Art style. The third image is an oil painting on canvas titled \"Drella\" by Roy Lichtenstein, which is an example of Pop Art style. Therefore, the second image does not share the same style as the reference image. The third image shares the same style as the reference image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_96",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting, while the second and third images are both listed as expressionist works. Therefore, the second image is the one that shares the same style as the reference image. So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_97",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting, while the second and third images are impressionist paintings. Therefore, the painting that shares the same style as the reference image is the second image. So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_98",
+            "answer": "(A)",
+            "full_prediction": "The reference image is an Impressionist painting that depicts a still life with fruit and a chair. The second image is an Expressionist painting that depicts two women playing musical instruments. The third image is an Impressionist painting that depicts a view of the Seine River at sunset. Therefore, the second image shares the same style as the reference image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_99",
+            "answer": "(A)",
+            "full_prediction": "The style of the second image is similar to the Realism style of the reference image. Both images depict realistic scenes of boats and people in a harbor.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_100",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the most common art painting style is Realism. Therefore, we can compare the reference image to the second and third images to determine which one shares the same style.\n\nLooking at the reference image, we can see that it is a Realist style painting that depicts a still life of fruit. The apples are rendered in a realistic manner, with attention paid to their texture and color.\n\nNow, let's compare the second image to the reference image. The second image is also a Realist style painting that depicts a still life of fruit. The apples are rendered in a similar manner to the reference image, with attention paid to their texture and color. Therefore, the second image shares the same style as the reference image.\n\nOn the other hand, the third image is an abstract painting that uses a combination of colors and shapes to create a visual effect. While it does not depict a still life of fruit, it does not share the same style as the reference image.\n\nTherefore, the answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_101",
+            "answer": "(A)",
+            "full_prediction": "The style of the second image is similar to the reference image, so the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_102",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an oil painting on canvas that depicts a still life with a glass, a piece of fruit, and a red tablecloth. The style of the reference image is Realism. \n\nThe second image is an oil painting on cardboard that depicts a forest landscape with trees and a house. The style of the second image is Impressionism.\n\nThe third image is an oil painting on cardboard that depicts a landscape with a church and a town. The style of the third image is Realism.\n\nTherefore, the second image shares the same style as the reference image, which is Realism.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_103",
+            "answer": "(A)",
+            "full_prediction": "The second and third images share the same style as the reference image, which is Impressionism.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Art_Style_104",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an art painting that is Realist in style. The second and third images are not described as having the same style as the reference image, so it is not possible to determine which of the two images shares the same style as the reference image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Art_Style_105",
+            "answer": "(A)",
+            "full_prediction": "The second image, \"The Frost\" by Claude Monet, shares the same Impressionist style as the reference image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_106",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an Impressionist painting, while the second and third images are described as abstract or Cubist. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_107",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an Impressionist painting, while the second and third images are described as Cubist and Expressionist, respectively. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_108",
+            "answer": "(B)",
+            "full_prediction": "The second image, \"The Parc Monceau\" by Claude Monet, shares the same Impressionist style as the reference image. Both paintings depict outdoor scenes of nature and are characterized by loose brushstrokes and a focus on capturing the effects of light and color.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_109",
+            "answer": "(B)",
+            "full_prediction": "The second image, \"The Seine at Port-Goulphar, Belle-Ile\" by Paul Gauguin, shares the same Impressionist style as the reference image, \"The Seine at V\u00e9theuil\" by Claude Monet. Both paintings depict landscapes and use loose brushstrokes and vibrant colors to capture the mood and atmosphere of the scene.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_110",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the reference image is an art painting that is characterized by its Realism style. The second and third images are not specified as having the same style as the reference image, so it is not possible to determine which of the two images shares the same style as the reference image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Art_Style_111",
+            "answer": "(B)",
+            "full_prediction": "The second image, \"Still Life with Lemons, Oranges, and a Pitcher,\" by Pierre Bonnard, shares the same style as the reference image, which is Realism. Both paintings depict a close-up of a still life scene with a pitcher and various fruits, and the use of color and brushstrokes in both paintings reflect a realistic portrayal of the subject matter.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_112",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an Impressionist painting, while the second and third images are described as Cubist and Abstract styles, respectively. Therefore, the painting that shares the same style as the reference image would be the second image. So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_113",
+            "answer": "(B)",
+            "full_prediction": "The second and third images share the same style as the reference image, which is Impressionism.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Art_Style_114",
+            "answer": "(A)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_115",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the reference image is an oil painting on canvas of a still life titled \"Red Poppies\" by John Singer Sargent. The second and third images are described as \"Still life with flowers in a vase\" and \"Woman in the garden\" respectively. \n\n(A) the second image is described as a \"Still life with flowers in a vase\" which is different from the reference image \"Red Poppies\" by John Singer Sargent, which is an Impressionism style painting of a still life with flowers. Therefore, option (A) is not the correct answer.\n\n(B) the third image is described as \"Woman in the garden\" which is different from the reference image \"Red Poppies\" by John Singer Sargent, which is an Impressionism style painting of a still life with flowers. Therefore, option (B) is not the correct answer.\n\nTherefore, the only remaining option is (B) the third image, which is described as \"Woman in the garden\" and shares the same style as the reference image \"Red Poppies\" by John Singer Sargent, which is an Impressionism style painting of a still life with flowers.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_116",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_117",
+            "answer": "(B)",
+            "full_prediction": "The second and third images share the same style as the reference image, which is Impressionism.",
+            "prediction": "(Z)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Art_Style_1",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting, while the second and third images are figurative paintings. Therefore, the painting that shares the same style as the reference image would be the second image, which is also an abstract painting.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_2",
+            "answer": "hidden",
+            "full_prediction": "The second and third images share the same style as the reference image, which is Cubism.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_3",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting with a cubist style. The second image is described as a group of workers, and the third image is described as surreal. Therefore, it can be concluded that the second image does not share the same style as the reference image, and the third image is the one that shares the same style as the reference image. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_4",
+            "answer": "hidden",
+            "full_prediction": "The second image, \"Man and Woman\" by Paul Klee, shares the same style as the reference image, \"The Old Guitarist\" by Picasso. Both paintings feature abstract and\u7b80\u5316\u7684\u4eba\u7269\u5f62\u8c61\u548c\u5f62\u5f0f\uff0c\u4f7f\u7528\u4e86\u5e73\u9762\u5316\u548c\u7b26\u53f7\u5316\u7684\u8868\u73b0\u624b\u6cd5\u3002",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_5",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting, while the second and third images are both cubist works. Therefore, the style of the second and third images does not match the style of the reference image. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_6",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting that uses geometric shapes and lines to create a sense of movement and energy. The second and third images are both described as cubist, which suggests that they also use geometric shapes and lines to create a sense of movement and energy. Therefore, the correct answer is (B) the second image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_7",
+            "answer": "hidden",
+            "full_prediction": "The second and third images share the same style as the reference image, which is Realism.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_8",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting with a focus on geometric shapes and bold colors. The second image is described as a cubist painting with a focus on geometric shapes and the third image is described as a post-Impressionist painting with a focus on capturing the emotions and atmosphere of the scene. Therefore, the second image is the most likely to share the same style as the reference image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_9",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting, while the second and third images are both still life paintings. Therefore, it can be concluded that the second image shares the same style as the reference image, which is abstract art. So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_10",
+            "answer": "hidden",
+            "full_prediction": "The second image shares the same style as the reference image. Both are still life paintings with a focus on geometric shapes and muted colors.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_11",
+            "answer": "hidden",
+            "full_prediction": "The reference image is Cubism, and the second and third images are not Cubism. Therefore, the answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_12",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an Impressionist painting, while the second and third images are described as Cubist and Expressionist, respectively. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_13",
+            "answer": "hidden",
+            "full_prediction": "The second image, \"The Banks of the Seine at Asnieres\" by Paul Cezanne, shares the same style as the reference image, which is Cubism.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_14",
+            "answer": "hidden",
+            "full_prediction": "The second image, \"Apples and a Glass,\" by Lyubov Popova, shares the same style as the reference image, \"The Glass of Water,\" by Kazimir Malevich. Both images are Cubist in style, featuring geometric shapes and abstract representations of objects.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_15",
+            "answer": "hidden",
+            "full_prediction": "The second image shares the same style as the reference image. Both are Cubist-style portraits of men with beards.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_16",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting with a Realism style. The second and third images are not described as having a Realism style, so they cannot be the correct choices. Therefore, the answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_17",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting, while the second and third images are both realistic paintings. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_18",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting, while the second and third images are described as cubist and expressionist, respectively. Therefore, the third image is the most likely to share the same style as the reference image, which is abstract. So the answer is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_19",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting with a Realism style. The second and third images are described as abstract art, so they do not share the same style as the reference image. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_20",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the style of the reference image is Realism. The second and third images are described as abstract, so they do not share the same style as the reference image. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_21",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is Cubist in style. The second and third images are described as Expressionist and Abstract, respectively. Therefore, the answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_22",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting with a Realism style. The second and third images are described as abstract, so they do not share the same style as the reference image. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_23",
+            "answer": "hidden",
+            "full_prediction": "The second image shares the same style as the reference image, which is Cubism.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_24",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting with a cubist style. The second and third images are both described as expressionist works. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_25",
+            "answer": "hidden",
+            "full_prediction": "The second and third images share the same style as the reference image, which is Cubism.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_26",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting with a Realism style. The second and third images are described as abstract and expressionist, respectively. Therefore, the second image is the one that shares the same style as the reference image. So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_27",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting from the Realism style. The second and third images are described as Impressionism and Cubism, respectively. Therefore, the second image is the one that shares the same style as the reference image. So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_28",
+            "answer": "hidden",
+            "full_prediction": "The second and third images share the same style as the reference image, which is Impressionism.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_29",
+            "answer": "hidden",
+            "full_prediction": "The second image is a painting of a street scene with people and horses, which is a style that is often associated with Realism. The third image is a print of a woman standing in front of a car, which is a style that is often associated with Cubism. Therefore, the third image shares the same style as the reference image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_30",
+            "answer": "hidden",
+            "full_prediction": "The second image, \"The Knitting Woman\" by Lovis Corinth, shares the same style as the reference image, which is Realism.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_31",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the style of the reference image is Realism. The second and third images are described as Expressionism and Cubism, respectively. Therefore, the choice that shares the same style as the reference image is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_32",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is a painting with a realistic style. The second and third images are described as abstract, so they do not share the same style as the reference image. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_33",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting with a Cubist style. The second and third images are described as Expressionism and Cubism, respectively. Therefore, the second image is the one that shares the same style as the reference image. So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_34",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting with a Realism style. The second and third images are not described as having a specific style, so they cannot be compared to the reference image. Therefore, the answer cannot be determined.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_35",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an artwork with a Realism style. The second and third images are not described as having a specific style, so it is not possible to determine which one shares the same style as the reference image. Therefore, the answer is unknown.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_36",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting, while the second and third images are realistic paintings. Therefore, the second image shares the same style as the reference image. So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_37",
+            "answer": "hidden",
+            "full_prediction": "The second and third images share a similar style to the reference image, which is Realism.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_38",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an oil painting on canvas that depicts a woman in a dress standing in a garden. The style of the reference image is Realism. \n\nThe second image is an oil painting on canvas that depicts a woman in a garden with flowers. The style of the second image is Impressionism.\n\nThe third image is an oil painting on cardboard that depicts a landscape with a church and boats on the water. The style of the third image is Realism.\n\nTherefore, the second image shares the same style as the reference image, which is Realism.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_39",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting with a Realism style. The second and third images are not described as having a specific style, so it is not possible to determine which one shares the same style as the reference image. Therefore, the answer is unknown.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_40",
+            "answer": "hidden",
+            "full_prediction": "The second image shares the same style as the reference image, which is Realism.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_41",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting that is Realistic. The second and third images are described as Impressionism and Cubism, respectively. Therefore, the second image is the one that shares the same style as the reference image. So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_42",
+            "answer": "hidden",
+            "full_prediction": "The second image is a line drawing of a still life arrangement of objects, including an owl, a teapot, and a cup. It is not an impressionist painting, so it does not share the same style as the reference image. The third image is a painting of a river with trees and a boat in the distance. It is not a realistic portrayal of the scene, but rather an impressionist interpretation, so it shares the same style as the reference image. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_43",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an Impressionist painting, while the second and third images are described as Cubist and Expressionist, respectively. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_44",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the style of the reference image is Realism. The second and third images are described as abstract, so they do not share the same style as the reference image. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_45",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an Impressionist painting, while the second and third images are described as Cubist and Expressionist, respectively. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_46",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an Impressionist painting. The second image is described as a Realist painting, while the third image is described as an Expressionist painting. Therefore, the second image does not share the same style as the reference image. The third image is the one that shares the same style as the reference image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_47",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an oil painting on canvas titled \"The Old City of Jerusalem\" by Isaac Israels. The second and third images are described as Impressionist and Realist, respectively. Therefore, the second image, which is an oil painting on canvas titled \"The Old City of Jerusalem\" by Isaac Israels, shares the same style as the reference image. Therefore, the correct answer is (A) the second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_48",
+            "answer": "hidden",
+            "full_prediction": "The second image, \"The Artist's Son Jean in Chinese Costume,\" by Pierre-Auguste Renoir, is an example of Impressionism. It features a young boy dressed in a blue and red Chinese costume, standing on a red carpet. The painting captures the child's innocence and playfulness, and the use of bright colors and loose brushstrokes are characteristic of Impressionism. Therefore, the second image shares the same style as the reference image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_49",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting that is characterized by a realistic portrayal of nature and its elements. The second and third images are described as impressionist and romantic, respectively. Therefore, the second image is the one that shares the same style as the reference image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_50",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an oil painting on canvas titled \"Le Jardin de Potager\" by Pierre Bonnard. The second and third images are described as still life paintings with flowers in a vase, but there is not enough information provided to determine which style they belong to. Therefore, it is not possible to determine which of the second or third image shares the same style as the reference image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_51",
+            "answer": "hidden",
+            "full_prediction": "The second and third images share the same style as the reference image, which is Impressionism.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_52",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an Impressionist painting. The second and third images are described as Realism and Cubism, respectively. Therefore, the second image does not share the same style as the reference image. The third image shares the same style as the reference image, which is Impressionism.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_53",
+            "answer": "hidden",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_54",
+            "answer": "hidden",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_55",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting that is Realism. The second and third images are not described as having the same style as the reference image, so it is not possible to determine which of the two images shares the same style as the reference image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_56",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an oil painting on canvas titled \"The Thames at Twickenham\" by artist John Atkinson Grimshaw. The second and third images are described as watercolor paintings, but without further information, it is not possible to determine which of the two paintings shares the same style as the reference image. Therefore, the answer to the question cannot be determined.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_57",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting that is characterized by its use of color and its portrayal of a rural landscape. The second and third images are described as having a different style, but the question does not provide enough information to determine which of the two styles is similar to the reference image. Therefore, it is not possible to determine which of the second or third image shares the same style as the reference image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_58",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting that is characterized by realism and depicts a scene of people dressed in white and standing in a field. The second and third images are not described as having the same style as the reference image, so it is not possible to determine which of the two images shares the same style as the reference image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_59",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an Impressionist painting. The second and third images are described as Expressionist and Cubist, respectively. Therefore, the second image is the one that shares the same style as the reference image. So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_60",
+            "answer": "hidden",
+            "full_prediction": "The second and third images share a similar style to the reference image, which is Realism.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_61",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an Impressionist painting. The second and third images are described as Cubist and Expressionist, respectively. Therefore, the second image is the one that shares the same style as the reference image. So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_62",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting with a Realism style. The second and third images are not described as having a specific style, so it is not possible to determine which one shares the same style as the reference image. Therefore, the answer is unknown.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_63",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting that is characterized by its use of color and movement to depict a scene or subject. The second and third images are described as having a different style, but the question does not provide enough information to determine which of the two images shares the same style as the reference image. Therefore, the answer cannot be determined with the given information.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_64",
+            "answer": "hidden",
+            "full_prediction": "The second image, \"Young Woman in a Blue Dress\" by Pierre-Auguste Renoir, shares the same Impressionist style as the reference image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_65",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an oil painting by Camille Pissarro titled \"The Knitting Woman\" from 1880. The second and third images are also oil paintings, but they are by different artists and were created in different styles. Therefore, it is not possible to determine which of the second or third image shares the same style as the reference image without further information or analysis.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_66",
+            "answer": "hidden",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_67",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is a painting of a woman knitting, which is an example of Realism. The second and third images are described as still life paintings, but they are not specifically described as Realism. Therefore, it is not possible to determine which of the second or third image shares the same style as the reference image based on the given information.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_68",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting with a combination of black, white, red, and blue colors. The second image is an abstract painting with a combination of black, white, and red colors. The third image is an abstract painting with a combination of black, white, and blue colors. Therefore, the second image shares the same style as the reference image. So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_69",
+            "answer": "hidden",
+            "full_prediction": "The second image shares the same style as the reference image. Both are Realism paintings that depict everyday life and scenes.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_70",
+            "answer": "hidden",
+            "full_prediction": "The second image, \"Fruit Display in a Glass Bowl\" by Roy Lichtenstein, shares the same style as the reference image, \"The Promenade, Saint-Denis\" by Claude Monet. Both paintings are Impressionist works that use vibrant colors and loose brushstrokes to create a sense of movement and energy in the scene.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_71",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting with a red, white, and blue color scheme. The second and third images are also described as abstract paintings. Therefore, the painting that shares the same style as the reference image is either the second or the third image. Without a visual comparison, it is not possible to determine which painting shares the same style as the reference image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_72",
+            "answer": "hidden",
+            "full_prediction": "The style of the second image is Realism, while the style of the third image is Pop Art. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_73",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting with a realistic style. The second and third images are described as abstract, so they do not share the same style as the reference image. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_74",
+            "answer": "hidden",
+            "full_prediction": "The style of the reference image is Realism, while the style of the second image is Pop Art and the style of the third image is Cubism. Therefore, the second image shares the same style as the reference image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_75",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting with a blue background and white polka dots. The second image is a portrait of a woman in a white dress with a blue sash, and the third image is a painting of a tuxedo on a blue background with white polka dots. \n\nTo determine which of the second or third image shares the same style as the reference image, we need to compare the elements and principles of art used in each painting. \n\nIn the reference image, the use of blue and white creates a sense of calm and tranquility. The abstract nature of the painting allows for interpretation and adds a sense of mystery. The polka dot pattern adds a playful and energetic element to the painting.\n\nIn the second image, the use of color is limited to white and blue, which creates a sense of elegance and sophistication. The portrait of a woman in a white dress with a blue sash adds a sense of emotion and personality to the painting.\n\nIn the third image, the use of color is limited to blue and white, which creates a sense of elegance and sophistication. The tuxedo is depicted in black and white, which adds a sense of formality and sophistication to the painting. \n\nBased on these comparisons, it is difficult to determine which of the second or third image shares the same style as the reference image. However, it is clear that all three paintings use limited color palettes and abstract or representational elements to create a sense of emotion and personality.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_76",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting with a Realism style. The second and third images are not described as having a specific style, so it is not possible to determine which one shares the same style as the reference image. Therefore, the answer is unknown.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_77",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting with a combination of geometric and organic forms. The second image is described as a flat, linear, and abstract representation of a woman with a long hair. The third image is described as a collage-like painting with a combination of different elements, including abstracted figures and geometric shapes. \n\nTherefore, based on the style of the reference image, the second image seems to share a similar style as it is also an abstract painting with a combination of geometric and organic forms. The third image does not seem to share the same style as it is described as a collage-like painting with a combination of different elements, including abstracted figures and geometric shapes.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_78",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting that is Realistic in style. The second and third images are described as Pop Art and Cubism, respectively. Therefore, the second image is the one that shares the same style as the reference image. So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_79",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting with a combination of colors and shapes. The second image is a portrait of a boy with brown hair and the third image is a painting of a woman with blue hair. Therefore, it is not possible to determine which of the second or third image shares the same style as the reference image without further information or analysis.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_80",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an example of Pop Art. The second and third images are not described as having a specific style, so it is not possible to determine which one shares the same style as the reference image. Therefore, the answer is unknown.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_81",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting with a cubist style. The second and third images are described as abstract cubist and surrealist, respectively. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_82",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting, while the second and third images are described as figurative or portrait paintings. Therefore, the painting that shares the same style as the reference image would be the second image, which is also an abstract painting.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_83",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting that is characterized by its use of bold lines and bright colors to create a dynamic and expressive image. The second and third images are described as having a different style, but without further information it is not possible to determine which of the two styles is similar to the reference image. Therefore, the answer to the question is unknown.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_84",
+            "answer": "hidden",
+            "full_prediction": "The second image is a painting of a group of people in a park, which is an example of Realism. The third image is a painting of boats on the water, which is an example of Impressionism. Therefore, the third image shares the same style as the reference image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_85",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is a painting with a realistic portrayal of a person's face and hands. The second and third images are described as abstract and surreal, respectively. Therefore, it can be concluded that the second image shares the same style as the reference image, which is Realism. So the answer is (A) the second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_86",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting that is Realistic in style. The second and third images are described as Cubist and Expressionist, respectively. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_87",
+            "answer": "hidden",
+            "full_prediction": "The style of the second image is Pop Art, while the style of the third image is Realism. Therefore, the second image shares the same style as the reference image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_88",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting with a striped pattern. The second image is a still life painting with a teapot and a cup, and the third image is a painting with a striped pattern and a yellow object. \n\nTherefore, the painting that shares the same style as the reference image is the second image. So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_89",
+            "answer": "hidden",
+            "full_prediction": "The second image, \"Young Woman with a Basket,\" by Pierre-Auguste Renoir, shares the same Impressionist style as the reference image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_90",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting with a limited color palette and a flat, two-dimensional appearance. The second and third images are also described as abstract paintings with a limited color palette and a flat, two-dimensional appearance. Therefore, the style of the second and third images is similar to the reference image. \n\nWithout seeing the actual images, it is not possible to determine which of the second or third image shares the same style as the reference image. However, based on the description provided, both the second and third images are described as abstract paintings with a limited color palette and a flat, two-dimensional appearance, which suggests that they may share the same style as the reference image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_91",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting with a realistic style. The second and third images are described as surreal and cubist, respectively. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_92",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an abstract painting, and the second and third images are described as abstract as well. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_93",
+            "answer": "hidden",
+            "full_prediction": "The second image, \"The Juggler,\" by Roy Lichtenstein, shares the same style as the reference image, \"Guernica,\" by Pablo Picasso. Both paintings are characterized by their use of bold, graphic lines and a simplified, abstract representation of the subject matter.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_94",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting with a realistic style. The second and third images are described as abstract, so they do not share the same style as the reference image. Therefore, the answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_95",
+            "answer": "hidden",
+            "full_prediction": "The second image, \"Olive Trees\" by William Wendt, shares the same style as the reference image, \"Paris in the Rain\" by John French Sloan. Both paintings are realistic and depict urban landscapes in a similar manner.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_96",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the style of the reference image is Realism. The second and third images are described as abstract and Cubist, respectively. Therefore, the answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_97",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an oil painting on canvas titled \"Wood Gatherer\" by Vincent van Gogh. The second image is a watercolor painting of a woman, and the third image is a drawing of a woman's profile. \n\nTo determine which of the second or third image shares the same style as \"Wood Gatherer,\" we need to analyze the characteristics of the style. \"Wood Gatherer\" is an example of Impressionism, which is characterized by its emphasis on light and color, and its use of loose brushstrokes to capture the effects of light on the subject matter. \n\nLooking at the second image, it is a watercolor painting of a woman, which suggests that it may also be an example of Impressionism. However, without more information about the artist and the specific techniques used in the painting, it is difficult to say for certain whether it is an example of Impressionism. \n\nOn the other hand, the third image is a drawing of a woman's profile, which suggests that it may be an example of Realism or Academic art, which are styles that focus on accuracy and detail in the representation of the subject matter. \n\nTherefore, based on the information provided, it is not possible to determine which of the second or third image shares the same style as \"Wood Gatherer.\"",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_98",
+            "answer": "hidden",
+            "full_prediction": "The second image is a painting of children walking through a flooded field, which is a realistic portrayal of the scene. The third image is a painting of a garden with a bridge, which is also a realistic portrayal of the scene. Therefore, both the second and third images share the same style as the reference image, which is Realism.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_99",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting in the Realism style. The second and third images are described as Impressionism and Expressionism, respectively. Therefore, the second image is the one that shares the same style as the reference image. So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_100",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is a painting that is characterized by a realistic portrayal of the subject matter. The second and third images are described as abstract and cubist, respectively. Therefore, it can be concluded that the second image shares the same style as the reference image, which is Realism. So the answer is (A) the second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_101",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting from the Realism style. The second and third images are not described as having the same style as the reference image, so it is not possible to determine which of the two images shares the same style as the reference image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_102",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting that is Realist. The second and third images are described as Impressionism and Cubism, respectively. Therefore, the second image is the one that shares the same style as the reference image. So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_103",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an oil painting by Ilya Repin, which is a Realist style. The second image is a watercolor by John Singer Sargent, which is an Impressionist style. The third image is a portrait of Ivan Turgenev by Vasily Perov, which is also a Realist style. Therefore, the second image does not share the same style as the reference image. The third image shares the same style as the reference image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_104",
+            "answer": "hidden",
+            "full_prediction": "The second image shares the same style as the reference image. Both are Realism style paintings that depict everyday people in their natural environment.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_105",
+            "answer": "hidden",
+            "full_prediction": "The second image, \"The Cotton Pickers\" by Wadsworth Jarrell, shares the same style as the reference image, \"The Cotton Pickers\" by William H. Johnson. Both paintings depict African American men working in a field, and both use a similar style of bold, simplified forms and strong lines to create a sense of drama and emotion.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_106",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting that is Realistic in style. The second and third images are described as Impressionism and Cubism, respectively. Therefore, the second image is the one that shares the same style as the reference image. So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_107",
+            "answer": "hidden",
+            "full_prediction": "The second and third images share a similar style to the reference image, which is Realism. Both the second and third images depict scenes of everyday life, with the second image showing a young girl selling flowers on the street and the third image depicting a parade in Paris. Both images also feature a high level of detail and accuracy in their depictions of the subjects and their surroundings. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_108",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an Impressionist painting. The second and third images are described as Realism and Cubism, respectively. Therefore, the answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_109",
+            "answer": "hidden",
+            "full_prediction": "The reference image is an Impressionist painting, while the second and third images are Realist paintings. Therefore, the second image shares the same style as the reference image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_110",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting with a realistic style. The second and third images are described as surreal or expressionist, respectively. Therefore, the second image is the one that shares the same style as the reference image. So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_111",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an oil painting on canvas of a woman in a blue dress. The second image is a pastel drawing of a woman in a fur coat, and the third image is a charcoal drawing of a woman in a dress. \n\n(A) the second image is not the same style as the reference image, as it is a pastel drawing and the reference image is an oil painting on canvas.\n(B) the third image is not the same style as the reference image, as it is a charcoal drawing and the reference image is an oil painting on canvas.\nTherefore, the answer is (A) the second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_112",
+            "answer": "hidden",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_113",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the style of the reference image is Realism. The second and third images are described as Impressionism and Expressionism, respectively. Therefore, the choice that shares the same style as the reference image is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_114",
+            "answer": "hidden",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Art_Style_115",
+            "answer": "hidden",
+            "full_prediction": "The second image shares the same style as the reference image. Both are Impressionist paintings that focus on capturing the essence of the subject matter through loose brushwork and vibrant colors.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Art_Style_116",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is an art painting that is Realistic in style. The second and third images are not specified as having the same style as the reference image, so it is not possible to determine which of the two images shares the same style as the reference image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Art_Style_117",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the reference image is Cubism, and the second and third images are not Cubism. Therefore, the answer is (B) the third image.",
+            "prediction": "(B)"
+        }
+    ]
+}

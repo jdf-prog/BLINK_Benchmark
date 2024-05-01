@@ -1,0 +1,1614 @@
+{
+    "val": [
+        {
+            "idx": "val_Relative_Reflectance_1",
+            "answer": "(A)",
+            "full_prediction": "The surface color of point A (the albedo of the surface) is darker than that of point B. Therefore, the answer to the question is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_2",
+            "answer": "(C)",
+            "full_prediction": "The image shows that the surface color of point A is darker than point B. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_3",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_4",
+            "answer": "(A)",
+            "full_prediction": "The surface color of point A (the corner of the room) is darker than that of point B (the wall). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_5",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_6",
+            "answer": "(B)",
+            "full_prediction": "The image shows that the surface color of point A (annotated on the image as A) is darker than that of point B (annotated as B). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_7",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_8",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_9",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_10",
+            "answer": "(B)",
+            "full_prediction": "The surface color of point A is darker than that of point B. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_11",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_12",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_13",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_14",
+            "answer": "(B)",
+            "full_prediction": "The surface color of the points is about the same, with no clear indication of A being darker than B.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "val_Relative_Reflectance_15",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_16",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_17",
+            "answer": "(A)",
+            "full_prediction": "Based on the image, it is not possible to determine whether point A or point B has a darker surface color or if the colors are about the same. The image does not provide enough information to make a confident assessment.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "val_Relative_Reflectance_18",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_19",
+            "answer": "(B)",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_20",
+            "answer": "(B)",
+            "full_prediction": "The surface color of point A (the leftmost point on the image) is darker than that of point B (the rightmost point on the image). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_21",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_22",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_23",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_24",
+            "answer": "(B)",
+            "full_prediction": "The surface color of the points A and B is about the same, with a slight advantage to A.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "val_Relative_Reflectance_25",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_26",
+            "answer": "(A)",
+            "full_prediction": "As an AI, I cannot see the image you are referring to. Can you please provide more context or upload the image so that I can assist you better?",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_27",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_28",
+            "answer": "(C)",
+            "full_prediction": "The surface color of point A (the albedo of the surface) is darker than that of point B. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_29",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_30",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_31",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_32",
+            "answer": "(B)",
+            "full_prediction": "The surface color of point A (the leftmost red chair) is darker than that of point B (the rightmost red chair). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_33",
+            "answer": "(C)",
+            "full_prediction": "The image shows that the surface color of point A is darker than that of point B. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_34",
+            "answer": "(C)",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_35",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_36",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_37",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_38",
+            "answer": "(B)",
+            "full_prediction": "The surface color of point A is darker than that of point B. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_39",
+            "answer": "(A)",
+            "full_prediction": "The surface color of A is darker than B. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_40",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_41",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_42",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_43",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_44",
+            "answer": "(C)",
+            "full_prediction": "The image shows that the surface color of A is darker than that of B. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_45",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_46",
+            "answer": "(C)",
+            "full_prediction": "As an AI, I cannot see the image you are referring to. Can you please provide more context or upload the image so that I can assist you better?",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_47",
+            "answer": "(C)",
+            "full_prediction": "The surface color of the points A and B is about the same, with a slight advantage to A.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "val_Relative_Reflectance_48",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_49",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_50",
+            "answer": "(C)",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_51",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_52",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_53",
+            "answer": "(C)",
+            "full_prediction": "The image shows that the surface color of point A (labeled A) is darker than that of point B (labeled B). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_54",
+            "answer": "(C)",
+            "full_prediction": "As an AI, I cannot see the image you are referring to. Can you please provide more context or upload the image so I can assist you better?",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_55",
+            "answer": "(A)",
+            "full_prediction": "Based on the image, it is not possible to determine whether points A or B has a darker surface color or if the colors are about the same. The image does not provide enough information to make a confident assessment.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "val_Relative_Reflectance_56",
+            "answer": "(B)",
+            "full_prediction": "The surface color of point A (the leftmost point) is darker than that of point B (the rightmost point). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_57",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_58",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_59",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_60",
+            "answer": "(A)",
+            "full_prediction": "The surface color of point A (the floor) is darker than that of point B (the desk). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_61",
+            "answer": "(A)",
+            "full_prediction": "The surface color of point A is darker than that of point B. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_62",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_63",
+            "answer": "(A)",
+            "full_prediction": "As an AI, I cannot see the image you are referring to. Can you please provide more context or information about the image you are referring to?",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_64",
+            "answer": "(A)",
+            "full_prediction": "The surface color of A and B is about the same, there is no clear difference in color. So the answer is (C).",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_65",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_66",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_67",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_68",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_69",
+            "answer": "(C)",
+            "full_prediction": "The surface color of A is darker than B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_70",
+            "answer": "(C)",
+            "full_prediction": "The surface color of point A (the dresser with the large mirror) is darker than point B (the bed with the pillows). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_71",
+            "answer": "(C)",
+            "full_prediction": "The surface color of point A (the countertop) is darker than that of point B (the cabinet). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_72",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_73",
+            "answer": "(C)",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_74",
+            "answer": "(C)",
+            "full_prediction": "The surface color of point A (the woman in the orange shirt) is darker than that of point B (the woman in the white shirt). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_75",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_76",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_77",
+            "answer": "(B)",
+            "full_prediction": "The image shows that the surface color of point A (labeled A) is darker than that of point B (labeled B). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_78",
+            "answer": "(C)",
+            "full_prediction": "The surface color of point A is darker than that of point B. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_79",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_80",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_81",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_82",
+            "answer": "(C)",
+            "full_prediction": "Based on the image, it is not possible to determine whether point A or point B has a darker surface color. The image does not provide enough information to make a confident comparison between the albedos of the two points.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_83",
+            "answer": "(B)",
+            "full_prediction": "The surface color of A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_84",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_85",
+            "answer": "(C)",
+            "full_prediction": "The surface color of the points is about the same, with no clear indication of a significant difference in darkness. Both points appear to have a similar albedo, without the effect of shading.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "val_Relative_Reflectance_86",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_87",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_88",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_89",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_90",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_91",
+            "answer": "(A)",
+            "full_prediction": "The surface color of point A (the albedo of the surface, without the effect of shading) is darker than point B. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_92",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_93",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_94",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_95",
+            "answer": "(C)",
+            "full_prediction": "The surface color of point A is darker than that of point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_96",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_97",
+            "answer": "(B)",
+            "full_prediction": "The surface color of point A is darker than that of point B. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_98",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_99",
+            "answer": "(B)",
+            "full_prediction": "The surface color of point A is darker than that of point B. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_100",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_101",
+            "answer": "(A)",
+            "full_prediction": "Based on the image, it is not possible to determine whether points A or B has a darker surface color. The image does not provide enough information to make a confident assessment of the albedo of either point. Therefore, the answer is (C) About the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_102",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_103",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_104",
+            "answer": "(B)",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_105",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_106",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_107",
+            "answer": "(C)",
+            "full_prediction": "The surface color of point A (labeled B) is darker than point B (labeled A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_108",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_109",
+            "answer": "(B)",
+            "full_prediction": "As an AI, I cannot see the image you are referring to. Can you please provide me with more information or the image itself so that I can assist you better?",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_110",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_111",
+            "answer": "(C)",
+            "full_prediction": "As an AI, I cannot see the image you are referring to. Can you please provide more context or upload the image so that I can assist you better?",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_112",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_113",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_114",
+            "answer": "(A)",
+            "full_prediction": "The surface color of point A (the albedo of the surface) is darker than that of point B. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_115",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_116",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_117",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_118",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_119",
+            "answer": "(C)",
+            "full_prediction": "The surface color of point A (labeled B) is darker than point B (labeled A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_120",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_121",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_122",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_123",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_124",
+            "answer": "(A)",
+            "full_prediction": "The surface color of point A (the table) is darker than that of point B (the chair). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_125",
+            "answer": "(A)",
+            "full_prediction": "The image shows that the surface color of point A (labeled B) is darker than that of point B (labeled A). So the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_126",
+            "answer": "(A)",
+            "full_prediction": "The surface color of the points A and B is about the same, with a slight advantage to A.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "val_Relative_Reflectance_127",
+            "answer": "(C)",
+            "full_prediction": "The surface color of point A (the head of the bed) is darker than point B (the chair). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_128",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_129",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_130",
+            "answer": "(B)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_131",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_132",
+            "answer": "(A)",
+            "full_prediction": "The surface color of A and B is about the same, so the answer is (C).",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_133",
+            "answer": "(A)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_134",
+            "answer": "(C)",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Relative_Reflectance_1",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_2",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_3",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_4",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_5",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_6",
+            "answer": "hidden",
+            "full_prediction": "As an AI, I cannot see the image you are referring to. Can you please provide more context or upload the image again?",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_7",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_8",
+            "answer": "hidden",
+            "full_prediction": "The image shows that point A (the leftmost point) is darker than point B (the rightmost point). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_9",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A (labeled B) is darker than that of point B (labeled A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_10",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_11",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_12",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A and point B is about the same, with no significant difference in darkness.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_13",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_14",
+            "answer": "hidden",
+            "full_prediction": "The image shows two points labeled A and B, but it does not provide enough information to determine which point has a darker surface color or if the colors are about the same. The image only provides a visual representation of the ceiling with a fan and a speaker, but it does not provide any information about the surface color of the points A and B.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_15",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_16",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_17",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A (the headboard) is darker than that of point B (the wall). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_18",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_19",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A (labeled B) is darker than that of point B (labeled A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_20",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_21",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_22",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_23",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_24",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_25",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_26",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_27",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A (the leftmost pillow on the couch) is darker than that of point B (the rightmost pillow on the couch). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_28",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, it is not possible to determine whether points A or B have a darker surface color. The image shows a living room with a gray couch, a white floor lamp, and a white table, but it does not provide enough information to compare the surface color of points A and B.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "test_Relative_Reflectance_29",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_30",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, it is not possible to determine whether point A or point B has a darker surface color. The image does not provide enough information to make a comparison between the albedos of the points. Therefore, the answer is (C) About the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_31",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A (labelled as A) is darker than that of point B (labelled as B). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_32",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_33",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A (the tablecloth on the table) is darker than that of point B (the chair). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_34",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A (labeled B) is darker than that of point B (labeled A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_35",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_36",
+            "answer": "hidden",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_37",
+            "answer": "hidden",
+            "full_prediction": "The image shows that the two points are annotated with different colors, but it does not provide enough information to determine which point has a darker surface color or if the colors are about the same. Therefore, the answer to this question is (C) About the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_38",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_39",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_40",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than point B. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_41",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_42",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_43",
+            "answer": "hidden",
+            "full_prediction": "The image shows that the surface color of point A (labeled A) is darker than that of point B (labeled B). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_44",
+            "answer": "hidden",
+            "full_prediction": "As an AI, I cannot see the image you are referring to. Therefore, I cannot determine which point (A or B) has a darker surface color or if the colors are about the same. Please provide more information or rephrase your question so that I can assist you better.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_45",
+            "answer": "hidden",
+            "full_prediction": "The surface color of A is darker than B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_46",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A (the countertop near the sink) is darker than that of point B (the countertop near the stove). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_47",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A (the albedo of the surface, without the effect of shading) is darker than that of point B. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_48",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_49",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A (the floor) is darker than that of point B (the bed). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_50",
+            "answer": "hidden",
+            "full_prediction": "The image shows two points labeled A and B, and it is not possible to determine which point has a darker surface color based on the information provided. The image does not provide enough detail to confidently answer this question.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_51",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A (labelled as A) is darker than that of point B (labelled as B). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_52",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A (the sink area) is darker than that of point B (the flower pot). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_53",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_54",
+            "answer": "hidden",
+            "full_prediction": "As an AI, I cannot see the image you are referring to. Can you please provide more context or upload the image again?",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_55",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_56",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_57",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_58",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_59",
+            "answer": "hidden",
+            "full_prediction": "The surface color of the points A and B is about the same, with no significant difference in darkness.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "test_Relative_Reflectance_60",
+            "answer": "hidden",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_61",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A (the suitcase on the bed) is darker than that of point B (the purse on the bed). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_62",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_63",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_64",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_65",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_66",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A (the floor) is darker than that of point B (the wall). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_67",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_68",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_69",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_70",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_71",
+            "answer": "hidden",
+            "full_prediction": "The surface color of A and B is about the same, without significant differences.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_72",
+            "answer": "hidden",
+            "full_prediction": "As an AI, I cannot see the image you are referring to. Therefore, I cannot answer your question based on the image. However, if you provide me with the image, I would be happy to help you with your question.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_73",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, it is not possible to determine whether point A or point B has a darker surface color. The image does not provide enough information to make a comparison between the colors of the two points.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_74",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, it is not possible to determine whether points A or B have a darker surface color. The image does not provide enough information to compare the albedo of the two points.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_75",
+            "answer": "hidden",
+            "full_prediction": "The surface color of the points is about the same, with no clear indication of a darker color on either A or B.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "test_Relative_Reflectance_76",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A (the living room wall) is darker than that of point B (the dining room wall). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_77",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, it is not possible to determine whether point A or point B has a darker surface color. The image shows a wall with built-in bookshelves, and the sconces mounted on the wall. The wall is painted in a light blue color, and the bookshelves are white. The sconces are mounted on the wall, but it is not possible to determine their color based on the image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_78",
+            "answer": "hidden",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_79",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_80",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_81",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_82",
+            "answer": "hidden",
+            "full_prediction": "The image shows that the surface color of point A (labeled A) is darker than that of point B (labeled B). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_83",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_84",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_85",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A (labelled as toilet) is darker than that of point B (labelled as shelf). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_86",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_87",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than that of point B. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_88",
+            "answer": "hidden",
+            "full_prediction": "As an AI, I cannot see the image you are referring to. Therefore, I cannot answer your question. Please provide more information or rephrase your question.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_89",
+            "answer": "hidden",
+            "full_prediction": "As an AI, I cannot see the image you are referring to. Can you please provide more context or upload the image again?",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_90",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_91",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A (the leftmost point) is darker than that of point B (the rightmost point). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_92",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_93",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_94",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_95",
+            "answer": "hidden",
+            "full_prediction": "The image shows a bed with a brown blanket and a white pillow. The blanket has a darker color than the pillow, which has a white color. Therefore, the answer is (A) A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_96",
+            "answer": "hidden",
+            "full_prediction": "As an AI, I cannot see the image you are referring to. Can you please provide more context or upload the image so that I can assist you better?",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_97",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_98",
+            "answer": "hidden",
+            "full_prediction": "The surface color of A is darker than that of B. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_99",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, it is not possible to determine whether point A or point B has a darker surface color. The image does not provide enough information to make a confident comparison between the colors of the two points.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "test_Relative_Reflectance_100",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_101",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_102",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_103",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_104",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_105",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_106",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_107",
+            "answer": "hidden",
+            "full_prediction": "The image shows that the surface color of point A (labeled as A) is darker than that of point B (labeled as B). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_108",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A (the leftmost point on the image) is darker than that of point B (the rightmost point on the image). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_109",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_110",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_111",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than that of point B. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_112",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A (the countertop near the sink) is darker than that of point B (the countertop where the woman is cutting the food). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_113",
+            "answer": "hidden",
+            "full_prediction": "The image shows that the surface color of point A (labeled as A) is darker than that of point B (labeled as B). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_114",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_115",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A (the albedo of the surface) is darker than that of point B. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_116",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_117",
+            "answer": "hidden",
+            "full_prediction": "The image shows that the surface color of A (the albedo of the surface) is darker than that of B. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_118",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_119",
+            "answer": "hidden",
+            "full_prediction": "The image shows that the surface color of point A (labeled A) is darker than that of point B (labeled B). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_120",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_121",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_122",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A is darker than that of point B. Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_123",
+            "answer": "hidden",
+            "full_prediction": "Based on the image, it is not possible to determine whether point A or point B has a darker surface color. The image shows a close-up of a kitchen counter with a glass tile backsplash, but it does not provide enough information to accurately assess the color of the tiles or the surface color of the points.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "test_Relative_Reflectance_124",
+            "answer": "hidden",
+            "full_prediction": "As an AI, I cannot see the image you are referring to. Therefore, I cannot answer your question based on the image. However, if you provide me with the image, I would be happy to help you with your question.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_125",
+            "answer": "hidden",
+            "full_prediction": "The surface color of the points is about the same, with no clear indication of a significant difference in darkness. Both points appear to have a similar level of albedo, without significant shading effects. Therefore, the answer is (C) About the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_126",
+            "answer": "hidden",
+            "full_prediction": "(B) B is darker",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_127",
+            "answer": "hidden",
+            "full_prediction": "The image shows that the point A is annotated on a building with a light blue color, while the point B is annotated on a building with a dark blue color. Therefore, the surface color of point A is lighter than the surface color of point B. So the answer is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_128",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_129",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A (the dining table and chairs) is darker than that of point B (the window frame). Therefore, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_130",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_131",
+            "answer": "hidden",
+            "full_prediction": "The surface color of point A (labeled B) is darker than that of point B (labeled A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_132",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_133",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_134",
+            "answer": "hidden",
+            "full_prediction": "(A) A is darker",
+            "prediction": "(A)"
+        }
+    ]
+}
