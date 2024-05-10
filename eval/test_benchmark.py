@@ -166,7 +166,7 @@ if __name__ == '__main__':
     model_name = args.model_name
     print(f'Using model: {model_name}')
 
-    from many_image_qa.mllm_tools import MLLM_Models
+    from mantis.mllm_tools import MLLM_Models
     from functools import partial
     
     model_generate_funcs = {'GPT4V': query_gpt4v}

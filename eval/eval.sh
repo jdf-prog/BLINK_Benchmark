@@ -14,3 +14,7 @@ python test_benchmark.py --model_name "kosmos2" --task_name all > ./logs/eval_ko
 python test_benchmark.py --model_name "fuyu" --task_name all > ./logs/eval_fuyu.log 2>&1
 python test_benchmark.py --model_name "llavanext" --task_name all > ./logs/eval_llavanext.log 2>&1
 python test_benchmark.py --model_name "emu2" --task_name all > ./logs/eval_emu2.log 2>&1
+python test_benchmark.py --model_name "vila" --task_name all > ./logs/eval_vila.log 2>&1
+python test_benchmark.py --model_name "otterimage" --task_name all > ./logs/eval_otterimage.log 2>&1
+python test_benchmark.py --model_name "ottervideo" --task_name all > ./logs/eval_ottervideo.log 2>&1
+
