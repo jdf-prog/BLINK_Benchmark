@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 /eval/saved_images
+/eval/cache_dir
