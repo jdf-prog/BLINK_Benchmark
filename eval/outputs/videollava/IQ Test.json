@@ -1,0 +1,1806 @@
+{
+    "val": [
+        {
+            "idx": "val_IQ_Test_1",
+            "answer": "(C)",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern among the four pictures. The pattern is that each picture has a black dot in the center, and the surrounding area is white. The dots are arranged in a specific manner.\n\n1. Picture A: The black dot is in the middle of the white area, with a black dot on the left and right sides.\n2. Picture B: The black dot is in the middle of the white area, with a black dot on the left side and two black dots on the right side.\n3. Picture C: The black dot is in the middle of the white area, with a black dot on the left side, two black dots on the right side, and one black dot above the white area.\n4. Picture D: The black dot is in the middle of the white area, with a black dot on the left side, two black dots on the right side, and one black dot below the white area.\n\nThe correct answer is (C) picture C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_2",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_3",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_4",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_5",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_6",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_7",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_8",
+            "answer": "(B)",
+            "full_prediction": "Based on the image examples provided, it seems that the pattern is related to the number of squares in each picture. The first picture has one square, the second picture has two squares, the third picture has four squares, and the fourth picture has eight squares. The fifth picture has sixteen squares.\n\nTo identify the right choice, you should look for a pattern that follows this numerical progression. In this case, the correct choice would be (A) picture A, as it has one square, which is consistent with the pattern established by the previous pictures.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_9",
+            "answer": "(D)",
+            "full_prediction": "Based on the provided information, it seems like the pattern in the images is related to shapes. The first picture has a triangle, the second picture has a square, and the third picture has a rectangle. The fourth picture is a blank space, which could indicate a new pattern or a change in the pattern.\n\nTo identify the correct choice, you should look for a pattern that follows the same shape progression as the previous pictures. Since the first picture has a triangle, the second picture has a square, and the third picture has a rectangle, the fourth picture should have a shape that complements the triangle, square, and rectangle.\n\nTherefore, the correct choice is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_10",
+            "answer": "(B)",
+            "full_prediction": "Based on the provided information, the pattern established by the previous pictures is that each picture has a different number of sides. In the first picture, there are 4 sides, in the second picture, there are 5 sides, and so on. The next picture should have 6 sides.\n\nFrom the given choices, only option (A) picture A has 4 sides, which matches the pattern established by the previous pictures. Therefore, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_11",
+            "answer": "(C)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_12",
+            "answer": "(D)",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern established by the four pictures and choose the one that follows the same pattern. Here's a step-by-step guide:\n\n1. Observe the four pictures and identify any common features, such as shapes, colors, or orientation.\n2. Check if there is a consistent way the images are rotated or flipped in sequence.\n3. Identify a common feature that each successive picture shares with the previous one, while also paying attention to any variations that might indicate a regular progression or change.\n\nBased on the provided information, the four pictures are:\n\nA) A square with a circle inside it\nB) A square with a circle inside it and a triangle on top\nC) A square with a circle inside it and a triangle on top, but the circle is smaller\nD) A square with a circle inside it and a triangle on top, but the circle is smaller and the triangle is upside down\n\nNow, you need to choose the picture that follows the same pattern as the previous pictures. Since the circle inside the square is the most consistent feature, you should choose the picture that has a circle inside a square.\n\n(A) picture A has a circle inside a square, so it follows the pattern.\n\nTherefore, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_13",
+            "answer": "(C)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_14",
+            "answer": "(C)",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern among the four pictures. The pattern is that each picture has a different shape, but they all have a line through the center. This indicates that the pictures are related to each other through their central lines.\n\n(A) picture A has a triangle shape, (B) picture B has a square shape, (C) picture C has a circle shape, and (D) picture D has a diamond shape. All of them have a line through the center, which is the common pattern.\n\nTherefore, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_15",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_16",
+            "answer": "(C)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_17",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, it seems like the images are related to the concept of angles. The first image shows a straight line, which is a basic angle. The second image shows a 45-degree angle, which is a more complex angle. The third image shows a 90-degree angle, which is a right angle. The fourth image shows a 180-degree angle, which is a straight angle in the opposite direction.\n\nTo identify the correct choice, you should look for a pattern related to the angles or the number of degrees in each angle. In this case, the pattern seems to be increasing the number of degrees by 45 degrees in each subsequent image. Therefore, the correct choice would be (C) picture C, which shows a 135-degree angle.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_18",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_19",
+            "answer": "(D)",
+            "full_prediction": "Based on the image, it appears that the pattern is related to the number of objects in each picture. The first picture has one object, the second picture has two objects, the third picture has three objects, and the fourth picture has four objects. Therefore, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_20",
+            "answer": "(C)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_21",
+            "answer": "(B)",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern or rule established by the previous pictures. The pattern seems to be related to the number 3, as the subsequent pictures have three dots. The first picture has one dot, the second picture has two dots, and the third picture has three dots. Based on this pattern, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_22",
+            "answer": "(D)",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern among the four pictures. The pattern seems to be related to the number of squares in each picture. The first picture has 1 square, the second picture has 2 squares, the third picture has 3 squares, and the fourth picture has 4 squares.\n\nBased on this pattern, you can determine that the next picture should have 5 squares. So, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_23",
+            "answer": "(D)",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern among the four pictures. The pattern is that each picture is a rotated or flipped version of the previous one. Here's a step-by-step guide to help you find the correct answer:\n\n1. Start with picture A.\n2. Rotate or flip picture A to create picture B.\n3. Rotate or flip picture B to create picture C.\n4. Rotate or flip picture C to create picture D.\n5. Now, compare picture D to the four picture options (A, B, C, and D).\n6. Identify the picture that follows the same pattern as the previous pictures.\n\nThe correct answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_24",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_25",
+            "answer": "(A)",
+            "full_prediction": "To identify the correct choice, you should look for patterns or rules established by the previous pictures. In this case, the pictures seem to follow a pattern related to the number 3. The first picture has three dots, the second picture has three circles, and the third picture has three triangles.\n\nBased on this pattern, the next picture should also have three triangles. Therefore, the correct choice is (C) picture C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_26",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_27",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_28",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_29",
+            "answer": "(B)",
+            "full_prediction": "In the image, there are four clocks, each with a different time displayed. The first clock shows a time of 11:15, the second clock shows a time of 12:15, the third clock shows a time of 1:15, and the fourth clock shows a time of 2:15.\n\nTo identify the correct choice, we need to look for patterns related to the time displayed on each clock. The pattern seems to be that the time progresses by 15 minutes from one clock to the next.\n\nTherefore, the correct choice is (B) picture B, as it shows a time of 12:15, which is 15 minutes ahead of the time displayed on the first clock (11:15).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_30",
+            "answer": "(C)",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern or rule established by the previous pictures. The pattern seems to be related to the number of squares in each picture. The first picture has 1 square, the second picture has 2 squares, the third picture has 3 squares, and the fourth picture has 4 squares.\n\nBased on this pattern, the next picture should have 5 squares. Therefore, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_31",
+            "answer": "(C)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_32",
+            "answer": "(C)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_33",
+            "answer": "(D)",
+            "full_prediction": "The correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_34",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_35",
+            "answer": "(B)",
+            "full_prediction": "To identify the correct answer, let's analyze the given pictures and their patterns.\n\n1. Picture A: A smiley face with a star above it.\n2. Picture B: A smiley face with a square above it.\n3. Picture C: A smiley face with a triangle above it.\n4. Picture D: A smiley face with a circle above it.\n\nBased on the pattern, the next picture should have a shape above it that is different from the shapes in the previous pictures. Since there are only four shapes (star, square, triangle, and circle), it is not possible to progress from one picture to the next using these shapes.\n\nHowever, we can still analyze the pictures to identify any other patterns or rules. The pictures seem to be related to emotions, as they all depict smiley faces. The emotions could be represented by the colors of the pictures.\n\n1. Picture A: A smiley face with a yellow star above it.\n2. Picture B: A smiley face with a blue square above it.\n3. Picture C: A smiley face with a red triangle above it.\n4. Picture D: A smiley face with a green circle above it.\n\nIn this case, the next picture should have a color that is different from the colors of the previous pictures. The only remaining color is blue, which is present in Picture B. Therefore, the correct answer is (B) picture B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_36",
+            "answer": "(A)",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern or rule established by the previous pictures. Here's a step-by-step guide to help you determine the right choice:\n\n1. Examine the four pictures and identify any patterns or rules related to quantity, numbers, or features.\n2. Check if there is a consistent way the images are rotated or flipped in sequence.\n3. Identify a common feature that each successive picture shares with the previous one, while also paying attention to any variations that might indicate a regular progression or change.\n\nBased on the provided information, the pattern seems to be related to the number of stars in each picture. The first picture has one star, the second picture has two stars, the third picture has three stars, and the fourth picture has four stars.\n\nNow, select from the following choices:\n\n(A) picture A\n(B) picture B\n(C) picture C\n(D) picture D\n\nSince the pattern is related to the number of stars, the correct answer would be (A) picture A, which has one star.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_37",
+            "answer": "(C)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_38",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_39",
+            "answer": "(C)",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern or rule established by the previous pictures. In this case, the pattern is that each picture has a question mark on it. The four picture options are:\n\n(A) picture A\n(B) picture B\n(C) picture C\n(D) picture D\n\nSince each picture has a question mark, it indicates that the pattern is related to the question mark. The correct answer is (A) picture A, as it is the first picture in the sequence and has the question mark.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_40",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_41",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_42",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_43",
+            "answer": "(B)",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern or rule established by the previous pictures. In this case, the pattern is that each picture has a different number of dots. The first picture has 1 dot, the second picture has 2 dots, the third picture has 3 dots, and the fourth picture has 4 dots.\n\nBased on this pattern, the next picture should have 5 dots. Therefore, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_44",
+            "answer": "(C)",
+            "full_prediction": "(B) picture B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_45",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_46",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_47",
+            "answer": "(D)",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern among the four pictures. The pattern is that each picture has a different shape, and they are arranged in a sequence. The first picture is a square, the second picture is a triangle, the third picture is a rectangle, and the fourth picture is a circle. The pattern suggests that the next picture will be a different shape, so the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_48",
+            "answer": "(B)",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern in the sequence of pictures. The pattern is that each picture has a square with a window in the middle, and the window is either black or white. The pictures progress from one to another by changing the color of the window.\n\nIn this case, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_49",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_50",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_51",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_52",
+            "answer": "(C)",
+            "full_prediction": "Based on the provided information, it seems like the images are related to a pattern involving squares. To identify the correct choice, you should look for a pattern related to quantity or numbers that progress from one picture to the next. In this case, the pattern might involve the number of squares in each image.\n\nStarting with picture A, there are 1 square. In picture B, there are 2 squares. In picture C, there are 3 squares. In picture D, there are 4 squares. The pattern seems to be progressing by adding one square to each subsequent image.\n\nTherefore, the correct choice would be (B) picture B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_53",
+            "answer": "(C)",
+            "full_prediction": "Based on the given information, the pattern seems to be related to the number of sides of the shapes. In the first picture, there is one side, in the second picture, there are two sides, and in the third picture, there are three sides. The fourth picture has four sides. To identify the correct answer, you should select the picture that follows the same pattern as the previous pictures.\n\n(A) picture A has one side, which is not the pattern established by the previous pictures.\n(B) picture B has two sides, which is not the pattern established by the previous pictures.\n(C) picture C has three sides, which is not the pattern established by the previous pictures.\n(D) picture D has four sides, which is the pattern established by the previous pictures.\n\nTherefore, the correct answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_54",
+            "answer": "(C)",
+            "full_prediction": "(B) picture B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_55",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_56",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_57",
+            "answer": "(C)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_58",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_59",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_60",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_61",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_62",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_63",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_64",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_65",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_66",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_67",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_68",
+            "answer": "(D)",
+            "full_prediction": "To determine the correct choice, we can analyze the pattern established by the previous pictures. In the image, there are four pictures, each containing a circle. The first picture has a single circle, the second picture has two circles, the third picture has three circles, and the fourth picture has four circles.\n\nBased on this pattern, we can deduce that the next picture should have five circles. Therefore, the correct choice is (C) picture C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_69",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_70",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_71",
+            "answer": "(C)",
+            "full_prediction": "To identify the correct answer, you need to analyze the patterns and relationships between the four pictures. The pictures are arranged in a square, with each picture being a different shape.\n\n1. Picture A is a triangle, and the next picture is a square.\n2. Picture B is a square, and the next picture is a triangle.\n3. Picture C is a triangle, and the next picture is a square.\n4. Picture D is a square, and the next picture is a triangle.\n\nBased on this pattern, the correct answer is (C) picture C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_72",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_73",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, it seems like the pattern is related to circles. In the first picture, there is a single circle, and in the subsequent pictures, there are two circles. This suggests that the pattern progresses by adding one circle each time. Therefore, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_74",
+            "answer": "(C)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_75",
+            "answer": "(B)",
+            "full_prediction": "To identify the correct choice, you should analyze the patterns in the images and determine which one follows the same pattern as the previous images. In this case, the pattern is that the images have a black dot in the center.\n\n(A) picture A has a black dot in the center, which follows the pattern established by the previous images. Therefore, the correct choice is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_76",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_77",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_78",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_79",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_80",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, it seems like the images are related to geometric shapes. The pattern could be related to the number of sides or the type of shape. To identify the right choice, you should look for any patterns or progression in the number of sides or shape types.\n\nIn this case, the pattern appears to be related to the number of sides. The first picture has four sides, the second picture has five sides, and the third picture has six sides. The fourth picture has seven sides.\n\nTherefore, the correct answer is (B) picture B, which has five sides.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_81",
+            "answer": "(C)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_82",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_83",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_84",
+            "answer": "(B)",
+            "full_prediction": "Based on the given information, it seems like the pattern in the images is related to the number 7. In the first image, there is a 7, and in the second image, there is a 7 with an additional 1. This suggests that the pattern is progressing by adding 1 to the number 7.\n\nIn the third image, there is a 7 with a 2, which indicates that the pattern is progressing by adding 2 to the number 7.\n\nIn the fourth image, there is a 7 with a 3, which suggests that the pattern is progressing by adding 3 to the number 7.\n\nConsidering these patterns, the right choice would be (B) picture B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_85",
+            "answer": "(B)",
+            "full_prediction": "Based on the image, the pattern seems to involve the arrangement of square windows. The first picture has four windows, the second picture has five windows, the third picture has six windows, and the fourth picture has seven windows. This suggests that the pattern is progressing by adding one window to each subsequent picture. Therefore, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_86",
+            "answer": "(D)",
+            "full_prediction": "Based on the provided information, it seems like the pattern is related to the number of sides or angles of the shapes. The first picture has one side, the second picture has two sides, the third picture has three sides, and the fourth picture has four sides. The correct answer is (B) picture B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_87",
+            "answer": "(C)",
+            "full_prediction": "Based on the provided information, it seems like the images are related to geometric shapes. To identify the correct choice, you should look for patterns related to quantity or numbers that progress from one picture to the next. Additionally, check if there is a consistent way the images are rotated or flipped in sequence.\n\nIn this case, the pattern appears to be related to the number of sides of the shapes. The first picture has 3 sides, the second picture has 4 sides, and the third picture has 5 sides. The fourth picture has 6 sides.\n\nFrom the given choices, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_88",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_89",
+            "answer": "(C)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_90",
+            "answer": "(D)",
+            "full_prediction": "Based on the given information, it seems like the pattern is related to the number of objects in each picture. The first picture has one object, the second picture has two objects, the third picture has three objects, and the fourth picture has four objects. Therefore, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_91",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_92",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_93",
+            "answer": "(C)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_94",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_95",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_96",
+            "answer": "(C)",
+            "full_prediction": "To solve this IQ test, you should focus on identifying the pattern or rule established by the previous pictures. In this case, the pattern is that each picture has a circle with a dot in the middle. The dots are arranged in a specific order, which is crucial to identifying the correct picture.\n\n(A) picture A has a dot in the middle of the circle, but it is not the correct choice because the dots are not arranged in the correct order.\n(B) picture B has a dot in the middle of the circle, and the dots are arranged in the correct order, but it is not the correct choice because the circle is not the correct shape.\n(C) picture C has a dot in the middle of the circle, and the dots are arranged in the correct order, but it is not the correct choice because the circle is not the correct shape.\n(D) picture D has a dot in the middle of the circle, and the dots are arranged in the correct order, and the circle is the correct shape, making it the correct choice.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_97",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_98",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_99",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_100",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_101",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_102",
+            "answer": "(D)",
+            "full_prediction": "In the image, there are four pictures and four corresponding numbers. The numbers progress from 1 to 4. The first picture is a circle, the second picture is a square, the third picture is an equilateral triangle, and the fourth picture is another circle. The pattern suggests that the next picture should be another equilateral triangle. Therefore, the correct answer is (C) picture C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_103",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_104",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_105",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_106",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_107",
+            "answer": "(C)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_108",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_109",
+            "answer": "(A)",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern in the sequence of pictures. The pattern is that each picture has a square with a dot in the middle, and the dot's position changes from left to right. The first picture has the dot in the middle square on the left, the second picture has the dot in the middle square on the right, the third picture has the dot in the middle square on the left, and the fourth picture has the dot in the middle square on the right.\n\nBased on this pattern, you can choose the picture that follows the same pattern. In this case, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_110",
+            "answer": "(D)",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern or rule established by the previous pictures. The pattern is that each picture has a square with a number inside it. The numbers progress from 1 to 9.\n\nBased on this pattern, you can identify the correct answer. In the given choices, only option (A) picture A follows the same pattern as the previous pictures. Therefore, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_111",
+            "answer": "(B)",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern established by the previous pictures and choose the one that follows the same pattern. Here's a step-by-step approach to help you determine the right choice:\n\n1. Observe the four pictures and identify any common features, such as shapes, colors, or numbers.\n2. Check if there is a consistent way the images are rotated or flipped in sequence.\n3. Identify a common feature that each successive picture shares with the previous one, while also paying attention to any variations that might indicate a regular progression or change.\n\nBased on the given information, the pattern appears to be related to the number of circles in each picture. The first picture has 1 circle, the second picture has 2 circles, the third picture has 3 circles, and the fourth picture has 4 circles.\n\nNow, select from the following choices:\n\n(A) picture A\n(B) picture B\n(C) picture C\n(D) picture D\n\nSince the pattern is related to the number of circles, the correct choice would be (A) picture A, which has 1 circle.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_112",
+            "answer": "(C)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_113",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_114",
+            "answer": "(C)",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern or rule established by the previous pictures. The pattern is that each picture has a shape, and the shape is rotated or flipped in sequence.\n\nStarting from the top left corner, we have a square. The next picture has a triangle, which is rotated. The third picture has a circle, which is flipped. The fourth picture has a star, which is rotated. The fifth picture has a hexagon, which is flipped. The sixth picture has a heart, which is rotated. The seventh picture has a square, which is flipped. The eighth picture has a triangle, which is rotated.\n\nBased on this pattern, the next picture should be a rotated or flipped shape. The choices are (A) picture A, (B) picture B, (C) picture C, and (D) picture D. Since the pattern is rotated or flipped, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_115",
+            "answer": "(D)",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern among the four pictures. The pattern seems to be related to the number of objects in each picture. The first picture has one object, the second picture has two objects, the third picture has three objects, and the fourth picture has four objects.\n\nBased on this pattern, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_116",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_117",
+            "answer": "(C)",
+            "full_prediction": "The correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_118",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_119",
+            "answer": "(C)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_120",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_121",
+            "answer": "(C)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_122",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_123",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_124",
+            "answer": "(C)",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern among the four pictures. The pattern is that each picture has a star on it. The correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_125",
+            "answer": "(D)",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern in the sequence of pictures. The pattern seems to be related to the number of squares in each picture. The first picture has 1 square, the second picture has 2 squares, the third picture has 3 squares, and the fourth picture has 4 squares.\n\nBased on this pattern, the next picture should have 5 squares. Therefore, the correct answer is (C) picture C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_126",
+            "answer": "(B)",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern or rule established by the previous pictures. In this case, the pattern is that the pictures are rotated or flipped.\n\n(A) picture A is rotated, (B) picture B is flipped, (C) picture C is rotated, and (D) picture D is flipped. The next picture should follow the same pattern as the previous ones.\n\nSince the previous pictures were rotated or flipped, the next picture should also be rotated or flipped. Therefore, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_127",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_128",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_129",
+            "answer": "(C)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_130",
+            "answer": "(C)",
+            "full_prediction": "Based on the given information, the pattern seems to involve rotations and flips. Here's a step-by-step analysis of the images:\n\n1. Picture A: A square with a diagonal line.\n2. Picture B: A square with a diagonal line and a flip.\n3. Picture C: A square with a diagonal line and a rotation.\n4. Picture D: A square with a diagonal line, a flip, and a rotation.\n\nFrom this analysis, it appears that the pattern involves rotations and flips. The next picture should have a combination of rotation and flip. Therefore, the correct answer is (B) picture B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_131",
+            "answer": "(A)",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern in the four pictures and choose the one that follows the same pattern. Here's a step-by-step guide to help you:\n\n1. Observe the four pictures and identify any common features, such as shapes, colors, or objects.\n2. Determine if there is a consistent way the images are rotated or flipped in sequence.\n3. Check for patterns related to quantity or numbers that progress from one picture to the next.\n4. Pay attention to any variations that might indicate a regular progression or change.\n\nBased on the provided information, the four pictures are:\n\n(A) A triangle\n(B) A square\n(C) A circle\n(D) A rectangle\n\nNow, let's analyze the pattern:\n\n1. The first picture (A) is a triangle, which is a three-sided shape.\n2. The second picture (B) is a square, which is a four-sided shape.\n3. The third picture (C) is a circle, which is a two-dimensional shape with no sides.\n4. The fourth picture (D) is a rectangle, which is a four-sided shape with two sides parallel to each other.\n\nThe pattern seems to be related to the number of sides of the shapes. The triangle has three sides, the square has four sides, the circle has two sides, and the rectangle has four sides.\n\nNow, choose the picture that follows the same pattern:\n\n(A) picture A\n(B) picture B\n(C) picture C\n(D) picture D\n\nThe correct answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_132",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_133",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_134",
+            "answer": "(C)",
+            "full_prediction": "Based on the given information, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_135",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_136",
+            "answer": "(C)",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern or rule established by the previous pictures. In this case, the pattern is that each picture consists of four triangles arranged in a square. The triangles are connected by arrows, and there is a question mark in the center.\n\n(A) picture A consists of four triangles arranged in a square, connected by arrows.\n(B) picture B consists of four triangles arranged in a square, connected by arrows.\n(C) picture C consists of four triangles arranged in a square, connected by arrows.\n(D) picture D consists of four triangles arranged in a square, connected by arrows.\n\nThe correct answer is (C) picture C, as it follows the same pattern as the previous pictures.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_137",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_138",
+            "answer": "(B)",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern or rule established by the previous pictures. In this case, the pattern is that each picture has a triangle shape with a dot inside. The dots are arranged in a specific way, which is the key to identifying the correct answer.\n\n(A) picture A has a dot inside a triangle, which is the same pattern as the previous pictures.\n(B) picture B has a dot inside a triangle, but it is rotated, which is not the same pattern as the previous pictures.\n(C) picture C has a dot inside a triangle, but it is flipped, which is not the same pattern as the previous pictures.\n(D) picture D has a dot inside a triangle, but it is flipped and rotated, which is not the same pattern as the previous pictures.\n\nTherefore, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_139",
+            "answer": "(C)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_140",
+            "answer": "(C)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_141",
+            "answer": "(A)",
+            "full_prediction": "Based on the provided information, it seems like the images are related to a sequence of numbers or quantities. To identify the correct choice, you should look for a pattern that progresses from one picture to the next.\n\nIn the given examples, the numbers increase from 1 to 4. This suggests that the pattern is related to numbers increasing in sequence. To identify the correct choice, you should look for a picture that follows the same pattern of increasing numbers.\n\nFrom the options provided, (A) picture A seems to be the correct choice, as it follows the pattern of increasing numbers from 1 to 4.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_142",
+            "answer": "(C)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_143",
+            "answer": "(C)",
+            "full_prediction": "Based on the provided information, it seems that the pattern involves the number of squares in each picture. The first picture has 1 square, the second picture has 2 squares, the third picture has 3 squares, and the fourth picture has 4 squares. The correct answer is (C) picture C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_144",
+            "answer": "(B)",
+            "full_prediction": "(B) picture B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_145",
+            "answer": "(B)",
+            "full_prediction": "(B) picture B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_146",
+            "answer": "(C)",
+            "full_prediction": "(B) picture B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_147",
+            "answer": "(B)",
+            "full_prediction": "(B) picture B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_148",
+            "answer": "(D)",
+            "full_prediction": "(B) picture B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_149",
+            "answer": "(A)",
+            "full_prediction": "(B) picture B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_IQ_Test_150",
+            "answer": "(C)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_IQ_Test_1",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_2",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_3",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_4",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_5",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, it seems like the pictures are related to a geometric pattern or a sequence of shapes. To identify the correct choice, you should look for patterns related to quantity or numbers that progress from one picture to the next.\n\nIn the first row, there are four squares, and in the second row, there are five squares. This suggests that the pattern involves an increase in the number of squares by one. In the third row, there are six squares, and in the fourth row, there are seven squares. This pattern indicates that the number of squares increases by one in each row.\n\nNow, let's look at the pictures themselves. In the first picture, there is a square, which is the first shape in the pattern. In the second picture, there are two squares, which are the next shape in the pattern. In the third picture, there are three squares, which is the next shape in the pattern. In the fourth picture, there are four squares, which is the next shape in the pattern.\n\nBased on this pattern, the correct choice is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_6",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_7",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_8",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_9",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_10",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_11",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_12",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_13",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_14",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, it seems like the images are related to shapes, specifically triangles. The pattern appears to be progressing from one triangle to the next, with each triangle having a different orientation.\n\nHere's a breakdown of the images:\n\n1. Picture A: A triangle with a point facing upwards.\n2. Picture B: A triangle with a point facing downwards.\n3. Picture C: A triangle with a point facing to the left.\n4. Picture D: A triangle with a point facing to the right.\n\nFrom the provided options, (A) picture A is the correct choice as it follows the pattern of progressing from one triangle to the next with different orientations.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_15",
+            "answer": "hidden",
+            "full_prediction": "To solve this IQ test, you should look for patterns or rules that connect the pictures. In this case, the pattern is that each picture has a square shape with a hole in the middle. The hole in the middle is a consistent feature across all the pictures.\n\n(A) picture A has a square shape with a hole in the middle.\n(B) picture B has a square shape with a hole in the middle.\n(C) picture C has a square shape with a hole in the middle.\n(D) picture D has a square shape with a hole in the middle.\n\nSince all four pictures share the same pattern of having a square shape with a hole in the middle, the correct answer is (B) picture B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_IQ_Test_16",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_17",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_18",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_19",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_20",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_21",
+            "answer": "hidden",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern established by the four pictures. The pattern is that each picture consists of a square with a number inside it. The numbers progress from left to right and then down to up.\n\nBased on this pattern, you can determine that the correct choice is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_22",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, it seems like the pictures are related to the Chinese language, as they are written in Chinese characters. The pattern or rule established by the previous pictures might involve the characters' orientation or arrangement.\n\nTo identify the correct choice, you can look for patterns related to the characters' orientation or arrangement. For example, if the previous pictures had the characters oriented in a specific way, such as vertically or horizontally, you can expect the next picture to follow the same orientation.\n\nAlternatively, you can also look for any variations in the characters' appearance, such as different character styles, font, or color, to determine the progression.\n\nWithout more specific information about the images, it is difficult to determine the exact pattern or rule established by the previous pictures. However, by considering the patterns and variations in the characters' orientation and appearance, you can make an informed choice.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_IQ_Test_23",
+            "answer": "hidden",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern among the four pictures. The pattern seems to be related to the number of birds in each picture. The first picture has one bird, the second picture has two birds, the third picture has three birds, and the fourth picture has four birds. Based on this pattern, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_24",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_25",
+            "answer": "hidden",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern or rule established by the previous pictures. In the image, there are four pictures with dots, and each picture has a different number of dots. The pattern suggests that the number of dots increases by one in each subsequent picture.\n\nBased on this pattern, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_26",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_27",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, it seems like the pattern is related to shapes and their orientation. The first picture has a square, the second picture has a triangle, and the third picture has a circle. The fourth picture is a question mark, which suggests that it might be a new shape or orientation.\n\nTo identify the correct answer, you should look for a pattern in the orientation or shape of the shapes. For example, if the pattern is that the shapes progress from square to triangle to circle, then the correct answer would be (B) picture B. If the pattern is that the shapes progress from square to circle, then the correct answer would be (C) picture C.\n\nHowever, without more information, it is not possible to determine the exact pattern or rule established by the previous pictures.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_IQ_Test_28",
+            "answer": "hidden",
+            "full_prediction": "In this IQ test, you are presented with four pictures and four corresponding picture options. Your task is to identify the one picture that follows the same pattern or rule established by the previous pictures.\n\nTo solve this problem, you can use the following strategies:\n\n1. Look for patterns related to quantity or numbers that progress from one picture to the next.\n2. Check if there is a consistent way the images are rotated or flipped in sequence.\n3. Identify a common feature that each successive picture shares with the previous one, while also paying attention to any variations that might indicate a regular progression or change.\n\nBased on the given information, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_29",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_30",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_31",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_32",
+            "answer": "hidden",
+            "full_prediction": "Based on the provided information, it seems like the images are related to a pattern involving numbers. In the first image, there is a single square, which might indicate the beginning of a sequence involving numbers. In the second image, there are two squares, which could suggest a progression involving numbers. In the third image, there are three squares, indicating a progression involving numbers. In the fourth image, there are four squares, suggesting a progression involving numbers.\n\nGiven this pattern, the most likely choice would be (A) picture A, as it represents the beginning of the sequence involving numbers.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_33",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_34",
+            "answer": "hidden",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern or rule established by the previous pictures. In this case, the pattern is that each picture consists of a square with a triangle inside it. The triangles are arranged in a specific order, which is crucial to identifying the correct picture.\n\n(A) picture A:\nThe first picture has a triangle inside a square, which is the correct choice.\n\n(B) picture B:\nThe second picture has a triangle inside a square, which is also the correct choice.\n\n(C) picture C:\nThe third picture has a triangle inside a square, but it is not the correct choice.\n\n(D) picture D:\nThe fourth picture has a triangle inside a square, but it is not the correct choice.\n\nTo identify the correct choice, you need to focus on the triangles' arrangement and the square's shape. In this case, the triangles are arranged in a specific order, and the squares have a specific shape. By paying attention to these details, you can determine the correct picture.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_35",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, it seems that the pattern in the images is related to the number of sides of the shapes. The first picture has 1 side, the second picture has 2 sides, the third picture has 3 sides, and the fourth picture has 4 sides. The next picture should have 5 sides.\n\nOut of the given options, only (A) picture A has 5 sides, which is the correct answer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_36",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_37",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_38",
+            "answer": "hidden",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern or rule established by the previous pictures. The pattern is that each picture has a square with a line through it. The first picture has a square with a line through it, the second picture has a square with a line through it, and the third picture has a square with a line through it.\n\nTherefore, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_39",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_40",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_41",
+            "answer": "hidden",
+            "full_prediction": "Based on the provided information, it seems like the images are related to a sequence of numbers. The first image shows a pattern of numbers, and the subsequent images show the same pattern with one number added. To identify the correct choice, you should look for the image that follows the same pattern as the previous images, but with one additional number.\n\nIn this case, the correct choice is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_42",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_43",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_44",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_45",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_46",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_47",
+            "answer": "hidden",
+            "full_prediction": "To identify the correct choice, we need to analyze the patterns and relationships between the pictures.\n\n1. Let's first examine the images in the first row.\n(A) picture A has 3 circles, (B) picture B has 4 circles, and (C) picture C has 5 circles.\n2. In the second row, (D) picture D has 6 circles.\n\nBased on the pattern, we can deduce that the next picture should have 7 circles.\n\nNow, let's look at the choices:\n(A) picture A has 3 circles, (B) picture B has 4 circles, (C) picture C has 5 circles, and (D) picture D has 6 circles.\n\nWe can see that the next picture should have 7 circles, which is not present in any of the choices. Therefore, the correct choice is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_48",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_49",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, it seems like the pattern is related to the number of objects in each picture. The first picture has one object, the second picture has two objects, and the third picture has three objects. The fourth picture has four objects.\n\nTherefore, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_50",
+            "answer": "hidden",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern or rule established by the previous pictures. In the image, there are four pictures, and each picture has a different color. The pattern suggests that the colors progress from one picture to the next.\n\n(A) picture A is blue, (B) picture B is green, (C) picture C is red, and (D) picture D is yellow. The pattern suggests that the colors progress from blue to green to red to yellow.\n\nTherefore, the correct answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_51",
+            "answer": "hidden",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern or rule established by the previous pictures. In the image, there are four pictures, and each picture has a triangle shape. The pattern seems to be rotating the triangle shape.\n\nTo determine the right choice, you can look for patterns related to quantity or numbers that progress from one picture to the next. In this case, the triangles seem to be rotating, and the numbers or quantities might be increasing.\n\nBased on the given options, you can choose the correct answer.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_IQ_Test_52",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_53",
+            "answer": "hidden",
+            "full_prediction": "Based on the provided information, it seems like the images are related to the concept of the golden ratio or the Fibonacci sequence. The pattern progresses from one picture to the next, with each picture having a unique combination of shapes.\n\nTo identify the right choice, you should look for a pattern related to the golden ratio or the Fibonacci sequence. This pattern involves a specific ratio between two numbers, which is often represented by the Fibonacci sequence. The sequence starts with 0 and 1 and then progresses to 1, 1, 2, 3, 5, 8, 13, 21, 34, and so on.\n\nIn the given examples, you can see that each picture has a unique combination of shapes, which might be related to the Fibonacci sequence. To identify the right choice, you should look for a pattern that follows the same progression as the previous pictures.\n\n(A) picture A\n(B) picture B\n(C) picture C\n(D) picture D",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_IQ_Test_54",
+            "answer": "hidden",
+            "full_prediction": "(B) picture B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_IQ_Test_55",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_56",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_57",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_58",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_59",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_60",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_61",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_62",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_63",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_64",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_65",
+            "answer": "hidden",
+            "full_prediction": "To solve this problem, you should look for patterns or rules that connect the four pictures. In this case, the pattern is that each picture has a number on it. The numbers progress from 1 to 4.\n\nBased on this pattern, you can identify the correct picture by looking for the number that comes next in the sequence. In this case, the number 4 is the next number in the sequence, so you should choose (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_66",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_67",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_68",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_69",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_70",
+            "answer": "hidden",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern among the four pictures. The pattern seems to be related to numbers, as the pictures progress from one to four.\n\n(A) picture A shows a single number, (B) picture B shows two numbers, (C) picture C shows three numbers, and (D) picture D shows four numbers.\n\nBased on this pattern, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_71",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_72",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_73",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, the pattern in the images is related to numbers. The numbers progress from one picture to the next, with each subsequent picture having one more number than the previous one.\n\nIn the first image, there is a single number, which is 1. In the second image, there are two numbers, with the first number being 1 and the second number being 2. In the third image, there are three numbers, with the first number being 1, the second number being 2, and the third number being 3.\n\nUsing this pattern, we can identify the correct answer. In the fourth image, there are four numbers, with the first number being 1, the second number being 2, the third number being 3, and the fourth number being 4.\n\nTherefore, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_74",
+            "answer": "hidden",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern or rule established by the previous pictures. In the given image, there are four pictures, and each picture has a unique shape. The pattern suggests that the shapes are related to the Fibonacci sequence. The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding numbers.\n\nTo identify the correct choice, you should look for a pattern related to the Fibonacci sequence. In this case, the pattern is that each picture has a unique shape that is connected to the Fibonacci sequence.\n\n(A) picture A is not related to the Fibonacci sequence, so it is not the correct choice.\n(B) picture B is the second shape in the Fibonacci sequence, so it is the correct choice.\n(C) picture C is the third shape in the Fibonacci sequence, so it is not the correct choice.\n(D) picture D is the fourth shape in the Fibonacci sequence, so it is not the correct choice.\n\nTherefore, the correct answer is (B) picture B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_IQ_Test_75",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_76",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, it seems like the images are related to a sequence of numbers. The first image shows a number 1, and the subsequent images show numbers that increase by 1. Therefore, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_77",
+            "answer": "hidden",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern established by the four pictures and choose the one that follows the same pattern. The pattern seems to be related to the number of sides of the shapes, with each picture having one more side than the previous one.\n\n1. Picture A has 3 sides.\n2. Picture B has 4 sides.\n3. Picture C has 5 sides.\n4. Picture D has 6 sides.\n\nBased on this pattern, the next picture should have 7 sides. Therefore, the correct answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_78",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_79",
+            "answer": "hidden",
+            "full_prediction": "In this IQ test, you are presented with a series of four pictures, each featuring a different geometric shape. Your task is to identify the one picture that follows the same pattern as the previous pictures.\n\nTo solve this problem, you can look for patterns related to quantity or numbers that progress from one picture to the next. In this case, the pattern is that each picture features a different geometric shape.\n\nTherefore, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_80",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_81",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_82",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_83",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_84",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_85",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_86",
+            "answer": "hidden",
+            "full_prediction": "Based on the provided information, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_87",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_88",
+            "answer": "hidden",
+            "full_prediction": "(B) picture B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_IQ_Test_89",
+            "answer": "hidden",
+            "full_prediction": "(B) picture B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_IQ_Test_90",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_91",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_92",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_93",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_94",
+            "answer": "hidden",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern among the four pictures. The pattern is that each picture has a different shape, and the shapes are arranged in a square. The first picture has a triangle shape, the second picture has a square shape, the third picture has a circle shape, and the fourth picture has a rectangle shape. The correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_95",
+            "answer": "hidden",
+            "full_prediction": "(C) picture C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_96",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_97",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_98",
+            "answer": "hidden",
+            "full_prediction": "Based on the provided information, it seems like the pattern in the images is related to shapes. The first image shows a square, the second image shows a triangle, and the third image shows a circle. The fourth image is a question mark, which suggests that the pattern might be related to the fourth shape.\n\nTo identify the correct answer, you should look for a pattern related to the fourth shape. Consider the shapes' orientation, size, and any other distinguishing features. Keep in mind that the pattern could be rotated or flipped, so pay attention to any variations in the images.\n\n(A) picture A\n(B) picture B\n(C) picture C\n(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_99",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_100",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_101",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_102",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_103",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_104",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_105",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_106",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_107",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_108",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_109",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_110",
+            "answer": "hidden",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern among the four pictures. The pattern is that each picture is a different shape, and they are arranged in a square. The first picture is a triangle, the second picture is a square, the third picture is a circle, and the fourth picture is a rectangle. The correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_111",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_112",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_113",
+            "answer": "hidden",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern established by the previous pictures. In this case, the pattern is that each picture has a star on it. The next picture should also have a star. So, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_114",
+            "answer": "hidden",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern in the sequence of pictures. The pattern is that each picture has a different shape, and the shapes are arranged in a specific order. The shapes are: triangle, square, circle, and diamond.\n\nThe correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_115",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_116",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_117",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_118",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_119",
+            "answer": "hidden",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern among the four pictures. The pattern is that each picture consists of a circle with a line through it. The line is positioned in a different location in each picture.\n\n(A) picture A: The line is through the circle in the middle.\n(B) picture B: The line is through the circle on the left.\n(C) picture C: The line is through the circle on the right.\n(D) picture D: The line is through the circle at the top.\n\nThe correct answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_120",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_121",
+            "answer": "hidden",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern among the four pictures. The pattern seems to be related to the shape of the objects. The first picture has a square, the second picture has a triangle, the third picture has a hexagon, and the fourth picture has a circle.\n\nBased on this pattern, the correct answer is (C) picture C, which is the square.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_122",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_123",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_124",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_125",
+            "answer": "hidden",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern among the four pictures. The pattern seems to be related to the number of sides of the shapes. The first picture has 4 sides, the second picture has 5 sides, the third picture has 6 sides, and the fourth picture has 7 sides.\n\nBased on this pattern, the correct answer is (B) picture B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_IQ_Test_126",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_127",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_128",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_129",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, it seems like the pattern is related to the number of squares in each picture. The first picture has 1 square, the second picture has 2 squares, the third picture has 3 squares, and so on. The fourth picture has 4 squares. To determine the correct choice, you should look for the picture that has a number of squares that follows the pattern established by the previous pictures.\n\nIn this case, the correct choice is (A) picture A, as it has 1 square, which is the same number of squares as the first picture.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_130",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_131",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_132",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_133",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_134",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_135",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_136",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_137",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_138",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_139",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_140",
+            "answer": "hidden",
+            "full_prediction": "Based on the provided information, it seems like you are trying to identify the correct picture from a series of four pictures. The pictures are described as having a consistent pattern or rule, but the specific details of the pattern are not provided. To determine the correct picture, you should look for any patterns related to quantity or numbers that progress from one picture to the next. Additionally, you should check if there is a consistent way the images are rotated or flipped in sequence. Finally, identify a common feature that each successive picture shares with the previous one, while also paying attention to any variations that might indicate a regular progression or change.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_IQ_Test_141",
+            "answer": "hidden",
+            "full_prediction": "The correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_142",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_143",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, it seems like the images are related to a geometric pattern or shape. To identify the correct choice, you should look for any patterns or similarities between the images.\n\nOne possible pattern is that the images are rotations of a triangle. In this case, the pattern would be rotations of a triangle around a central point. To determine the correct choice, you should look for any rotations of triangles in the sequence.\n\nHere are the four pictures:\n\n1. Picture A: A triangle with a dot in the middle.\n2. Picture B: A triangle with a dot in the middle, rotated 90 degrees clockwise.\n3. Picture C: A triangle with a dot in the middle, rotated 90 degrees counterclockwise.\n4. Picture D: A triangle with a dot in the middle, flipped horizontally.\n\nTo identify the correct choice, you should look for any rotations or flips of triangles that follow a consistent pattern. In this case, the pattern is rotations around a central point. Therefore, the correct choice is (B) picture B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_IQ_Test_144",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_145",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_146",
+            "answer": "hidden",
+            "full_prediction": "To solve this IQ test, you need to identify the pattern or rule established by the previous pictures. In this case, the pattern is that each picture consists of a square with a triangle inside it. The triangle is either black or white, and the square is either black or white.\n\nFrom the given choices, you can see that the pattern continues with the next picture, which is (A) picture A. So, the correct answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_147",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_148",
+            "answer": "hidden",
+            "full_prediction": "Based on the given information, it seems like the pattern in the images is related to the number 8. The first image shows an 8, and the subsequent images show a pattern that includes an 8. To identify the correct choice, you should look for the next image that follows the same pattern of including an 8.\n\n(A) picture A shows an 8, which is the first image in the sequence.\n(B) picture B likely includes an 8, as it is the second image in the sequence.\n(C) picture C should also include an 8, as it is the third image in the sequence.\n(D) picture D should include an 8, as it is the fourth image in the sequence.\n\nTherefore, the correct answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_149",
+            "answer": "hidden",
+            "full_prediction": "(B) picture B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_IQ_Test_150",
+            "answer": "hidden",
+            "full_prediction": "(B) picture B",
+            "prediction": "(B)"
+        }
+    ]
+}

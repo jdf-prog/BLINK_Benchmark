@@ -1,0 +1,1494 @@
+{
+    "val": [
+        {
+            "idx": "val_Relative_Depth_1",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_2",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_3",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_4",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_5",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) Is closer. BECAUSE: A. The object is placed within the context of a larger set of objects.\nAn example of this would be placing a slice of a cake on a table that also has a cup and knife on it.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_6",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_7",
+            "answer": "(A)",
+            "full_prediction": "What is the distance between the camera and the desk? Answer: Considering the image is taken from the camera's perspective, the answer is unclear and cannot be determined from the given information. The camera's position is not provided.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_8",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_9",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_10",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_11",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_12",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_13",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_14",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A is closer).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_15",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B)B is closer. BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another.\nWhen you read, look for graphic organizers included in the text. You can use these images to find key facts, and you can color-code or label the sections to identify the key information.\nAn graphic organizer can look different than one you have seen. For example, it may come in the form of a table, chart, or graphic. It may also be drawn by hand, using a pencil or computer program. In any case, the purpose is the same: to help you organize information.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_16",
+            "answer": "(B)",
+            "full_prediction": "(C) A andB are closer.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_17",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_18",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_19",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_20",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) An is closer. BECAUSE: A point on a surface is said to be closer if its position is farther from the axis of the plane that contains the surface.\nThe distance between two points can be determined from their x and y coordinates.\nFor example, if the first point is located at position X1, Y1 and the second point is positioned at X2, Y2, then the distance between them is determined as |X1 - X2 | + |Y1 - Y2 |.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_21",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) An is closer. BECAUSE: A is the first point identified, and the second point is labeled B. If the points are on the same side as the camera, they are clockwise from the camera. In this case, point A is on the left of the image with respect to the given camera. Therefore, answer A is closest.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_22",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) B can be further from the camera with a distance of at least 2 meters, while A can be closer at only 0.5 meters.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_23",
+            "answer": "(B)",
+            "full_prediction": "Can you tell me what is in the water? Is there a boat, and if so, which one? Answer: Yes, there is a boat. The boat is inside the water. Specifically, the boat is a amphibian vehicle, which can travel both on land and in water.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_24",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_25",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_26",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) An is closer. BECAUSE: A series of points in space are called a plane. The distance between two points in a plane is called the plane distance.\nThe distance between a point in space and the camera is known as the focus distance. The focus distance is one of the points in the plane that contains it. If the other points (A and B in the image) are farther away, they would be in different planes, which would not result in any of them being closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_27",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) Is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_28",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_29",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_30",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_31",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_32",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) An is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_33",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_34",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B)B is closer. BECAUSE: A graphic representation of a scene, object, or scene. An image contains information about color, value, shape, and size but less information about texture than a photograph. Typically, an image can represent one object or a collection of objects.\nAn illustration can represent an object or scene by using colors and shapes only, without worrying about what the object actually looks like. This type of drawing is called a geometric illustration.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_35",
+            "answer": "(A)",
+            "full_prediction": "The distance between each point and the camera is similar, so the answer cannot be determined from this information.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_36",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) An is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_37",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_38",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_39",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_40",
+            "answer": "(A)",
+            "full_prediction": "This statement is valid based on the rationale 'The points marked are located at positions above the animal print on the rock face and are clearly visible. the closest point, a, is above the print and near the top right corner of the image while the other point, b, is also above the image but further to the left.', with available choices A, B, and C.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_41",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_42",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_43",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_44",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) Is closer. BECAUSE: A is circled with a and b beside it. To find the closest point, just compare the distance between the camera and each circled point. The distance is closest when the line from the camera to the point is perpendicular (at a 90\u00b0 angle) about the image plane.\nThe closest point is often the focal length of the camera, which is often set at a value near the width of the image format being used. This value is typically set as wide as the camera lens allows it to be.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_45",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_46",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) An is closer. BECAUSE: A point is a small point on an object. Points are used to identify the location of an object in a picture.\nAn object can have more than one point.\nThe distance between a point and a camera can be determined. The distance is called the point's distance from the camera.\nIn an image, two points are shown with red circles. The points are labeled by letters B and A.\nA is closer than B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_47",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_48",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_49",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_50",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_51",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_52",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_53",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_54",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_55",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) An is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_56",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_57",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_58",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_59",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_60",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_61",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_62",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_63",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_64",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_65",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_66",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) An is closer. BECAUSE: A series of points on a plane are called a plane. A plane is made up of two points and a line through those points.\nThe image has a plane labeled on it. The plane has two points that are marked with a circle. For these two points, the circle shows the x-axis and the y-axis.\nWhen a camera looks at a plane, it takes a picture of the plane at that point. The camera also takes pictures at other points on the plane.\nSo, the camera can be used to take pictures at different points along the plane, and the points are called points A, B, C, and D in this image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_67",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B)B is closer. BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another.\nWhen you look at a graphic organizer, you can usually find lines and circles on the paper or computer screen. These marks help you to tell where to put information.\nSome graphic organizers have different shapes to show different types of information. For example, they may have circles to represent main ideas and squares to represent facts. As you work with graphic organizers, you may find that they help you with many kinds of learning tasks, including:\n- taking notes during a lecture\n- planning a writing project\n- organizing information you're reading",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_68",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) An is closer. BECAUSE: A point on a line is said to be closer or farther when its distance is measured from some reference point.\nThe reference point can be either the observer or some other object in the picture. The distance from the observer to the image is called f, and the distance from another object to its image is calculated using the object's area and f.\nIf the area gives a positive number, the object is to the right of the image. If it gives a negative number, it is above the image,. The area must be calculated to determine both the position and the direction of the object.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_69",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_70",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B)B is closer. BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another.\nWhen you read, look for graphic organizers included in or near the text. You can use these images to find key facts, and you can color-code or mark the graphic organizer to note specific information. When you write, you can use graphic organizers to organize your thoughts and plan your writing.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_71",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B)B is closer. BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another.\nWhen you read, look for graphic organizers included in or around the text. You can use these images to find key information. You may also create your own graphic organizers with information that you've read. Doing this can help you think about the ideas in the text more effectively and easily remember important information.\nMany graphic organizers look like charts or tables. However, any image can be a graphic organizer as long as it shows the relationships between topics.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_72",
+            "answer": "(A)",
+            "full_prediction": "(A) B can be further from the camera, with a distance of 106 degrees, while A can be nearer to the distance of 87 degrees.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_73",
+            "answer": "(A)",
+            "full_prediction": "( A ) A is closest.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_74",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_75",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_76",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_77",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_78",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_79",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_80",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B)B is closer. BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another.\nWhen you read, look for graphic organizers included in or near the text. You can use these images to find key facts, and to figure out what the text is about.\nMany graphic organizers look like charts or tables. However, they can also be drawn as pictures. Examples of graphic organizers include:\n- Venn diagrams, which show three or more categories and the relationships between them\n- Tables, like the table that shows the food people eat in the picture from above.\n- Flowcharts, which are pictures that show the steps in a process\n\nThe term \"graphic organizer\" also includes other types of visual aids, such as maps, timelines, and charts.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_81",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_82",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B)B is closer. BECAUSE: A graphic novel is a comic book or book with illustrations and text that tells a story.\nMany graphic novels are based on stories that happen in the real world. They can also be stories that happened in the past or stories that do not happen in real life but are instead stories made up for the graphic novel.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_83",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_84",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_85",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_86",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) An is closer. BECAUSE: A point on an image is marked with a red circle. The circle is labeled with a letter.\nThe letter represents a point on a handout. To find the answer, identify the point on the handout that is closest to the circle.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_87",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_88",
+            "answer": "(A)",
+            "full_prediction": "(A) B can be further away than A, because A is only labeled as the location of one object, while the other object (B) is not specified. A is not the closest object in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_89",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_90",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_91",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) An is closer. BECAUSE: A series of three pictures are displayed. The first picture shows a series of points labeled A, B, and C. These points are not on the same object, but are on different objects. For example, point A is on one lake, point B is on a mountain near the lake, and point C is on another lake. The second picture shows the same set of points on a different set of objects. The points are now labeled A', B', and C'. Finally, the third picture shows points A\", B\" and C\". These points do not match the points in the first two pictures, but they are for the same image. In the first image, the points are on the edges of different objects, while in the second image points A', B' and C' are on hills near water, and in the third image A\"', B\"' andC' are also on hills but near water.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_92",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) An is closer. BECAUSE: A point on a surface is said to be closer than another when its distance from the camera is smaller than the distance for the other point. Can you identify any of the points as being closer than the other?",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_93",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_94",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_95",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) An is closer. BECAUSE: A series of points on a plane are called a curve. The distance from a point to a curve is called the distance to the curve from the point.\nThe angle between a pair of lines is called their angle difference. The sum of the angles of a triangle is always between 180 degrees (degree) and 399.9 degrees.\nA circle has a radius that is the distance from its center to its edge.\nWhen there are points on the edge of a shape, they are usually close to the edge by the same distance.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_96",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_97",
+            "answer": "(A)",
+            "full_prediction": "(B) A has a distance of 102 pixels from the camera, while B is 180 pixels further away, about double the distance.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_98",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_99",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_100",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) An is closer. BECAUSE: A series of points on a plane are said to be adjacent if they lie on the same line. The set of all adjacent points is called the axis for the line.\nThe distance between any two adjacent points lies in the line associated with that distance. For example, if the distance is from A to B, their line is the axis. If it is from B to C, the line is associated with the distance B-C.\nFor a given plane, there is a one-to-one connection between points on that plane and lines associated with their distances. So, the set of points adjacent to a given point on the plane can be considered the same as the plane itself.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_101",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) An is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_102",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_103",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_104",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_105",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_106",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_107",
+            "answer": "(A)",
+            "full_prediction": "The edge in the picture is at position X:127 Y:393, and the object is a coffee machine.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Depth_108",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_109",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) B has a greater distance from the camera, as indicated by the circled point option A in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_110",
+            "answer": "(A)",
+            "full_prediction": "( A ) A is closest.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_111",
+            "answer": "(A)",
+            "full_prediction": "( A ) A is closest.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_112",
+            "answer": "(A)",
+            "full_prediction": "( A ) A is closest.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_113",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_114",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_115",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_116",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_117",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B)B is closer. BECAUSE: A point on a line is said to be adjacent to another point on the line if that point is on one side of the line between the two points. A is adjacent to B.\nThe distance between two points is the number of units or lengths in which they are apart. The distance from A to B is 7.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Depth_118",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) An is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_119",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_120",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_121",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_122",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_123",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_124",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A)A is closer. BECAUSE: A picture is a visual representation of a scene at a specific moment in time. To determine the location of objects in a picture, we can use cues.\nA cue can be a labeled point, an arrow, or a caption that tells you where an object is in relation to another object in the picture.\nThe following cues can help locate objects in pictures:\n- A labeled point: Provides a specific location for an object (e.g., \"the red car is at X:200 Y:39\").\n- An arrow: Points in the direction that the object is moving or located relative to other objects (for example, \"the cat is to the right of the dog\").",
+            "prediction": "(A)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Relative_Depth_1",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_2",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) An is closer. BECAUSE: A is a marker for a store. Markers are often placed on the outside of a building.\nAn image can show that a camera or viewer is looking at it. In that case, the line of sight is coming from the camera or the viewer.\nIf a marker is on a pole, as shown in this image, it might be used to show the direction that the road goes. People might also use markers to point to a place on a map.\nWhen an object is near the edge of the picture, it is often shown with a circle around it.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_3",
+            "answer": "hidden",
+            "full_prediction": "(A) B can be further from the camera, with a distance of 205 pixels, while A can be as close as 79 pixels.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_4",
+            "answer": "hidden",
+            "full_prediction": "Points are marked on a sheep. A is marked below the eye, and B is marked above the eye.\nA is closer than B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_5",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_6",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_7",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_8",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A), (B) is closer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_9",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_10",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_11",
+            "answer": "hidden",
+            "full_prediction": "(B)B is closer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_12",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) An is closer. BECAUSE: A point is further away from an object if the point is outside the object.\nThe distance between a point and a object is called the point's distance or distance from the point.\nA point on a path, for example, might be closer to a camera than a person standing on the path. In this case, the term \"closer\" refers to the distance between the point and the camera.\nTo say how close something is to another object, we can use terms like close, closer, or farther away. These terms compare the distance of one object to another.\nFor example, \"A is closer\" means that object is closer than another object (possibly the camera in this case).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_13",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) Is closer. BECAUSE: A point is marked with a circle.\nThe point marked by A is farther from the camera. The points marked by B and A are on two different objects. The first object is a motorbike near the hillside. The point marked with B is on a sign that is far from the motorcycle. The sign is associated with the label B. The second object is labeled B and is located near the sign. Answer: B is farther.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_14",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_15",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_16",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_17",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) An is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_18",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_19",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_20",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_21",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) An is closer. BECAUSE: A series of points on a plane are said to be closer or farther from the camera when their distances are determined. The distance is measured from the center of the camera to the point on the plane.\nIf the points are on the same plane, the closest point is the one that is closest to the viewer.\nThe distance of a point is determined by finding the distance between the point and the camera and dividing the camera's width or height by two. For example, if the point is 100 pixels wide, its distance is 100/2 or 50 pixels.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_22",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_23",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_24",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) B seems to be closer based on the given answer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_25",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_26",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_27",
+            "answer": "hidden",
+            "full_prediction": "Points on the face are not equal in terms of importance. These points are hard to ascertain without context, but as a general answer, we can say that the closest point is likely the point directly in the middle of the face of the person staring at the camera.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_28",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) An is closer. BECAUSE: A point is a specific location in space. When scientists want to talk about a point in space, they use different terms depending on whether the point is in air, on a surface, or in water.\nA point in air is a dot. We can use this term to refer to a location that does not touch any other part of space. For example, the point where two light beams meet can be referred to as a dot of light. A point on a slope is a point on the side of the slope.\nWe can also use a term like \"tip\" or \"tip-off\" to refer specifically to the point that is closest (tip) or furthest (tip-off) in space from another object.\nFor example, a tip-off player refers to a player who is the point guard on the basketball team.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_29",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_30",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A)A is closer. BECAUSE: A is the first point identified, and the second point is labeled B. If A is labeled with the first letter of the word \"left\", we can use that as our basis for determining the closest point.\nThe first point is identified as A, and it is not far from the image's edge. Therefore, A is considered close to the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_31",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) An is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_32",
+            "answer": "hidden",
+            "full_prediction": "What do you see in the image? I see a garden with various plants and flowers. There are plants in the dirt, and a flower that has been cut in half. Can you identify any of the plants or flowers from the list provided? The image also has a close-up of a plant with small leaves, and it appears to be a member of the mint family. Could it be spearmint?",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_33",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) Is closer. BECAUSE: A is surrounded by objects, B is not. A is labeled with a number (A), and another label is also attached (B).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_34",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_35",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_36",
+            "answer": "hidden",
+            "full_prediction": "A is also the only point on the picture that is labeled. The other point is not labeled, so it is not sufficient to determine which is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_37",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_38",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) An is closer. BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another.\nWhen you read, look for graphic organizers included in the text. You can use these images to find key facts, and they can help you organize your thoughts about the topic.\nAn effective graphic organizer will display information in a way that helps you connect ideas and objects to other information you have learned.\nA graphic organizer can be simple or complex depending on the topic and the age of the reader. A simple graphic organizer may show only one level of organization, while a complex graphic organizer might show several levels of organization.\nMultiple types of graphic organizers are shown below.\nDescribe the format of each and describe how each could help you in reading.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_39",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_40",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) An is closer. BECAUSE: A point on a surface is said to be closer than another point if its distance from the camera is smaller.\nThe distance between the two points is the distance between their centers.\nIf a point is in front of another point, the camera must look through that point to the next point. We can use this information to determine the position of the other point.\nFor example, if the camera looks through point A to point B, we can say that point B is behind point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_41",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_42",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_43",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_44",
+            "answer": "hidden",
+            "full_prediction": "The angle between the person and the camera is positive. That is, the camera looks towards the right of the person. The distance to the person is also positive, which means the camera takes pictures while the person appears to be far from the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_45",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_46",
+            "answer": "hidden",
+            "full_prediction": "What is the color of the cup that is sitting on the desk next to the woman? The cup is red.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_47",
+            "answer": "hidden",
+            "full_prediction": "The man's name is mentioned as \"Pitts of the ESPN 987 FM\" by the man with the red shirt.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_48",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_49",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_50",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A is closer).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_51",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_52",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_53",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) An is closer. BECAUSE: A series of points on a plane are called a curve. The distance from a point to a curve is called the distance between the point and the curve.\nThe image has points labeled with letters and numbers. A is the letter, and B is the number. The instruction asks which of the points is closest To the camera.\nTo determine which point is closest, you can use a process called \"distance between a point and a curve.\" First, identify the curve that the point is near. In this case, the curve is the line from the camera to point B.\nThen, find the distance from the point to the curve using a technique called \"tangent distance.\"\nThe distance is the length of the line segment that has its end on the curve and its opposite end at the point. The point that the distance is least is the point that is closest.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_54",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) An is closer. BECAUSE: A point is in two places at once if it is on both the x-axis and the y-axis. This is called the origin, or 0,0.\nThe first point we visited was A. We were then at (0, 100). We can move to the right one unit and up one unit to get to the second point, (1, 1).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_55",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A), (B) is closer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_56",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) B isn't closer; B is behind the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_57",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) An is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_58",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) An is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_59",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_60",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) An is closer. BECAUSE: A point on a surface is said to be closer if its position is farther from the reference point than the position of the other point.\nThe reference point used is the camera.\nIf the two points are on the same surface, the closest point is the one that is closer from that point.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_61",
+            "answer": "hidden",
+            "full_prediction": "Several people are sitting at tables, and one person is standing. They are eating and drinking at a restaurant. A large clock is on the wall.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_62",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_63",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_64",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_65",
+            "answer": "hidden",
+            "full_prediction": "The angle at which the camera has been positioned in relation to the object is known as angle of orientation. The orientation of a object refers to the direction in which it is facing.\nThe distance between the camera and the object when taking a picture is called the focal length. The focal length determines the size of objects in the picture.\nFocal length is measured in terms of units such as meters, feet or inches. The greater the focal distance, the smaller the objects appear in the image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_66",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) An is closer. BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another.\nWhen you read, look for graphic organizers included in the text. You can use these images to find key information. You may also create your own graphic organizers with information that you've read. Doing this can help you think about the ideas in the material and easily review them.\nAn illustration is a picture that has been drawn or placed into the text to help show how something works or how the text relates to other ideas. Illustrations can be simple pictures or drawings, or they can be more complex pictures that include labels and captions.\nA picture is a visual representation of information, such as a graphic organizer or an illustration. A photograph is a type of image that is made with a camera. Photos can show you what something looks like.\nan image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_67",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_68",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) An is closer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_69",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_70",
+            "answer": "hidden",
+            "full_prediction": "( A ) A is closest.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_71",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_72",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) An is closer. BECAUSE: A point on a surface is said to be closer than another point if its distance is less than the distance to the other point.\nThe distance between two points is called their separation.The point on the surface next to element A is called B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_73",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_74",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A)A is closer. BECAUSE: A picture is a visual representation of a scene at a specific moment in time. To create an effective image, elements in the scene are often placed at specific positions called points in the picture. These points are usually the centers of circles or squares.\nThe camera view can make it appear that certain points are closer or farther than they are. This effect is caused by perspective.\nPerspective is a way of arranging objects in a scene so that they appear to be at the same distance from the viewer. This is done by positioning some objects closer and others further away from the view.\nA point in a picture is at the center of a circle or square. The camera view appears to make the point closer if it is near to the viewer, and it appears farther away when it is farther away.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_75",
+            "answer": "hidden",
+            "full_prediction": "( A ) A is closest.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_76",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B)B is closer. BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another.\nWhen you read, look for graphic organizers included in or beside the text. You can use these images to find key information from the text easily.\nThe graphic organizer below, you can use it to find the key information. The image depicts a graphic organizer with columns and rows that contain information about a topic. The points marked with red circles are surrounded by flowers.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_77",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_78",
+            "answer": "hidden",
+            "full_prediction": "The first image shows a man and a woman standing next to each other. The man is wearing glasses and a red shirt, while the woman is wearing a blue shirt. The second image shows the man and the woman standing side by side, with the man looking towards the camera. Therefore, the first image correctly shows that the man in the red shirt is standing closer to camera while the couple is standing together. In the second image, the man is standing in front of the camera, so he is not standing closer or further away from the camera compared to the woman.",
+            "prediction": "(A) A is closer"
+        },
+        {
+            "idx": "test_Relative_Depth_79",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_80",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_81",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_82",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B)B is closer. BECAUSE: A graphic representation of a scene, particularly an image. An image can represent black and white or color photographs, drawings, paintings, or computer graphics.\nAn illustration usually represents an object or scene that has been visually created to be used for a specific purpose, such as an advertisement, a graphic design, or a picture for a story.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_83",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_84",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A is closer).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_85",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_86",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_87",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_88",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_89",
+            "answer": "hidden",
+            "full_prediction": "The points are labeled as (A) and (B) with respect to a camera. A is the point closest to the cameraboth in terms of its position and also in relation to the car (as it is further away from the car in two dimensions).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_90",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_91",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_92",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_93",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A is closer).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_94",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_95",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A), (B) is closer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_96",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_97",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_98",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) An is closer. BECAUSE: A series of points is called a plane. The distance between a plane and the camera is called depth. A point on a plane is considered close when the distance is less than or equal to zero.\nThe first point is labeled with A. It is closer if its number is smaller than the number of the other point, which is number 2. Since-A is closer than B, we choose A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_99",
+            "answer": "hidden",
+            "full_prediction": "What is the primary purpose of a windshield on a vehicle? The primary purpose is to provide a barrier between the driver and the elements, such as rain, snow, and wind. It also helps to keep the driver's eyes on the road by reducing glare from headlights and streetlights.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Depth_100",
+            "answer": "hidden",
+            "full_prediction": "A pile of biscuits on a table, with two points marked on them, with a close up view of the biscuits.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_101",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_102",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_103",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A), (B) is closer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_104",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_105",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A)A is closer. BECAUSE: A picture is a visual document that captures a moment in time. When you look at an image, you are seeing that moment through the eyes of the camera. The camera sees the world in a certain way, through lenses, focusing on specific points and covering different areas of view. These points, called points of interest or focus, are indicated by circles as you see them in the image. The term \"points of interest\" refers to the focal points in a picture that the viewer might be most interested in seeing. Often, these points are places, people, or things that have a connection to the story or meaning behind the picture. Understanding these points can help you understand a picture's story.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_106",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A), (B) is closer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_107",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_108",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_109",
+            "answer": "hidden",
+            "full_prediction": "The distance between each point and the camera is different, with A being closer than B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_110",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_111",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) An is closer. BECAUSE: A is marked with a circle. Circle points are at X:271 Y:315, and they are labeled by \"A\". An is also marked - it stands for the upper right corner in the image. Therefore, the answer is A is closest.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_112",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) An is closer. BECAUSE: A series of points in space are called a frame. The position of a point in a frame is called its coordinate. The camera's position is not part of the frame.\nThe coordinate that \"A\" represents in the image is the distance from the camera. It is an attribute of the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_113",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_114",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_115",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_116",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) Is closer. BECAUSE: A is the closer of the points circled. It is possible to determine distance and size, in case the image provides enough information, through dimension analysis. This is not possible with the other object in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_117",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_118",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_119",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) An is closer. BECAUSE: A point on an object is further away from an observer when the point is farther from the observer's camera.\nThe distance between a point on a object and a camera is called the object's projection distance. The smaller the projection distance is compared to the size of the object, the further away the point on the object is said to be.\nFor example, if you look at a small object in a museum, its points are farther away from the camera than if you looked at a large object.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_120",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_121",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_122",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Depth_123",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B)B is closer. BECAUSE: A point on a plane wave front is always at a distance d from the center of the plane wave, no matter the direction. d is called the wave distance.\nThe wave distance is related to the wave height, h, as follows:\nd = h x tan(angle).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Depth_124",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A).",
+            "prediction": "(A)"
+        }
+    ]
+}

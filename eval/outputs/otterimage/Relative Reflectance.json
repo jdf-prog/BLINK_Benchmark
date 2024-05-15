@@ -1,0 +1,1614 @@
+{
+    "val": [
+        {
+            "idx": "val_Relative_Reflectance_1",
+            "answer": "(A)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_2",
+            "answer": "(C)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_3",
+            "answer": "(B)",
+            "full_prediction": "1) The floor appears to be decorated with a design that has alternating horizontal and vertical lines. However, the image does not provide enough detail to determine the exact layout of the floor design. 2) The image shows a large room with a mezzanine. The room has a tiled floor and beige walls. There are also ceiling tiles and light fixtures visible in the space. 3) The room is divided into two areas by a partition with a center doorway. Each area has a different layout, but the overall room layout is similar to that shown in the other two options. 4) The space is designed to accommodate various types of seating, with a mix of chairs and sofas arranged at different heights and locations throughout the room. 5) The large room has windows that provide natural light, and the floor is tiled with a decorative pattern.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_4",
+            "answer": "(A)",
+            "full_prediction": "In the image returned this answer has a white surface with dark spots, whereas the other has a surface with shadows on it, making it darker in some areas than others, but not entirely white.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_5",
+            "answer": "(C)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_6",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) An is darker. BECAUSE: A point is a small area of a surface, and the color of that surface is the color that the light hits the surface at that point.\nThe angle of a point on a surface can differ from the angle of the light that is shining on the surface. If the light has a larger angle, it means that less light comes through that point, and so the light doesn't have as strong of a color. A dark point can have a different color than the light shining on it.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_7",
+            "answer": "(C)",
+            "full_prediction": "The color of A is smaller, darker, or more red than the color of B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_8",
+            "answer": "(C)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_9",
+            "answer": "(C)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_10",
+            "answer": "(B)",
+            "full_prediction": "In this image, two points are marked. Point A is dark, while point B is not as dark. Therefore, both points cannot be said to be similar in color.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_11",
+            "answer": "(C)",
+            "full_prediction": "Evaluating the color of only two points may not be sufficient to determine the color across the entire image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_12",
+            "answer": "(A)",
+            "full_prediction": "Tasks at hand are often performed by humans with specialized equipment. In this case, which human would be most effective at performing the task? Answer: B, the woman is equipped with the right tool.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_13",
+            "answer": "(A)",
+            "full_prediction": "In the past, answer A was considered more accurate than answer B, but it is not the correct answer any longer. It is important to update the answer to make it correct.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_14",
+            "answer": "(B)",
+            "full_prediction": "In contrast, lighter surfaces would likely be the floor and the wall.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_15",
+            "answer": "(C)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_16",
+            "answer": "(A)",
+            "full_prediction": "(A) B B's surface color is darker than that of A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_17",
+            "answer": "(A)",
+            "full_prediction": "Questions are about objects in the scene: which object has a darker color, and which objects have the same color. Answer A is incorrect because it implies that it's possible for an object to have different colors for different points. Of the rest, answer B is correct based on the rationale 'The road is much darker than the other surfaces around it, so much so that the shadow of the overpass is visible on the road.'; but it is not necessarily the correct answer. The other answers could also be correct, depending on the specifics of the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_18",
+            "answer": "(B)",
+            "full_prediction": "Describe the surface of the point A.\nThe surface has a darker color than the point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_19",
+            "answer": "(B)",
+            "full_prediction": "The color of point A is dark brown, and the color of points B is also dark brown.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_20",
+            "answer": "(B)",
+            "full_prediction": "The color of a kitchen cabinet is important, as it can set the tone for the entire kitchen. Here are some tips to choose the right kitchen cabinet color for your home.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_21",
+            "answer": "(A)",
+            "full_prediction": "Grey table with white chairs around it, and a countertop with dark wood cabinets, seems to have a lot of wood in the kitchen.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_22",
+            "answer": "(B)",
+            "full_prediction": "The women are cooking in a kitchen with white countertops.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_23",
+            "answer": "(C)",
+            "full_prediction": "Describe the object located near the dish rack.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_24",
+            "answer": "(B)",
+            "full_prediction": "In the past, answer A would have been the correct answer, but with the advancements in technology, answer B is now more accurate.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_25",
+            "answer": "(B)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_26",
+            "answer": "(A)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_27",
+            "answer": "(A)",
+            "full_prediction": "(A) Is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_28",
+            "answer": "(C)",
+            "full_prediction": "(A) B B's surface color is darker than that of A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_29",
+            "answer": "(C)",
+            "full_prediction": "The color of point A is more dark than that of point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_30",
+            "answer": "(C)",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_31",
+            "answer": "(A)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_32",
+            "answer": "(B)",
+            "full_prediction": "Question: The surface color is the color the surface actually is without being affected by shading. So, for example, a surface that is mostly red would be labeled as red, regardless of whether it was in the shade or not. How would you describe the color of each point? Answer: A) Dark red and B) Dark blue.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_33",
+            "answer": "(C)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_34",
+            "answer": "(C)",
+            "full_prediction": "Evaluating the rationale 'A is darker because it's closer to the light source.', the correct option appears to be: (A), and the correct answer is A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_35",
+            "answer": "(A)",
+            "full_prediction": "In the context of this image, choice A is incorrect because it implies that the color of point A is lighter than the ground color. This would not be the case for a solid surface like metal or concrete, which would both appear black in the dark. Choice B is correct based on the rationale and picture provided.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_36",
+            "answer": "(A)",
+            "full_prediction": "In the light of day, their are no noticeable differences in color between the points. Both appear to be neutral beige.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "val_Relative_Reflectance_37",
+            "answer": "(B)",
+            "full_prediction": "Type A: The surface is covered in light-colored grease.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_38",
+            "answer": "(B)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_39",
+            "answer": "(A)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_40",
+            "answer": "(A)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_41",
+            "answer": "(B)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_42",
+            "answer": "(B)",
+            "full_prediction": "In the image of the kitchen, a point is labeled with A. The color of that point is darker than the surrounding surface. However, the color is not significantly different from the background of the scene, which is considered \"about the same.\".",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "val_Relative_Reflectance_43",
+            "answer": "(B)",
+            "full_prediction": "(C) Around the same.<image>The interior of a hotel room with wood flooring and white furniture, with a dark-colored wall at the end of the room, appears to be dark in color.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_44",
+            "answer": "(C)",
+            "full_prediction": "The image depicts a bedroom with various elements, including a bed, a chair, and a counter with a light on it. The overall room color is white, which might contribute to the perception that the surfaces have similar colors. However, the image does not provide enough clarity on whether the surfaces are actually the same color or not.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "val_Relative_Reflectance_45",
+            "answer": "(C)",
+            "full_prediction": "(A) B B is lighter than A, as it has a white surface color in a blue sky background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_46",
+            "answer": "(C)",
+            "full_prediction": "(A)A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_47",
+            "answer": "(C)",
+            "full_prediction": "Answer: (A) Is darker. BECAUSE: A point is a piece of information that you can use to locate something in a picture or map. Annotated points have a label, or a name, that tells you where something is in relation to other things in the picture.\nThe color of a point is related to the color of its surface. The surface of an object is the layer that you see. Different surfaces have different colors, or albedos.\nA point with a darker color than another point has a darker surface, because the darkest surface is the one that the point is on.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_48",
+            "answer": "(C)",
+            "full_prediction": "Evaluating the rationale 'The second option doesn't have any points designated, and the first one has a clear difference in color between the two points.', the correct option appears to be: (A) Is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_49",
+            "answer": "(A)",
+            "full_prediction": "Describe the surface of the point A.\nThe surface around A is smooth and white.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_50",
+            "answer": "(C)",
+            "full_prediction": "Dimensions of the area are: X:84, Y:88, W:168, H:168.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_51",
+            "answer": "(B)",
+            "full_prediction": "In the past, answer A was considered more accurate, but it is no longer reliable, as conditions such as lighting can create different effects on the same object.\nAnswer A is changed to C, and answer B is reverted to be correct, since the color is darker on B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_52",
+            "answer": "(C)",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_53",
+            "answer": "(C)",
+            "full_prediction": "The color of point A is tan, but the color of its surrounding is brown, so its color is not considered dark. Point B, on the other hand, is also tan but is in a room with white walls, making it darker than the rest of the room.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_54",
+            "answer": "(C)",
+            "full_prediction": "(A) Is darker. BECAUSE: A point is a small section of a surface in a model or image. Annotated points are used to indicate the location of features or points of interest.\nThe color of a point can change depending on the color mapping used for the type of model or the image viewer settings.\nIn 3D modeling, each point has its own position and color. The color may not accurately represent the surface texture in the image. In this case, the surface under point A is more dark than other surfaces, which implies that the sun is coming from the left and being reflected on the surface.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_55",
+            "answer": "(A)",
+            "full_prediction": "(A) Is darker. BECAUSE: A surface color is the color of a material without being affected by shading.\nThe shade of a color is affected by the amount of light shown it.\nIf more light reflects off of a surface, it will appear white. If less light reflects it off, the surface will be darker than white.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_56",
+            "answer": "(B)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_57",
+            "answer": "(A)",
+            "full_prediction": "The color of point A is similar to gray, but not exactly gray. Since it is an anomaly, it is likely not on the table and is probably an anomaly in the context of the rest of the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_58",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B)B is darker. BECAUSE: An object has different colors on its surface due to the reflection of light from different sources. This is called surface color.\nThe light that reflects off a surface can come from various sources. Dark surfaces are likely to reflect many different colors, from many sources. A dark surface will not reflect all colors, because some colors are not present in the dark surface (for example, the color black does not reflect any light). So, a dark surface is said to have different colors.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_59",
+            "answer": "(B)",
+            "full_prediction": "A woman is holding a toothbrush in her hand. Does she have a clean mouth, or is there blood on her lips? Label the image as either clean or dirty.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_60",
+            "answer": "(A)",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_61",
+            "answer": "(A)",
+            "full_prediction": "(B)B is darker. BECAUSE: An object has different colors on its surface than it does in space between those objects. These different colors, or surfaces, are called albedos. The alberdo of a surface is the color of that surface.\nThe darkest and lightest surfaces on a space are usually both black and white, or gray. These two surfaces are not part of this criteria, and they can be different from what you see.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_62",
+            "answer": "(A)",
+            "full_prediction": "The surface color is dark gray, so the light reflects less from the surface and is redirected faster.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "val_Relative_Reflectance_63",
+            "answer": "(A)",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_64",
+            "answer": "(A)",
+            "full_prediction": "The image is of a living room with wood floors and a kitchen area with a counter and stools. It appears to be either a house or a apartment kitchen and living room.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_65",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B)B is darker. BECAUSE: A surface color is the color of a material without being affected by shading.\nAn area's surface color can be different from a point on the surface. For example, if the surface is very dark in the middle of a table and becomes lighter towards the edges. The surface color at a point isn't the same as the color at the surrounding edges.\nA point on a surface is said to have different colors if the color changes from one side of the point to the other.\nFor an object on a planet's surface, each point has a surface color and that color is different for each point.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_66",
+            "answer": "(A)",
+            "full_prediction": "The color of point A is similar to that of the surrounding surface, so it has little contrast. Point B, with its darker color, stands out from the surrounding surfaces, making it more noticeable.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_67",
+            "answer": "(A)",
+            "full_prediction": "In the scene, people are standing in a kitchen, with multiple objects contributing to the overall color tone of the scene. However, the focus is on the contrast between the people's colors (dark-skinned) and the colors of the surfaces (white).",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_68",
+            "answer": "(B)",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_69",
+            "answer": "(C)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_70",
+            "answer": "(C)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_71",
+            "answer": "(C)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_72",
+            "answer": "(B)",
+            "full_prediction": "The image is of a kitchen at night, with the light source located above the door. So, the darker area is likely to be the shadow cast by objects in the room, such as the oven, cabinets, and refrigerator.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "val_Relative_Reflectance_73",
+            "answer": "(C)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_74",
+            "answer": "(C)",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_75",
+            "answer": "(A)",
+            "full_prediction": "Evaluate how smooth the surface of the wall is. Is the surface smooth, rough, or smooth/rough? How would you describe the surface? Is the wall smooth?",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_76",
+            "answer": "(A)",
+            "full_prediction": "The image is of a living room with a man sleeping on a couch. The surface color is darker at point B, which is more aligned with the rest of the room.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_77",
+            "answer": "(B)",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_78",
+            "answer": "(C)",
+            "full_prediction": "Answer: (B)B is darker. BECAUSE: A visual attribute of objects is the color. Each object has a color that is determined by the type of material it is made from.\nThe color of an object can be changed by adding another material on the object or covering the object with a different color paint.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_79",
+            "answer": "(B)",
+            "full_prediction": "(A) Is darker. BECAUSE: A point is a small area on a surface. The color of a point is the color of only that point. So a point can appear different from the rest of the surfaces around it, because its color is only from itself.\nThe color of each point in an image can be called the point color. The whole image is made of many points, and the image can have different colors for its points.\nA surface color is the colors that a surface has. For an entire surface, use the term \"albedo\" instead of \"surface color.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_80",
+            "answer": "(A)",
+            "full_prediction": "(A) Is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_81",
+            "answer": "(A)",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_82",
+            "answer": "(C)",
+            "full_prediction": "The answer is (A) An is darker. BECAUSE: A visual attribute of an object is its color. The color of a surface reflects how much light it reflects or absorbs.\nThe surface color can be different from the light that hits the surface. For example, if a surface has many small holes in it, these holes will let some light through. The surface will then appear darker because less light is reflected.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_83",
+            "answer": "(B)",
+            "full_prediction": "In the light of day, the marble surface has a dark brown color; at night, with the television light on, the surface has an even darker color.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "val_Relative_Reflectance_84",
+            "answer": "(B)",
+            "full_prediction": "Evaluate the brightness of each point in the image. Answer: The brightness of A is lower than that of B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_85",
+            "answer": "(C)",
+            "full_prediction": "Answer: (C).",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_86",
+            "answer": "(C)",
+            "full_prediction": "How old is the person? The age is not clearly visible, but he appears to be a middle-aged man.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_87",
+            "answer": "(B)",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_88",
+            "answer": "(C)",
+            "full_prediction": "In the light of day, their may be some shadows cast, but overall, the surface is darker than the surrounding walls.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_89",
+            "answer": "(C)",
+            "full_prediction": "How old do you think the woman in the picture is? Considering the appearance of youthfulness on the face, answer yes or no to the following question.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_90",
+            "answer": "(C)",
+            "full_prediction": "In the scene, people are sitting in a living room with a fireplace. Two people are standing near the fireplace, and one of them is playing a guitar for the other. Another person is sitting on the stairs.\nThe living room has a couch, a chair, and a dining table. A chandelier is hanging from the ceiling, and there is a clock on the wall. The room appears to be decorated with many pictures on the walls.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_91",
+            "answer": "(A)",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_92",
+            "answer": "(A)",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_93",
+            "answer": "(C)",
+            "full_prediction": "The question is incomplete without a reference to the background of the object(s) in question. Without a reference, it's impossible to determine the background and provide an accurate answer.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_94",
+            "answer": "(C)",
+            "full_prediction": "The color of point A is dark blue and of point B is dark green.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "val_Relative_Reflectance_95",
+            "answer": "(C)",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_96",
+            "answer": "(C)",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_97",
+            "answer": "(B)",
+            "full_prediction": "(A)A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_98",
+            "answer": "(C)",
+            "full_prediction": "The image depicts a kitchen scene with various objects on the table and around. In this scene, a person is also present. A point is chosen in the image to demonstrate its surface color. The point is labeled as point A. It is observed that point A is dark in nature. A second point is also marked with a label inside the scene. No image caption makes mention of this point's location or any related information. Therefore, this point is not in the context of the kitchen scene. Thus, the image's surface color is not determined, and it is not possible to determine which statement is true. Hence, Answer A is false and Answer B is false.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_99",
+            "answer": "(B)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_100",
+            "answer": "(B)",
+            "full_prediction": "Question: What is the material of the dining table and the chairs? The table is brown wood, the chairs are wood.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_101",
+            "answer": "(A)",
+            "full_prediction": "In the light of day, their would be no difference in color between the two points, since the lighting would be equal. However, in the dark, the point A would appear darker than B, because of the difference in surface reflectivity.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_102",
+            "answer": "(B)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_103",
+            "answer": "(B)",
+            "full_prediction": "Evaluating the result for whether the colors are similar or different, the answer is: different.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "val_Relative_Reflectance_104",
+            "answer": "(B)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_105",
+            "answer": "(B)",
+            "full_prediction": "The color of point A is more dark than that of point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_106",
+            "answer": "(C)",
+            "full_prediction": "(A) Is darker. BECAUSE: A light source affects color on a surface.\nThe brightness of a surface is determined by the amount of light on it. The color of that surface is affected when it is exposed to light.\nIf the light is white, it makes the surface appear white. If it is red, the surface appears red.\nHere are some examples of surfaces and what they appear to be when exposed to different types of light.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_107",
+            "answer": "(C)",
+            "full_prediction": "(A) B B has a similar color to the other objects on the surface.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_108",
+            "answer": "(B)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_109",
+            "answer": "(B)",
+            "full_prediction": "Questions: What are the dimensions of the living room? The living room is small with the length being approximately 4 feet and the width being approximately 5 feet.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_110",
+            "answer": "(C)",
+            "full_prediction": "The surface color is determined primarily by the color of its surfaces, rather than their orientation to a light source. So, while point B is more shaded than point A, they both appear similar due to the similar color of both points' surfaces.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "val_Relative_Reflectance_111",
+            "answer": "(C)",
+            "full_prediction": "(B)B is darker. BECAUSE: A surface color is the color of a surface without being affected by shadows.\nThe surface color can be different from the light color in a scene. For example, a red ball will be red regardless of if it's near or far from the sun, and it will appear red no matter how shadows affect the scene.\nIf a surface has both a visible color and an underlying color, the underlying color is called the underlying surface color.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_112",
+            "answer": "(A)",
+            "full_prediction": "How old is the statue of a lady in the middle of the room? The statue is of a young lady, which implies that she is not old.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_113",
+            "answer": "(B)",
+            "full_prediction": "(A) B B's surface color is darker than that of A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_114",
+            "answer": "(A)",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_115",
+            "answer": "(B)",
+            "full_prediction": "In the image collection, there are multiple surfaces with different albedos. Therefore, it is challenging to define each surface as having either a darker or similar color compared to another surface. Instead, we consider all surfaces to be contrasting or similar to each other.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_116",
+            "answer": "(B)",
+            "full_prediction": "In the image we see a man standing in front of a crowd with a PowerPoint presentation. The man is wearing a blue shirt. The crowd is made up of people sitting in chairs, all focused on the man's presentation.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_117",
+            "answer": "(C)",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_118",
+            "answer": "(B)",
+            "full_prediction": "In the past, the word \"b\" was used to represent the choice. But for convenience, I can tell you that the answer is now B. BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another.\nWhen you read, look for graphic organizers included in the text. You can use these images to find key information.\nThe graphic organizer below, you can use it to find the key information about this topic.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_119",
+            "answer": "(C)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_120",
+            "answer": "(C)",
+            "full_prediction": "How do the points compare in terms of height, color, and orientation to the surrounding area? Given the details provided, they are similar but not identical. Point A is higher than the table, while B is the same height as the table. A is also closer to the table than B, but there isn't enough information to say which one is more oriented.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "val_Relative_Reflectance_121",
+            "answer": "(B)",
+            "full_prediction": "(A) Is darker. BECAUSE: A light source in the image of a surface is reflected on the surface itself.\nThe darkest areas on a surface are the places where the light is not reflected, or is reflected less often.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_122",
+            "answer": "(C)",
+            "full_prediction": "The surface color is darker at point A than at point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_123",
+            "answer": "(B)",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_124",
+            "answer": "(A)",
+            "full_prediction": "In the light of day, their is no difference in color between the points.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "val_Relative_Reflectance_125",
+            "answer": "(A)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_126",
+            "answer": "(A)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_127",
+            "answer": "(C)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_128",
+            "answer": "(C)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_129",
+            "answer": "(C)",
+            "full_prediction": "In the light of day, the blackberries are mostly dark, so B must be darker than A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_130",
+            "answer": "(B)",
+            "full_prediction": "In the light of day, the surface under point A appears darker than the surface of the oven.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_131",
+            "answer": "(C)",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_132",
+            "answer": "(A)",
+            "full_prediction": "Description: A cup is on a counter with food in front of it, and a wine glass is behind it. The person is between the cup and the wine glass, and their surface color is described in relation to the surfaces of the cups.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_133",
+            "answer": "(A)",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Relative_Reflectance_134",
+            "answer": "(C)",
+            "full_prediction": "The surface color is not sufficient to determine the answer. A mirror's reflection can appear to be different colors depending on the angle of view.",
+            "prediction": "(Z)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Relative_Reflectance_1",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_2",
+            "answer": "hidden",
+            "full_prediction": "The image is of a living room with a fire place in it. The surface color is darker at point A, which is likely the floor of the living room.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_3",
+            "answer": "hidden",
+            "full_prediction": "Darker and lighter colors can vary across different parts of the same object, as shown in the example. Because of this, it is not simple to determine the darker or lighter color just by looking at one point.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_4",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_5",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_6",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_7",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_8",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_9",
+            "answer": "hidden",
+            "full_prediction": "Describe the color in your own words, if possible. For example, \"The color is dark blue.\".",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_10",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_11",
+            "answer": "hidden",
+            "full_prediction": "(A) B B's surface color is darker than that of A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_12",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker. BECAUSE: A visual attribute of an object is the color it appears to have, or in this case, the shading. Shading is the effect that makes a surface appear darker in some places and lighter in others.\nThe shade of a color is one type of visual attribute. The shade color can be used to compare two objects that otherwise have the same color.\nFor example, consider two objects. They are both green, but one object is green (2 points) with a lot of yellow in it. This object has more yellow color than the other object, which is green with some red. Because the object with more yellow has a darker shade of green.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_13",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_14",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_15",
+            "answer": "hidden",
+            "full_prediction": "The material of the counter is black granite, so although the points are on the same surface, the darker shade is clearly visible.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_16",
+            "answer": "hidden",
+            "full_prediction": "Questions: What are the two people doing together in the bathroom? They are looking at themselves in the mirror while one of them is taking a picture of the other.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_17",
+            "answer": "hidden",
+            "full_prediction": "Question: The surface color is the color the surface would be if there were no shadows or reflections.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_18",
+            "answer": "hidden",
+            "full_prediction": "In the image collection, there are several wooden rooms with varying shades of brown. Because of this, it is difficult to determine the exact shade of brown at each point without a reference object. Therefore, I choose to label these points as having different colors.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_19",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) Is darker. BECAUSE: A light source in the image of a object can be determined. The angle at which the light falls can be inferred, but the intensity of the light coming from the source can not be determined from the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_20",
+            "answer": "hidden",
+            "full_prediction": "The image is of a kitchen countertop. The surface color is darker at point B, which is more towards the center of the countertop, than point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_21",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_22",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_23",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_24",
+            "answer": "hidden",
+            "full_prediction": "Tight space with brick walls and windows. The color is dark red, and the floor is white.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "test_Relative_Reflectance_25",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_26",
+            "answer": "hidden",
+            "full_prediction": "(A) B B's surface color is darker than that of A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_27",
+            "answer": "hidden",
+            "full_prediction": "The overall surface color is brown, but the specific color at point B is not shown.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_28",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_29",
+            "answer": "hidden",
+            "full_prediction": "Question: What is the material of the couch and the loveseat? Are they genuine leather or synthetic leather? Answer: The couch is made of brown fabric, but the color is not discernible from the image. The loveseats are made of genuine leather.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_30",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) An is darker. BECAUSE: A point is a small area on a surface. The color of a point usually does not change based on where it is in a shape. An average color for a point is called the point color.\nThe color of each point in an image is measured. The point with the lowest average color is identified as the darkest point.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_31",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_32",
+            "answer": "hidden",
+            "full_prediction": "The color of point A is tan, but the color of its shading makes it appear white. Since the sun is shining on this surface, the light casts shadows, creating a darker appearance for some areas. The overall color remains tan but has the contrasting effect of being whiter due to the shadows.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_33",
+            "answer": "hidden",
+            "full_prediction": "What is the material of the dining table and chairs? The table is made of wood and the chairs are made of metal.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_34",
+            "answer": "hidden",
+            "full_prediction": "(A)A is darker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_35",
+            "answer": "hidden",
+            "full_prediction": "In the light of day, the surface-color of point B is darker than that of point A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_36",
+            "answer": "hidden",
+            "full_prediction": "(A) Is darker. BECAUSE: A series of points are being considered, and I may not answer the question by only looking at the last point. As a result, I may as well answer A, since the other options don't match the statement of the problem.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_37",
+            "answer": "hidden",
+            "full_prediction": "What is the orientation of the light fixture? It is mounted upside down, so the light is shining down from the ceiling.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_38",
+            "answer": "hidden",
+            "full_prediction": "A metal pan with a dark surface is on the shelf, and a hot dog is in a foil wrapper on the pan. The other parts of the image are also black, such as the handle, the oven, and the surrounding area.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_39",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_40",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_41",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_42",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_43",
+            "answer": "hidden",
+            "full_prediction": "In the light of day, with the curtains open, the bed appears to have a dark surface color.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_44",
+            "answer": "hidden",
+            "full_prediction": "The color of a surface is determined mainly by the composition of the material, such as the ratio of minerals to rocks, and the light reflecting off of it, like the angle of the sun or a flash. Because of this, surfaces can appear darker or lighter depending on the lighting. Because the same light is reflected off of both objects, the differences in the surfaces' colors cannot be dramatically different. Therefore, choice (A) is incorrect because A is lighter.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_45",
+            "answer": "hidden",
+            "full_prediction": "The image is of a living room with large open windows, a couch, floor and a table in it. The sunlight is entering the room through the windows, which causes the surfaces to appear darker when compared to the surrounding air. So, in this context, point B, which is the surface of the couch, is darker than the rest.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_46",
+            "answer": "hidden",
+            "full_prediction": "The color of point A is more similar to red, but not dark enough to be red. Therefore, it is not red. But it is darker than green, so not green. So, the color of Point A is not green or red.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_47",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_48",
+            "answer": "hidden",
+            "full_prediction": "Describe the tub and its surroundings. The tub is clear and contains water, with a brown lid on the side. There is a small shelf attached to the tub, holding a small bottle of soap. Additionally, there is a wooden rack with a towel hanging from it near the tub.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_49",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_50",
+            "answer": "hidden",
+            "full_prediction": "In the past, answer A was considered more accurate because it indicated that the surface was more reflective than dark-colored surfaces were uncommon. However, with the advance of technology and knowledge, it is often considered incorrect to assume that of all the answers, A is the only one not true. In fact, answer B is the most accurate description of the data displayed in the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_51",
+            "answer": "hidden",
+            "full_prediction": "Evaluating the rationale 'The color of point a is more red than the surrounding area, making it stand out from its surroundings.', the correct option appears to be: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_52",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_53",
+            "answer": "hidden",
+            "full_prediction": "Evaluate the brightness of each point with respect to the surrounding environment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_54",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) An is darker. BECAUSE: A surface color is the color of a planet, rock, or object on a space scene, including surfaces of craters. Albedo is the amount of light reflected by a surface.\nThe brightness of a space surface can be a function of its color and the angle of the light.\nHere are some examples of surface colors on Earth. Surfaces with different colors have different albedos.\nbrown grass: brown color with a high aldo.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_55",
+            "answer": "hidden",
+            "full_prediction": "The surface color is darker at point (B), with color characteristics similar to the overall color scheme of brown and white.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_56",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_57",
+            "answer": "hidden",
+            "full_prediction": "If you consider the shading only, then A is lighter. But in the image itself, there are non-shaded objects (like the toilet) and the wall is white, so overall, it's darker than the surrounding white wall, but not darker than A.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "test_Relative_Reflectance_58",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_59",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_60",
+            "answer": "hidden",
+            "full_prediction": "Evaluating the rationale 'A is darker because it is closer to the light source and reflects more light.', the correct option appears to be: (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_61",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker. BECAUSE: In the context of a space exploration, the term \"albedo\" refers to the reflection of sunlight off a surface. The alberdo of a surface is a measure of the amount of sunlight reflected compared to the amount absorbed.\nThe geometric mean of two numbers is the same as their average if and only if they are equal. If they are not equal, the geometric mean can be larger or smaller than their average.\nA geological feature is a place where geological processes have acted on the surface of the earth. Features can form in many ways, such as erosion, weathering, or deposition of material.\nThere are many types of features, including mountains, valleys, canyons, plateaus, and lakes.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_62",
+            "answer": "hidden",
+            "full_prediction": "In the light of day, their may be differences in the shade of color between the two points, but they are both described as white.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "test_Relative_Reflectance_63",
+            "answer": "hidden",
+            "full_prediction": "(A) B Is darker. BECAUSE: A three-dimensional representation of an object is a surface. The color of a surface is called its alberola. The alberolas of a point on a surface are called its surface colors.\nThe angle between two surfaces can be called their intersection angle. The intersection angle is use to determine how the surfaces touch each other.\nA surface has different color patterns on different parts of its surface. A surface color can be determined from the color of each part, but not all colors are possible. For example, the possible colors are primarily red, green, blue, yellow, white, and gray.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_64",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B)B is darker. BECAUSE: A visual attribute of a object is the color that it appears to have. Albedo describes the color of an object without considering how light interacts with it, like light shining through it.\nA surface can be more or less reflective depending on the material that makes up the surface and the light shining on it. For example, a grassy surface appears green because green light reflects from the grass. A black surface appears black because all light reflects off of it. A white surface looks white because the light reflects back without much change.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_65",
+            "answer": "hidden",
+            "full_prediction": "In the image collection, we have several pictures of the same location, with different people standing in the room at different times. In one of the images, a man is standing near table lights with his hand on a vase. Another part of the room contains a dining table with chairs around it, and a potted plant is nearby. In another image, a woman is standing at the end of the hall, looking into the living room, which contains a couch and a coffee table. In this question, we are asking about the color and texture of surfaces in the image. For example, which surface (either a table or the floor) is darker in color? How can we determine which surface is darker? First, we need to identify which surfaces are likely tables and the floor. Then, we can compare the colors of the surfaces to see which one has a darker color.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_66",
+            "answer": "hidden",
+            "full_prediction": "(A) B B has the same color as the surface.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_67",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_68",
+            "answer": "hidden",
+            "full_prediction": "In the light of day, many surfaces have a reddish, brownish hue. However, the overall color of surfaces can be varied due to factors such as mineral composition, so it is not possible to definitively determine the color from the image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_69",
+            "answer": "hidden",
+            "full_prediction": "Evaluate the brightness of each point with respect to the surrounding environment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_70",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_71",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_72",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_73",
+            "answer": "hidden",
+            "full_prediction": "In the light of day, the surfaces have similar coloration.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "test_Relative_Reflectance_74",
+            "answer": "hidden",
+            "full_prediction": "The color of point A is similar to that of B.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "test_Relative_Reflectance_75",
+            "answer": "hidden",
+            "full_prediction": "Evaluating the result for the next question with the same criteria. Considering the color of both points, which point has a darker color? Annotate the points if necessary.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_76",
+            "answer": "hidden",
+            "full_prediction": "A wooden table is in the corner of a room. The table is large enough to hold a television set on top. A clock is placed on top of the table. What shape is the room? The room is square.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_77",
+            "answer": "hidden",
+            "full_prediction": "(A) Is darker. BECAUSE: An object has different colors in different lighting conditions. While an object is in the sun, it reflects light off of its surface. The colors of the object will be different from how they appear in the dark, when there is no light reflection.\nThe surface color is the color that a surface would be without any changes caused by light. In other words, it does not take into account any effects, such as shadows or reflections.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_78",
+            "answer": "hidden",
+            "full_prediction": "Description: The surface color is the color of something without being affected by shading.\nA is a corner of a room, and it is darker than B, which is a shower stall. The surfaces are similar in coloration and type of material, so the difference in darkening shade is due to the angle of the viewer and light hitting the surface.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_79",
+            "answer": "hidden",
+            "full_prediction": "Questions: What color is the wall behind the door? The wall is yellow, as seen in the image. The door is also yellow, which is mentioned in the caption. So, the answer is that the wall and the door have the same color.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "test_Relative_Reflectance_80",
+            "answer": "hidden",
+            "full_prediction": "In the light of day, both points have the same color, suggesting they are both made of the same material.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "test_Relative_Reflectance_81",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_82",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_83",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_84",
+            "answer": "hidden",
+            "full_prediction": "What are the dimensions of the cooking area? The cooking area dimensions are 36 inches wide by 36 inches long.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_85",
+            "answer": "hidden",
+            "full_prediction": "In the mind's eye, picture a tiled bathroom floor with black tiles and white tiles. The black tiles are significantly darker than the white tiles, so much so that they could be considered blackish.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_86",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_87",
+            "answer": "hidden",
+            "full_prediction": "The color of point A is red, the color of points B and C is green.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_88",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_89",
+            "answer": "hidden",
+            "full_prediction": "(A) Is darker. BECAUSE: A visual attribute of a surface is the color or type of material the surface is made from. Albedo refers to the reflectance of light off a surface.\nThe color of light reflected depends mainly on the color and type of the material, and also on the angle of the reflector.\nIf the light is reflected off the surface at a right angle, or 180 degrees, and if the colors are the same, then the angle can be inferred from the term \"right-angle mirror.\" A mirror is a reflector that reflects light at 180 degrees. So, a mirror's reflectivity at a particular angle is a measure of its color.\nAnswer: A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_90",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_91",
+            "answer": "hidden",
+            "full_prediction": "In the mind of the observer, the darker-colored surface is likely to be associated with the gray bedroom and the wall in the hotel room.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_92",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_93",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_94",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_95",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_96",
+            "answer": "hidden",
+            "full_prediction": "In the light of day, the surface under point A appears darker than the surface of point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_97",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B)B is darker. BECAUSE: A surface color is the color of a planet or moon, including any shadows or highlights on the surface.\nThe value of a surface color can be affected by several factors. These include:\nThe angle of incident light\nThe reflectivity or emissivity of the material making up the surface\nThe environmental conditions, including atmospheric conditions (such as the presence of clouds or haze) and the frequency of the illuminating light (known as color frequency)\nThe image quality\nThe lighting of the image\nIn the case of photographing a planet's surface, a dark area in an image can often be attributed to one or more of these factors, but not necessarily a combination of them.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_98",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_99",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) Is darker. BECAUSE: A surface color is the color that would be seen without the influence of other objects, such as shadows or reflections.\nThe angle and lighting of a scene can affect the appearance of a surface color.\nFor example, consider two objects: a tall dark tree and a tall white tree. When both trees are standing in the same forest with the same lighting, the viewer might see the dark tree as dark and the white tree as light or white. But, if the viewer looks at both trees at the same angle when the sun is out and bright, they would see both trees as white. This is because the colors of the trees are affected by the lighting, but the shadows and reflections are not.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_100",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_101",
+            "answer": "hidden",
+            "full_prediction": "Describe the rationale 'The light hits a surface at different angles, so some areas are darker than others. the middle area is closer to the light source, so it is lighter; the other two areas are farther from the light, so they are darker.', if any: A surface that is mostly dark indicates that there is a lot of direct sunlight or bright light reflecting off of it, and not as much indirect light contributing to the color. Conversely, if the surface is mostly light (but not white) in color, it would have been due to indirect sunlight or low-light conditions, and less direct sunlight contributing to its color.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "test_Relative_Reflectance_102",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_103",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_104",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_105",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_106",
+            "answer": "hidden",
+            "full_prediction": "Questions are about objects in the image. The answers are subjective, as they are based on the viewer's perception of the colors and the lighting of the objects. It is difficult to determine the color of a small specific area, especially when it comes to shadows and highlights. I may not answer your question correctly because it suggests the points are colored with black, when it might be more accurate to say the color is unspecified, as the image does not provide enough information for a specific color attribute.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_107",
+            "answer": "hidden",
+            "full_prediction": "(A) Is darker. BECAUSE: A point is a specific location in space where two or more dimensions meet or intersect. An object can have multiple points, and each point has its own position in space.\nThe color of a point can differ from its surroundings because of surface color. For example, if a building has red paint on the roof and another color on the walls, the roof would be more brightly colored than the walls around it.\nIf two points are on top of each other, they are not separated by any space or material. A object that has multiple points is also called a multi-point object. In 3D space, points are usually used to describe the edges or corners of an object.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_108",
+            "answer": "hidden",
+            "full_prediction": "(A) Is darker. BECAUSE: A surface color is the color that a surface would have if there were no shadows or reflections. Albedo is the term for the color of a surface, based on how it would appear without shadows.\nThe color shown in a view is often not the same as the surfaces color, because there are shadows and reflections that change the color they see.\nA point is dark when the light comes from the direction of the observer.The direction of points on a surface is determined by the angle at which the light arrives.\nIf a point is labeled as A or B, then the light is coming from the observer, which is at position 0 and direction 0, and the surface is not casting a shadow on itself.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_109",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_110",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_111",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_112",
+            "answer": "hidden",
+            "full_prediction": "Tasks: Evaluate the quality of the image based on the information provided.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_113",
+            "answer": "hidden",
+            "full_prediction": "If the object is not visible, the assessor will determine the result based on the provided data.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_114",
+            "answer": "hidden",
+            "full_prediction": "Questions are based on the visual content of the image. The methods used to answer the questions are subjective and often depend on personal preferences. It is recommended to view the image and consider the reasons behind the answers before making a decision.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_115",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_116",
+            "answer": "hidden",
+            "full_prediction": "In the light of day, their would be no difference in color between the walls, but the shadow could make the wall appear darker.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "test_Relative_Reflectance_117",
+            "answer": "hidden",
+            "full_prediction": "The color of A is mostly gray, while the color of B is mostly red.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_118",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_119",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_120",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_121",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_122",
+            "answer": "hidden",
+            "full_prediction": "Evaluate how smooth or rough the surface is at each point. Which surface is smoother, A or B? Rank the smoothness as follows: smooth, smooth-rough, rough.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_123",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) Is darker. BECAUSE: A surface color is the color of an object without being affected by shading.\nAn object can have different parts with different colors, and these different parts can be described by their surface colors.\nA point is characterized by its surface color and location. The color of a point is called its color.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_124",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_125",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_126",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_127",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) An is darker. BECAUSE: A series of buildings are in a row on a sidewalk. A large crane is on a building.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_128",
+            "answer": "hidden",
+            "full_prediction": "(C) Around the same.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_129",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_130",
+            "answer": "hidden",
+            "full_prediction": "The color of point A is similar to that of the background, so it has little contrast. Point B, despite its position and size, doesn't seem to be too different from the rest of the scene. Therefore, it also has similar color characteristics with other parts of the image.",
+            "prediction": "(C) About the same"
+        },
+        {
+            "idx": "test_Relative_Reflectance_131",
+            "answer": "hidden",
+            "full_prediction": "The image not only contains books but also a table and a chair. The table is on top of a tiled floor that seems to be made of bricks. The chair is next to the table, and the table is large enough to serve as a dining table. The floor appears to be covered with tiled bricks, but the table and the chair are made of wood.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_132",
+            "answer": "hidden",
+            "full_prediction": "In the light of day, the surface by point A has a darker color than the surfaces by point B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_133",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) Is darker. BECAUSE: A point is a small area of a surface. The color of a point is determined by the color of everything that makes up the point. The surface color is the overall color of all the stuff on the surface.\nThe angle of light can change the appearance of surface color. For example, light shining at a sharp angle from a surface can make smaller things appear darker. But this effect is not used, because the angle is 45 degrees. So, the colors are the same.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Relative_Reflectance_134",
+            "answer": "hidden",
+            "full_prediction": "(B)B is darker.",
+            "prediction": "(B)"
+        }
+    ]
+}

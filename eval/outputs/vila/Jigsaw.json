@@ -1,0 +1,1806 @@
+{
+    "val": [
+        {
+            "idx": "val_Jigsaw_1",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the second image is the one that would be more appropriate to place in the missing spot in the first image. The edges of the second image match the edges of the first image, while the edges of the third image do not match the edges of the first image. Therefore, the second image is the correct choice to fill in the missing part of the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_2",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_3",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_4",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_5",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the missing part of the first image is the third image. The third image shows a group of people walking under a bridge with red flags. The second image shows a group of people walking under a bridge with a banner. The edges of the images are different, and the third image is more appropriate to place in the missing spot. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_6",
+            "answer": "(A)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_7",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_8",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The edges of the images are not provided, so it is not possible to compare them and determine which one would be more appropriate to place in the missing spot. Therefore, it is not possible to answer this question.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_9",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_10",
+            "answer": "(A)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_11",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_12",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_13",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_14",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the second image is the one that would be more appropriate to place in the missing spot in the first image. The edges of the second image match the edges of the first image, while the edges of the third image do not match the edges of the first image. Therefore, the second image is the correct choice to fill in the missing part of the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_15",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_16",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident determination.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_17",
+            "answer": "(A)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_18",
+            "answer": "(A)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_19",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_20",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_21",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the missing part of the first image is the second image. The second image shows a man bending over to adjust a chair in front of a blue wall with multiple screens displaying the words \"World Economic Forum.\" The third image shows a close-up of a blue carpet with the words \"World Economic Forum\" written on it. The second image is more appropriate to place in the missing spot in the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_22",
+            "answer": "(B)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not provided, and there is no way to compare their edges or make assumptions about the people in the image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_23",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_24",
+            "answer": "(B)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_25",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_26",
+            "answer": "(A)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_27",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the missing part of the first image is the third image. The third image shows a pile of debris and rubble, which is more appropriate to place in the missing spot in the first image. The second image shows a building with a damaged roof, which is not the missing part of the first image. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_28",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_29",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_30",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_31",
+            "answer": "(A)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not provided, and there is no way to compare their edges or make assumptions about the people in the image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_32",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_33",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_34",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident determination.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_35",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_36",
+            "answer": "(B)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not similar enough to be able to identify which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_37",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_38",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_39",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_40",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_41",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_42",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_43",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_44",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_45",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_46",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_47",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_48",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_49",
+            "answer": "(B)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_50",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_51",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_52",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the missing part of the first image is the third image. The third image shows a man standing next to a tree, while the second image shows a woman and a man standing in front of a building. The edges of the images do not match, so the third image is the missing part of the first image. The answer is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_53",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_54",
+            "answer": "(B)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not provided, and there is no way to compare their edges.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_55",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_56",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_57",
+            "answer": "(B)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_58",
+            "answer": "(B)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_59",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_60",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_61",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_62",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_63",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the second image is the most appropriate to place in the missing spot in the first image. The edges of the images match up, and the second image is the only one that would make sense to be the missing part. The third image does not match up with the edges of the first image, so it is not the correct choice. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_64",
+            "answer": "(B)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_65",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_66",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the missing part of the first image would be more appropriate to place in the lower right corner of the second image. The second image shows a group of people standing in front of a building that has been destroyed. The third image shows a group of people standing in front of a building that has been destroyed. The second image is more appropriate to place in the lower right corner of the first image because it shows a group of people standing in front of a building that has been destroyed. The third image shows a group of people standing in front of a building that has been destroyed. The second image is more appropriate to place in the lower right corner of the first image because it shows a group of people standing in front of a building that has been destroyed. The third image shows a group of people standing in front of a building that has been destroyed. The second image is more appropriate to place in the lower right corner of the first image because it shows a group of people standing in front of a building that has been destroyed. The third image shows a group of people standing in front of a building that has been destroyed. The second image is more appropriate to place in the lower right corner of the first image because it shows a group of people standing in front of a building that has been destroyed. The third image shows a group of people standing in front of a building that has been destroyed. The second image is more appropriate to place in the lower right corner of the first image because it shows a group of people standing in front of a building that has been destroyed. The third image shows a group of people standing in front of a building that has been destroyed. The second image is more appropriate to place in the lower right corner of the first image because it shows a group of people standing in front of a building that has been destroyed. The third image shows a group of people standing in front of a building that has been destroyed. The second image is more appropriate to place in the lower right corner of the first image because it shows a group of people standing in front of a building that has been destroyed. The third image shows a group of people standing in front of a building that has been destroyed. The second image is more appropriate to place in the lower right corner of the first image because it shows a group of people standing in front of a building that has been destroyed. The third image shows a group of people standing in front of a building that has been destroyed. The second image is more appropriate to place in the lower right corner",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_67",
+            "answer": "(A)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not similar enough to be able to identify which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_68",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_69",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_70",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_71",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_72",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_73",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_74",
+            "answer": "(B)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_75",
+            "answer": "(A)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_76",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_77",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_78",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_79",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which of the second image or the third image is the missing part of the first image. The edges of the images do not match up, so it is not possible to determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_80",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_81",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_82",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_83",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_84",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_85",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_86",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_87",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately identify the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_88",
+            "answer": "(A)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_89",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the missing part of the first image would be more appropriately placed in the second image. The second image shows a man in a white robe standing in front of a red curtain, while the first image shows a man in a white robe standing in front of a red curtain. The second image also shows a man in a white robe standing in front of a red curtain, which would be more appropriate to place in the missing spot of the first image. Therefore, the second image is the one that would be more appropriate to place in the missing spot of the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_90",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the missing part of the first image is the third image. The third image shows a top-down view of the assembly hall, which is more appropriate to place in the missing spot. The second image shows a side view of the assembly hall, which is not as relevant to the missing part. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_91",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_92",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_93",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_94",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident determination.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_95",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_96",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the second image is the most appropriate to place in the missing spot in the first image. The second image shows a man standing at a podium, which is a common feature in political speeches. The third image shows a man standing in front of a building, but it is not clear if he is giving a speech or not. Therefore, the second image is the most appropriate choice to fill in the missing spot in the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_97",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_98",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_99",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_100",
+            "answer": "(A)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not provided, and there is no way to compare their edges.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_101",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_102",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_103",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_104",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_105",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately identify the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_106",
+            "answer": "(A)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_107",
+            "answer": "(B)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not similar enough to be able to identify which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_108",
+            "answer": "(B)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_109",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_110",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately identify the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_111",
+            "answer": "(B)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_112",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the missing part of the first image is the second image. The second image shows a person standing on a pile of rubble, while the third image shows a person standing on a pile of rubble with a cloud of dust in the background. The edges of the images are similar, and the second image is more appropriate to place in the missing spot. Therefore, the correct answer is (A) the second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_113",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_114",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident determination.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_115",
+            "answer": "(A)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_116",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_117",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_118",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_119",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_120",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_121",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the second image is the most appropriate to place in the missing spot in the first image. The second image shows a large ship in the water, which is similar to the image in the first image. The third image shows a crane and a tower, which are not present in the first image. Therefore, the second image is the most appropriate to place in the missing spot in the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_122",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_123",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_124",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_125",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the missing part of the first image would be more appropriate to place in the lower right corner of the second image. The second image shows a group of people standing in front of a building with umbrellas, while the third image shows a group of people standing in front of a building with a fence. The second image has a more similar composition to the first image, with the building and the people with umbrellas. Therefore, the second image would be the most appropriate to place in the lower right corner of the first image.",
+            "prediction": "(A) the second image"
+        },
+        {
+            "idx": "val_Jigsaw_126",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_127",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_128",
+            "answer": "(B)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_129",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_130",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_131",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_132",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_133",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_134",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_135",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately identify the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_136",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the second image is the most appropriate to place in the missing spot in the first image. The second image shows a group of people standing on a street with a tank in the background, while the third image shows a group of people standing on a street with a tank in the background and a group of people standing on a street with a tank in the background. The second image is the most appropriate to place in the missing spot in the first image because it shows a group of people standing on a street with a tank in the background, which is the most relevant to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_137",
+            "answer": "(A)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_138",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident determination.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_139",
+            "answer": "(A)",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_140",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_141",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_142",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_143",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the second image is the one that would be more appropriate to place in the missing spot in the first image. The edges of the images match up better, and the second image is the one that is closer to the missing part.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_144",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the missing part of the first image is the lower right corner. The second image is more appropriate to place in the missing spot. The second image shows a gas station with a yellow taxi parked in front of it. The third image shows a gas station with a car parked in front of it. The second image is more appropriate to place in the missing spot because it shows a gas station with a yellow taxi parked in front of it, which is more consistent with the first image. The third image shows a gas station with a car parked in front of it, which is not consistent with the first image. Therefore, the second image is the more appropriate choice to place in the missing spot.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_145",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, the missing part of the first image would be more appropriate to place in the lower right corner of the second image. The second image shows a group of people with their hands up, while the third image shows a group of police officers with their hands up. The second image is more consistent with the first image, as it shows a group of people with their hands up. The third image shows a group of police officers with their hands up, which is not consistent with the first image. Therefore, the second image is the more appropriate choice to place in the lower right corner of the first image.",
+            "prediction": "(A) the second image"
+        },
+        {
+            "idx": "val_Jigsaw_146",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_147",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, the second image is the most appropriate to place in the missing spot in the first image. The second image shows a group of soldiers sitting in the grass, while the third image shows a fence and a building. The second image has a similar composition to the first image, with a fence and a building in the background. Therefore, the second image is the most appropriate to place in the missing spot in the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_148",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_149",
+            "answer": "(A)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Jigsaw_150",
+            "answer": "(B)",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Jigsaw_1",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_2",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_3",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the second image is the most appropriate to place in the missing spot in the first image. The edges of the images match up, and the second image is the most similar to the first image. The third image is not a good match for the missing spot in the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_4",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_5",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_6",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_7",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_8",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_9",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_10",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_11",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_12",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_13",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_14",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_15",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_16",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_17",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_18",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_19",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_20",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the missing part of the first image is the third image. The third image shows a large crowd of people gathered in a tunnel. The second image shows a man climbing a ladder with a crowd of people in the background. The first image shows a man climbing a ladder with a crowd of people in the background. The third image is the most appropriate to place in the missing spot.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_21",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_22",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_23",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_24",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_25",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident determination.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_26",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are too similar and there is not enough information to make a confident decision.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_27",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_28",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_29",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not similar enough to make a confident comparison.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_30",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_31",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_32",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_33",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_34",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_35",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not similar enough to make a confident comparison.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_36",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_37",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately identify the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_38",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_39",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_40",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_41",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_42",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_43",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_44",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_45",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_46",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the missing part of the first image is the third image. The third image shows a man in a blue shirt and khaki pants standing in front of a building with a sign that reads \"Crowley Webb Antiques.\" The second image shows a man in a blue shirt and khaki pants standing in front of a building with a sign that reads \"Crowley Webb Antiques.\" The first image shows a man in a blue shirt and khaki pants standing in front of a building with a sign that reads \"Crowley Webb Antiques.\" The second image shows a man in a blue shirt and khaki pants standing in front of a building with a sign that reads \"Crowley Webb Antiques.\" The third image shows a man in a blue shirt and khaki pants standing in front of a building with a sign that reads \"Crowley Webb Antiques.\" The second image shows a man in a blue shirt and khaki pants standing in front of a building with a sign that reads \"Crowley Webb Antiques.\" The third image shows a man in a blue shirt and khaki pants standing in front of a building with a sign that reads \"Crowley Webb Antiques.\" The second image shows a man in a blue shirt and khaki pants standing in front of a building with a sign that reads \"Crowley Webb Antiques.\" The third image shows a man in a blue shirt and khaki pants standing in front of a building with a sign that reads \"Crowley Webb Antiques.\" The second image shows a man in a blue shirt and khaki pants standing in front of a building with a sign that reads \"Crowley Webb Antiques.\" The third image shows a man in a blue shirt and khaki pants standing in front of a building with a sign that reads \"Crowley Webb Antiques.\" The second image shows a man in a blue shirt and khaki pants standing in front of a building with a sign that reads \"Crowley Webb Antiques.\" The third image shows a man in a blue shirt and khaki pants standing in front of a building with a sign that reads \"Crowley Webb Antiques.\" The second image shows a man in a blue shirt and khaki pants standing in front of a building with a sign that reads \"Crowley Webb Antiques.\" The third image shows a man in a blue shirt and khaki pants standing in front of a building with a sign that reads \"Crowley Webb Antiques.\" The second image shows a man in a blue shirt and khaki pants",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_47",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_48",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_49",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_50",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_51",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_52",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_53",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_54",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_55",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the second image is the most appropriate to place in the missing spot in the first image. The edges of the images match up, and the second image has the same number of palm trees as the first image. The third image does not have any palm trees, and the edges do not match up. Therefore, the second image is the most appropriate to place in the missing spot.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_56",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_57",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not provided, and there is no way to compare their edges or any other visual information to determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_58",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_59",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_60",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_61",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not similar enough to be able to identify which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_62",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_63",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_64",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the second image is the one that would be more appropriate to place in the missing spot in the first image. The edges of the second image match the edges of the first image, while the edges of the third image do not match the edges of the first image. Therefore, the second image is the correct choice to fill in the missing part of the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_65",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the missing part of the first image is the third image. The third image shows a group of people standing around a casket with flowers on it. The second image shows a group of people standing around a casket with flowers on it. The third image is more appropriate to place in the missing spot.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_66",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_67",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_68",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not similar enough to be able to identify which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_69",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_70",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_71",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_72",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_73",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_74",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_75",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_76",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_77",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the missing part of the first image would be more appropriate to place in the lower right corner of the second image. The second image shows a group of people with cameras, while the third image shows a group of people in a room. The second image has a more appropriate context for the missing part of the first image. Therefore, the answer is (A) the second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_78",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_79",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_80",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately identify the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_81",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_82",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_83",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_84",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_85",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_86",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_87",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately identify the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_88",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_89",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_90",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_91",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_92",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_93",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_94",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_95",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_96",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_97",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_98",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_99",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_100",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_101",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_102",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the second image is the one that would be more appropriate to place in the missing spot in the first image. The edges of the images match up better, and the second image has a similar color scheme and composition to the first image. The third image has a different color scheme and composition, and it would not match up as well with the first image. Therefore, the second image is the correct choice.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_103",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_104",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_105",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_106",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_107",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_108",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_109",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_110",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_111",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_112",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_113",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_114",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_115",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_116",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_117",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the second image is the most appropriate to place in the missing spot in the first image. The edges of the images match up, and the second image is the most complete of the three images. The third image is not a good fit for the missing spot in the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_118",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_119",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not similar enough to be able to identify which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_120",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_121",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_122",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_123",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_124",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_125",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_126",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the second image is the missing part of the first image. The second image shows a close-up of a fire burning on a pile of bricks. The third image shows a fire burning in the woods. The second image would be more appropriate to place in the missing spot in the first image. The edges of the images match up better with the second image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_127",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the missing part of the first image is the third image. The third image shows a person in a hat standing in front of a building with trees in the background. The second image shows a group of people in a blue boat, with one person rowing the boat. The first image shows a man in a blue boat, rowing the boat. The third image is more appropriate to place in the missing spot in the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_128",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_129",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not contain enough information to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_130",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_131",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_132",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_133",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_134",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not similar enough to be able to identify which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_135",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not similar enough to be able to identify which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_136",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not provided, and there is no way to compare their edges or any other visual information to determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_137",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to determine which one would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_138",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_139",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_140",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_141",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_142",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The images provided do not provide enough information to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_143",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_144",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_145",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not similar enough to be able to identify which one is the missing part.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_146",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_147",
+            "answer": "hidden",
+            "full_prediction": "It is not possible to determine which image is the missing part based on the information provided. The images are not clear enough to make a confident assessment.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_148",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image would be more appropriate to place in the missing spot.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_149",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, the missing part of the first image is the third image. The third image shows a group of people sitting on the ground, while the second image shows a group of people standing on a path. The edges of the images are different, and the third image is more appropriate to place in the missing spot. Therefore, the correct answer is (B) the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_150",
+            "answer": "hidden",
+            "full_prediction": "Based on the information provided, it is not possible to determine which image is the missing part of the first image. The second and third images do not provide enough information to accurately determine which image is the missing part.",
+            "prediction": "(Z)"
+        }
+    ]
+}

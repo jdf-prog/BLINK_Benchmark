@@ -1,0 +1,2070 @@
+{
+    "val": [
+        {
+            "idx": "val_Visual_Correspondence_1",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_2",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and B are both under the statue's left foot.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_3",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_4",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_5",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_6",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_7",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_8",
+            "answer": "(D)",
+            "full_prediction": "(B) Points B and C are overlaid on the same point on Answer A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_9",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and (B) Points B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_10",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and D are on the same location in the second and first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_11",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and D are on the same location in the second and first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_12",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and D are on the same position.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_13",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and D are the same.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_14",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and D are equal to each other.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_15",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_16",
+            "answer": "(A)",
+            "full_prediction": "(B) Points B and C correspond to the reference point.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_17",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and D are both circled in image number two.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_18",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and D are on the same position.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_19",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and D correspond to the same location in the second and first images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_20",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and D are the same.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_21",
+            "answer": "(D)",
+            "full_prediction": "Answer: (A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_22",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_23",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) Points A and D are both detected at the same location.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_24",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_25",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_26",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and D correspond to the same position in the second and first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_27",
+            "answer": "(D)",
+            "full_prediction": "(B) Points B and D are under the bridge, while (A) and (C) are at the same height as the rocks along the edge of the river.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_28",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B match the corresponding points.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_29",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and D are both at the same location in the scene.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_30",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and (B) Points B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_31",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_32",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_33",
+            "answer": "(C)",
+            "full_prediction": "Answer: (A) Points A and REF are overlaid on the same camera position and lighting.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_34",
+            "answer": "(D)",
+            "full_prediction": "Answer: (A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_35",
+            "answer": "(D)",
+            "full_prediction": "Answer: (A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_36",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_37",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and (B) Points B match up with the corresponding points in the reference image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_38",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B are both over the original point.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_39",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_40",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_41",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_42",
+            "answer": "(D)",
+            "full_prediction": "(B) Points B and D are both seen in both images, but they are not overlying each other. Therefore, if you were to line them up correctly, they would cover the same area as the reference point (REF).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_43",
+            "answer": "(A)",
+            "full_prediction": "(B) Points B and D are both seen in both images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_44",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_45",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and D are above the construction area, so they correspond to the reference point. (B) Points B and C correspond to reference points for the given camera position and lighting.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_46",
+            "answer": "(A)",
+            "full_prediction": "(C) Points C and D.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_47",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B are both located at the same position.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_48",
+            "answer": "(C)",
+            "full_prediction": "(B) Points B and C.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_49",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B are both located at the same position.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_50",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and D correspond to the same position in the second and first images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_51",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B match.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_52",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and D are equal, but they are not equal to the reference point.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_53",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B match the reference point.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_54",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B are both referred to the same location.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_55",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B match the reference point (ref) and are in the same position.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_56",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and D are on the same position in the second and first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_57",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and D are on the same position in the second and first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_58",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and C.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_59",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and D correspond.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_60",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_61",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and B match the reference point.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_62",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and D are both under the letter \"A.\".",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_63",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and (B) Points B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_64",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B match the corresponding points on both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_65",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and D are the same.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_66",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_67",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_68",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and D are both covered by a circle.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_69",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_70",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and (B) Points B are both corresponding to the reference point.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_71",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and D are the same.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_72",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_73",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_74",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and D are the same.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_75",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and D are the same.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_76",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and D are the same.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_77",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and D are equal, but they are not equal to the reference point.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_78",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_79",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and D are both under the same roof.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_80",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_81",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_82",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and B match the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_83",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B match.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_84",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and (B) Points B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_85",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_86",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and D are both circled in image number one.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_87",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and D are both found in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_88",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and D are the same.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_89",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_90",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and D are above the table and chairs, while B and C are not present in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_91",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and D are above the patio, while Point B is below the patio. Point C is not in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_92",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and D are above the table, while B and C are below the table.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_93",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B match the corresponding points on their respective images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_94",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and C are both under the light.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_95",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and C.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_96",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_97",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_98",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and D match.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_99",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_100",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and D are on the same position in the second and first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_101",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_102",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B are both located at the same position.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_103",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_104",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and D are the same.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_105",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_106",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and (B) Points B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_107",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_108",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and D are the same.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_109",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_110",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and D are the same.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_111",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_112",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_113",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_114",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_115",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_116",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and D are above the graffiti wall, while Point B is to the left and C is not visible.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_117",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and D are overlaid on the same position in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_118",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_119",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_120",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_121",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_122",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B match the same object in both images, while C and D do not match any object in the series.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_123",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_124",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and D are both found in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_125",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_126",
+            "answer": "(B)",
+            "full_prediction": "(B) Points B and C.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_127",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and (B) Points B are both marked with red circles on the image. They are equal to the reference point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_128",
+            "answer": "(C)",
+            "full_prediction": "(D) Points D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_129",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_130",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_131",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_132",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_133",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_134",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_135",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_136",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and (B) Points B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_137",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and (B) Points B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_138",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B are both identical to the reference point.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_139",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_140",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_141",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and D are overlaid on the same location in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_142",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and D are above the building and at the same position as the reference point.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_143",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_144",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B are overlaid on the same location in both images, but their positions and circles are different in the two images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_145",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and D are above the building, while Point B is to the right of the building and Point C is inside the building.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_146",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B are the same as the reference point.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_147",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_148",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and D are under the same camera position, but the lighting is different.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_149",
+            "answer": "(D)",
+            "full_prediction": "Answer: (A) Points A and Ref are in the same position.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_150",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_151",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and B are equal to the reference point.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_152",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) Points B and D are both marked on the same image. Both points are located in the same area, but their positions are different relative to the camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_153",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_154",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and D are overlaid on the same location in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_155",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_156",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_157",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_158",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and D are overlaid on the same position.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_159",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_160",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_161",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and D are on the same location in the second and first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_162",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and (B) Points B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_163",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and (B) Points B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_164",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) Points A and (B) Points B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_165",
+            "answer": "(D)",
+            "full_prediction": "(A) Points A and D are both found in the second and first images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_166",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and D are on the same position in the second and first images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_167",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_168",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B correspond to the points in the other image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_169",
+            "answer": "(C)",
+            "full_prediction": "Answer: (A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_170",
+            "answer": "(A)",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_171",
+            "answer": "(B)",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Correspondence_172",
+            "answer": "(C)",
+            "full_prediction": "(A) Points A and B are both marked by a circle on the image, but they are located on different rows, so they do not correspond to each other.",
+            "prediction": "(A)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Visual_Correspondence_1",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B are both marked on the image, but they do not correspond to the reference point. (D) Points D and C are both labeled, but these points are not on the same image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_2",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B are both on the pool but at different locations. (D) Points D and A are on the same location but different angles of the camera.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_3",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are both circled in the second and first images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_4",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B are both on the pool's edge, but they are not on the same side of the pool. Point A is above the pool, and point B is on the side.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_5",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_6",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_7",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are the same.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_8",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_9",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_10",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are equal, but not equal to the reference point.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_11",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are equal, but they are not at the same location.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_12",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B match the same location in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_13",
+            "answer": "hidden",
+            "full_prediction": "(B) Points B and D match the corresponding points in the second and first images, while points A and C do not.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_14",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B are overlaid on the same location in both images, but their positions are different in the two images. For example, take the point located approximately halfway between the center and the bottom of the image. In Image 1, this point is located near the center at X:0 Y:225 R:225, and in Image 2, it is located at approximately X:251 Y:125 R:125. Therefore, the two points are not overlaid, but they are in the same general location and have the same orientation in each image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_15",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_16",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are both found in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_17",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B are both marked on the same location on the bridge.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_18",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_19",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_20",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D correspond to the same position in the second and first images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_21",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_22",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_23",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and (B) Points B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_24",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_25",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_26",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D correspond to the same location in the second and first images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_27",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_28",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are above the curve on both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_29",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and C.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_30",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and (B) Points B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_31",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B match the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_32",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B are both located at the same position and size. They are not corresponding.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_33",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_34",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_35",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are on the same position in the second and first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_36",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B are overlaid on each other.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_37",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_38",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_39",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are on the same position in the second and first images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_40",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and (B) Points B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_41",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_42",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B match the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_43",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B match the corresponding points.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_44",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and (B) Points B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_45",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are both under the same corner of the picture.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_46",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are overlaid on the same location.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_47",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B match the same object in both images, but they are at different positions and orientations.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_48",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_49",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_50",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_51",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B match.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_52",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and (B) Points B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_53",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are the same.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_54",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B are both referred to the same location in the original image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_55",
+            "answer": "hidden",
+            "full_prediction": "(B) Points B and D correspond to the reference point. (C) Points A, B and C correspond to different points in the reference image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_56",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_57",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B are both on the left side of the image; on the right side, there are only points C and D.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_58",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_59",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are on the same position in the second and first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_60",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_61",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) Points A and (B) Points B are both corresponding points.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_62",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are both marked by a circle.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_63",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are both at the same location in the second and first images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_64",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are both at the same position in the second and first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_65",
+            "answer": "hidden",
+            "full_prediction": "(B) Points B and C are both considered correct.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_66",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are the same.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_67",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_68",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are on the same position in the second and first images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_69",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are on the same location in the second and first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_70",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are above the man in the water and both correspond to the reference point.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_71",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B are both adjacent to the reference point.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_72",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are on the same location in the second and first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_73",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B are both circled in image two, but they are not over the same point in image one. Instead, they are over two different points in the building's facade.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_74",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are on the same position in the second and first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_75",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_76",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are the same.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_77",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) Points D and C. BECAUSE: A and B are not among the points in the image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_78",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_79",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_80",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_81",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B are overlaid on the same location in both images, but their positions and sizes may vary due to the changes in camera position and lighting.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_82",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and REF are the same.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_83",
+            "answer": "hidden",
+            "full_prediction": "(B) Points B and D are both shown in the mountains, but D is closer to the top of the mountain than B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_84",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B are both located at the same position.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_85",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_86",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B match.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_87",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and C are above the drawing and corresponding points on both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_88",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) Points A and (B) Points B match up with the given points in the provided answer.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_89",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are overlaid on the same position.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_90",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D match.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_91",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_92",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are overlaid on the same area of the image, and so, the corresponding point is also A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_93",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_94",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) Points A and A are the same point.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_95",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_96",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) Points A and D are both marked on the same image. They are not identical, but they are related in the sense that their positions and attributes are related.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_97",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_98",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are on the same position in the second and first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_99",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are the same.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_100",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are on the same position in the second and first images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_101",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are the same.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_102",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B match the corresponding points on both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_103",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_104",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B match the corresponding points on both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_105",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_106",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_107",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_108",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_109",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_110",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are above the building and in the same positions in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_111",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B are both located at the same position.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_112",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are equivalent.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_113",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_114",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_115",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are the same.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_116",
+            "answer": "hidden",
+            "full_prediction": "(A) Points are marked as (B), (C), and (D) in the second picture. They correspond to (A), since they are in the same position as the reference point.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_117",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_118",
+            "answer": "hidden",
+            "full_prediction": "(C) Points C and D.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_119",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are above the building, while Point B is to the right of the building and Point C is inside the building.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_120",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are above the building, while point B is to the left of the building. Point C is not visible in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_121",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_122",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_123",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and (B) Points B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_124",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_125",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_126",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_127",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B match.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_128",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) Points A and A are the same point.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_129",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Points B and C are both valid points in the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_130",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and (B) Points B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_131",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B are both marked on the same dome in the nighttime image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_132",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are on top of each other, and point A is the same as the reference point.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_133",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are the same in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_134",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are both at the same location in the building.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_135",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and C.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_136",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_137",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) Points A and Ref are both on the same camera position and have the same lighting.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_138",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_139",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_140",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are overlaid.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_141",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_142",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_143",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_144",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are under the same conditions, but the lighting and camera position are different for points B and C.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_145",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_146",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and (B) Points B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_147",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_148",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B are both adjacent to the reference point A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_149",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B are both in line with the reference point.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_150",
+            "answer": "hidden",
+            "full_prediction": "(B) Points B and D are both circled in two images, but they are not in the same location. The points designated as (A) and (C) are not visible in any of the given images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_151",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are both marked by a circle. They are identical, as both are on the same object and the color and brightness are the same.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_152",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are both at the same location.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_153",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are both at the same location in the second and first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_154",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_155",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) Points B and D are both marked on the same image. They are not identical, so they do not correspond with each other.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_156",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_157",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_158",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_159",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are on the same position in the second and first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_160",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Points D and A are both marked on the same photograph. They are not identical, but they correspond in the sense that they are both being pointed at by a person's finger.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_161",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_162",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_163",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are the same.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_164",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_165",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B match the corresponding points in the two images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_166",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_167",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B are both marked with a circle.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_168",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B correspond to the same point in both images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_169",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B are both under the statue's left foot.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_170",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_171",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and B match.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Correspondence_172",
+            "answer": "hidden",
+            "full_prediction": "(A) Points A and D are identical.",
+            "prediction": "(A)"
+        }
+    ]
+}

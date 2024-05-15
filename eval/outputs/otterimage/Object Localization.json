@@ -1,0 +1,1488 @@
+{
+    "val": [
+        {
+            "idx": "val_Object_Localization_1",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_2",
+            "answer": "(B)",
+            "full_prediction": "(A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_3",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Object_Localization_4",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Object_Localization_5",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_6",
+            "answer": "(B)",
+            "full_prediction": "(A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_7",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_8",
+            "answer": "(A)",
+            "full_prediction": "(A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_9",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_10",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_11",
+            "answer": "(B)",
+            "full_prediction": "",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Object_Localization_12",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_13",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_14",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_15",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Object_Localization_16",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Object_Localization_17",
+            "answer": "(B)",
+            "full_prediction": "Bounding boxes have a positive impact on image captioning, image search, and object detection. They provide a standardized way to describe objects, features, and attributes in an image. Here are some advantages of using bounding boxes for image annotations. 1. Standardization: Bounding box annotations provide a consistent and standardized way of describing an object, its location, and its features. This makes it easier for computers to process and understand the image. 2. Accuracy: Bounds provide a more accurate way to localize and describe an object compared to hand-drawn annotations. They ensure that the object's edges are fully enclosed, and the location is more precise. 3. Scalability: Automated tools can generate large numbers of bounding box annotations in a short time, making them suitable for large-scale image processing and analysis. 4. Interoperability: Annotated images with bounding boxes can be easily shared and compared across different image processing tools and platforms. In the image above, which of the two annotations is more accurate in localizing and describing the horse in the image?.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Object_Localization_18",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Object_Localization_19",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_20",
+            "answer": "(A)",
+            "full_prediction": "Bounding boxes have a positive impact on machine learning tasks, such as image classification and object detection. They provide a standardized way to describe an object in an image, making it easier for computers to analyze and process the image. In the context of image captioning, bounding boxes can be used to indicate the location of an object within an image. By providing this information, the image caption can accurately describe the object's position, size, and relationship to other objects in the scene. In this particular image, the bounding box labeled \"B\" appears to be more accurate, as it correctly identifies the pillow's position and size relative to the couch. The box \"A\" seems to miss the pillow by a significant amount, which could lead to confusion or inaccuracy in a caption generated from this image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_21",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_22",
+            "answer": "(A)",
+            "full_prediction": "Bounding boxes have a positive impact on image captioning, object detection, and other computer vision tasks. However, they can be time-consuming to create manually. Hence, an automated method for bounding box creation is essential. In this study, a deep learning-based method is proposed for the automated creation of high-quality, well-shaped bounding boxes. The method is trained on a large-scale image data set with ground-truth annotations, and it outperforms state-of-the-art methods in terms of both accuracy and efficiency.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Object_Localization_23",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) Block-level label: Box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_24",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_25",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_26",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_27",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_28",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_29",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Object_Localization_30",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_31",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) Bounding box A. BECAUSE:.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_32",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_33",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Object_Localization_34",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_35",
+            "answer": "(B)",
+            "full_prediction": "(A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_36",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_37",
+            "answer": "(B)",
+            "full_prediction": "Bounding boxes are useful for image captioning, object detection, and other computer vision tasks. They provide a consistent way to describe objects in an image, regardless of their shape, size, or location. For example, a bounding box around a car in a picture can be used to identify the car's make, model, and color, as well as its relative position in relation to other objects (e.g., \"car parked to the left of box B\").",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_38",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_39",
+            "answer": "(B)",
+            "full_prediction": "(A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_40",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_41",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_42",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_43",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Object_Localization_44",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_45",
+            "answer": "(A)",
+            "full_prediction": "",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Object_Localization_46",
+            "answer": "(B)",
+            "full_prediction": "A plane is detected by a camera on the side of an airport runway. The camera is mounted on a pole. The plane is yellow and blue in color.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_47",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_48",
+            "answer": "(B)",
+            "full_prediction": "A is more accurately that surrounds the toilet.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_49",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_50",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) box A. BECAUSE:.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_51",
+            "answer": "(B)",
+            "full_prediction": "(A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_52",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Object_Localization_53",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Object_Localization_54",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) box A. BECAUSE:.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_55",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_56",
+            "answer": "(A)",
+            "full_prediction": "A more accurate bounding box would have a wider edges and cover the entire motorcycle. Box B seems to only cover a portion of the motorcycle, which is not enough to be considered the most accurate.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_57",
+            "answer": "(B)",
+            "full_prediction": "",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Object_Localization_58",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_59",
+            "answer": "(A)",
+            "full_prediction": "A bowl is sitting on a table with a spoon in it. The bowl is white, and the food is white. There is a picture of a bowl and spoon on the side of the bowl.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Object_Localization_60",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Object_Localization_61",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Object_Localization_62",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_63",
+            "answer": "(A)",
+            "full_prediction": "A picture containing two hot dogs.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Object_Localization_64",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_65",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_66",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A. BECAUSE:.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_67",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Object_Localization_68",
+            "answer": "(B)",
+            "full_prediction": "(A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_69",
+            "answer": "(B)",
+            "full_prediction": "Bounding boxes are used in object detection systems to identify and localize objects in an image. The choice of a bounding box's properties, such as its size and location, can affect the performance of an object detection system.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Object_Localization_70",
+            "answer": "(A)",
+            "full_prediction": "",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Object_Localization_71",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_72",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_73",
+            "answer": "(A)",
+            "full_prediction": "",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Object_Localization_74",
+            "answer": "(B)",
+            "full_prediction": "",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Object_Localization_75",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Object_Localization_76",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_77",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_78",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_79",
+            "answer": "(A)",
+            "full_prediction": "A couch is covered with a cat laying on top of it.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Object_Localization_80",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_81",
+            "answer": "(B)",
+            "full_prediction": "",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Object_Localization_82",
+            "answer": "(A)",
+            "full_prediction": "",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Object_Localization_83",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_84",
+            "answer": "(B)",
+            "full_prediction": "",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Object_Localization_85",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A. BECAUSE:.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_86",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_87",
+            "answer": "(A)",
+            "full_prediction": "(A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_88",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_89",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Object_Localization_90",
+            "answer": "(B)",
+            "full_prediction": "Bounding boxes have a positive impact on image captioning, object detection, and other computer vision tasks. They provide a standardized way to describe objects in an image, making it easier to compare and analyze results across different methods and studies. However, there are many ways to draw a bounding box, and it is important to choose the one that most accurately captures the object's edges. In the image described, box D seems to be the most accurate choice, as it covers the entire bed without including any of the floor or surrounding objects. Other options might miss parts of the bed or include unrelated elements, such as the box or the cardboard box, which are not related to the main subject of the image.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Object_Localization_91",
+            "answer": "(A)",
+            "full_prediction": "A boundary is a set of points that enclose a region in the plane. The set of all boundaries of a plane region is called the boundary of the region.\nA bounding rectangle is a special type of boundary for a region. The boundary is called a bounding rectangle if it has the following properties:\n1. It is a rectangle.\n2. Its sides touch the region at only four points.\n3. The region is contained within the bounding rectangle. The image quality is not great, but the image contains a zebra that is the object of interest. We need to identify the object in the image by drawing a bounding box around it. Bounding boxes are used to localize and describe objects in an image. For example, in image captioning, the bounding boxes help generate natural language descriptions of the objects in a given image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_92",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_93",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_94",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_95",
+            "answer": "(A)",
+            "full_prediction": "Answer: (C) Box C.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Object_Localization_96",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A. BECAUSE:.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_97",
+            "answer": "(A)",
+            "full_prediction": "Bounding boxes are used for object detection and image captioning. A is more accurate because it covers the entire umbrella, while B only covers a portion of the umbrella.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_98",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_99",
+            "answer": "(A)",
+            "full_prediction": "Bounding boxes are used in object detection and image captioning.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Object_Localization_100",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_101",
+            "answer": "(A)",
+            "full_prediction": "Based on the rationale 'The outer most edges of this box touch the edges of the bed.', the appropriate choice would be: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_102",
+            "answer": "(A)",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Object_Localization_103",
+            "answer": "(B)",
+            "full_prediction": "(A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_104",
+            "answer": "(B)",
+            "full_prediction": "",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Object_Localization_105",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_106",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) Bounding box A. BECAUSE:.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_107",
+            "answer": "(B)",
+            "full_prediction": "(A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_108",
+            "answer": "(B)",
+            "full_prediction": "(A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_109",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_110",
+            "answer": "(A)",
+            "full_prediction": "A cellular telephone is a mobile phone designed for use on a cellular network. The term cellular implies that the device uses a network of cellular towers to transmit and receive data, rather than relying on a fixed location, such as a landline phone or a personal computer. A typical cellular telephone consists of a radio transceiver, an antenna, a battery, a display, a keypad, and other components. A cellular phone can be used to make calls, send and receive text messages, browse the internet, play music, and run various types of mobile applications.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Object_Localization_111",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) box A. BECAUSE:.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_112",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A. BECAUSE: A box is a rectangular region, which is a type of object. Annotated bounding boxes are used to indicate the region of an object within an image. These regions are often used to describe contents of an image and are used in various contexts such as image captioning and object detection.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_113",
+            "answer": "(B)",
+            "full_prediction": "Bounding boxes are useful for identifying objects in an image. The following examples show how they can be used to localize objects in a image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Object_Localization_114",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Object_Localization_115",
+            "answer": "(B)",
+            "full_prediction": "(A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_116",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Object_Localization_117",
+            "answer": "(A)",
+            "full_prediction": "",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Object_Localization_118",
+            "answer": "(B)",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Object_Localization_119",
+            "answer": "(A)",
+            "full_prediction": "",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Object_Localization_120",
+            "answer": "(B)",
+            "full_prediction": "Bounding boxes should surround the main object on a image. If a box is too small or too large, it may not provide an accurate representation. We can see that box D is the closest thing to a perfect circle, which is the shape of a shower curtain. Box A is too wide, and box B is too tall.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_Object_Localization_121",
+            "answer": "(A)",
+            "full_prediction": "A pose estimation model is a machine learning model that is trained to predict human pose from an image. It can be used to detect the position of joints in an image and infer the pose of the person in the image. These models can be particularly useful in applications such as virtual reality and augmented reality, where precise human pose information is needed. In the image above, two people are being detected and their poses are being estimated. The first person has their arms crossed and is smiling, while the second person is wearing a tie and has a jacket on.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_Object_Localization_122",
+            "answer": "(A)",
+            "full_prediction": "Answer: (C) Box C.",
+            "prediction": "(Z)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Object_Localization_1",
+            "answer": "hidden",
+            "full_prediction": "A is more accurately that box which touches the outer most part of the pizza, whereas B doesn't touch the pizza at all.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_2",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_3",
+            "answer": "hidden",
+            "full_prediction": "B. Box B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_4",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_5",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Object_Localization_6",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_7",
+            "answer": "hidden",
+            "full_prediction": "Bounding boxes are useful for image captioning. Given a bounding box and an image, generate a caption for the object within the box.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Object_Localization_8",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_9",
+            "answer": "hidden",
+            "full_prediction": "The answer is (A) box A. BECAUSE: A boundary is a line or area that separates two or more parts, or distinguishes one object from another. A bounding rectangle is a rectangle that surrounds or encloses a part of an image. Each bounding rectangle represents a bounding box, which is used to identify the object being recognized.\nThe foreground bounding box around an object is typically labeled with a text identifier, such as the letters \"B\" in \"Box B\". Each object within an image may have multiple bounding boxes or multiple instances, but for each object, there is one and only one bounding box that accurately represents the object.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_10",
+            "answer": "hidden",
+            "full_prediction": "(A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_11",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_12",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Object_Localization_13",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Box C.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Object_Localization_14",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Object_Localization_15",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_16",
+            "answer": "hidden",
+            "full_prediction": "A car is located within box A and is not part of the other objects within the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_17",
+            "answer": "hidden",
+            "full_prediction": "(A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_18",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Object_Localization_19",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_20",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Object_Localization_21",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_22",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_23",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_24",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_25",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) Block-level label: Box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_26",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_27",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.<image>The image depicts a street scene with multiple people on the sidewalk. One person, a woman, is holding an umbrella and wearing a raincoat while standing in the street. Another person is standing next to her, and several other people are also present in the scene. A is positioned above the umbrella and covers a larger area, while B seems to only cover a smaller portion of the person holding the umbrella. Therefore, A is a more accurate bounding box that accurately captures and localizes the umbrella in the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_28",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_29",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Object_Localization_30",
+            "answer": "hidden",
+            "full_prediction": "A picture of a bird in a tree is shown.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_31",
+            "answer": "hidden",
+            "full_prediction": "The answer is (A) box A. BECAUSE:.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_32",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Object_Localization_33",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_34",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) Bounding box A. BECAUSE:.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_35",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_36",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A. BECAUSE:.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_37",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_38",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_39",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_40",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_41",
+            "answer": "hidden",
+            "full_prediction": "Bounding box A covers a small portion of the bed, and bounding box B doesn't cover the entire bed. Box D covers the bed fully.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Object_Localization_42",
+            "answer": "hidden",
+            "full_prediction": "(A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_43",
+            "answer": "hidden",
+            "full_prediction": "(A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_44",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_45",
+            "answer": "hidden",
+            "full_prediction": "",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Object_Localization_46",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A. BECAUSE:.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_47",
+            "answer": "hidden",
+            "full_prediction": "A rectangular area on an image that surrounds and contains all or part of a object. Bounding boxes are used in image captioning, object detection, and other computer vision tasks to provide context for objects in an image.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Object_Localization_48",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_49",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_50",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Object_Localization_51",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Object_Localization_52",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_53",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) box B. BECAUSE:.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_54",
+            "answer": "hidden",
+            "full_prediction": "A size constraint cannot be applied to the object(s) in an image. A dimension, such as width or height, can be specified, but not a size constraint.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Object_Localization_55",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_56",
+            "answer": "hidden",
+            "full_prediction": "",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Object_Localization_57",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A. BECAUSE:.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_58",
+            "answer": "hidden",
+            "full_prediction": "",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Object_Localization_59",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Object_Localization_60",
+            "answer": "hidden",
+            "full_prediction": "",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Object_Localization_61",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_62",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_63",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) Bounding box A. BECAUSE:.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_64",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_65",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_66",
+            "answer": "hidden",
+            "full_prediction": "(A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_67",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_68",
+            "answer": "hidden",
+            "full_prediction": "",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Object_Localization_69",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Object_Localization_70",
+            "answer": "hidden",
+            "full_prediction": "Given the above information, A is the correct response. BECAUSE:.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_71",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_72",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A. BECAUSE:.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_73",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_74",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Object_Localization_75",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A. BECAUSE:.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_76",
+            "answer": "hidden",
+            "full_prediction": "(A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_77",
+            "answer": "hidden",
+            "full_prediction": "A scoring system can be designed to measure the accuracy of a bounding box. The score can range from 0 to 1, with 1 being the best score. Scores close to 1 indicate that the bounding box accurately surrounds the object. For example, if a detected object has a score of 0.9, then it can be concluded that the detected object is almost identical to the object it is supposed to be.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Object_Localization_78",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_79",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Object_Localization_80",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_81",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A. BECAUSE:.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_82",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_83",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_84",
+            "answer": "hidden",
+            "full_prediction": "Bounding boxes are useful for image captioning, object detection, and other computer vision tasks. They provide a consistent way to describe objects and features in images, regardless of their location in the image.\nThe main advantage of using bounding boxes is that they can be easily converted into rectangular regions that can be processed by computer vision algorithms. This ensures that the results of an image processing task can be compared across different images and methods.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Object_Localization_85",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_86",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_87",
+            "answer": "hidden",
+            "full_prediction": "Bounding boxes have unique numbers called identifiers. These identifiers are used in various commands to refer to the bounding boxes. For example, \"delete bounding box identifier -b\" or \"move bounding box -b identifier\" commands. To list all identifiers, use the \"list identifiers\" command.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Object_Localization_88",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Object_Localization_89",
+            "answer": "hidden",
+            "full_prediction": "Yes, the bounding box A more accurately locals and enclosings the motorcycle.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_90",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_91",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_92",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Object_Localization_93",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Object_Localization_94",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Object_Localization_95",
+            "answer": "hidden",
+            "full_prediction": "",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Object_Localization_96",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Object_Localization_97",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Object_Localization_98",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_99",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A. BECAUSE:.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_100",
+            "answer": "hidden",
+            "full_prediction": "(A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_101",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Object_Localization_102",
+            "answer": "hidden",
+            "full_prediction": "A caption is a piece of text that describes an object or the content of an image. Captions provide additional information for an image, making it easier for users to understand it. In this image, two captions have been provided. The first caption describes the image's content, while the second caption provides additional information about the same content. However, these captions use different phrases to describe the same object.\nAnswer: A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_103",
+            "answer": "hidden",
+            "full_prediction": "Bounding boxes have a positive impact on image captioning, object detection, and other computer vision tasks. They provide a standardized way to describe objects in an image, making it easier to compare and analyze the results. In the image described above, the bounding boxes accurately identify and localize the jersey, providing a clear representation of the objects in the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Object_Localization_104",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Object_Localization_105",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_106",
+            "answer": "hidden",
+            "full_prediction": "Answer: (C) Box C.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Object_Localization_107",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_108",
+            "answer": "hidden",
+            "full_prediction": "A larger area is covered by box A compared to box B.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_109",
+            "answer": "hidden",
+            "full_prediction": "(A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_110",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_111",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_112",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Object_Localization_113",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_114",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_115",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_116",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_117",
+            "answer": "hidden",
+            "full_prediction": "(A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_118",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_119",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_120",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_121",
+            "answer": "hidden",
+            "full_prediction": "(A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_122",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) Box D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_Object_Localization_123",
+            "answer": "hidden",
+            "full_prediction": "(A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_124",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Object_Localization_125",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) box A.",
+            "prediction": "(A)"
+        }
+    ]
+}

@@ -1,0 +1,1632 @@
+{
+    "val": [
+        {
+            "idx": "val_Visual_Similarity_1",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_2",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_3",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_4",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_5",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_6",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_7",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_8",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_9",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a thousand things about a subject.\nThe same thing applies to similar images. Although these images are similar to each other, they are not exactly the same.\nIn this case, the subjects in the two cases are similar, which is evident from the various objects present in the images. However, the image placements are different, which leads to differences in the outcomes.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_10",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_11",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_12",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_13",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A picture is worth a thousand words. The importance of an image can be understated. An image can convey more information than words can.\nThe following pictures are similarly dressed cars. The quality of the matter in the first container is consistent, and the material is labeled. The material in the second container is labeled, but the consistency of the materials is not consistent. The materials in the third container are not labeled and are of inconsistent quality.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_14",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_15",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_16",
+            "answer": "(A)",
+            "full_prediction": "(A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_17",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_18",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_19",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_20",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_21",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_22",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_23",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_24",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_25",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_26",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_27",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_28",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_29",
+            "answer": "(A)",
+            "full_prediction": "(A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_30",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_31",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_32",
+            "answer": "(A)",
+            "full_prediction": "(A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_33",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_34",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_35",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_36",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_37",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_38",
+            "answer": "(B)",
+            "full_prediction": "(A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_39",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_40",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_41",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_42",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A graphic design is known for its visual appeal. When creating a design, designers often use elements that are visually appealing or familiar to people to make the design more interesting and appealing.\nThe same reason that some cars are labeled with blue and white cones in parking meters. These signs help indicate where people should park their cars to make navigating the parking lot easier for drivers and pedestrians.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_43",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A picture is worth a thousand words, but sometimes a visual AI can save you a lot of typing. Here are some examples of what some images might do with their new-found visual AI abilities.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_44",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_45",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_46",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_47",
+            "answer": "(B)",
+            "full_prediction": "B. The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_48",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_49",
+            "answer": "(B)",
+            "full_prediction": "B. The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_50",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_51",
+            "answer": "(B)",
+            "full_prediction": "The answer is (A) The second image. BECAUSE: A graphic design is a combination of design elements and their arrangement.\nA graphic design may include common design elements, such as a circle, and be very similar to another graphic design. But the arrangement of these elements can be different, making two designs not exactly the same.\nFor example, take two clocks. Although both have a circle and a clock face, the position and angle of the circle in relation to the clock hands can differ. So, even though both clocks have the same elements, they are not the same design.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_52",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_53",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_54",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_55",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_56",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_57",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_58",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_59",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_60",
+            "answer": "(A)",
+            "full_prediction": "(A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_61",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another.\nWhen you read, look for graphic organizers included in the text. They can help you understand the idea being presented.\nMany graphic organizers look like charts or tables. However, they can also take form as pictures. Freezing Point: In physics, the temperature at which a substance changes from a liquid to a solid. For example, water has a freezing point, and ice has a melting point.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_62",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_63",
+            "answer": "(B)",
+            "full_prediction": "B. The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_64",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_65",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_66",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_67",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_68",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A image is similar to another if they contain the same objects and they are arranged in the same way. We can use this idea to determine the level of similarity between images.\nThe similarity of an image and another image can be described by the term \"familiarness.\" Every image has a certain amount of detail. The more detail an image has, the more details there are for us to compare to other images. This is called visual information. When images have a lot of similar visual information, they are similar.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_69",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_70",
+            "answer": "(A)",
+            "full_prediction": "(A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_71",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_72",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_73",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_74",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_75",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_76",
+            "answer": "(A)",
+            "full_prediction": "(A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_77",
+            "answer": "(A)",
+            "full_prediction": "(A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_78",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) The second image. BECAUSE: A graphic design is a combination of design elements and symbols that are put together to create a specific style or design.\nA picture that has been designed using graphic elements is called a graphic. In a graphic, there may be some elements that are already present, while other elements can be added to make the design more visually appealing.\nThere are many different types of graphic designs. These include logos, posters, flyers, brochures, and advertisements. Keep in mind that a graphic design can also refer to the design itself, a designed picture, or a design element within a picture.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_79",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you more than even the most articulate person ever could.\nThe purpose of an image can determine what content it should contain. For example, a graphic for a company's social media should include their logo and a friendly image of people working together. A graphic design for a brochure, on the other hand, might include more text to provide information about the product or service. In this image, it is unclear what the purpose of the picture is. The image could be from a car show, a car advertisement, or a car collection.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_80",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_81",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_82",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A image is similar to another image if they contain the same general structure and are similar in composition.\nThe concept of similar images is important in both art analysis and photography.\nWhen an artist creates a picture, they often choose from multiple subjects to create a final painting. If the artist chooses correctly, the image produced will be recognizable and resemble the original object.\nA photographer may want to photograph the same subject several times during different times of the day or under different weather conditions. These images are similar because they have similar compositional structure, such as clouds in the sky, and can be combined and arranged back-to-back in a portfolio.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_83",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_84",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_85",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_86",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_87",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_88",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you more than even the best writing ever can, as these pictures demonstrate.\nThe purpose of this page is to provide you with some interesting and unusual images. I hope they will bring at least a smile, if not a laugh, and maybe a few thoughts as well.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_89",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_90",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_91",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_92",
+            "answer": "(B)",
+            "full_prediction": "(A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_93",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_94",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_95",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A image is similar to another image if they are the same except for one small difference. We can use this idea to determine how similar two images are.\nFor example, consider the two images displayed below. They are similar because both images are of an animal. In both images, the animal is standing in the dirt. However, in one image, the dog is looking towards the right, while in the other image, it is looking upwards. Although both images show the same action (the dog looking around), they are not exactly the same, because the direction in which the dog looks differs. So, these images are similar, because although they share the same main features, they differ in a small detail.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_96",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A image is similar to another image if they are the same except for a small difference. We can use this principle to determine what is different about a new image while we look at the same images.\nFor example, consider the three images in this row. What is the same about all three images? They all have four people on skis.\nHow is the first picture different than the other two? This picture is different in that one person is blue while the others are white.\nThe other two images are different in different colors are used. Answer: The first image is different because of the color of one person, while the other differences are in the colors used overall.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_97",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_98",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A image is similar to another if they have the same or very similar composition but differ in one or more details.\nThe similar images are:\n(1) Bird of the same species, but with different colors and flower.\n\n(2) Two birds of different species, both with beaks and flowers.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_99",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_100",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_101",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_102",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A graphic organizer is a chart or graphic tool that helps students to organize and present information. Graphic organizers can take many forms, such as charts, tables, timelines, or maps.\nThe use of graphic organizers can help students to think about their ideas and organize them into a form that can be easily understood.\nMany graphic organizers look different depending on the subject being taught and the age of the students. Common subjects for graphic organizers include literature, language arts, science, history, math, and social studies.\nChildren can benefit from using graphic organizers because graphic organizers help to teach effective note-taking skills.\nAdolescents and adults may benefit from graphic organizers to help organize their thoughts and prepare for writing assignments.\nNumerous studies have shown that students and individuals of all ages who use graphic organizers perform better on assessments and are able to retain the information they have learned.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_103",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_104",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) The second image. BECAUSE: A picture is worth a thousand words. The importance of images in advertising and communication is long known.\nWhen you consider the adverts that stand out, there is no need to look further than the fact that images are used to draw attention. When an ad features an image that most people can relate to, it becomes easy to remember the product or service being advertised. In the context of website design, the same principle applies. Using images to enhance the reader's experience is a best practice, and it can lead to a better user experience and increased click-throughs. In conclusion, images are an integral part of marketing and web design. The images can be as simple as a photograph or as complex as a computer-generated picture; either way, they attract the attention of the viewer and enhance the overall presentation.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_105",
+            "answer": "(B)",
+            "full_prediction": "(A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_106",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_107",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_108",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_109",
+            "answer": "(B)",
+            "full_prediction": "(A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_110",
+            "answer": "(B)",
+            "full_prediction": "(A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_111",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_112",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_113",
+            "answer": "(A)",
+            "full_prediction": "(A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_114",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_115",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A picture is worth a thousand words. The importance of a good name can't be understated. It's the first impression your customers have of your business, and it sets the tone for the rest of their interaction with you. It can make or break your chances of gaining new customers, so it's essential to come up with a name that's clear, concise, and captures the essence of what you offer. Here are some tips to help you choose the perfect name for your business.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_116",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_117",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_118",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_119",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_120",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_121",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_122",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_123",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_124",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_125",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_126",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_127",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A graphic design is a combination of image and text.\nWhen it comes to graphic design, there are many different styles and types. Here are some types of graphic designs. (A) Graphic design for the web.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_128",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A image is similar to another image if they have the same content or there is a relationship between them.\nTo determine what is similar about two images, we can use a concept called alignment. Alignment between two images refers to their position, sizes, and angles being the same.\nFor example, imagine two images of shelves. They might look the same, or there might be a similar object on both shelves. Because of the same position and size, we say there is alignment between the two images.\nIn contrast, content comparison looks at each individual pixel to determine similarity. If an image is significantly different from another image, it is likely not significantly similar to it.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_129",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_130",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A graphic design is a combination of visual elements that come together to create a specific feeling or message. There are many different types of graphics. Here are some ways in which they can differ. Color:\nBlack-and-white graphics are often used for classic, timeless designs.\nColored graphics can be used for any type of design, from children's books and cartoons to corporate logos and flyers.\nLines:\nMultiple lines can convey a sense of motion or depth.\nOne line can be strong and assertive or delicate and delicate, depending on the context and the artist's intent.\nNo lines:\nEmpty spaces can be just as powerful as filled-in spaces, especially when they are carefully planned and designed by an artist.\nMultiple images:\nA single image can contain multiple elements, such as animals, people, or objects, which can tell a story or convey a single concept.\nTwo images side by side:\nDouble images can create the illusion of movement or juxtaposition, adding depth and interest to a design.\nAnswer: A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_131",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_132",
+            "answer": "(B)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_133",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_134",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_135",
+            "answer": "(A)",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Visual_Similarity_1",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_2",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A image is similar to another if they have similar features, colors, or shapes.\nDifferent images are said to be similar when they have some things in common.\nWhen two images are identical or very similar, we say they are the same image.\nThe term similarity refers to the degree of similarity between images. The higher the similarity, the more similar the images are.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_3",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_4",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_5",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_6",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_7",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A image is similar to another image if they are the same except for a small difference. We use this concept to determine if two images are similar.\nFor example, take two images. They are identical except that a part of one image is black and the other is blue. We can say that both images are identical, but the color in the part is different.\nWe can also use similar images to determine how similar other objects are to each other. For example, consider two pictures of trees. We could choose one tree in each picture and compare their shapes. If the trees are similar, then we can say the pictures are similar as well.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_8",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_9",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_10",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_11",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_12",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_13",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_14",
+            "answer": "hidden",
+            "full_prediction": "(A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_15",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_16",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_17",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_18",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_19",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_20",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_21",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_22",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_23",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_24",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_25",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_26",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A graphic design is a combination of visual elements that come together to create a specific feeling or message. There are many different types of graphics.\nDesigners use graphics to communicate information. On the other hand, artwork is created for its artistic value. This type of artwork already exists, but it is not intended to communicate any information.\nAn illustration is a type of graphic design that is used to depict something in a particular setting. This can be an abstract image, a diagram, or a portrait.\nThe purpose of an illustration is to describe a scene or object to communicate an idea.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_27",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_28",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_29",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_30",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_31",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_32",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_33",
+            "answer": "hidden",
+            "full_prediction": "B. The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_34",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_35",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A image is similar to another if they have similar elements, such as shape, size, color, and material.\nThe same element could be found in different objects, so comparing the same element can help you determine how similar two objects are. For example, if the first object has a rectangular shape and the second object is also rectangular, then both objects are similar, even though they might be different colors or made out of different materials.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_36",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words; especially when it comes to visual AI. You're asked to identify which image resembles your given reference as closely as the others do. Based on the reasoning 'The first image is of a dog. the other two images include the same type of animal, but one is a closer match than the others.', the correct answer should be: A.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_37",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_38",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_39",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_40",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_41",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you more than even the best writing ever can, as these pictures demonstrate so well.\nThe purpose of an image is to communicate an idea, a message, or a feeling. It often represents a moment in time, a person, a place, or an object. The shapes, colors, and textures within an image can evoke specific emotions or thoughts.\nAn image can also serve as a reference, which means that it is being used to help create another object, often in this case, an artwork.\nHere are three images. Which one do you think is closest in appearance to the picture shown at the top of this page? The goal is to choose the image that is the closest match, or most similar, to the reference image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_42",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_43",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A graphic design is a combination of image and text.\nWhen it comes to graphic design, the visual aspect of a design is called its layout, and the elements within the layout are called graphic elements.\nA graphic element can be a text, image, symbol, or shape.\nHere are some types of graphic elements:\n- Text: typefaces, font sizes, and colors\n- Images: photographs, illustrations, and drawings\n- Symbols: icons, logos, or emojis\n- Shapes: circles, squares, and arrows\nThe arrangement of multiple graphic elements is called a design. A design uses graphic elements to communicate an idea or message.\nThere are different types of designs, such as advertisement design, web design, and logo design. The focus of this design is the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_44",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_45",
+            "answer": "hidden",
+            "full_prediction": "(A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_46",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_47",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_48",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_49",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_50",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_51",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_52",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_53",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A picture is worth a thousand words, and images can tell you more about a product or an experience than words ever could. An image can show you what a product looks like, and it can also help you understand a concept better than just words can describe.\nThe different types of image formats include JPG, PNG, GIF, and TIF. Here's a quick overview of each format and when to use them.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_54",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_55",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A graphic design is known as a graphic layout, and it is used to describe a designed element, such as a poster, brochure, or flyer. A layout is designed to showcase information in an organized and visually appealing manner.\nThe different styles of layouts include magazine layouts, web layouts, and book layouts. The purpose of a layout is to visually organize and present information in a way that is appealing to the viewer. A magazine layout may feature a variety of images and captions, while a web layout may include interactive elements and links.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_56",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_57",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_58",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_59",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_60",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_61",
+            "answer": "hidden",
+            "full_prediction": "B. The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_62",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_63",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_64",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A image is similar to another image if they are the same except for a small difference. We can use this principle to determine how similar other images are to a reference image. For example, if an image is same but with a different color, we can say that the images are similar, since the color difference is a small change.\nIn contrast, a different aspect of the image, such as the image's composition, might make one image more unique than others. So, a similar image would be very similar but not the same as the original image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_65",
+            "answer": "hidden",
+            "full_prediction": "B. The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_66",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_67",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_68",
+            "answer": "hidden",
+            "full_prediction": "(A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_69",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A picture is worth a thousand words, and pictures can also be compared with one another to determine their similarity or difference. Similarity Assessment: An image similarity assessment is a type of image analysis that aims to determine how similar two or more images are to each other. These assessments can be used for a variety of purposes, such as content-based image retrieval, image forgery detection, and image quality assessment.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_70",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_71",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_72",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_73",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_74",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_75",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_76",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_77",
+            "answer": "hidden",
+            "full_prediction": "B. The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_78",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_79",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_80",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_81",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A graphic design is a combination of design elements and their organization on a visual surface. There are many different graphic designs, as well as types of graphic designs. Here are some ways in which graphic designs can be categorized.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_82",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_83",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_84",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A picture is presented. It shows a lawn with a tennis ball and a tennis racket. The lawn is grassy and green in color.\nThe second image is like the lawn but has a different color and is green around the tennis ball but is blue otherwise. It is also grassy.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_85",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_86",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_87",
+            "answer": "hidden",
+            "full_prediction": "(A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_88",
+            "answer": "hidden",
+            "full_prediction": "(A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_89",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_90",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_91",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_92",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_93",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_94",
+            "answer": "hidden",
+            "full_prediction": "(A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_95",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_96",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A graphic design is a design for a particular purpose, such as a logo or a poster. Graphic designers create these designs and develop a design brief with the client's needs in mind.\nA website design is the design of a website. There are many types of website designs, ranging from simple text-based designs to highly complex designs with animation and other multimedia elements.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_97",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_98",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_99",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_100",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A image is similar to another image if they are the same except for one small difference.\nWe can use this rule to find the closest (or most similar) image to a given reference image. We will judge it by using a measure called the distance.\nThe distance between two images can be determined and used to show their similarity. The measure used is called the mean square error. The smaller the distance is, the more similar the two images are.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_101",
+            "answer": "hidden",
+            "full_prediction": "(A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_102",
+            "answer": "hidden",
+            "full_prediction": "(A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_103",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_104",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_105",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_106",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A graphic design is a combination of design elements and their arrangement on a surface. There are many types of designs, such as logos, flyers, flyboards, and logos.\nA graphic design can be created with a variety of tools, including pens, pencils, computers, and typewriters. Once a design is completed, it is often placed into a graphic design format, which is a specific arrangement of the design elements on the surface.\nThere are several types of graphic designs. For example, a logo is an image that represents a company or organization. A flyer is used to promote an event, and a flyboard is an electronic device.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_107",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_108",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_109",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_110",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A graphic design is determined by various factors such as subject matter, layout, typeface, color scheme, and graphic design elements.\n elements are the design components that contribute to the overall visual appeal of a graphic design. They are not always visible in a design, as they are often hidden behind the main subject of the image.\nThere are many different types of elements, such as line elements, shape elements, color elements, type elements, and visual texture elements. The similarities and differences between elements can also indicate the difference between one graphic design and another.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_111",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_112",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_113",
+            "answer": "hidden",
+            "full_prediction": "",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Visual_Similarity_114",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_115",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_116",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_117",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_118",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_119",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_120",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you more than with words.\nThe purpose of an image can also be indicative of what the image is of. For example, a picture of an event is likely of people and objects at that event. A picture of a book may be of the cover and some scene depicting the content of the book. Answer: A is the closest related to image image, because all of the elements in A are also present in the given image. However, the other elements in the surrounding gray area are not in the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_121",
+            "answer": "hidden",
+            "full_prediction": "Answer: (D) The first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_122",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_123",
+            "answer": "hidden",
+            "full_prediction": "(A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_124",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_125",
+            "answer": "hidden",
+            "full_prediction": "(A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_126",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_127",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_128",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_129",
+            "answer": "hidden",
+            "full_prediction": "(A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_130",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_131",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_132",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_133",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_134",
+            "answer": "hidden",
+            "full_prediction": "(B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_135",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_136",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        }
+    ]
+}

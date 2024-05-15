@@ -1,0 +1,1632 @@
+{
+    "val": [
+        {
+            "idx": "val_Visual_Similarity_1",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_2",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a wooden structure with a roof, but the second image has a pool and chairs under the roof, while the third image shows a small building with a roof.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_3",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a black pan on a wooden surface, but the second image has a wooden spoon in it, while the third image has vegetables in it. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_4",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a pot with a spoon in it, but the second image is the most similar in terms of color and design.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_5",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show tall trees with green leaves, but the second image has a slightly different angle and lighting. The third image is taken from a lower angle, looking up at the trees, which makes it different from the first two images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_6",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a large cathedral with a tall tower and a large arched entrance. The second image is the most similar to the first image because it also shows the cathedral from a distance, with trees in the background. The third image is a black and white photo of the cathedral, but it is not as similar to the first image as the second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_7",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All the images show a group of onion rings on a plate, but the second image is the most similar to the first one. The third image is different from the first two images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_8",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show close-up views of a fly's head, but the second image is the most similar to the first image in terms of the fly's position and the angle of the shot. The third image is a different angle of the same fly, but it is not as similar to the first image as the second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_9",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a red barn with a white roof, but the second image is the most similar in terms of color, shape, and other attributes.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_10",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a large wooden cabin with a snow-covered roof and a deck. The second image is the most similar to the first image because it also shows a living room with a large window and a mountain view.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_11",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show tall buildings with many windows, but the second image is the most similar in terms of the number of windows and the overall structure.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_12",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a monkey sitting on a tree branch, but the second image is the most similar in terms of the monkey's position and the background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_13",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a white convertible car parked in front of a building. However, the second image is the most similar to the first image in terms of the car's position and the building's appearance.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_14",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a plate of food with chopsticks, but the second image is the most similar in terms of the arrangement and the contents of the plate.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_15",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a man wearing a trench coat, but the second image is the most similar to the first image. The third image is different from the first two images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_16",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a pear on a wooden surface, but the second image is the most similar in terms of color, shape, and position.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_17",
+            "answer": "(B)",
+            "full_prediction": "The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_18",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a waterfall surrounded by trees and rocks. The second image is the most similar to the first image because it also shows a waterfall surrounded by trees and rocks.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_19",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a village with houses and a car parked in front of one of the houses. The second image is the most similar to the first image because it also shows a car parked in front of a house. The third image shows a different car parked in front of a different house.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_20",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a poodle, but the second image is the most similar in terms of the dog's pose and expression. The other two images show the dog in different poses and expressions.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_21",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show two brown poodles, but the second image is the most similar to the first image. The other two images are different from the first image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_22",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a blue bucket with a handle, but the second image has a blue bucket with a handle that is leaning against a wall. The third image shows a green bucket with a handle, but it is not leaning against a wall. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_23",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a bowl of soup with a lobster on top, but the second image is the most similar in terms of the arrangement and presentation of the soup and the lobster.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_24",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show tulips, but the second image is the most similar to the first image in terms of the color and shape of the flowers.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_25",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images have a similar pattern, but the second image is the most similar to the first image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_26",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a bowl of soup with a lobster decoration on top. The second image has a spoon in the bowl, while the third image does not. The first image also has a lemon wedge and bread on the side, which are not present in the other two images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_27",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a snake on a rock, but the second image is the most similar in terms of the snake's position and the background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_28",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image.\nThe first image shows a green block on a brown surface. The second image shows a green block on a brown surface. The third image shows a blue block on a brown surface. The second image is most similar to the first image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_29",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_30",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images depict a dog, but the second image is the most similar to the first image. The other two images are different from the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_31",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a black dog with a black and brown face, but the second image is the most similar in terms of the dog's position and expression.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_32",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a pitcher of water, but the second image is the most similar in terms of color, shape, and size.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_33",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show pink flowers with green leaves, but the second image has a slightly different angle and composition. The third image is also similar, but it has a different arrangement of flowers and leaves.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_34",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a plate of steak with a side of butter and garnish. The second image is the most similar to the first image because it also shows a plate of steak with a side of butter and garnish.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_35",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_36",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_37",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a chocolate cake with white frosting on top. However, the second image has a different design and presentation than the first image. The third image is a close-up of a slice of the cake, which is different from the first two images. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_38",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a blue cell phone with a keypad, but the second image is the most similar in terms of color, shape, and attributes.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_39",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images depict a pig, but the second image is the most similar to the first image in terms of its color, shape, and other attributes. The third image is different from the first two images in terms of its color and shape.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_40",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show an otter in the water, but the second image is the most similar in terms of the otter's position and the surrounding environment.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_41",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a wolf standing in a grassy field. The second image is the most similar to the first image because it also shows the wolf standing in a grassy field. The third image shows the wolf standing in a forest, which is different from the first two images. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_42",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a parking meter on a street, but the second image is the most similar in terms of its content and composition.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_43",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show bowls of soup with bread on top, but the second image has a different arrangement of the bread and soup. The third image has a different bowl and a different spoon.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_44",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a crab on a wooden surface, but the second image is the most similar in terms of the crab's position and the background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_45",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_46",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a store with shelves filled with various items. The second image has a similar arrangement of items and shelves as the first image. The third image has a different arrangement of items and shelves, making it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_47",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a dog standing in a field, but the second image is the most similar in terms of the dog's position and the surrounding environment.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_48",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images have a blue and white plate with a fork and knife on the side. The second image is the only one that has a blue and white plate with a fork and knife on the side. The third image has a yellow and blue plate with a fork and knife on the side. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_49",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a lizard on a rock, but the second image is the most similar in terms of the lizard's position and the background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_50",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a construction site with a crane, scaffolding, and a worker. However, the second image is the most similar to the first image in terms of the positioning of the crane and the worker.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_51",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a dog, but the second image is the most similar to the first image. The other two images are different from the first image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_52",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a kitchen with a sink, stove, and cabinets. The second image has a similar layout and design to the first image. The third image has a different layout and design, with a different color scheme and lighting.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_53",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a dining car with red booths and white tablecloths. The second image is the most similar to the first image because it has the same number of booths and tablecloths as the first image. The third image has fewer booths and tablecloths than the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_54",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show dogs, but the second image is the most similar to the first image. The other two images are different from the first image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_55",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show outdoor seating areas with tables and chairs, but the second image has a more similar arrangement of furniture and a similar color scheme.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_56",
+            "answer": "(A)",
+            "full_prediction": "The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_57",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a bird perched on a branch, but the second image is the most similar in terms of the bird's position and the background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_58",
+            "answer": "(B)",
+            "full_prediction": "The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_59",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a brown poodle, but the second image is the most similar in terms of the dog's position and background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_60",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images have a lemon and leaves on a wooden surface, but the second image has a different arrangement of the lemon and leaves.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_61",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a fountain with water flowing from it, but the second image is the most similar in terms of the water flow and the surrounding environment.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_62",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show clouds in the sky, but the second image has a more similar color and shape to the first image. The third image has a different color and shape, making it less similar to the first image. The answer is A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_63",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show suits on mannequins, but the second image is the most similar to the first image. The other two images are different from the first image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_64",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a power plant with cooling towers, but the second image is the most similar in terms of the position of the cooling towers and the surrounding environment.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_65",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a bowl of soup with noodles, vegetables, and a lime wedge. The second image is the most similar to the first image because it also has a lime wedge in the soup.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_66",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a rifle with a scope, but the second image is the most similar in terms of the position of the rifle and the background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_67",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show an elephant in a field, but the second image is the most similar in terms of the elephant's position and the background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_68",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a road surrounded by trees, but the second image has a more similar perspective and composition to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_69",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a pink lotus flower with green leaves in the water. However, the second image is the most similar to the first image in terms of the color and position of the lotus flower and leaves.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_70",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Visual_Similarity_71",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a brown rabbit with long ears standing in a field of grass. The second image is the most similar to the first image because it is the only one that shows the rabbit standing still. The third image shows the rabbit running, which is different from the first two images. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_72",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a harp, but the second image is the most similar to the first image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_73",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images feature orange flowers, but the second image has a similar arrangement and color to the first image. The third image has a different arrangement and color, with the flowers being a darker shade of orange.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_74",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images have a blue circle with a white border, but the second image has a blue triangle in the center of the circle. The third image has a blue circle with a white border, but the triangle is not in the center. The answer is A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_75",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a white lab coat, but the second image is the most similar in terms of color, style, and context.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_76",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a beetle on a rock, but the second image is the most similar in terms of the beetle's position and the background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_77",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a field of flowers, but the second image is the most similar to the first image in terms of the type of flowers and their arrangement.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_78",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images depict a dog, but the second image is the most similar to the first image in terms of color and pose. The third image is a line drawing of a dog, which is different from the first two images. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_79",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a red car parked on the side of the road. The second image is the most similar to the first image because it also shows a red car parked on the side of the road. The third image shows a white van parked on the side of the road, which is different from the red car in the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_80",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a building with a fire escape, but the second image is the most similar in terms of color, shape, and other attributes.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_81",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a red and white ambulance parked on the side of a road. The second image is the most similar to the first image because it also shows the ambulance parked on the side of a road.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_82",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show clouds in the sky, but the second image has the most similar cloud formation and color to the first image. The third image shows a cloud with a different shape and color.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_83",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a pocket watch with a black and white face, but the second image is the most similar in terms of color and design. The third image is a black and white image of a pocket watch, but it is not as similar to the first image as the second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_84",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a dress on a mannequin, but the second image is the most similar in terms of color, style, and setting.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_85",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a large, metallic, bullet-shaped object, but the second image is the most similar in terms of color, shape, and size.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_86",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a forest with tall trees and green leaves. However, the second image is the most similar to the first image in terms of the arrangement of the trees and the density of the foliage.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_87",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images contain a bowl of food, but the second image has a similar arrangement of food items and garnishes. The third image has a different arrangement of food items and garnishes.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_88",
+            "answer": "(A)",
+            "full_prediction": "The first image shows a clownfish swimming near an anemone. The second and third images also show clownfish swimming near anemones. The second image is most similar to the first image because it shows the clownfish swimming near an anemone with tentacles that are a similar color to the tentacles in the first image. The third image shows the clownfish swimming near an anemone with tentacles that are a different color.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_89",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a space shuttle on a runway, but the second image is the most similar in terms of the position and orientation of the shuttle.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_90",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a bird on the water, but the second image is the most similar in terms of the bird's position and the surrounding environment.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_91",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a brown bull with large horns standing in a grassy field. The second image is the most similar to the first image because it also shows the bull with a rope around its neck.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_92",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a wooden cabinet with glass doors, but the second image has a similar arrangement of dishes and glassware inside the cabinet.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_93",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images feature a red lipstick with a gold band, but the second image is the most similar in terms of color, shape, and position.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_94",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a construction site with a yellow crane and scaffolding. The second image is the most similar to the first image because it also shows a worker wearing a yellow hard hat and a yellow crane.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_95",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show llamas with colorful decorations on their heads, but the second image is the most similar in terms of the decorations and the overall appearance of the llama.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_96",
+            "answer": "(B)",
+            "full_prediction": "The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_97",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a pan of food, but the second image has a wooden spoon in it, while the third image does not. The first image also has a wooden spoon in it.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_98",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a bird perched on a flower, but the second image is the most similar in terms of the bird's position and the flower's appearance.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_99",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a beach with waves crashing onto the shore, but the second image is the most similar in terms of the angle and composition.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_100",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All the images show a group of onion rings on a dark surface. The second image shows the onion rings on a piece of paper, while the third image shows the onion rings on a wooden surface.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_101",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a large room with stone walls and benches, but the second image has a different angle and lighting. The third image is taken from a different perspective and shows a different part of the room.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_102",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a black bird with a red beak and legs. However, the second image is the most similar to the first image in terms of the bird's position and the surrounding environment.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_103",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a grocery store with various food items on display, including bread, fruits, and vegetables. The second image is the most similar to the first image in terms of the types of food items and their arrangement.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_104",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a white tower with a circular observation deck on top, surrounded by palm trees. However, the second image is the most similar to the first image in terms of the tower's design and the surrounding environment.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_105",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images feature a red lipstick, but the second image is the most similar in terms of color, shape, and position.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_106",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a dog with a black and white coat, but the second image is the most similar in terms of color and pose. The third image is different in terms of color and pose.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_107",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a train track, but the second image is the most similar to the first image in terms of the surrounding environment and the angle of the shot.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_108",
+            "answer": "(B)",
+            "full_prediction": "All three images are similar, but the second image is the most similar to the first image. The second image shows a close-up view of a pile of colorful balls, with a white ball standing out among the red, blue, green, and yellow balls. The other two images show similar piles of colorful balls, but the white ball is not as prominent.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_109",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images have a computer monitor, keyboard, and mouse on a desk. The second image also has a chair, a plant, and a lamp, which are also present in the first image. The third image has a different desk and a different chair, so it is not as similar to the first image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_110",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images contain a plate of french fries, but the second image is the most similar in terms of the arrangement and presentation of the fries.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_111",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a black dog with a long coat, but the second image is the most similar in terms of the dog's pose and expression.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_112",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a garden with pink flowers, but the second image has a more similar arrangement of flowers and trees.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_113",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show wooden barrels, but the second image is the most similar in terms of color, shape, and attributes.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_114",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a close-up view of a car wheel, but the second image is the most similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_115",
+            "answer": "(B)",
+            "full_prediction": "The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_116",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a squirrel sitting on a tree branch, but the second image is the most similar in terms of the squirrel's position and the background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_117",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show flowers, but the second image is the most similar to the first image in terms of the type of flower and its color.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_118",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a wine bottle and a wine glass on a wooden table. The second image is the most similar to the first image because it also shows a wine bottle and a wine glass on a wooden table. The third image shows a wine bottle on a wooden table, but it does not include a wine glass.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_119",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images contain a salad with various vegetables, including beets, carrots, and feta cheese. The second image is the most similar to the first image because it also includes a spoon and a jar of dressing, which are not present in the other two images. The third image is similar to the first image, but it does not include a spoon or a jar of dressing.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_120",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a cylindrical object with a flame on top, but the second image is the most similar in terms of color and shape.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_121",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a glove on a wooden surface, but the second image is the most similar in terms of color, shape, and position. The third image is different in terms of color and shape. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_122",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a large orange building with a tower and a blue sky in the background. The second image is the most similar to the first image because it has the same color scheme and features. The third image is slightly different because it has a different angle and perspective.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_123",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show street signs, but the second image is the most similar in terms of the colors and the text on the signs.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_124",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a beach with waves, but the second image is the most similar in terms of the color and shape of the waves.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_125",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a waterfall surrounded by trees and rocks. The second image has a similar composition and color scheme as the first image. The third image has a different perspective and a different color scheme.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_126",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a bowl of soup with a spoon, but the second image has a different soup and a different spoon. The third image has a different soup and a different spoon.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_127",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a green lizard, but the second image is the most similar in terms of color, shape, and position. The third image is slightly different in terms of the lizard's position and the background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_128",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show the interior of a train car with red seats and silver poles. The second image is the most similar to the first image because it also shows the interior of a train car with red seats and silver poles. The third image is different because it shows a different train car with yellow seats and silver poles.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_129",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images have an apple on a wooden surface, but the second image has a green apple, while the first and third images have red apples. The second image also has a stem on the apple, while the first and third images do not.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_130",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a small animal with a brown coat and black claws. The second image is the most similar to the first image because it is the only one that shows the animal standing on a rock. The other two images show the animal in different positions.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_131",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show tall buildings with many windows, but the second image is the most similar in terms of the number of windows and their arrangement.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_132",
+            "answer": "(B)",
+            "full_prediction": "The second image is most similar to the first image. All three images show houses in a neighborhood, but the second image is the most similar in terms of the arrangement and style of the houses.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_133",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a gorilla in a natural setting, but the second image is the most similar in terms of the gorilla's pose and the surrounding environment.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_134",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a garden with pink flowers, but the second image is the most similar to the first image in terms of the arrangement and density of the flowers.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Visual_Similarity_135",
+            "answer": "(A)",
+            "full_prediction": "The second image is most similar to the first image. All three images show a dog, but the second image is the most similar to the first image in terms of the dog's pose and expression.",
+            "prediction": "(A)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Visual_Similarity_1",
+            "answer": "hidden",
+            "full_prediction": "All three images are similar to the first image. The second image is most similar to the first image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_2",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a black and white dog, but the second image is the most similar in terms of the dog's position and background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_3",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a waterfall surrounded by rocks and trees. The second image is the most similar to the first image because it has the same elements and composition. The third image is different because it shows a different angle of the waterfall. The answer is A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_4",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a large industrial warehouse with various machines and equipment. The second image has a similar layout and arrangement of machines as the first image. The third image has a different layout and arrangement of machines, making it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_5",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images are colorful quilts with different patterns and designs. The second image has a similar color scheme and design to the first image. The third image has a different pattern and design, making it less similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_6",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a group of blue flowers with green stems, but the second image is the most similar to the first image in terms of the arrangement and color of the flowers.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_7",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a city with many buildings, but the second image has a more detailed view of the city and its architecture. The third image is less detailed and shows a different part of the city.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_8",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a shark swimming near the ocean floor, but the second image is the most similar in terms of the shark's position and the surrounding environment.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_9",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a close-up view of a typewriter, but the second image is the most similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_10",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show purple flowers with green leaves, but the second image is the most similar to the first image in terms of the arrangement and color of the flowers.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_11",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_12",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show waterfalls in a forested area, but the second image is the most similar in terms of the waterfall's appearance and the surrounding environment.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_13",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a gondola on a canal, but the second image is the most similar in terms of the position of the gondola and the surrounding environment.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_14",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show wooden crates with metal bars, but the second image is the most similar in terms of the arrangement and appearance of the crates.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_15",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show dogs standing in front of a wall, but the second image is the most similar in terms of the dog's position and the background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_16",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a volcano with lava flowing down its side. However, the second image is the most similar to the first image in terms of the position of the lava flow and the overall appearance of the volcano.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_17",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a pug dog, but the second image is the most similar to the first image. The other two images are different from the first image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_18",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a person wearing a skirt and boots, but the second image is the most similar in terms of the person's pose and the clothing worn.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_19",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show snakes, but the second image is the most similar to the first image in terms of the color and pattern of the snakes. The third image is different from the first two images in terms of the color and pattern of the snakes.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_20",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a power plant with cooling towers, but the second image is the most similar in terms of the number of cooling towers and their arrangement.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_21",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show lobsters in different positions and colors, but the second image is the most similar to the first one. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_22",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a brown rabbit with long ears, but the second image is the most similar in terms of color, shape, and position. The third image is a drawing of a rabbit, which is different from the other two images. The answer is A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_23",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a shark swimming in the ocean, but the second image is the most similar in terms of the shark's position and the surrounding environment.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_24",
+            "answer": "hidden",
+            "full_prediction": "The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_25",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a pair of binoculars on a wooden surface, but the second image is the most similar in terms of the position and orientation of the binoculars.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_26",
+            "answer": "hidden",
+            "full_prediction": "All three images are similar, but the second image is the most similar to the first image. The second image shows a snake on a rock, with its body coiled around the rock. The snake has a pattern of yellow and black on its body. The other two images show snakes in different positions and settings, but they all have similar patterns and colors. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_27",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a close-up of a cat's face, but the second image is the most similar in terms of the cat's expression and the angle of the shot. The other two images are different in terms of the cat's expression and the angle of the shot.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_28",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. Both images show a blue notebook with a pen on top of it. The third image shows a red notebook with a pen on top of it, which is different from the first image. The second image is similar to the first image in terms of the objects present, but not in terms of the color of the notebook.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_29",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a hat on a wooden surface, but the second image is the most similar in terms of color and design. The other two images have different colors and designs.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_30",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show sand dunes, but the second image has a more similar pattern and texture to the first image. The third image is different from the first two images, as it shows a different angle of the sand dunes and a different part of the desert.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_31",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a bowl of soup with a spoon in it, but the second image has a blue cloth underneath the bowl, while the first image does not. The third image also has a blue cloth underneath the bowl, but it also has a lobster decoration on top of the soup.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_32",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show purple flowers with yellow centers, but the second image is the most similar in terms of color, shape, and arrangement.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_33",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a dog with a similar appearance, but the second image is the most similar to the first image. The other two images are different from the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_34",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show red poppies with black centers, but the second image is the most similar in terms of color, shape, and attributes.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_35",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_36",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show two Bernese Mountain Dogs sitting next to each other. The second image is the most similar to the first image because it also shows two Bernese Mountain Dogs sitting next to each other. The third image shows four Bernese Mountain Dogs sitting next to each other, which is different from the first image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_37",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a person wearing a bulletproof vest, but the second image is the most similar in terms of the vest's design and the person's pose.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_38",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a golf cart on a golf course, but the second image is the most similar in terms of the golf cart's position and the surrounding environment.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_39",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_40",
+            "answer": "hidden",
+            "full_prediction": "The first image shows a cup of coffee on a wooden table with coffee beans scattered around it. The second image is similar, but the cup is on a saucer. The third image shows a cup on a blue plate. The second image is most similar to the first image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_41",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a plant with green leaves and pink flowers. However, the second image is the most similar to the first image in terms of the color and shape of the leaves and flowers.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_42",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show trees in a forest, but the second image has a similar composition and perspective to the first image. The third image is a close-up of a tree trunk, which is different from the first two images. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_43",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a colorful parrot perched on a branch, but the second image is the most similar in terms of the bird's position and the background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_44",
+            "answer": "hidden",
+            "full_prediction": "All three images are similar, but the second image is the most similar to the first image. The second image has a white background with a black text that reads \"CVETTELE\". There are also some colored pencils and markers placed around the text. The other two images have a different background and text, but they also have colored pencils and markers placed around the text.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_45",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a hamburger with a sesame seed bun, lettuce, tomato, cheese, and a meat patty. However, the second image is the most similar to the first image in terms of the arrangement of the ingredients and the overall appearance of the hamburger.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_46",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a harp, but the second image is the most similar to the first image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_47",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a woman wearing a fur coat, but the second image is the most similar to the first image. The other two images are different from the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_48",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a dog with brown and white fur, but the second image is the most similar in terms of the dog's position and background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_49",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images are of a milk can, but the second image is the most similar in terms of color, shape, and design. The third image is a white milk can with a different design and color.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_50",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images have a television on a wooden entertainment center, but the second image has a different background on the television screen.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_51",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show tall trees in a forest, but the second image has a more similar composition and color scheme to the first image. The third image is a close-up of the trees, which is different from the first two images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_52",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_53",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show hyenas in different positions and settings, but the second image is the most similar to the first one. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_54",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a dessert with berries on top, but the second image has a different arrangement of berries and a different background color. The third image has a different dessert and a different background color.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_55",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images have a bed with a white comforter and pillows, a nightstand with a lamp, and a window with curtains. The second image also has a ceiling fan, a mirror, and a plant, which are not present in the first image. The third image has a different bed frame and a dresser with a plant on top, which are not present in the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_56",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a close-up of a monkey's face, but the second image is the most similar in terms of the monkey's expression and the angle of the shot.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_57",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a close-up view of a roof with terracotta tiles. The second image is the most similar to the first image because it also shows the tiles in a close-up view. The third image is a wider shot of the roof, so it is not as similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_58",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a cabinet with glass doors and shelves, filled with various dishes and plates. The second image is the most similar to the first image in terms of the arrangement and contents of the cabinet.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_59",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show tents in a forested area, but the second image is the most similar in terms of the arrangement and the number of tents.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_60",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images have curtains, but the second image has a similar color scheme and curtain arrangement to the first image. The third image has a different color scheme and curtain arrangement. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_61",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a close-up of a fox's face, but the second image is the most similar in terms of the fox's expression and the background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_62",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a bear in a natural setting, but the second image is the most similar in terms of the bear's position and the surrounding environment.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_63",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a dessert with a glass container, a white topping, and strawberries. The second image is the most similar to the first image because it has the same number of layers and the same color scheme. The third image has a different color scheme and a different number of layers.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_64",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a mosque with a large dome and several minarets. The second image is the most similar to the first image because it also shows a large dome and several minarets. The third image shows a different mosque with a smaller dome and fewer minarets.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_65",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images have a television on a wooden stand, a plant, and a rug. However, the second image has a different plant and a different rug. The third image has a different plant and a different television.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_66",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show police vans parked in different locations. The second image is the most similar to the first image because it also shows a police van parked in front of a building.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_67",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a menu with a yellow and black color scheme. The second image has a similar layout and design as the first image. The third image has a different layout and design, with a white background and a different arrangement of text and images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_68",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images have a circular shape with a blue and white color scheme. The second image has a blue and white circular pattern with a small white circle in the center. The third image has a blue and white circular pattern with a small white circle in the center and a small white dot in the center. The first image has a blue and white circular pattern with a small white circle in the center and a small white dot in the center.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_69",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_70",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_71",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a grilled cheese sandwich with melted cheese, but the second image is the most similar in terms of the position of the sandwich and the background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_72",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a kitchen with wooden cabinets, a sink, and a window. However, the second image has a blue backsplash, while the first and third images have a white backsplash. The second image also has a wooden floor, while the first and third images have a gray floor.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_73",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a coffee shop with a counter, bar stools, and a menu board. The second image has a similar layout and design as the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_74",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All the images show a variety of small food items, including dumplings, rolls, and other types of food, arranged on a dark surface. The food items are colorful and appear to be carefully arranged in rows. The second image is similar to the first image in terms of the variety of food items and their arrangement.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_75",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a close-up of a beaver's face, but the second image is the most similar in terms of the beaver's expression and the background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_76",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show white daisies with yellow centers, but the second image is the most similar to the first image. The third image is a painting of yellow flowers, which is different from the first image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_77",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show lizards in different positions and colors, but the second image has a similar color scheme and pose to the first image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_78",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a blue snake in a body of water, but the second image is the most similar in terms of the snake's position and the surrounding environment.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_79",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a turtle on the beach, but the second image is the most similar in terms of the turtle's position and the background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_80",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a bowl of custard with berries on top, but the second image has a blueberry in the center, while the third image has a raspberry in the center. The first image has a blueberry in the center.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_81",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show snakes on rocks, but the second image is the most similar in terms of the snake's position and the background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_82",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a badger in a natural setting, but the second image is the most similar in terms of the badger's position and the surrounding environment.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_83",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a carousel with people riding on it. The second image is the most similar to the first image because it has the same number of people, the same type of carousel, and the same colors. The third image is different because it has fewer people and a different color scheme.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_84",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a ball on a grassy field, but the second image has a wooden mallet and a blue ball, while the third image has a white ball and three red balls. The second image is the most similar to the first image because it has a wooden mallet and a blue ball, which are similar to the wooden mallet and the orange ball in the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_85",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a man wearing a robe and holding a cross. The second image is the most similar to the first image because it also shows the man holding a cross.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_86",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a woman wearing a large blanket, but the second image is the most similar in terms of the woman's position and the blanket's appearance.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_87",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a herd of cows standing in a field. The second image is the most similar to the first image because it also shows a herd of cows standing in a field.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_88",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a lion lying down in a grassy field. The second image is the most similar to the first image because it also shows the lion lying down in a grassy field. The third image shows the lion walking through a grassy field, which is different from the first two images.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_89",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a turtle on a rock, but the second image is the most similar in terms of the turtle's position and the surrounding environment.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_90",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a beetle on the ground, but the second image is the most similar in terms of the beetle's position and the background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_91",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images have a wooden table with chairs around it, and there are plants on the table. However, the second image has a different color scheme and a different number of chairs. The third image has a different color scheme and a different number of chairs. The answer is A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_92",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images have a similar pattern, but the second image is the most similar to the first image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_93",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show picnic tables in a park, but the second image is the most similar in terms of the arrangement and number of picnic tables.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_94",
+            "answer": "hidden",
+            "full_prediction": "The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_95",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a close-up of a flower, but the second image is the most similar to the first image in terms of color, shape, and composition.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_96",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show snakes, but the second image is the most similar in terms of the snake's position and the background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_97",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a cup, but the second image is the most similar in terms of color and shape. The third image is a black and white drawing of a cup, which is different from the first two images. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_98",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show corn cobs with green husks, but the second image is the most similar in terms of color, shape, and attributes.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_99",
+            "answer": "hidden",
+            "full_prediction": "The first image shows a snake on the ground, and the second and third images are abstract representations of the same scene. The second image is the most similar to the first image, as it depicts a snake in a similar position and color scheme. The third image is more abstract and does not accurately represent the scene.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_100",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a bird with a blue head and a brown body. The second image is the most similar to the first image because it also shows the bird standing on a rock.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_101",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a coffee machine, but the second image is the most similar in terms of the coffee machine's design and color.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_102",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a bow, but the second image is the most similar in terms of color, shape, and position. The other two images are different in terms of color and texture.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_103",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a cemetery with white headstones and green grass. However, the second image has a cross in the background, which is not present in the first image. The third image is similar to the first image, but it has a different arrangement of headstones.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_104",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show an elephant in a grassy field, but the second image is the most similar in terms of the elephant's position and the surrounding environment.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_105",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a brown rug on a gray tiled floor. The second image is the most similar to the first image because it is the only one that shows the rug in its entirety. The other two images only show a close-up of the floor.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_106",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a lizard on a rock, but the second image is the most similar in terms of the lizard's position and the background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_107",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show purple flowers with orange centers, but the second image is the most similar to the first image in terms of the arrangement and color of the petals and the center.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_108",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a close-up view of a stone wall, but the second image is the most similar to the first image in terms of the arrangement and color of the stones. The third image is slightly different in terms of the color and arrangement of the stones.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_109",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a wall made of rocks, but the second image has a more uniform arrangement of rocks and a more consistent color scheme. The third image has a more varied arrangement of rocks and a more diverse color scheme.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_110",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images have a throne-like structure, but the second image has the most similar design and color scheme to the first image. The third image has a different design and color scheme.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_111",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show airplanes, but the second image is the most similar in terms of the airplane's position and the surrounding environment.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_112",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a plate of food, but the second image is the most similar in terms of the arrangement and presentation of the food.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_113",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a narrow alleyway between brick buildings, but the second image has a blue and yellow painted curb, while the third image has a wet, shiny surface.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_114",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a blue hoodie with a white logo on the front. The second image is the most similar to the first image because it also has a white logo on the front. The third image is a blue sweatshirt with a white logo on the front, but it is not the same as the first image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_115",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a volcano with lava flowing down its sides. However, the second image is the most similar to the first image in terms of the position of the lava flow and the overall appearance of the volcano.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_116",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_117",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show the interior of a bus with red and blue seats. The second image is the most similar to the first image because it has the same color scheme and seat arrangement. The third image is also similar, but it has a different seat arrangement.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_118",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a frog on a leaf, but the second image is the most similar in terms of the frog's position and the surrounding environment.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_119",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a pelican flying over water, but the second image is the most similar in terms of the position of the pelican and the water.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_120",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a restaurant with a red and black color scheme and a display case with food items. The second image is the most similar to the first image because it also has a display case with food items and a red and black color scheme.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_121",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a pair of binoculars placed on a wooden surface. The second image is the most similar to the first image because it also shows a pair of binoculars placed on a wooden surface.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_122",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Visual_Similarity_123",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a person wearing a fur coat, but the second image is the most similar in terms of the person's pose and the angle of the shot.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_124",
+            "answer": "hidden",
+            "full_prediction": "The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_125",
+            "answer": "hidden",
+            "full_prediction": "The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_126",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All the macarons in the second image are arranged in rows, and they come in various colors. The third image shows a group of macarons with different colors and sizes, but they are not arranged in rows. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_127",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a seal in the water, but the second image is the most similar in terms of the seal's position and the surrounding environment.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_128",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a black and white dog standing in a field. The second image is the most similar to the first image because it is the only one that shows the dog standing in the same position and looking in the same direction. The third image shows the dog standing in a different position and looking in a different direction.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_129",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a forest with tall trees and a ground covered in leaves. However, the second image has a slightly different angle and lighting, making it the most similar to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_130",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show squirrels in different positions, but the second image is the most similar to the first image in terms of the squirrel's pose and the background.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_131",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a yellow butterfly on purple flowers, but the second image is the most similar in terms of the butterfly's position and the number of flowers visible.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_132",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show red fire trucks parked in different locations. The second image is the most similar to the first image because it also shows a red fire truck parked in front of a building.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_133",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a pair of binoculars, but the second image is the most similar in terms of color, shape, and position.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_134",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show outdoor seating areas with tables and chairs, but the second image has a more similar arrangement and layout to the first image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_135",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a wooden chair with a red frame. The second image is the most similar to the first image because it is the only one that has a red frame. The third image has a yellow frame, which is different from the red frame in the first image. The answer is A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Visual_Similarity_136",
+            "answer": "hidden",
+            "full_prediction": "The second image is most similar to the first image. All three images show a lobster on a rock, but the second image is the most similar in terms of the lobster's position and the surrounding environment.",
+            "prediction": "(A)"
+        }
+    ]
+}

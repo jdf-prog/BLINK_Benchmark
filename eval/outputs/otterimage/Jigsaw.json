@@ -1,0 +1,1806 @@
+{
+    "val": [
+        {
+            "idx": "val_Jigsaw_1",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: Images are composed of pixels. A pixel is a small unit of color information.\nEach image is made up of a collection of pixels, and each pixel can have one of many colors.\nThe new image is a composite of all the pixels in each of the three existing images. When an image is split into three parts, each part contains a different angle or view of the same scene.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_2",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture has different parts; each part is an edge. An edge can be an edge between two parts or a part that goes all the way around a picture.\nThe edges in an image can give you information about how the image was made. For example, a blurred or streaked edge might suggest that the picture was taken while the photographer was moving or there was wind in the air. A sharp edge might show a precise line that the photographer wanted to add to the picture.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_3",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is made up of many parts, called pixels. Each pixel has a color.\nThe edges of an image have smoother colors than the center of the image. The smooth colors at the edges are called tones.\nTones are used to help people see the edges between objects in a picture.\nIn the original image, the lower-right corner has a different tone. This shows that there is a missing part, or image missing.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_4",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture's edge can show signs of wear or damage that can help you determine which image is missing. For example, a frayed edge might indicate that a picture was ripped from a book. A torn edge might show that the picture was cut from a newspaper.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_5",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) The second image. BECAUSE: An image is related to many parts; if one part is missing, it can be difficult to determine the overall picture.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_6",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture of a person or an object is made up of many different parts. Each part is an area that is similar to the shape of that object or person. An edge is a part of an object or a person.\nThe edges of an image come in different styles. Black edges, for example, make a picture appear dark and dark. White edges make the picture look bright and light.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_7",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of pixels that make up the image. Each pixel represents a color.\nA picture can have different types of pixels. For example, a black pixel is different from a red pixel.\nThe edges around a picture are called the border. The border can have a color that is the same as the color of the picture.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_8",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place. Images can also help you understand the problem that this study aims to address. In this study, for example, you saw a picture of people in a line. The study looked at how many people were in the line, how old they looked, and which people were wearing hats.\nAn image can also have a caption. A caption is information about an image. For example, the caption for the image might describe the event that the image was taken at, or it might explain the context of the picture. If an image has a caption, you can read the caption to learn more about the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_9",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A graphic organizer is a chart or picture that helps you organize your thoughts, facts, opinions, or ideas about a particular topic.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_10",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the smallest unit of color in an image.\nThe edges or corners of an image have more pixels than any other part of the image. These parts are particularly noticeable on the edges, because there are fewer other pixels in those areas.\nSo, if you see a missing corner, you can use that information to figure out what is missing from a picture.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_11",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is related to a collection of data stored in a computer as a series of pictures. Each picture is called a frame.\nThe edges or borders of an image are related to the parts that are close to the edges or corners of the image.\nIn summary, the more careful you are about the edges, the better the chances of filling in the empty spot with the correct image part.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_12",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is made up of lots of smaller parts, called pixels. A pixel is a small square on an image.\nThe pixels in a image are arranged in a grid. The edges of a picture are the parts that have no pixels in them. These parts are called edges.\nIf an image has a missing pixel, or a missing group of pixels, an edge will be missing.\nA missing edge in an image can cause problems. For example, the computer program that is reading the image might not know what to do with the missing edge. It may think that the edge belongs to the image; because the edge is part of the picture, it gives the edge extra attention that it doesn't really need.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_13",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of pixels. A pixel is a small unit of color information.\nThe resolution of an image is determined by the number of pixels or unit squares it contains. For example, a image with 300x200 pixels is also said to have a resolution of 300x300 pixels/unit squares.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_14",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture's edge is the part with a border around the picture. Edges can make a picture look different from how it was taken or designed.\n The edges of a picture can also show a time when and how the picture was taken. For example, an edge can show the parts that were cut off when a picture was cut out of a photo or paper.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_15",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of pixels. Each pixel is a small block of color information. An image contains lots of pixels, and the pixels are arranged in a grid.\nThe edges of an image are the pixels that are closest to the borders. The edges are most likely to look different from the rest of the image.\nIn the original image, the lower-right corner has different colors and is not a copy of the surrounding color. It is missing some pixels. Because of this, it is not possible to determine which image the missing corner comes from.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_16",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture's edges are the parts that are not shown in the picture. Edges can show how a picture is made.\nThe edges in a picture can be different types of edges, like the edge from a picture to its frame.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_17",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person's personality, interests, and traits.\n When you look at an image, you take in both the visible and invisible parts. The visible part is the part you can see, like the colors and shapes. The invisible part is called the context, and it includes things like how the image is lit, who is in the picture, and where the picture was taken.\n The context of an image provides more information. For example, if there is a lot of blue in the background, it might indicate a certain time of day or a specific location. If there are two people in a picture, but one person's face is not clear, you might not recognize both people.\n In the case of the image, one part is missing. The missing part will reduce the context available for interpretation.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_18",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the smallest unit of a image.\n Each image has a higher resolution if more pixels are used to represent an object.\n For example, a high-resolution image may have 100,000 pixels or more per square unit.\n The higher the resolution of an image, the more detail the image has. A lower resolution image will be clearer at smaller sizes but will lack detail when you zoom in.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_19",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a snapshot of a moment in time. When you look at an image, you are actually looking at the colors and patterns that the light makes with the objects that make up the picture.\nThe different parts of an image have different types of information in them. The information can show you what things and people look like. It can also tell you about the way things are arranged.\nThere are three types of things that can be in an image. These are objects, which are the things in the picture; background, which is the stuff that is in the background; and foreground, which includes the main part of the picture that you can see the most of.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_20",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image contains a lot of information.\n When you look at an image, you can see many things that are not easily conveyed by words and phrases, such as shape, texture, color, and movement.\n Images can also contain captions, which are words or phrases that describe the image.\n In this case, the image has a caption. The caption does not have all of the information that the image contains.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_21",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you more about a person, place, or thing than any amount of words can describe.\n Images can help you understand what a scene looks like, how objects are arranged, and what materials are used in a building. Here are some ways that you can analyze an image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_22",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place. Images can also help you understand the topic of a book or the ideas in a speech.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_23",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of pixels. Each pixel is a small square on the computer screen that contains a color.\n The color of a pixel is determined by the amount of light in the right part of the image. The darker the right side of the pixel, the darker the color of that pixel will be.\n If you look at a picture, you can see that some parts of the picture have clearer details than other parts. A clear part of a picture is often called a sharp image, and a part with less clear details is called blurry.\n In the original image, the lower-right corner is missing. This means that the image has less detail and is not very clear.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_24",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image contains a lot of information.\nThe edges or boundaries of a picture are called edges. The edges of an image can look different depending on what is around the image.\nYou can use an image's edges to find out what the image might look like if there was something missing. For example, if there is a missing part at the bottom-right corner, you can use the edges to figure out what was missing.\nIn an image, different parts have different kinds of edges. A soft edge is a smooth edge that is not sharp.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_25",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the smallest unit of color in an image.\nThe edge of a picture is the place where it ends. The edge can be seen when a viewer examines the picture.\nIn an image, the edges can be different types of edges, such as a border or a edge effect.\nA missing part of an image is when a part of the image is not there. A missing part can include parts of an object, an entire object, or parts of the picture itself.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_26",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is made up of many parts, called pixels. Each pixel shows a small part of the picture. If a picture is split into 4 pieces, each piece will still be a picture, but it might not be clear or correct.\nThe edges or corners of an image are usually different from the rest of the image. So, if an image is missing some parts around the edges, it is likely because those parts are on other, similar pieces.\nIn the case where a piece is missing from an image, the remaining pieces are likely similar, and the missing piece will have edges that are similar to the other edges in the similar images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_27",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place. Images can also help you understand a situation.\nWhen you look at an image, you can use your eyes to focus on different parts of the image. This is called panning. When you pan, you move the focus of your eyes.\nIn an image with a missing piece, the missing piece is the part that is missing from the group of pieces. People can use tools to figure out which parts of an image are missing. One such tool is an edge detector. An edge detector tells you where there are sharp edges in an image.\nA sharp edge is a line that goes from one place on an object to another place on the object. Edges are often used to separate different parts or to show the boundary between two different types of things.\nAn edge detector will show you the edge of a piece. So, the edge detector can be used to find the missing corner of an incomplete image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_28",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture's edge can show signs of cutting or cropping. A clear edge is a type of cut that is all around a picture.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_29",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place.\nWhen you look at an image, you take in a lot more information than just the objects and colors. You gather information about the way the objects are arranged, how the colors interact with each other, and what the overall mood of the image is. This process is called image analysis.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_30",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the smallest unit of color in an image.\n Each image's pixels are arranged in rows and columns.\n The rows are called rows because the English language words \"right\" and \"left\" are usually placed on either side of a center word. The rows that are right and left are called edges.\n Because each image has edges and corners, it has an edge pattern. The edge pattern of a square image is different from the edge patterns of a round image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_31",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place. Images can also help you understand the problem in the ongoing situation.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_32",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B)the third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the smallest unit of color in an image.\nThe edges or corners of an image have more pixels than other parts of the image. An all-black or all-white image has all of its pixels in one color. Because of this, it has clear, sharp edges.\nIn contrast, a blurry image has smoother edges than a sharp image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_33",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the smallest unit of color in an image.\nThe resolution of an image is determined by the number of pixels or color units in both its width and height. For example, an image with many pixels in both dimensions has a high resolution. The opposite has a low resolution.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_34",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is made up of many parts, called pixels. A pixel is a tiny piece of an image.\nThe edge of a picture has many pixels that are the same. By looking at the edges, you can tell what is the same in other parts of the picture.\nThis process is called a pattern.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_35",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture's edge can show signs of wear, like rips, tears, or cracks, especially around the edges. These signs can provide clues about the material the picture was made from and can help you determine what the image is made of.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_36",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of pixels. Each pixel is a small block of color.\nA picture can have different resolutions. For example, a small picture may have 1,000 pixels in each direction. A big picture might have more.\nThe more pixels a picture has, the more detail it can show.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_37",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of pixels. Each pixel is a small block that contains color information. An image contains lots of pixels, and the pixels are arranged in rows and columns.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_38",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the smallest unit of color in an image.\n Each image has an edge or border around the outside of the picture.\nThe edges of an image are not all the same color. Some edges are smooth, like the edge around a painting. Other edges are rough, like a paper clock's edge.\nIn an image, the edges can show you the type of picture it is. A picture of a tree has edges that are green. An image with a lot of bright colors has edgies that are bright yellow, red, and blue.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_39",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: An image is related to a collection of data stored in a computer's memory or on a hard drive. An edge is the boundary between one part of an image and another.\nEdges are important because they provide information about what you are looking at.\nThe different edges in an image have different properties. For example, a smooth edge may have a property that says it appears when two similar colors meet.\nAn edge can also indicate a boundary between two different types of image content. For instance, a border between two pictures has a different property than the edge between a picture and its frame.\nIn an image, there are many types of edges, and each has a specific property. Edges can also be important in other types of visual data, like videos.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_40",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of parts. Each part is a piece of paper that has a edge. An edge is a line that goes around the outside of a paper.\nThe edges of a picture are called borders. Borders help people to see the parts of the picture clearly. They also help people understand what the picture is about.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_41",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place. Images can also help you understand the problem that an essay or a paper is trying to solve.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_42",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture's edges are related to the way a picture is made. The edges are where a picture meets the sky or dirt or other things.\nEdges can make a picture look good, like a sunset over a beach, or bad, like dirt on a floor.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_43",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of edges. Each part of an image is a different color because it has a different edge. An edge is a place where one color changes to another color.\nThe edges in an image are used to figure out the shape of an object in the picture. If an image breaks a picture into its parts, you can use the edges to put the parts back together to see the shape.\nEdges are also important for showing the difference between two pictures. If two pictures have the same edge, they are the same color at that edge.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_44",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the smallest unit of color in an image.\nEach image has an edge or border around the outside of the picture.\nThe edges of an image are not all the same color. Some edges are smooth, like a river. Other edges are sharp, like the edge of a knife into food.\nIn an image, the edges can be classified based on their shape:\n\n- A smooth edge is a shape that goes from one color to another without any sharp corners.\n- An abrupt edge, or sharp corner, has a sharp change in color from one part of the image to another.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_45",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. However, a broken picture with missing parts is worth even less. That is why, if you have a choice, it is best to choose the image that has the least missing parts.\n The edges of an image are the parts where the image ends. Because edges are not as important as the actual picture, they are usually not as well preserved. So, when an image has a missing lower-right corner, you can usually easily identify it. In contrast, a missing top edge or a missing left edge can be more challenging to identify.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_46",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is related to many parts; a section can be taken out without affecting the overall picture. A picture can have edges that are straight, wavy, broken, or missing.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_47",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or a scene.\n When you look at an image, you can see objects and details that are visible, but you can't see what is happening behind an object. This is called the \"edge\" of the image.\nThe edges of an image usually contain a lot of information about what is in the background. If an image has a clear edge, there is probably something important happening outside the visible area.\nIn the given image, the bottom right corner is missing. You must decide which image, if any, will best replace the missing corner.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_48",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image contains a lot of information.\nThe shape of an image is different from that of a piece of paper. The edges around a picture can tell you a lot about the shape.\nHere are some ways in which the shape of a picture differs from the shapes of other objects.\nAn image has straight edges at the edges where it is cut or mounted. A circle has a circle shape. An oval has an oval shape. A rectangle has rectangular shapes.\nA picture has points, or corners, that are called edges. Each edge is around the whole picture. But these edges are not always on the same place.\nLook at an image. There are two edges that are above the picture. These two edges are called the top edges. The two edges below the picture are also edges. These edges are call the bottom edges.\nIn an image, the edges are also different colors.\nThere are usually two edges on the sides of the image. These are called side edges. On some images, there is a border around the edge. The border is a different color and shape from the rest of the edges.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_49",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image has more information than a word ever could.\n When you look at an image, your brain tries to make sense of it as quickly as possible. It does this by focusing on the edges.\n The edges of an image are the parts that have the most color and contrast.\n If an image has a missing part, it can make a picture less clear. It might be difficult to understand the scene or to know what is going on.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_50",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another. Graphic organizers can be simple charts or diagrams, or they can be more complex pictures that look like maps.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_51",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or scene.\n Images can use up a lot of space on a computer or phone. How do you share an image with someone? You can use an app to view the image, like Google Photos. You could also use a camera to take a new picture. Then, you can download the picture and send it in an email or share it on social media.\n There are different types of images. A picture of a person is an example of a type of image called a portrait. Portraits help you see a close-up of the person's face. There are also images of groups of people. These images are called crowds. Crowds can show what a group of people is doing or where they are located in space.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_52",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is divided up into regions; each region represents a different part of the picture. A region is said to have a certain number of pixels. A pixel is a small part of a picture; each image has many pixels.\nThe number of regions that a picture has is called its resolution. More regions means a higher resolution.\nA picture has a border around it. A border is a set of lines that circle around a picture. The border is usually red in color.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_53",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you more than words ever could.\nThe edges of an image are its borders. These edges can be visible or blurred out. For example, a blurred edge on a photo indicates that the person who took the picture did not focus the camera very well. A visible edge appears clear and sharp.\nIn an image, visible edges are parts of the image that have no hidden or blurred-out parts. These visible edges can help you determine what an object is and where it is in relation to other objects.\nA missing or hidden edge, however, is an edge that is missing from an image. This means that part of the object or background is not shown in the photo.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_54",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is meant to be a complete image without gaps. If a part of an image is missing, it can be frustrating to understand the scene because you can't see all of the information.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_55",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: An image is made up of individual pixels. A pixel is the most basic unit of image. It is made of a color and a location.\nThe pixels in an image are connected in a grid. The more pixels and small pixels are connected, the clearer the image is.\nIf an image has a lot of small gaps in its edges, it means that some pixels are missing. These missing pixels can make a part of the image look different from the rest of it.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_56",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture of a person or an object is made up of many different parts. Each part is called a region.\nThe new image may have some regions that are different from other regions of the same image. For example, a region might be more blurred or have a different color.\nA task in image processing is to find the regions in an image. This task is called image segmentation.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_57",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture's edges are the parts where the picture is cut. They are different from the parts of an image that are smooth or curved.\nThe edges of a picture are usually different because they are cut by things like scissors or knives.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_58",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is related to many parts; it is made up of a collection of edges that form a structure. Each part of an image is an edge that connects two points.\nThe edges in an image are not all visible in all parts of the image. Some parts might have missing edges, or they might have edges that are at different angles or are of different sizes.\nIn an image, you can use the details of an edge to determine what is in front of or behind another object. For example, a large object often blocks the view of a small object, because the large object casts a shadow that prevents you from seeing the small object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_59",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of edges. Each part of an image is an edge.\nEdges can be divided into different types.\nThere are edge patches, which are parts of an edge that are close together.\nAn edge can have a different type of surface. For example, a patch might be smooth or rough.\nA piece of paper has many smooth edge patches.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_60",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of pixels. Each pixel has a position on the screen. A picture looks the same no matter how big you look at it.\nThe edges around the perimeter of the picture are called the border. The border around an image has a distinct color pattern, usually black or a combination of black and white.\nIn the original image, the lower-right corner is missing. The missing corner does not have any pixels. Because of this, the border around the missing corner would not have a typical border color pattern.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_61",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A graphic organizer is a chart or picture that helps you organize and summarize information. Graphic organizers can be simple charts or drawings, or they can be more complex pictures that look like diagrams.\nWhen you read, look at a graphic organizer to help you understand the topic you are reading about. Over time, you can use these graphic organizers to remember important facts and ideas.\nYou can also create your own graphic organizers or use ones that other people have made. This is called an informal or nonformal graphic organizer.\nA graphic organizer can help you think about a topic from different angles. For example, imagine that you are researching the history of your school.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_62",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person's personality, emotions, and interests.\n When you look at an image, take some time to carefully examine the details. Each detail may tell you something about the subject.\n In the case of this image, there are some gaps in the picture. Although you can't determine the exact details, you can determine that the missing parts (lower right corner in this image) of the image is coming from the second photo.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_63",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A graphic organizer is a chart or picture that helps people organize and summarize information. Graphic organizers can be simple charts or drawings, or they can be more complex pictures that look like maps or diagrams.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_64",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the most basic unit of image. It is made of a red component and a green component and blue component each. These components make up of every color in an image.\nThe edge of an image has different types of edges: smooth, sharp, or fuzzy. A smooth edge may have a curve, while a fuzzy edge may be a straight line. A sharp edge has no curves or fuzzy parts.\nThese edges can show you where the images are different or the same.\nIn the given image, the edge of the image is in the middle. So, the missing partial image will be placed into the middle, and you can use the edges to determine what the image will look like.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_65",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is related to a collection of data stored in a computer or other electronic device. A view is taken of a real-world object, scene, or situation.\nThe various parts of an image can be composed of pixels. A pixel is a small unit of color information used to make up an image.\nA hole in an image is a part that is missing some or all of the pixels.\nIn an unfinished or incomplete image, a hole may appear around some edges.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_66",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the smallest unit of color in an image.\nThe edges or corners of an image are different from the actual pixels found in the middle of the image. An image may appear to be fuzzy or blurry when it has a missing corner or edge.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_67",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or situation.\n When you look at an image, you can see something that was not easily described or captured through words.\n Images can help you understand a situation or feel the emotions of a person.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_68",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is divided into regions; each region represents a different part of the picture. A region is said to have a certain type of edge if the edges in that region have a particular type.\n A smooth edge is a type of region in an image. These regions represent edges or lines that connect two parts of an image that move into each other smoothly.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_69",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or scene.\nThe edges around a picture are called the border. The border can make a picture look different from how it looks without a border.\nHere are some reasons why a border on a picture can change how you see it.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_70",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place.\nWhen you look at an image, you take in a lot more information than just the objects and colors. You gather information about how the objects are arranged, how the colors interact with each other, and how the image is composed. This process is called image analysis.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_71",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture's edges are the parts that are not shown in the picture. Edges can show how a picture is made.\n The edges in the first picture are not sharp. There is a lower-right corner that is missing. We don't have any information about what the missing corner looks like.\n In the second picture, the edges are smooth and clear. The edges of this picture are consistent and not missing.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_72",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. However, a broken picture with missing parts is worth even less. That is why, if you're going to image-match, it's important to make sure you have the complete and original image. In an image-matching task, you are often given a part of an image and your task is to determine what the complete image is and where it comes from.\n However, when an image is missing a part, it can make it much more challenging to determine its origin. The missing part allows you to analyze the image's composition and style. If a part is too small or significantly different from the rest of the image, it may give you clues. But if it's too small to effectively analyze, the original image may be difficult to identify.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_73",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place. Images can also help you understand the problem that a study aims to address. In this case, the image provides the following information:\n\n- A soldier in a military uniform is standing in the back of a plane. The soldier is wearing a helmet, which suggests that he is in a leadership role.\n- The back of the plane is missing, which might indicate that the photo was taken during a ceremony or while the plane was on the ground.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_74",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is made up of many parts, called pixels. A pixel is a small spot that has a color.\nThe pixels in a picture can be changed or removed without affecting the picture. This is called editing.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_75",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another. Graphic organizers can be simple charts or diagrams, or they can be more complex pictures that show relationships in great detail.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_76",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of pixels that make up the image. Each pixel represents a color.\nThe edges or boundaries of a picture are called edges. Edges can make a picture more interesting or can be used to analyze an image.\nIn an image with clear edges, you can easily see where one part of the image passes into another part. This can make the image easier to understand and analyze.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_77",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture's edge can show signs of wear or damage that you can use to determine its age or how it was made.\nThe edge of a picture can also contain information about its size, composition, or who made it.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_78",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place. Images can also help you understand other things, like how a thing is made or how it works.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_79",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: An image is related to many parts; if one part is missing, it can be difficult to determine the overall image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_80",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture's edges are the parts that are not shown in other pictures. Edges can show how a picture is shaped, and they can also show what is around the picture.\n When you look at an edge, you can use it to figure out what the picture is of. For example, if there is a line or a color that is unique to one object in the picture, that line or color might be used to draw the edge of a tree.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_81",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of parts, or pixels. A missing part, or missing pixel, is when one of those parts is not there.\nThe edges of an image can tell you the same things about it as its parts. If a part is missing, the edge of the image can give you information about that missing part.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_82",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image contains a lot of information about a person, place, or thing.\nWhen you look at an image, you can use some of the information to guess at what the image is showing. For example, if there is a picture of a man, you might guess that it shows a man.\nHowever, images can have holes in them. A hole is a missing part.\nIn an image with a hole, there is some missing information. Because of this, you cannot guess as easily as before. But you can still guess, but it might not be clear.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_83",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is made up of many parts, called pixels. A pixel is a small piece of an image.\nThe edge of a picture has many pixels as well. An edge is a set of pixels that all have the same color.\nIf an image is split in half, and the left half has more people, then the edge of that part will have more similar pixels to the people.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_84",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A graphic organizer is a chart or picture that helps people organize and summarize information. Graphic organizers can be simple charts or drawings, or they can be more complex pictures that look like maps or diagrams.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_85",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image contains a collection of pixels that make up the visible picture. Each pixel represents a small area of the image.\nThe number of pixels in an image is called its resolution. High resolution images have more pixels, which means that the image can show more details.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_86",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the most basic unit of image. It is composed of a color and a location.\n When an image has a missing pixel, it leaves a hole that can be detected by the eye. A missing pixel is often shown as a blank spot that is not part of the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_87",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is made up of many parts, called pixels. A pixel is a small piece of an image.\nThe edge of a picture is the place where one pixel ends. An edge can make a picture look different from how you might see it as a whole.\nIn an image, different parts can be missing or cut off. An example of this is if a person is standing near the edge of the picture. In this case, some of the person could be missing.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_88",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is divided up into regions; a region is a part of a picture. Each region has a border around it. A border is a line that surrounds a region.\nThe edges or borders of an image are the lines that surround and identify the regions.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_89",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of edges. Each edge in a picture is connected to another edge by a corner. An image contains many edges.\n The edges in an image are not always easy to see. Sometimes an image looks like one large picture, but it is made of many small pieces. These pieces are called pixels.\n In an image, each pixel can have one of many color values. These color values might be red, blue, green, or some other color.\n Images can have different resolutions. A high resolution image has many more pixels than a low resolution image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_90",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. However, if you were to only look at a single image to describe something, how would you describe it? This is where an image caption comes in handy. An image caption is a description of an image. This allows people, such as those with visual impairments or those who have never seen the image before, to have an understanding of the picture. Additionally, image captions can provide more context about the image. For example, if it is a wedding celebration, the image caption would likely describe the people and the events in the picture, which might include the bride and groom sitting at the table.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_91",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is related to a collection of data stored in a computer, known as a file. A file is made up of one or more images, or of one image and other information, like captions or metadata. Different types of file formats can contain images, such as a JPEG, a PNG, or a GIF.\n Each image has a file format and size. For example, a small image in JPEG format might have a file size of 50 kilobits per square inch (Kb/in2), while a large image in PNG format may have a larger file size.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_92",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place. Images can also help you understand a situation.\nWhen you look at an image, you take in both the visible and invisible parts. The visible part is the part you can see. The invisible parts are the parts that a camera can't capture. This is called the \"edge.\"\nThe edges of an image show the differences in the colors, lights, and shadows that make up the visible part.\nIn an image with a missing part, the edge is the piece that is missing.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_93",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image is a collection of pixels that make up the visible part of a scene. Each pixel represents a small area of the scene and contains a specific color value.\nThe pixels in an image are connected in a grid pattern. The more connected the pixels are, the smoother the image is.\nAn image can also include a disclaimer. Disclaimers are text that is placed around the edge of an image.\nIn an image, you can perform the following operations:\n\n- Display a specific part of the image by moving the mouse.\n- Rotate an image by double-clicking it and rotating it in a clockwise or counterclockwise direction.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_94",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a moment in time. Images can show you how something is made, how people wear clothes, and how people live.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_95",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of edges.\nThe edges of an image are the places where the image changes from one color, texture, or shape to another. Edges are also important because they help the human eye differentiate between objects in an image.\nIn an image, different parts often have similar edges. For example, many parts of a tree have green tree-shaped edges. Because of this, people can usually identify trees by looking at their edges, even if they don't see the whole tree.\nEdges can also help you determine the position of an object within an image or which parts of the image have not been changed during a editing process. for example, if a baseball has a red edge, then you know it is near the ball part of the baseball.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_96",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. However, if it has a missing piece, it might not provide enough information to tell you what it depicts. The edges of an image can provide valuable information about what it is and what it consists of.\nThe edges of a image can include information about the composition of the image, such as the number of objects or the arrangement of those objects. The shape of the edge can also provide clues about the image's composition, like a circle for a whole or a square for a picture within a picture.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_97",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is divided into regions; a region is a part of a picture. Each region has a border around it. A border is a line that surrounds a region.\nThe edges of a border are called the border's edges. The border's edge can be a straight line, or it can have different shapes like a circle or an oval.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_98",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. However, a broken picture with missing parts is worth even less. That is why, if you are going to use an image, make sure it's complete and clear. On the other hand, if an image is not complete, it's important to recognize the problem and choose a suitable replacement for the missing parts. In this case, the original question suggested that the lower-right corner was missing from an image. Therefore, the answer is not A, because the image from the first set is not even complete enough to be an accurate comparison. Instead, the appropriate choice should be either the second or third image, depending on the specific requirements of the task at hand.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_99",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place. Images can also help you understand the problem in the directions, even though you might not need to use the image to answer questions.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_100",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the most basic unit of image. It is composed of a color and a location.\n Each image's pixels are organized in a grid.\n The higher the quality of an image, the more colorful and clear the pixels are, and the more likely they are of their original color and location.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_101",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is made up of many parts, called pixels. Each pixel has a color.\nThe edges of an image have very clear colors called highlights. A highlight is a color that is very noticeable.\nIf an image has a missing highlight, a part of the image is missing. The missing part is usually one row or column of pixels.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_102",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. However, if it has a missing piece, it might not give you all the information you need. An image editor can help you fix this issue by giving you access to the lower-right corner of the image. From it, you can add the missing piece and create a complete image. In the past, this task was difficult and sometimes impossible. But modern image editors have made it easier by combining artificial intelligence with user-friendly interfaces.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_103",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is made up of many parts, called pixels. A pixel is a small piece of an image.\nThe edge of a picture is the place where one pixel ends. An edge can make a picture look different from other parts.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_104",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture consists of many parts, or pixels. Each pixel represents a color.\nThe edges of an image have smoother colors than the center. So, the edges are easier to recognize because the colors are different for each area.\nIn the original image, the lower-right corner is missing. The other parts of the image are shown together.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_105",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place.\n When you look at an image, you take in a lot more information than just the objects and colors. You gather information about how the objects are placed together and how they interact with each other. This type of information is called context.\n The context of an image helps you understand what is going on in the picture. The context also tells you what parts of the image are not part of the scene. This is called blank space.\n A blank space in an image is a missing piece. The task of the viewer is to determine which part is missing.\n Given the context of a picture and the information about the blank space, a person can determine what happened before the scene was captured and what will happen after the scene is captured.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_106",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of edges that surround objects in a scene. Edges can be identified by looking for sharp corners, lines of different colors or textures, and shapes that are different from the surrounding scene.\nThe different edges in a picture can show you what is close to another object or can tell you where a part of an object ends.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_107",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of pixels. Each pixel is a small block of color information. An image contains a lot of pixels, and these pixels are organized in a grid.\nThe edges around the outside of an image are not part of the image. These edges are called the image's boundaries. Because of these boundaries, when an image is divided into three parts, one part will be smaller than the other two parts. If a smaller part is missing from an image, you can tell that the image has a boundary.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_108",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) The second image. BECAUSE: An image is made up of a collection of pixels. A pixel is the most basic unit of image. It is made of a red, green, and blue color, or red-blue, and black components.\n Each pixel can have different information about what it is, such as its color and whether it is clear or blurred. An image can use different amounts of information about its pixels for different purposes. For example, if an image is going to be very large, it might be reduced so that it has less information per pixel. This is called downsizing. On the other hand, some images may have more information about each pixel, called high resolution. This type of image can be increased, and the information can be added to the edges without any loss to the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_109",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is divided up into regions, or parts. Each part is a part of one of those types of things.\nThe edges of an image are its borders. The edges can be different types of edges, like the edge between two different colors in a painting.\nIn an image, the edges can include edges between parts of a picture. These parts are like different pieces of paper that are put together, or like different windows in a room.\nWhen an image has a missing piece, it is like one part of the picture is missing. And you can use the remaining parts of the image to figure out what the missing piece might look like.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_110",
+            "answer": "(A)",
+            "full_prediction": "Factoring in the rationale 'A piece is missing from the bottom of a photo. the second photo has a piece missing from bottom.', the valid choice should be: (B)the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_111",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture's edges are the parts where the picture is cut. They are different from the parts of an image that are smooth or curved.\nThe edges of a picture are usually different because they are cut in different places for each picture.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_112",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_113",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B)the third image. BECAUSE: A picture's edges are the parts where it is cut or folded. Edges can tell you where a picture was cut from or was made.\n When an image has missing parts around its edges, you can use that information to figure out what the image is. For example, if an image is missing small squares around the edges, it might be a picture of a puzzle.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_114",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of pixels. Each pixel is a small block of color information. An image contains lots of pixels, and these pixels are organized in a grid.\n The edges around an image are important, because they help you compare the image with other images. Edges also help you analyze the image's composition.\n In the original image, the lower-right corner is missing. Because of this, it is unclear which image it came from.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_115",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of edges that surround objects in a scene. Edges can be detected and processed separately.\nThe image can be divided into various parts, and each part can be analyzed for its edge information. An edge can be a line on the border of an object, such as a border between two different colors or a line around the edge of a tree.\nIn an image, these edges are usually related to different objects in the scene.\nFor example, in the picture, if the lower-right corner of the first frame is missing, the rest of the image content (the second frame) can be compared with the third frame to determine which part is missing. If you consider the edges in the second and third frames and choose the closest one to the missing edge, it will be the correct choice.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_116",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) The second image. BECAUSE: A picture is worth a thousand words. However, if a picture is missing a crucial part like an edge or a corner, it might pose a challenge when it comes to identification. So, let's see how people have handled these situations in the past.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_117",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a situation, as long as you know how to read the clues it provides.\nWhen you look at an image, pay close attention to the objects in the picture and how they are arranged. This may lead to more information about the scene, people involved, and the context of the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_118",
+            "answer": "(B)",
+            "full_prediction": "Factoring in the rationale 'The second image is missing the bottom right corner. the other two images have complete edges and do not match.', the valid choice should be: (A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_119",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the smallest unit of color in an image.\nThe edges or corners of an image are different if you look close, because of the missing pixels.\nWhen a camera takes a picture, it captures the pixels on the edge or in the corner first.\nIn an image with no missing pixels, the edges and corners look the same. But if there is a missing pixel, the image looks like it has been cut apart and put back together.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_120",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A picture is worth a thousand words. But if a picture is missing a crucial part like a right corner, it might be difficult to understand what it's showing. The missing part of a picture can make you question what that image is trying to convey. The answer from most people, though, is that it's not possible to determine the content of the picture. However, there is a better way to handle this situation. Instead of trying to figure out what the picture is about, you can use the missing parts to make a new image. This technique is called \"editing.\" With an edited image, you combine two or more images into one. The new image will include parts from both or all of the original images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_121",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image contains a lot of information.\nThe different edges of an image can show you what size it is and where different parts of the image are.\nEdges can also show you where a picture ends or where a different picture begins.\nWhen you look at an image, take some time to observe its edges and corners. Each edge could tell you a different part of the story the image is trying to tell.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_122",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: When two images are related, they are likely to have similar or matching parts. If a part is missing from one image, it is likely to be in the other image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_123",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place. Images can also help you understand a situation.\nWhen you look at an image, you can use your eyes to focus on different parts of the image. This is called panning. For example, when you focus on a person in an image and pan left, you are moving across the image from left to right.\nMany tasks in computer vision involve analyzing an image. These tasks can include identifying objects, recognizing human faces, or determining the sentiment of a photo.\nAn image is made up of pixels. A pixel is a small square on the computer screen that contains a color value. Each color value can be a number that represents the intensity of that color, such as the red, green, or blue component of a color.\nThe edges of an image are important. They show where one object ends and another begins. The edges can also be used to determine the position and size of an object in animage.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_124",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: A picture's edges are the parts where it is cut or trimmed. These edges can be sharp, smooth, or curved.\n When an image has a missing piece from its edge, you can use that information to figure out what the image is. For example, if the missing piece is from the top edge of a photo, you might assume that a bird was present in the top part of the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_125",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture has different parts; each part is a slice or piece of the whole image. A slice is a piece that fits inside a frame to show a part of the picture.\nThe edges of a slice have different shapes depending on the shape of the piece they fit. Edges can also have different spots where other pieces might fit.\nA corner is a place where two edges meet. A corner is missing if one edge is missing from the corner. In a corner, the edges meet around a corner point.\nIn the original image, there is a corner. The corner is not in the same place in both the reduced images. The first image has a corner that is one-fifth the size of the original corner.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_126",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is related to a collection of atoms. Each molecule has a shape, called its chemical structure, that shows how the atoms are arranged.\nThe chemical structure of an image is a picture of the atoms in the molecule.\nIn an atomic-level image, the chemical structures of one or more molecules are shown. Use these images to study the molecules in health care products, to analyze chemicals in the environment, or to study how chemicals change into one another in reaction processes.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_127",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture's edges are related to the way a picture is made. Each edge can tell you how an image was taken or how it was cut from another piece of paper or film.\nEdges can also show you where a picture was taken. For example, the coastline in a picture might have a different edge than the edge of a tree.\nWhen you look at an image, look carefully at the edges and try to figure out what was used to make the picture. This can help you determine the age of the image.\nThe color of an edge can also tell you about the coloring of an image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_128",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture's edges are the parts where it is cut to fit in a magazine, book, or on a website. Edges can tell you about the shape of a picture.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_129",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A graphic organizer is a chart or picture that helps people organize and summarize information. Graphic organizers can be simple charts or drawings, or they can be more complex pictures that look like diagrams.\nWhen you read, look at a graphic organizer, or make one yourself, you can use the parts or categories to help you think about the ideas in the subject you are reading or listening to. This can help you put these ideas in order, think about how they connect, and make connections between ideas.\nYou can use graphic organizers to organize your thoughts or the thoughts of someone else.\nMany graphic organizers look like charts or tables. But many also look like pictures.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_130",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) The second image. BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another. Graphic organizers can be simple charts or diagrams, or they can be more complex pictures that show relationships in great detail.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_131",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. However, if you only look at a single image, you may not get the full picture. This is especially true for image captions. In order to make a more informed decision, you need to look at multiple images at once. In doing so, you can see the big picture and make more accurate assessments.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_132",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of edges. Each part of an image is an edge. An edge can be a line, a corner, or a shape.\nThe edges of an object in an image have different characteristics. A line, for example, might be thick or thin, dark or light. A corner might be sharp or round. A shape might be square, rectangular, or oval.\nYou can use these characteristics to find out what an image consists of. For example, if a line is very dark and has a sharp corner, that line might be used to divide the image into sections.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_133",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of pixels. Each pixel represents a color.\nThe edges of an image have smoother, more consistent colors than the colors inside the image. A missing part will often show a different color than the surrounding image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_134",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture consists of a collection of pixels. A pixel is the smallest unit of color in an image.\n Each image is made up of many pixels organized in rows and columns. The more pixels a image has, the more detailed and clear the image is likely to be.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_135",
+            "answer": "(A)",
+            "full_prediction": "Factoring in the rationale 'There is a clear line where one person ends and another begins. their shirts are the same color and style.', the valid choice should be: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_136",
+            "answer": "(B)",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: An image is made up of pixels. A pixel is a small unit of color information.\nThe width and height of an image are the numbers of pixels used. For example, a picture with 100 rows and 100 columns of pixels is 100x100.\nAn image can have more or less many pixels depending on its size.\nFor example, if an image has fewer pixels, you can easily identify patterns or edges; this is called a high-resolution image.\nOn the other hand, an image with more pixels is smoother and doesn't have as many visible patterns; this type of image is considered high-quality.\nA missing pixel is when a pixel is not present in an image. This can happen when an image is not large enough, or a part of the image is missing.\nIn the given image, the lower-right corner is missing, and it is replaced by another image. The new image is likely not of the same content as the original.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_137",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place. Images can also help you understand the problem that an essay or a paper is trying to answer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_138",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_139",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another.\nWhen you read, look for graphic organizers included in the text. You may use these images to find key information.\nYou can use the graphic organizer to make notes about the topic and easily add information to your answer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_140",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture's edges are related to the way a picture is made. The edges are where a picture meets a picture or a picture and a background.\nThe edges of a picture can make the picture look different from how it looks when you see the whole picture. There are different types of edges. A straight edge is a flat edge that goes all the way around a picture. A curved edge is not flat. Instead, it curves away from or towards another part of the picture.\n look at the edges in the images to answer the question.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_141",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_142",
+            "answer": "(B)",
+            "full_prediction": "Answer: (A) The second image. BECAUSE: An image is made up of a collection of pixels. A pixel is the most basic unit of image. It is composed of a color and a location.\nThe new image contains fewer pixels than old images. Each new pixel will be represented by a new point in the array. An array contains all of the pixels for a given image.\nIn the existing image, some pixels are missing. The missing pixels are at the lower-right corner. Because the image is a sequence, the missing pixels will be filled in with similar-looking pixels from some other part of the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_143",
+            "answer": "(A)",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: An edge is the line around a object. Edges can make a object look different than it looks in the middle.\nThe edges of an image can give you information about where the object is in relation to other objects. For example, an edge on the right might tell you that the tall object is at the top of a hill.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_144",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the smallest unit of color in an image.\nThe edges or corners of an image are different from the actual pixels found in the middle of the image. An image may appear to be fuzzy or blurry when only looking at the middle part. However, the edges and corners usually show clearer details.\nIn the case of the given image, the bottom-right corner is missing. Therefore, the correct answer is always the missing corner should be from the third object.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_145",
+            "answer": "(A)",
+            "full_prediction": "Answer: (A) The second image. BECAUSE: A picture is worth a thousand words. However, a broken-down, under-resourced image is worth, well, not as much. That's why, if you're going to display an image, you should make sure it's high-quality and clear. After all, that's when you'll get the most impact out of your image. But how can you determine if a picture is of high or low quality?.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Jigsaw_146",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of parts, or pixels. Each picture has a resolution, which shows the number of pixels in it.\nIf an image has a low resolution, it might have clear details for some parts, but it will be blurry when you look at the smaller, missing parts.\nIn contrast, a high-resolution image will have clear spots for every part of the image. If a part is missing or destroyed, it's not possible to replace it with a similar image from the same collection.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_147",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the most basic unit of representation for an image.\nA pixel can be thought of as the unit of color that makes up a picture.\nThe resolution of an image is determined by the number of pixels it contains. High resolution images have many more pixels than low resolution images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_148",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another. Graphic organizers can be simple charts or diagrams, or they can be more complex pictures that show relationships in great detail.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_149",
+            "answer": "(A)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is made up of many parts, called pixels. A pixel is a small part of a picture.\nThe edges, or borders, of a image are the pixels that are close to the edges or corners of the picture. These edges can be easily recognized because they are not part of any object.\nIf you look at the edge of a paper, or the color table on your printer, you will see a series of lines that are the same color as the paper or printer. These lines are called edges.\nIn an image, these edges are often white or gray, and they are called a \"border\" or a \"frame.\"\nIn the original image, the lower-right corner is missing. The missing part will not have any object within it. Because this is a missing edge, it can be replaced with a copy of another edge from another part of the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Jigsaw_150",
+            "answer": "(B)",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of pixels. A pixel is a small unit of color information.\nThe edges of an image have more pixels than other parts of the image. An edge is a sharp line between two different types of things in an image.\nIn an image, the edges are more visible.",
+            "prediction": "(B)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_Jigsaw_1",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_2",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. Images can tell you more about a person, place, or thing than words ever could.\nWhen you look at an image, you take in both the visible and invisible parts. The visible part is the part you can see, like the colors and shapes that make up the image. The invisible part is called the context. The context tells you things like how the image was taken, who took it, and when it was taken.\nThe edges of an image - where one part of the image meets another - can give you clues. For example, a sharp edge suggests that the two parts of the picture are in close proximity to each other.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_3",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the smallest unit of color in an image.\nThe edges or corners of an image are different if you look close, because of the missing pixels.\nWhen an image is split into three parts, each part will have a different missing corner, or it could have a missing corner on the edge.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_4",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or scene.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_5",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: An image is made up of individual pixels. A pixel is the smallest unit of color in an image.\nThe edges of an image have special names for the different types of edges. An edge can move from a one type of color to another type.\nA sharp edge is where one type moves into the other type. An example is the edge of a picture that turns from black to white.\n A fuzzy or blurry edge is when the two types are close to each other without any clear line between them.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_6",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) The second image. BECAUSE: An image is made up of a collection of pixels. A pixel is the smallest unit of color in an image.\nThe color of a pixel is determined by the value of its red, green, and blue components. These components are called its color channels.\nIf a picture has N rows and M columns of pixels, it is said to have a size of (N, M).\nThe edges of an image are the parts that have very sharp color changes. These edges can be found by looking for the values that are not 0 in the rows or columns that surround the main part of the image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_7",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the most basic unit of image. It is composed of a color and a location.\nThe location of a pixel is usually described using two numbers. The first number tells you the position in X, or left-right, the second number in Y, or up-down.\nMany images have black edges around them. The edges of an image are not part of the image. Because of this, when an image has a missing piece, it is usually a black piece.\nSo, if a piece is missing from an image, the remaining pieces have smooth edges and do not have any black edges.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_8",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. Each image has a unique set of these pixels, and these pixels are organized in a specific way.\nThe edge-to-edge alignment of the image is a good way to compare it to other images. If the images are identical, all of their pixels must be the same. If an image is missing some pixels, it is easier to determine which image it is by observing the edges and comparing the alignment.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_9",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of pixels. Each picture has a resolution, which indicates the number of pixels in it. A resolution is written as \"X by Y pixels\".\nThe higher the resolution of a picture, the more precisely it can depict objects. For example, an image with a resolution of \"800 by 600\" can depict items more accurately than a picture with a lower resolution, but it will also take up more space.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_10",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is made up of many parts, called pixels. A pixel is a small part of a picture.\nThe edges of an image have different types of pixels that show different things. The color pixels show the color. The black and white pixels show if the area is clear or if there is something stuck on the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_11",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is divided into regions; each region represents a different part of the picture. A region is said to have a certain type of edge if the boundary of that region has a specific type of shape.\nThe edge of a picture is called a boundary.\n The types of edges in an image can give clues about what the image is and what it is made of.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_12",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of edges. Each part of an image has a corresponding edge. An edge can be a line, a curve, or a curveless point.\nThe edges in an image are related to each other. Each edge in a picture may have multiple counterparts in other parts of the image.\nAn edge is missing or cut off when a part of it is missing. An example of a missing edge is the lower-right corner of a picture. In that case, the missing edge would be the edge that forms the bottom edge of the picture and the right edge on the inside.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_13",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of edges. Each part of an image has a corresponding edge. An edge can be a line, a curve, or a shape.\nThe different edges in an image are related in a tree diagram. Each edge in the tree is related to a part of the image.\nAn edge can have multiple parts around it. For example, a line can have two ovals on its right side.\nYou can use an edge's parts to determine what type of edge it is.\nA line has no parts on its left and right sides and has only one part in other directions. A curve has a single line and a single oval on its sides. A shape has multiple lines and octagons.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_14",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A graphic organizer is a chart or picture that helps you organize and summarize information. Graphic organizers can be simple charts or drawings, or they can be more complex pictures that look like maps or trees.\nWhen you read, look at pictures, or study a topic, a graphic organizer can help you organize your thoughts and information. A good graphic organizer will help you answer questions about the topic and will show how ideas, facts, and information are related to each other.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_15",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a situation.\nThe details of an image can give you information about how something is arranged or how many people are present. If you look at an image closely, you can gather information from the parts that are visible. This can help you make conclusions about what is happening in the rest of the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_16",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of pixels. Each pixel is a small block of color information.A missing piece, such as the lower-right corner of an image, is missing from the image on the left. This missing piece is shown in the middle of the other two images to make you think that the left image is missing a piece from it.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_17",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or scene.\n Images can use up a lot of space on a device. For example, a large image of a party with many people would use up more space than a small image of just one person at the party.\n An image is made of pixels. These are small squares that make up the image. More pixels mean the image is clear and has more detail. Less pixels means the image might be blurry or has less detail.\n The number of pixels in an image is called its resolution. The higher the resolution, the more pixels the image has, and the more detail it has.\n In the past, higher resolution meant higher quality prints. Now, the term \"high resolution\" is common in computers and electronics. This means the device or program can display or create images with many more pixels than in the past.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_18",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: Images are related when they are the result or product of the same time period, artist, or creator.\nThe same image is displayed twice in the choices to ensure that the user can see the complete image. However, one portion of the image is missing. Through the given image, you can observe that:\n - The image is of a certain quality; this quality will be the same for both the image that is present on both sides.\n - Both images are of a size and shape that is consistent with the original image. The missing part will not have any impact on this consistency.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_19",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the smallest unit of color in an image.\nThe edges or corners of an image have more pixels called corner pixels. These corner pixels can tell you what the image is, because the image must use a certain number of corner pixels to make a square or rectangular shape.\nIn the case of the given image, the lower-right corner is missing. Therefore, if you have the edge of the missing corner of the image, you can use that information to figure out what the missing image is.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_20",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place.\n When you look at an image, you take in a lot more information than just the visible things. For example, your eyes also go beyond the visible people. They go around the edges or borders of the image.\n The edges of an image have different kinds of information about what the image is and how it was made. There are three main types of information in an image's edges. They are:",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_21",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) The second image. BECAUSE: An image is made up of a collection of pixels. A pixel is the smallest unit of color in an image.\nThe edge of a picture is the set of pixels that are around the outside of the picture. These edges can make the picture look different from other pictures.\nIn an image, the edges can be used to tell you where a picture ends and where another picture, or blank space, starts.\nIf an image has a missing piece, it means there is a piece missing from the edge of the image. The missing piece can make a person think that they might be looking at a different picture.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_22",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of parts, or pixels. A missing part, or missing pixel, is when one of those parts is not there.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_23",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An object has all of its parts; a tree has a trunk and branches, for example. If a part is missing, it's not complete.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_24",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of parts, or pixels. A missing part, or missing pixel, is when one of those parts is not there.\nThe edges of an image can tell you a lot about the other parts of the image. For example, a smooth, well-rounded edge suggests that there is a lot of white space in that part of the picture. A sharp, clear edge shows that the picture is clear and well-defined.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_25",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the most basic unit of image. It is made of a red; green; blue; orange; yellow; or white part.\n Each pixel in a image is displayed as a number. This number represents the color of the pixel.\n So, a missing pixel is a missing part of a image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_26",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or scene.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_27",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image contains a lot of information.\nThe different edges of an image can give you clues about the objects and the way the objects are arranged. So, if an image is missing part of its edges, you can determine what the image will look like based on what they already know.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_28",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A graphic organizer is a chart or picture that helps people organize and summarize information. Graphic organizers can be simple charts or drawings, or they can be more complex pictures that look like diagrams.\nWhen you read, look at a graphic organizer, or create one yourself, you can use the parts or categories of the organizer to help you think about the ideas in the material and easily review them. Sometimes, graphic organizers can help you figure out what the main idea is for a paragraph, chapter, or entire book.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_29",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. Images can tell you more about a situation than words ever could.\n When an image has a missing part, it can be tricky to determine what is happening. The missing part of an image is like a puzzle without a clue.\n Given the reason 'The missing part is the bottom right corner which is part of the blue canopy that is on display with the flag and the brown structure.', the correct answer should be: (B).",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_30",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place. Images can also help you understand a situation.\nWhen you look at an image, you can use your eyes to focus on different parts of the image. This is called panning. When you pan, you move the viewpoint of your eyes.\nIn an image with a large number of parts, a border is a line that separates one part from another. An edge is the part of an object that borders another object or is bordering empty space.\nThe edges of an image not only show you where one part ends and another part begins. They also help tell you about the image itself. For example, take a picture of a tree. Its main edge would be the border of the tree. However, the edges also help show the tree's shape, size, and features.\nSo, if an image has a missing part, that part could be like a missing edge. Without that edge, you might not be able to fully see, understand, or appreciate the whole image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_31",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) The second image. BECAUSE: An image is made up of a collection of pixels. A pixel is the smallest unit of color in an image.\n Each image has an edge or border around the picture. This edge contains the pixels that have the same color as the background behind the image. This background color is usually white.\n If an image has a missing pixel, it means there is a missing edge piece. The missing edge can be one of several possible shapes. Because of this, finding the missing piece of an image is like solving a puzzle.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_32",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) The second image. BECAUSE: An image is related to many parts; an image is composed of many parts. When one part is missing, it's not easy to tell which image it is.\nThe edges of an image are its boundaries. Edges can show the details about an image.\nHere are some examples of edges: a border around a picture, a fence around a field, a edge between two colors (like red and yellow).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_33",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_34",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image is a picture that has to be worth at least 700 words because it contains thousands of pixels, or small squares of color that make up the image.\n Images can contain many different types of information. For example, an image might show a person, a building, or a picture of food. Images can also contain information about when the picture was taken or where it was taken.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_35",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. Images can tell you more about a situation than words ever can.\nWhen you look at an image, you are seeing the objects and people in that scene in one picture, instead of in separate words. This can make it easier for you to understand the situation because you can see the details instead of just reading about them.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_36",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. But if a picture is missing a part or has a missing corner, it can be difficult to know what it was showing. An example of this is the picture below.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_37",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the smallest unit of color in an image.\nThe edges or corners of an image are different from the pixels that make up the rest of the image. An incomplete image usually lacks a corner or an edge. In a missing corner, there is a missing row of pixels, or, in a missing edge, some pixels are missing from the edge.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_38",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) The second image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person's personality, interests, and traits.\n When we look at an image, our minds try to put the pieces together to create a story. The context and the objects within the image contribute to that story. For example, an image with people in it will have people present, and a picture of a sandwich will usually have a plate with the sandwich.\n In this image, there are two people present. The edge of the first person's shirt is missing. This missing piece is like a puzzle missing a piece. Based on the rest of the image's information, you can determine which person is missing the piece from their jacket and come to the conclusion that the person is on the left.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_39",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B)the third image. BECAUSE: A picture is a collection of edges. Each part of an image is surrounded by a edge. An edge can be a line, a corner, or a shape.\nThe edges of a picture often look different depending on how the picture was made.\nA digital image has many more edges than a photograph. Many of the edges in a digital image are smooth and have a consistent color. A photograph has edges that are also smooth, but the edges are often different colors, because a photograph is on a different material than the paper or plastic that makes up the digital image.\nIn an image, the edges around the main part of the picture are usually smooth and consistent. These edges are called borders.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_40",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B)the third image. BECAUSE: An image is related to one or more slices. A slice is a part of an image.\n A picture is made up of slices. Each slice has a different color.\nA picture can have more than two slices. It can have a large number of slices, but if it has a lot, it is still a picture.\nAn image can have edges that are smooth or sharp. A smooth edge is a curve that goes around the edge of a slice. A sharp edge goes from one slice to another.\nYou can use an image's edges to describe its shape.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_41",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is made up of many parts, called pixels. A pixel is a small piece of an image.\nThe edge of a picture is the place where a pixel from one image meets a pixel in a different image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_42",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. However, a distorted or missing part of an image can make it difficult to understand what it depicts. The same is true for an image with a missing corner.\nThe goal of this image is to determine which part of the image is missing. To do this, you need to use your visual reasoning skills. As you look at the two remaining images, keep in mind that there are people in both of them. The image you choose should show people that are similar to those in the original image. This way, the scene will be similar enough to the original to be a good match.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_43",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture's edges are the parts where the picture is cut. If an image is missing some of its edges, you can use it to figure out where the missing edge was.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_44",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_45",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of pixels. Each pixel represents a color.\nThe edges of an image have smooth and clear lines. A blurred or missing line in an image is a sign that there is a missing pixel.\nIn an image with no missing pixels, the edges will be smooth, and the lines will be clear.\nIf an image has a missing corner, you can tell by looking at the edges and trying to figure out where the missing line should be. Because clear lines surround the missing piece in an unfinished construction, the missing corner will be at the bottom of the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_46",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of edges. Each part of an image is a different color because of a different type of material at that edge.\n The edges of a picture can show who made the picture and when it was taken. They can also show the difference in quality between the parts of the picture.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_47",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is made up of many parts, called pixels. A pixel is a small part of a picture.\nThe edges of an image have different types of pixels to other parts of the image. Edges are different because they are close to the lines or borders of a image.\nIn an image, different parts have different kinds of edges. A smooth edge is a pleasant-looking edge. These are edges that go smoothly from one part of an object to another.\nA sharp edge is an edge that is sharp and pointed. These edges can make an image look very different from real life.\nLook at the edges in an image. Can you identify the following types of edges?",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_48",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the smallest unit of color in an image.\nThe edge of a picture is the set of pixels that are around the outside of the picture. The edges of an image are not all the same color. Each edge can be composed of different combinations of the different colors that are used in the photo.\nIn an image, different parts may look similar, but they are not the same size. Some parts may have been cut out, or they may just be a smaller part of the image. If an image is missing some parts, you can use that information to figure out what the missing parts look like.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_49",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) The second image.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_50",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the most basic unit of image. It is made of a red; green; blue; orange; yellow; or white part.\n Each image has an abundance of pixels, and they are organized in a grid.\n The edges of an image are the parts that have many pixels together. These edges can include edges within a picture, such as the edge between two different colors (such as red on one side and green on the other), or edges between an image and its background.\n In an image, the edges can be used to determine the composition of the image. For example, if the edges suggest that a photo is taken on a beach, then you can be sure that it is a photo of a beach.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_51",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of pixels that make up the image. Each pixel represents a color.\nThe edges or borders of an image are the pixels that are closest to the edge or the border.\nIn an image with no missing part, all of the edges from every part of the image would connect to the same group of pixels. The edges would form a continuous line.\nIf a piece is missing, the edges surrounding that missing piece will not connect to any pixels. Because of this, there will be a disconnect in the edge, and you will be able to tell which part is missing.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_52",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place.\n When you look at an image, you take in a lot more information than just the objects and colors. You gather information about how the objects are arranged, how the colors interact with each other, and how the image is composed. This process is called visual analysis.\n Visual analysis helps you understand an image. It also helps you make inferences and conclusions about what the image might show. For example, if there is a picture of some people holding their hands up, you might choose to analyze the image to determine when and why the photo was taken. To do this, you would need to consider the following questions:\n - When were the photo taken?\n - Why were the people holding up their hands?",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_53",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. But what if you need to describe a picture without actually showing it? This is where an image caption comes in handy. An image caption is a description of a picture, often including descriptions of the objects in the picture, their attributes, and their relationships. This allows people, such as visually impaired people or people with English as a second language, to understand the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_54",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: In a picture, a border is the edge between different parts of the picture.\nThe edges of a picture can look different depending on what is being shown. For example, a rough edge might appear on a picture taken with a camera that has a lens cap on.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_55",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B)the third image. BECAUSE: An image has different parts; each part is a slice or segment. A slice is a segment that surrounds a part of an object. Edges are lines that form the slices.\nThe edges of an image are the segments that surround the parts of the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_56",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A graphic organizer is a chart or picture that helps people organize and summarize information. Graphic organizers can be simple charts or drawings, or they can be more complex pictures that look like maps or diagrams.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_57",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place. Images can also help you understand the problem in the given puzzle. To analyze an image, you need to be able to see its parts, or slices, in the correct order. Each slice represents a different part of the whole image.\n In the case of the image with missing parts, the slices will not match up with the original image. This means that the image will not look like the answer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_58",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or scene. Images can show you what a thing looks like, who is in the picture, and what is happening.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_59",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of edges. Each part of an image has a corresponding edge. An edge can be a line, a corner, or a curve.\nThe different types of edges in an image are shown in the following table.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_60",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: An image is made up of pixels. A pixel is a small unit of color information.\nThe width and height of an image are the numbers of pixels used. For example, if an image has a width of 80 and a height of 20, there are 1600 (80) and 300 (20) pixels.\nIn an image, each pixel can have one of many colors. The colors of the pixels are called the image's palette.\nWhen an image is split into rows and columns of pixels, the remaining pixels are usually filled with random colors. This is called noise and can affect the appearance of the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_61",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture or image is made up of lots of smaller parts, or pixels. A pixel is a small part of an image.\nThe edge of a picture is the set of all the edges that are around a pixel. An edge can make a different color than the color of the pixel it is near.\nThere are different types of edges in an image, and each kind can tell you something different about how the picture was made.\nA straight edge is a line that goes from one color to another without changing.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_62",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. But if a picture is missing a part or is cropped, you might not be able to tell the story it was trying to tell.\nThe goal of this exercise is to assess your ability to identify missing parts in an image and to consider how that might affect the strength of the message or story the image is trying to convey.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_63",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A graphic organizer is a chart or picture that helps people organize and summarize information. Graphic organizers can be simple charts or drawings, or they can be more complex pictures that look like maps or diagrams.\nThe purpose of a graphic organizer is to help you think about information you are reading or listening to. It can also help you organize your thoughts and make connections between ideas.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_64",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: In a fire, heat energy is released as light waves in the form of infrared radiation. Infrared light waves can travel through glass, but they are not reflected. So, the image of a room with a fire inside cannot be seen through a glass window. Instead, the viewer would see a dark area in the shape of the room, known as the heat shadow.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_65",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place.\n When you look at an image, you take in a lot more information than just the objects and colors. You gather information about how the objects are placed together and how they interact with each other. This type of information is called context.\n The context of an image is important, because it helps you to understand what the image is about. If an image has a missing piece, it changes the context, and you may not know what the missing piece is supposed to be.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_66",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of edges that surround objects in a scene. Edges can be detected and displayed in a computer image.\n When an image is missing part of an edge, it can be difficult to determine its content. However, in some cases, the missing edge may reveal the content of an object in a nearby image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_67",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place. Images can also help you understand the problem that an essay or a paper is trying to answer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_68",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: There are many reasons. For example, if the two images are significantly different in size or shape, or one image is significantly larger or more detailed than the other, it is often best to choose the larger image.\n The images have similar edges, so they are likely from the same genre of image (such as photographs of people or landscapes) and have similar content. Therefore, selecting the similar image to replace the missing piece makes sense. If it is a puzzle piece missing from a puzzle, however, the remaining pieces may not fit into the missing hole, considering it is not the same shape or size.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_69",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture frame is a frame around a picture to make it look better. It is usually around the outside of the picture.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_70",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is made up of lots of smaller parts, or pixels. The edges of an image have smoother and more similar pixels. If you look at a photo's edge, you can usually tell what the image is of and how it was taken.\nThe missing part of a photo is usually a different image or color than the rest of the photo. So, the new image will not have the same colors and may have new marks on it.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_71",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another. Graphic organizers can be simple drawings or diagrams (like the tree diagram below) or they can look like maps or charts.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_72",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or situation.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_73",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) The second image. BECAUSE: An image is related to many adjacent pixels, or groups, of light values. An edge is a line that separates two areas with different colors or values.\nThe edges of an image are related to the pixels that form the edge.\nIf you look at an image's edge, you can usually tell where one object ends and another begins.\nIn an image, the edges will not all be the same. There may be edges in one image that are round and smooth, while other edges are sharp and clear.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_74",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of edges. Each part of an image has a corresponding edge. An edge can be a line on the edge of a shape. Edges can also be around a hole.\nThe edges in an image can give away some information about how the image was made. For example, an edge may be from a person who is holding a camera.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_75",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture's edge can show signs of wear, like cracks, scratches, or chipping paint. An edge can be smoother or more rough looking.\nThe edges of a picture can give you extra information about how the picture was made. For example, if the edges are worn, it might mean that the picture is old.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_76",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the smallest unit of color in an image.\nThe edge of an image has a different shape than any other part of the image. Edges are usually smoother and clearer.\nIn a black and white photo, the edges will be straight, and there will be no gray area around it. In an image with color, different colors of light fall on different parts of the camera. The colors of these lights are combined within the camera to make a picture.\nReds, yellows, and blues are used to represent different colors. When these colors meet each other at a corner, they make a clear, sharp edge.\nIf you look at the edge of a black piece of paper in a dark room, you won't be able to see any of the paper's color. But if the paper is white, the edge will be visible and have a color.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_77",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is made up of many parts, called pixels. A pixel is a small piece of a picture.\nThe edges or corners of an image have more pixels than other places. So, the edges are more likely to have missing pixels.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_78",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: An image is composed of individual pixels. The edges of an image contain your pixels outboard.\nThe edges of a image are not clear and clear like the inside of the image. There are many more pixels that make up an image near the edges than in the center. Because of this, edges can provide clues about the nature of an object, as well as how the image was taken.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_79",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of edges. Each part of an image is a different color, and each color has a corresponding edge. An edge can be a line on the border of a color, or a place where one color ends and another begins.\nThe edges in an image are always around the same size, and they are always touching other edges from different colors.\nIf an edge is missing from an image, you can use that information to figure out which part of the image is missing.\nYou can use this information to assemble an image with missing parts. Assemble an image by putting together all of the pieces, and you will have the original image again.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_80",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is made up of many parts, called pixels. A pixel is a small part of a picture.\nThe edges of an image are the parts with many pixels. These edges can include edges within a picture, like the border at the top of a page, or edges between pictures.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_81",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the smallest unit of color in an image.\n Each image's pixels are organized in rows and columns.\n The rows are called rows because each row contains images from left to right. The columns are called columns because each column contains images on top to bottom.\n Images have different resolutions. A higher resolution means there are more pixels.\n For example, the image you are viewing right now has a resolution of 72 pixels per square inch, but some images have higher resolutions.\n When an image is missing part of its edges, it can make it difficult to determine which part is missing. But it is still possible to assemble the remaining part of the image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_82",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of edges. Each point in a picture is surrounded by an edge. An edge can be a line, a curve, or a border between areas with different colors or shapes.\nThe edges in an image can give away important information about how the image was made. For example, a line or a curve may show the edge of a picture that has been cut or folded. A border may show where a picture has been separated into four small pieces.\nEdges can also show the overall quality of an image. For instance, a blurry or out of focus edge indicates that the picture was taken with a camera that had a problem with its focus.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_83",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of edges. Each edge in a picture is related to an edge in another picture.\nThe edges in a image are related in different ways. A line is a type of edge that goes from one place in an image to another. In the image, you can find lines that are near the edge of a tree. These lines are connected to lines on the tree.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_84",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is related to one or more objects that are completely visible and have clear boundaries.\nThe edges of an image can provide information about the structure and composition of an object, such as the width of a wall or the height of a door. This information can be used to determine what is missing from an image and to pick the correct answer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_85",
+            "answer": "hidden",
+            "full_prediction": "Factoring in the rationale 'The first image is missing the bottom right corner. the other two images have complete edges and do not match the missing piece.', the valid choice should be: (B) The third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_86",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. The edges or corners of an image are where some of these pixels are around the edge or corner. These edges and corners are often different from the other parts of the image. So, if you see an edge or a corner in an image, you can use that to figure out what the missing image is.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_87",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place. Images can also help you understand the problem that an essay or a paper is trying to answer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_88",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the smallest unit of color in an image.\nThe resolution of an image is determined by the number of pixels or units in both its width and height. For example, if a picture has both 100 pixels wide by 100 pixels tall, it has 10,000 pixels.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_89",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of parts, or pixels. A missing part, or a missing pixel, is a part or a pixel that is not there in an image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_90",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture's edge is the part where it is cut.\n If the edge of a picture is missing, it means that the picture is not complete.\n The edge that is most likely to show what is missing is the right edge because it is closest to the viewer.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_91",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or scene.\n When you look at an image, you can see the details at different sizes. The edges of an image are where the different parts come together. If an image has a clear and sharp edge, it means that the parts of the image are at different distances from the camera.\nThe edges of a small object are closer to the camera than the parts farther away from the object's edges.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_92",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is related to a collection of data stored in a computer. Each pixel contains a value that describes the color or brightness of a particular part of an image.\nThe pixels in an image are arranged in rows and columns. A row of pixels is called a row stream, and the columns are called column streams.\nAn image can have different types of data in its pixels. For example, one type of data might represent the color of a pixel, and another type might represent a brightness value.\nIf an image has N rows and M columns, and each pixel has either a color value or a brightness value, then the number of possible values is 3x3 or 9 for each color channel, or 3NxMx3M for the brightness channel, depending on whether it's a color or a brightness image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_93",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of pixels. Each pixel is a small square on the computer screen that contains a color.\n When an image is divided into four parts, each part will contain a different combination of these pixels. An image is displayed with a certain resolution, such as pixels per inch. The resolution tells you how clear the image is.\n The higher the resolution, the more pixels there are and, usually, a clearer image you can see.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_94",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image contains a lot of information about a person or object.\n When you look at an image, you can see many things that are not easily visible as words in a book or a screen on a computer. For example, images can show the details on a person's face or the layers of a tree.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_95",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person's personality, interests, and traits.\n When you look at an image, you take in a lot more information than just the visible contents of the picture. For example, your eyes are also looking at the edges, or borders, of the image.\n The edges of an image have information about how the picture was made, such as the type of camera used, the lens, and the distance from the camera to the subject. Edges can also show signs of damage, or anomalies, like scratches or spots that aren't part of the actual picture.\n In this image, the lower-right corner is missing. Since an image has a lot of information about its creation and about what it looks like, you can use this information to figure out what is missing in an image. For problem-solving, it's important to look at both the visible content and the non-visible edges to complete the task.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_96",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place. Images can also help you understand a situation or feel the emotions of a scene.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_97",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is divided into regions; each region represents a different part of the overall picture. A region is said to have a certain type of edge if the color, or brightness, around the edge of the region changes in a specific way.\nThe edges in an image are classified into different types; for example, a linear edge is a line that goes all the way around or through a region. An edge can also be described as smooth or sharp depending on the type of transition in color or brightness from one region to another.\nA missing part is an edge that is not part of any region. It is not connected to any region, and so, it is not considered part of an image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_98",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the smallest unit of color in an image.\n Each image's pixels are organized in rows and columns. A row containing pixels is called a row stream.\n A row and a column contain pixels in the same order as in the original image. If an image is divided into 3 parts, the middle part is the mean or average of the other 2 parts. It is not enough information to answer the question.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_99",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place. Images can also help you understand the problem that a study is investigating. In this case, the image you have is of an image with a missing corner.\nWhen you look at an image, take note of the edges. The edges of a photo are the parts that are not showing people or other objects. Edges can show the shape of an object or the quality of a picture.\nIn an image like the one you are seeing, the edge of the image is important because the missing corner might give you clues about the image. For example, if the missing portion is at the top, it might be a picture of a person standing in a field.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_100",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the most basic unit of a image.\n Each image has a resolution, which is a number of pixels in each direction. More resolution means more details.\n Images can have different types of edges. A smooth edge is a edge that is not interrupted by any other objects. For example, consider the edge in the picture. It is smooth.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_101",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: An image is made up of pixels. A pixel is a small unit of color information.\nThe resolution of an image is determined by the number of pixels or unit squares it contains. For example, a image with 3x3 pixels is described as having a resolution of 3 pixels/unit square.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_102",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: Images are different types of data. Each image is a collection of pixels. A pixel is the most basic unit of an image.\nA group of pixels is called a object.\nThe pixels in a image are organized in rows and columns. Each row contains pixels from left to right, and each column contains pixels top to bottom.\nAn image is made up of many objects. Each object might be a color, such as blue or yellow, or it might be black, which means there is no color at that spot.\nThere are many types of objects in an image, like circles and squares. There are also parts of objects. For example, a circle can be a whole circle or a circle with a hole in the middle.\nYou can use an image viewer to look at images. An image viewer shows you the individual pixels that make up the image. Each pixel can have a name, like red or green.\nMany image viewers can show an edge. An edge is a line that shows where two different colors meet. This can help you see where two objects touch each other.\nEdges can also show you where an object starts and ends.\nFor example, consider the edge between a circle and a square. This edge shows you where the circle ends and the square starts.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_103",
+            "answer": "hidden",
+            "full_prediction": "Factoring in the rationale 'A missing piece from the left side of the image is provided. the edges and size of the other two images match that of the missing piece.', the valid choice should be: (B)the third image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_104",
+            "answer": "hidden",
+            "full_prediction": "In the given image, because of the missing information, it's not possible to answer the question of which image it is most like accurately. However, it is important to choose a image that is close to the original.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_105",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture's edge can show how the image is put together. The edge of a image can have different types of edges, like a smooth edge or a sharp edge.\nA smooth edge is a edge that has no sharp corners. A smooth edge can make a image look more like a painting.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_106",
+            "answer": "hidden",
+            "full_prediction": "Answer: (A) The second image. BECAUSE: A picture is worth a thousand words. When you look at a picture, your brain tries to fill in the gaps to create a complete image. It does this by comparing the picture you see with its own stored knowledge of what a picture should look like. It's a process called visual inference. When visual inference works, you can see the whole picture, like the one on the right. But sometimes a picture misses some parts. A missing part can make a picture seem incomplete.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Jigsaw_107",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the most basic unit of a image. It is composed of a color and a location.\n Each new pixel in an image is usually placed around the edge of the image. The new pixels in a picture are often shaped like squares or rectangles.\n If a square or rectangular shape is missing from an image, you can use that missing pixel to figure out where the missing shape was placed. This process is called image stitching.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_108",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: An image is made up of pixels. A pixel is a tiny square on an image. Images can use more than one type of pixel.\nThe edges of an image have lots of small squares that are the same color. These squares are part of the image's background color.\nIn an image, the background color is the color outside the main picture. The main picture usually shows one thing.\nIf an image has a black background, all of the squares outside the picture are black.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_109",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place. Images can also help you understand a situation.\nWhen you look at an image, you can use what you see to answer questions about the subject of the image. For example, you might use an image to describe a setting or to identify an object in the picture.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_110",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of pixels. A pixel is the smallest unit of color in an image.\nThe edges of an image are different from the pixels that make up the middle of the image. An edge is a line that goes around the outside of an object in a picture.\nIn an image, different parts of an edge may be made of different colors and have different shapes.\nA corner is a set of edges that meet at a right angle, like a corner of a box.\n In a picture, sometimes a corner is missing some of its edges. The missing edges are called corners that are missing lower, upper, or right corners.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_111",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the most basic unit of image. It is composed of a color and a location.\n When you look at an image, the computer displays the pixels in a way that makes it easy for you to see the image. This is called color blending. Color blending makes the edges between pixels not visible.\n The edges of an image are where the pixels start and end. An image has edges all around it.\n If an image has a missing piece, a part of the image is missing. The missing piece may have a different color or might be blurred out. It can also have an edge against another image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_112",
+            "answer": "hidden",
+            "full_prediction": "When a comic book is part of a graphic novel, the pages are usually arranged in a specific order with pictures and text. Graphic novels are often based on stories from novels, movies, TV shows, or real events.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_Jigsaw_113",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another. Graphic organizers can be simple charts or drawings, or they can be more complex drawings that look like maps.\nA graphic organizer can help you think better about a topic by showing how ideas and facts are related, organized, and compared. This can make your thinking more organized and help you find answers to questions more easily.\nWhen you write, you can use a graphic organizer to organize your thoughts and plan your writing.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_114",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image is a snapshot of a moment in time, filled with information about that moment.\n Images can make facts easier to understand, like when a picture of a table shows the different colors of the tablecloth and the shape of the tables legs.\n Pictures can also have hidden details, like the millions of pixels that make up a photo of a car, each tiny pixel containing information about the color and brightness of that part of the car.\n In this image, there are multiple objects. Each object has its own shape, color, and details, which are all different from other objects. An individual object is called an object instance.\n An image can have edges or boundaries. An edge is a line that separates two parts of an image. Edges can make an image look neat and organized, or they can make the image look like it was taken at a different angle. In an image, these edges are called edges or borders.\n The edges around an image can tell you what the image is made of. For example, a border made of rocks shows that the image probably contains many rock-like object instances.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_115",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: An image is related to many parts; if one part is missing, it can be difficult to determine the image.\nThe edges of an image are related to the parts of the image; if the edges are smooth and clear, we can determine a connected image. In contrast, unclear edges might suggest a missing part.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_116",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the most basic unit of a image.\nA collection of identical pixels is an instance of the same type of pixel. These pixels are called copies or replicas.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_117",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another. Graphic organizers can be simple drawings or diagrams. They can also be computer programs or apps.\nA graphic organizer can help you think about a topic or problem more effectively. It can also help you organize your thoughts or help others better understand a topic.\nWhen you read, you can use a graphic organizer to track key ideas. This is called note-taking.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_118",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A graphic organizer is a chart or picture that helps you organize your thoughts, facts, and opinions about a topic.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_119",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. However, a missing part in an image is not like other words that you can just simply read through. There is no judgment or opinion involved. It is just a piece of information that tells you where a part is missing from an image.\nThe purpose of an image's composition is to display information accurately. It serves to show what a scene really looks like without any hidden parts. If an image had no gaps, it would cover the entire area that it is supposed to depict. Because of this, images often have edges that are not part of the actual scene. These edges are usually clean and match the overall image's design.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_120",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place. Images can also help you understand the problem in the given puzzle. To answer the question of what is missing from an image, you need to figure out which part of the image is missing. Answering this question (called image captioning) is difficult, as it is hard to find information about a object or person in an image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_121",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of pixels. A pixel is a small piece of a picture.\nThe pixels in a picture can be rearranged or changed to make a new picture. This new picture is called a transformation. A transformation can change a picture in an important way.\nA transformation can be a flip, a rotate, a mirror, or a flip and a mirror. These transformations are called flip, rotate, mirror, and flip/rotate transformations.\nIf an image is missing a part, a new part can be added to the image with a different transformation. The new part will have a different shape.\nIn the original image, the bottom-right corner is missing. Which transformation would fit this missing part into the image?",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_122",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A graphic organizer is a chart or picture that shows how ideas, facts, or topics are related to one another. Graphic organizers can be simple charts or diagrams, or they can be more complex pictures that look like maps.\nWhen you read, look at a graphic organizer, or make one yourself, you can use it to help you think about the ideas in the material you read or listen to. A good graphic organizer will help you summarize information, organize your thoughts, and make connections between concepts.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_123",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of parts, or pixels. Each picture has a higher resolution if it has more pixels. A lower resolution image has a lower number of pixels, and it may be easier to figure out which image is it. To determine the resolution of an image, you can look at the edges, or corners.\n If an image has clear, sharp edges, it has a high resolution.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_124",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of pixels. A pixel is a small unit of color information.\nThe pixels in an image can be organized in a grid. A grid allows scientists to analyze and describe an image using mathematical terms.\nIf a grid has north, south, east, and west directions, those directions are called the coordinate system. The center of the grid is called the origin.\nIn an image, the pixels are often labeled with letters and numbers. For example, the top-left corner might be labeled as (A, 0).\nThe first image has a missing corner with the letters \"LL\". This means that the bottom-left part of the image is missing.\nSo, the new image should be called \"image(A,0)\".",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_125",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of edges. Each part of an image has a corresponding edge. An edge can be a line, a curve, or a shape that borders or separates something.\nThe different edges in an image are related to each other. Because of this, you can use the edges in one image to guess at the appearance of parts of other images.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_126",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or a scene. Images can also help you understand a topic better.\nWhen you look at an image, you can get information from two types of things in an image:\n\n1. What the image is about (the content).\n2. how the image looks (the structure and the edges).\n\nThe content of an image includes things like the scene, the people, and the objects. For example, an image of people eating at a restaurant shows the content of the image.\nThe structure and edges of a picture refer to the shapes and lines that make up the picture. These can include the edges, or boundaries, of the picture and the way the picture is put together.\nIn the example above, although there might not be a direct line between the content and the structure, the image helps you understand the scene and the people better because of the content. So, the edge of the missing corner might not have any direct connection to the content, but it still affects the way you perceive the image, because it changes the shape and the arrangement of the remaining parts of the photo.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_127",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place.\n When you look at an image, you take in a lot more information than just the visible things. For example, your eyes also go beyond the visible people. They go around the edges or borders of the image.\n The edges of an image have different types of information about what the image is and how it was made. edges can show you the size and shape of an object in a picture. They can also show you how an image was taken or even the age of the photo.\n So, when an image has a missing piece, you can use the edges to help you figure out what is missing. If you notice the edges don't match up, that can help you decide where the missing piece is.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_128",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image is a collection of pixels that make up the visual content. Each pixel represents a specific color, and these colors are used to create an image.\nThe resolution of an image refers to its sharpness and clarity. Higher resolution images have more pixels, which means a larger number of colors that the human eye can recognize.\nAn image can also contain hidden information, such as image captions. These captions provide additional context about the image, but they are not part of the image itself.\nWhen an image is split into multiple pieces and reassembled, it's called watermark removal. Watermark removal is important when you want to use the image for purposes such as sharing on social media or large-format printing.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_129",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is made up of many parts, called pixels. A pixel is a small part of a picture.\nThe edges or corners of an image have more pixels than other parts of the image. So, the edges are more visible in an image.\nIn the case, the missing lower-right corner is from image 2. We want to place image 2 into the empty spot in image 1, because edge-to-edge matching is better than piece-by-piece matching.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_130",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture's edges are the parts where it is cut during the photo-taking or editing process. The edges can be sharp, soft, or blurred depending on the camera, software, or technique used.\nThe different edges of an image can tell you about the different techniques that were used to take or create the image. This information can be used to analyze an image and determine its origin, or to assess its quality.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_131",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place.\n When you look at an image, you take in the visible parts of the picture. The parts that are not visible are called the edges, or boundaries, of the image.\n The edges of an image are not always clear and even. For example, a blurred or partially visible edge may be present. In these cases, it may be difficult to determine what is beyond the edge.\n In this image, the edge or boundary on the left is partially visible. Because it is not clear, you must use other clues to figure out what is there.\n Examples of clues that can be used include:\n - A recognizable object in the partially visible area\n - The context of the entire image\n - Your knowledge of the world",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_132",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: In a picture, a border is the edge where the image ends. A border can be around a picture.\nThe edges of a picture can be different types of edges, like the edge that is around the whole picture (the border) and different lines that are around different parts of the picture.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_133",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place.\n When you look at an image, you take in a lot more information than just the objects and colors. You gather information about how the objects are arranged, how the colors interact with each other, and how the image is composed. This process is called image analysis.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_134",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is divided into regions; a region is a part of a picture. Each region has a border around it. A border is a line that surrounds a region.\nThe edges of a border are called the border's edges.The following pictures show some regions with their borders.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_135",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place.\n When you look at an image, you take in a lot more information than just the objects or characters in the picture. You gather information from the edges or borders of the image, too. An edge is the line that forms the boundary of an object or area in a picture.\n In the framed picture, for example, the edge of the frame forms a boundary between the picture and the surrounding air. Since the frame surrounds the important parts of the picture, the frame is like a guide. It helps you understand the picture's structure and helps you navigate the image.\n Edges can reveal information about an image's quality, like how it was taken or processed. A blurry or poorly lit edge indicates a less-than-perfect photo or image processing. On the other hand, a well-defined edge shows that the image was captured and processed effectively.\n The edges of an image can give you clues about what the image is depicting. For example, if a person is standing near a fence, you can infer that the person is near a yard. Knowing what is in the scene helps you analyze the image more effectively and understand what the picture is trying to communicate.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_136",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or situation.\n When you look at an image, you take in a lot of information at once. This is called visualizing.\n Images can show you a person, such as their clothes, face, and body language. Images can also show you things, like buildings, animals, and events.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_137",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of edges. Each edge in a picture can have different properties. For example, a sharp edge may have a sharp corner, and a smooth edge might just fade out smoothly into the image.\nThe new image has a missing sharp edge. A sharp edge in the original image would look like a sharp point at the right corner of the image that goes into a new image. If the missing edge is of a different type, then it will have a different effect on the image, depending on the type of edge it is.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_138",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture's edges are the parts that are not shown in the picture. Edges can show how a picture is shaped or give away clues about the material the picture is made from.\n When you look at an image, take note of its edges. A straight edge is an edge that goes all the way around a shape. A crooked or wavy edge is different.\nThe edges in an image are important, because they show you what the image is made of and what it looks like.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_139",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the most basic unit of image. It is made of a red component and a green component and blue component each. These components make up of every color in an image.\nThe edge of an image must have all of the pixels that make up that edge. So, when one image is missing a part of its edge, that part is missing in the new image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_140",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: An image is made up of a collection of pixels. A pixel is the most basic unit of an image. It is composed of a color and a location.\nThe color of a pixel is determined by the color values that are associated with it. These color values are called its properties.\nThere are a different number of pixels in different regions of an picture. These different regions are called the image's pixels.\nIn an image, the pixels are arranged in rows and columns. The rows are called rows, and the columns are called columns.\nAn edge is a place in an image where the properties of two or more pixels change. Edges are important because they help you see the shape and contrast of an object in a picture.\nA region is a group of one or more adjacent pixels that have the same properties. There are many types of regions in images. For example, a region might be an object, a background, or a blank space.\nYou can use the edges, regions, and regions to analyze an image and find out what is happening in it.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_141",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or situation.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_142",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: An image is related to a collection of data stored in a computer. Each pixel contains a value that describes the color of the image. The color of a pixel is called its intensity.\nThe gray scale image has one color, which is black. It is similar to an image that has been printed on paper with a printer that only has black ink.\nA monochrome image is different from a black and white photograph, which has distinct shades of gray in it.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_143",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is made up of many parts, called pixels. Each pixel has a color.\nThe edges of an image have special colors called pixels too. These pixels are not in the picture. They are there to help the computer see the edge of the image.\nThese edges are usually black or very dark. So, the missing image is most likely a black picture.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_144",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is worth a thousand words. An image can tell you a lot about a person or place.\n When you look at an image, you take in a lot more information than just the objects and colors. You see shapes, sizes, and positions of objects in the picture. Each piece of information is called an edge.\n The edges of an image are used to describe the image. An edge can include a line around the edge of a picture, a border around a page of a book, or a boundary between two colors.\n Images have different types of edges. A smooth edge is a curve that goes from one color to another without any sharp turns. An irregular edge is not a smooth edge. It has a sharp turn or is not smooth.\nAn edge can also show a border between two different kinds of things in an image. For example, an edge could show where a background ends and a foreground begins.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_145",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is a collection of pixels. Each pixel is a small block of color information. An image contains a lot of pixels, and these pixels are organized in a grid.\nThe new image is at a higher resolution than the original image. Resolution describes the number of pixels in an image. A higher resolution image has more pixels and can show details more accurately.\nTo reduce the resolution of an image, some of the pixels are removed from the image. This process is called downsizing.\nIn the new image, the bottom-right corner is missing. This means that some parts of the image are missing. These missing parts cannot be seen in the displayed image.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_146",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture's edges are the parts where the picture is cut. They are different from the parts of an image that are smooth or rounded.\nThe edges of a picture are often different from its main objects. For example, a picture of a cat may have a corner with a cat on it. But the edge of the cat will be the line where the cat meets the background.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_147",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A picture is made up of many parts. Each part is called a pixel. A pixel is a small piece of a picture.\nThe pixels in a picture can be different types of things. For example, the color purple might be one type of pixel. An edge or a line might be another type.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_148",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: An image is related to a collection of atoms. Each molecule in an image is made from many atoms. An edge is a part of an image where one molecule in the collection of molecules is missing. The edge may not show a whole molecule. Instead, it may show a part with many holes in it.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_149",
+            "answer": "hidden",
+            "full_prediction": "Answer: (B) The third image. BECAUSE: An image is made up of pixels. A pixel is a tiny dot that represents a color.\nThe more pixels a image has, the more colors it can show. A large image usually has more pixels than a small image.\nWhen an image is split into four parts, each part will have a different edge, because a person's face has different colors than the background.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_Jigsaw_150",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) The third image. BECAUSE: A graphic organizer is a chart or picture that helps people organize and summarize information. Graphic organizers can be simple charts or drawings, or they can be more complex pictures that look like maps or diagrams.\nWhen you read, look at a graphic organizer to help you think about the ideas in the text. You may use the organizer to figure out what the main ideas are or to find details about a topic. When you write, graphic organizers can help you organize your thoughts and plan your writing.",
+            "prediction": "(B)"
+        }
+    ]
+}

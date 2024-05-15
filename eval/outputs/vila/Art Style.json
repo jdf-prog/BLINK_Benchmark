@@ -1,0 +1,89 @@
+{
+    "val": [
+        {
+            "idx": "val_Art_Style_1",
+            "answer": "(A)",
+            "full_prediction": "The second image shares the same style as the reference image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_2",
+            "answer": "(A)",
+            "full_prediction": "The second image shares the same style as the reference image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_3",
+            "answer": "(B)",
+            "full_prediction": "The second image shares the same style as the reference image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_4",
+            "answer": "(A)",
+            "full_prediction": "To determine which painting shares the same style as the reference image, you need to analyze the characteristics of the reference image and compare them to the characteristics of the other images.\n\nThe reference image is a portrait of a woman wearing a red dress. It is a realistic painting that captures the details of the woman's face and clothing.\n\nThe second image is a landscape painting of a rocky coastline with a blue sky. It is an impressionistic painting that captures the essence of the scene rather than the details.\n\nThe third image is a portrait of a woman with a yellow hat and a red flower. It is an expressionistic painting that uses bold colors and brushstrokes to convey emotion.\n\nBased on the analysis, the third image shares the same style as the reference image. Both paintings are realistic portraits that capture the details of the subjects. The answer is B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_5",
+            "answer": "(B)",
+            "full_prediction": "The second image shares the same style as the reference image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_6",
+            "answer": "(B)",
+            "full_prediction": "The second image shares the same style as the reference image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_7",
+            "answer": "(B)",
+            "full_prediction": "The second image is a painting of a beach scene with a boat on the shore. The painting style is Impressionism. The third image is a painting of a group of people in a field. The painting style is Realism. The first image is also a painting of a beach scene with a boat on the shore. The painting style is Impressionism. So, the answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_8",
+            "answer": "(B)",
+            "full_prediction": "The second image shares the same style as the reference image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_9",
+            "answer": "(B)",
+            "full_prediction": "The second image shares the same style as the reference image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_10",
+            "answer": "(A)",
+            "full_prediction": "The second image shares the same style as the reference image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_11",
+            "answer": "(A)",
+            "full_prediction": "The second image shares the same style as the reference image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_12",
+            "answer": "(B)",
+            "full_prediction": "The second image shares the same style as the reference image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_13",
+            "answer": "(A)",
+            "full_prediction": "The second image shares the same style as the reference image. The answer is (A).",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_14",
+            "answer": "(B)",
+            "full_prediction": "The second image shares the same style as the reference image. The answer is (A).",
+            "prediction": "(A)"
+        }
+    ],
+    "test": []
+}

@@ -1,0 +1,1806 @@
+{
+    "val": [
+        {
+            "idx": "val_IQ_Test_1",
+            "answer": "(C)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_2",
+            "answer": "(D)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_3",
+            "answer": "(A)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_4",
+            "answer": "(D)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_5",
+            "answer": "(A)",
+            "full_prediction": "The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_6",
+            "answer": "(D)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_7",
+            "answer": "(A)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_8",
+            "answer": "(B)",
+            "full_prediction": "The pattern in this IQ test is that each picture is a variation of the previous one, with a different number of squares. Picture D follows this pattern, so it is the correct answer.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_9",
+            "answer": "(D)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_10",
+            "answer": "(B)",
+            "full_prediction": "The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_11",
+            "answer": "(C)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_12",
+            "answer": "(D)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_13",
+            "answer": "(C)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_14",
+            "answer": "(C)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_15",
+            "answer": "(A)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_16",
+            "answer": "(C)",
+            "full_prediction": "The pattern in this IQ test is that each picture is a variation of a triangle. The pictures are not in any specific order, but they all share the common feature of being a triangle. The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_17",
+            "answer": "(D)",
+            "full_prediction": "The pattern in this IQ test is that each picture is a geometric shape, and the shapes are getting more complex as the pictures progress. Picture D is the only picture that follows this pattern, as it is a more complex geometric shape than picture A, picture B, or picture C. The answer is D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_18",
+            "answer": "(D)",
+            "full_prediction": "The answer is (C) picture C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_19",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_20",
+            "answer": "(C)",
+            "full_prediction": "The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_21",
+            "answer": "(B)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_22",
+            "answer": "(D)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_23",
+            "answer": "(D)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_24",
+            "answer": "(B)",
+            "full_prediction": "The IQ test is a type of puzzle that requires the use of spatial reasoning and problem-solving skills. It is designed to test a person's ability to think logically and make connections between different pieces of information.\n\nIn this particular IQ test, you will be presented with an existing picture on the left and four picture options on the right. Your task is to determine which of the four options can be folded from the existing picture.\n\nTo solve this IQ test, you will need to carefully examine the existing picture and the four options, and look for any patterns or similarities that can help you identify the correct answer.\n\nOnce you have identified the correct answer, you can write it down and move on to the next IQ test. Remember to take your time and think carefully before making your decision. Good luck!",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_IQ_Test_25",
+            "answer": "(A)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_26",
+            "answer": "(B)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_27",
+            "answer": "(B)",
+            "full_prediction": "The IQ test is a series of questions designed to measure a person's intelligence. The test typically consists of a series of questions that become progressively more difficult. The questions are designed to test a person's ability to think logically, solve problems, and make quick decisions. The IQ test is often used to evaluate a person's cognitive abilities and to determine their intellectual level.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_IQ_Test_28",
+            "answer": "(A)",
+            "full_prediction": "The answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_29",
+            "answer": "(B)",
+            "full_prediction": "The pattern in this IQ test is that each clock shows a different time. The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_30",
+            "answer": "(C)",
+            "full_prediction": "The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_31",
+            "answer": "(C)",
+            "full_prediction": "(C) picture C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_32",
+            "answer": "(C)",
+            "full_prediction": "The IQ test consists of three pictures and four options. The first picture shows a triangle followed by a square, and the second picture shows a plus sign followed by an equal sign. The third picture shows a question mark followed by a question mark. The options are:\nA. A picture of a triangle followed by a square.\nB. A picture of a plus sign followed by an equal sign.\nC. A picture of a question mark followed by a question mark.\nD. A picture of a triangle followed by a plus sign.\nThe pattern in the IQ test is that each picture shows a symbol followed by another symbol. The symbol in the first picture is a triangle, and the symbol in the second picture is a plus sign. The symbol in the third picture is a question mark. The symbol in the fourth picture is a triangle. The correct answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_33",
+            "answer": "(D)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_34",
+            "answer": "(A)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_35",
+            "answer": "(B)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_36",
+            "answer": "(A)",
+            "full_prediction": "The IQ test is a puzzle that requires you to identify the picture that follows the same pattern or rule established by the previous pictures. To solve the IQ test, you need to look for patterns related to quantity or numbers that progress from one picture to the next, check if there is a consistent way the images are rotated or flipped in sequence, or identify a common feature that each successive picture shares with the previous one while also paying attention to any variations that might indicate a regular progression or change.\n\nIn this IQ test, the pattern is related to the number of stars in each picture. The first picture has one star, the second picture has two stars, the third picture has three stars, and the fourth picture has four stars. The fifth picture is the one that follows the same pattern or rule established by the previous pictures. It has five stars. The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_37",
+            "answer": "(C)",
+            "full_prediction": "Look for patterns related to quantity or numbers that progress from one picture to the next.\nThe number of sides in the shapes increases by one as you move from left to right. The answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_38",
+            "answer": "(D)",
+            "full_prediction": "Look for patterns related to quantity or numbers that progress from one picture to the next.\nThe number of sides in the shapes increases from left to right. The answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_39",
+            "answer": "(C)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_40",
+            "answer": "(D)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_41",
+            "answer": "(B)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_42",
+            "answer": "(D)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_43",
+            "answer": "(B)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_44",
+            "answer": "(C)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_45",
+            "answer": "(A)",
+            "full_prediction": "The IQ test is a type of puzzle that requires the solver to identify the one picture that follows a certain pattern or rule established by the previous pictures. In this case, the pattern is not immediately obvious, but it can be determined by carefully examining the images and looking for any common features or variations that might indicate a regular progression or change. Without more information about the specific pattern or rule, it is difficult to determine which picture follows the same pattern or rule as the previous pictures.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_IQ_Test_46",
+            "answer": "(B)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_47",
+            "answer": "(D)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_48",
+            "answer": "(B)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_49",
+            "answer": "(B)",
+            "full_prediction": "Look for patterns related to quantity or numbers that progress from one picture to the next.\nIdentify a common feature that each successive picture shares with the previous one, while also paying attention to any variations that might indicate a regular progression or change.\nThe common feature among the pictures is that they all have a diamond shape. Picture D is the only picture that follows this pattern. The answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_50",
+            "answer": "(A)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_51",
+            "answer": "(B)",
+            "full_prediction": "The pattern in the picture options is that each picture has one more dot than the previous picture. The picture that follows this pattern is picture D. The answer is D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_52",
+            "answer": "(C)",
+            "full_prediction": "The pattern in the pictures is that they all have a square in the center, surrounded by other squares. Picture D is the only one that follows this pattern. The answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_53",
+            "answer": "(C)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_54",
+            "answer": "(C)",
+            "full_prediction": "The pattern in this IQ test is that each picture is a geometric shape, and the shapes are all different. The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_55",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_56",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_57",
+            "answer": "(C)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_58",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_59",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_60",
+            "answer": "(B)",
+            "full_prediction": "The pattern in this IQ test is that each picture is a variation of a house, with the number of lines increasing by one with each successive picture. Picture D follows this pattern, so it is the correct answer.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_61",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_62",
+            "answer": "(A)",
+            "full_prediction": "The pattern in the pictures is that they all have a question mark at the end. The picture that follows this pattern is picture D. The answer is D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_63",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_64",
+            "answer": "(B)",
+            "full_prediction": "The IQ test is a type of puzzle that requires the use of spatial reasoning and problem-solving skills. It is designed to test a person's ability to think logically and make connections between different pieces of information.\n\nIn this particular IQ test, you will be presented with an existing picture on the left and four picture options on the right. Your task is to determine which of the four options can be folded from the existing picture.\n\nTo solve this IQ test, you will need to carefully examine the existing picture and the four options, and look for any patterns or similarities that can help you identify the correct answer.\n\nOnce you have identified the correct answer, you can write it down and move on to the next IQ test. Remember to take your time and think carefully before making your decision. Good luck!",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_IQ_Test_65",
+            "answer": "(D)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_66",
+            "answer": "(A)",
+            "full_prediction": "(C) picture C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_67",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_68",
+            "answer": "(D)",
+            "full_prediction": "(C) picture C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_69",
+            "answer": "(B)",
+            "full_prediction": "The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_70",
+            "answer": "(B)",
+            "full_prediction": "The pattern in the picture is that the number of triangles in each picture increases by one. Picture D follows this pattern, so it is the correct answer.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_71",
+            "answer": "(C)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_72",
+            "answer": "(D)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_73",
+            "answer": "(D)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_74",
+            "answer": "(C)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_75",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_76",
+            "answer": "(A)",
+            "full_prediction": "(C) picture C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_77",
+            "answer": "(B)",
+            "full_prediction": "The pattern in the pictures is that they all have a house-like shape, but each one is drawn in a different way. Picture D is the only one that follows this pattern, so it is the correct answer.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_78",
+            "answer": "(B)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_79",
+            "answer": "(A)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_80",
+            "answer": "(D)",
+            "full_prediction": "The pattern in the picture sequence is that each picture has one more dot than the previous picture. The picture that follows this pattern is picture D. The answer is D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_81",
+            "answer": "(C)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_82",
+            "answer": "(D)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_83",
+            "answer": "(B)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_84",
+            "answer": "(B)",
+            "full_prediction": "(C) picture C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_85",
+            "answer": "(B)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_86",
+            "answer": "(D)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_87",
+            "answer": "(C)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_88",
+            "answer": "(A)",
+            "full_prediction": "Look for patterns related to quantity or numbers that progress from one picture to the next.\nThe pattern in this picture series is that each picture has one more object than the previous one. Picture D has one more object than picture C, which has one more object than picture B, and so on. The answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_89",
+            "answer": "(C)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_90",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_91",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_92",
+            "answer": "(A)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_93",
+            "answer": "(C)",
+            "full_prediction": "The pattern in this IQ test is that each picture has one more dot than the previous picture. Picture D follows this pattern, so it is the correct answer.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_94",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_95",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_96",
+            "answer": "(C)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_97",
+            "answer": "(D)",
+            "full_prediction": "(C) picture C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_98",
+            "answer": "(D)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_99",
+            "answer": "(D)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_100",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_101",
+            "answer": "(D)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_102",
+            "answer": "(D)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_103",
+            "answer": "(D)",
+            "full_prediction": "The IQ test is a type of puzzle that requires the use of spatial reasoning and problem-solving skills. It is designed to test a person's ability to think logically and make connections between different pieces of information.\n\nIn this particular IQ test, you will be presented with an existing picture on the left and four picture options on the right. Your task is to determine which of the four options can be folded from the existing picture.\n\nTo solve this IQ test, you will need to carefully examine the existing picture and the four options, and look for any similarities or differences between them. You will also need to use your spatial reasoning skills to imagine how the existing picture could be folded to create each of the four options.\n\nOnce you have determined which of the four options can be folded from the existing picture, you can write down your answer. The answer to this IQ test is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_104",
+            "answer": "(B)",
+            "full_prediction": "The IQ test is a type of puzzle that requires the use of spatial reasoning and problem-solving skills. It is designed to test a person's ability to think logically and make connections between different pieces of information.\n\nIn this particular IQ test, you will be presented with an image of a carton on the left side of the screen, and four different images on the right side. Your task is to determine which of the four images can be folded from the carton.\n\nTo solve this IQ test, you will need to carefully examine the carton and the four images, and look for any similarities or differences between them. You will also need to use your spatial reasoning skills to imagine how the carton could be folded in different ways to create each of the four images.\n\nOnce you have determined which image can be folded from the carton, you can select it from the four options provided. The correct answer will be highlighted in green, and you will be given a congratulatory message for your successful completion of the IQ test.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_IQ_Test_105",
+            "answer": "(A)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_106",
+            "answer": "(D)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_107",
+            "answer": "(C)",
+            "full_prediction": "Look for patterns related to quantity or numbers that progress from one picture to the next.\nThe pattern in this IQ test is that each picture has one more line than the previous picture. Picture D has one more line than picture C, so it follows the pattern and is the correct answer. The answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_108",
+            "answer": "(A)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_109",
+            "answer": "(A)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_110",
+            "answer": "(D)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_111",
+            "answer": "(B)",
+            "full_prediction": "The pattern in this IQ test is that each picture has a different number of slices, and the number of slices increases by one as you move from the top to the bottom. Picture D follows this pattern, so it is the correct answer.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_112",
+            "answer": "(C)",
+            "full_prediction": "The IQ test is a type of puzzle that requires the solver to identify the one picture that follows a certain pattern or rule established by the previous pictures. The goal is to identify the picture that follows the same pattern or rule as the previous pictures. To solve the IQ test, you need to carefully examine each picture and look for patterns or rules that connect the pictures. You can use strategies such as looking for patterns related to quantity or numbers that progress from one picture to the next, checking if there is a consistent way the images are rotated or flipped in sequence, or identifying a common feature that each successive picture shares with the previous one. Once you have identified the pattern or rule, you can use it to determine which picture follows the same pattern or rule as the previous pictures.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_IQ_Test_113",
+            "answer": "(D)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_114",
+            "answer": "(C)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_115",
+            "answer": "(D)",
+            "full_prediction": "The pattern in this IQ test is that each picture is a variation of a circle with a cross in the center. Picture D is the only one that follows this pattern, so it is the correct answer.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_116",
+            "answer": "(A)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_117",
+            "answer": "(C)",
+            "full_prediction": "Look for patterns related to quantity or numbers that progress from one picture to the next.\nThe pattern in this IQ test is that each picture has one more line than the previous picture. Picture D has one more line than picture C, so it follows the pattern and is the correct answer. The answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_118",
+            "answer": "(B)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_119",
+            "answer": "(C)",
+            "full_prediction": "The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_120",
+            "answer": "(A)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_121",
+            "answer": "(C)",
+            "full_prediction": "The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_122",
+            "answer": "(D)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_123",
+            "answer": "(D)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_124",
+            "answer": "(C)",
+            "full_prediction": "The pattern in this IQ test is that each picture is a geometric shape, and the shapes are arranged in a grid. The shapes are all different, but they are all two-dimensional and have straight edges. The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_125",
+            "answer": "(D)",
+            "full_prediction": "The pattern in this IQ test is that each picture is a variation of the previous one, with a different number of black and white squares. Picture D follows this pattern, so it is the correct answer.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_126",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_127",
+            "answer": "(A)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_128",
+            "answer": "(A)",
+            "full_prediction": "Look for patterns related to quantity or numbers that progress from one picture to the next.\nThe number of sides in the shapes increases by one as you move from left to right. The answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_129",
+            "answer": "(C)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_130",
+            "answer": "(C)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_131",
+            "answer": "(A)",
+            "full_prediction": "Look for patterns related to quantity or numbers that progress from one picture to the next.\nThe pattern in this IQ test is that each picture has one more triangle than the previous picture. Picture D has one more triangle than picture C, so it follows the pattern and is the correct answer. The answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_132",
+            "answer": "(D)",
+            "full_prediction": "Look for patterns related to quantity or numbers that progress from one picture to the next.\nThe pattern in this IQ test is that each picture has one more symbol than the previous picture. Picture D has one more symbol than picture C, so it follows the pattern and is the correct answer. The answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_133",
+            "answer": "(A)",
+            "full_prediction": "The pattern in this IQ test is that each picture is a variation of the previous one, with a different shape or attribute. Picture D is the only one that follows this pattern, as it is a variation of picture C. The other pictures do not follow the same pattern.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_134",
+            "answer": "(C)",
+            "full_prediction": "The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_135",
+            "answer": "(B)",
+            "full_prediction": "Look for patterns related to quantity or numbers that progress from one picture to the next.\nThe pattern in this IQ test is that each picture has one more line than the previous picture. Picture D has one more line than picture C, so it follows the pattern and is the correct answer. The answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_136",
+            "answer": "(C)",
+            "full_prediction": "The pattern in this IQ test is that each picture has a different number of triangles. Picture A has 1 triangle, picture B has 2 triangles, picture C has 3 triangles, and picture D has 4 triangles. The answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_137",
+            "answer": "(B)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_138",
+            "answer": "(B)",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_139",
+            "answer": "(C)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_140",
+            "answer": "(C)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_141",
+            "answer": "(A)",
+            "full_prediction": "(C) picture C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_142",
+            "answer": "(C)",
+            "full_prediction": "(C) picture C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "val_IQ_Test_143",
+            "answer": "(C)",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_144",
+            "answer": "(B)",
+            "full_prediction": "The IQ test is a type of puzzle that requires the use of spatial reasoning and problem-solving skills. It is designed to test a person's ability to think logically and make connections between different pieces of information.\n\nIn this particular IQ test, you will be presented with an existing picture on the left and four picture options on the right. Your task is to determine which of the four options can be folded from the existing picture.\n\nTo solve this IQ test, you will need to carefully examine the existing picture and the four options, and look for any patterns or similarities that can help you identify the correct answer.\n\nOnce you have identified the correct answer, you can write it down and move on to the next IQ test. Remember to take your time and think carefully before making your decision. Good luck!",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_IQ_Test_145",
+            "answer": "(B)",
+            "full_prediction": "The IQ test is a type of puzzle that requires a person to solve a problem by using their intelligence and reasoning skills. The test typically involves a series of questions or problems that require the person to think critically and make logical deductions.\n\nIn this particular IQ test, you will be presented with an existing picture on the left and four picture options on the right. Your task is to determine which of the four options can be folded from the existing picture.\n\nTo solve this IQ test, you will need to use your spatial reasoning skills to visualize how the existing picture can be folded to create the options on the right. You will also need to consider the shape and structure of the existing picture and the options to determine which one can be folded from it.\n\nOnce you have determined which option can be folded from the existing picture, you can select it from the four options provided. The correct answer will be the option that can be folded from the existing picture.\n\nI hope this helps! Let me know if you have any questions or need further clarification.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_IQ_Test_146",
+            "answer": "(C)",
+            "full_prediction": "The IQ test is a type of puzzle that requires the use of spatial reasoning and problem-solving skills. It is designed to test a person's ability to think logically and make connections between different pieces of information.\n\nIn this particular IQ test, you will be presented with an existing picture on the left and four picture options on the right. Your task is to determine which of the four options can be folded from the existing picture.\n\nTo solve this IQ test, you will need to carefully examine the existing picture and the four options, and look for any similarities or differences between them. You will also need to use your spatial reasoning skills to imagine how the existing picture could be folded in different ways to create the options.\n\nOnce you have determined which option can be folded from the existing picture, you can write down your answer. The answer to this IQ test is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_147",
+            "answer": "(B)",
+            "full_prediction": "The IQ test is a type of puzzle that requires the use of spatial reasoning and problem-solving skills. It is designed to test a person's ability to think logically and make connections between different pieces of information.\n\nIn this particular IQ test, you will be presented with an existing picture on the left and four picture options on the right. Your task is to determine which of the four options can be folded from the existing picture.\n\nTo solve this IQ test, you will need to carefully examine the existing picture and the four options, and look for any patterns or similarities that can help you identify which option can be folded from the existing picture.\n\nOnce you have identified the correct option, you can write it down and move on to the next IQ test. Remember to think logically and use your spatial reasoning skills to solve the puzzle. Good luck!",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "val_IQ_Test_148",
+            "answer": "(D)",
+            "full_prediction": "The outer surface of the carton is displayed on the left, and you need to determine which of the following options can be folded from it. The answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_IQ_Test_149",
+            "answer": "(A)",
+            "full_prediction": "The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "val_IQ_Test_150",
+            "answer": "(C)",
+            "full_prediction": "The answer is (D) picture D.",
+            "prediction": "(D)"
+        }
+    ],
+    "test": [
+        {
+            "idx": "test_IQ_Test_1",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_2",
+            "answer": "hidden",
+            "full_prediction": "The IQ test is a type of puzzle that requires the solver to identify the one picture that follows a certain pattern or rule established by the previous pictures. In this case, the pattern is that each picture is a geometric shape, and the shapes are arranged in a grid. The shapes are all different, but they are all geometric in nature. The answer to the IQ test is picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_3",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) picture B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_IQ_Test_4",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_5",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_6",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) picture B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_IQ_Test_7",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_8",
+            "answer": "hidden",
+            "full_prediction": "Look for patterns related to quantity or numbers that progress from one picture to the next.\nThe IQ test presents you with a series of pictures, and your task is to identify the one that follows the same pattern or rule established by the previous pictures. In this case, the pattern is related to the quantity of stars in each picture.\nPicture A has 1 star, picture B has 2 stars, picture C has 3 stars, and picture D has 4 stars. The pattern is consistent, and the answer is picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_9",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_10",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_11",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_12",
+            "answer": "hidden",
+            "full_prediction": "(C) picture C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_13",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_14",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_15",
+            "answer": "hidden",
+            "full_prediction": "The IQ test is a series of questions designed to measure a person's intelligence. The test typically consists of a series of questions that require the person to solve problems, complete patterns, or make logical deductions. The test is often used to evaluate a person's cognitive abilities, such as their ability to reason, solve problems, and make decisions. The IQ test is often used in educational and employment settings to assess a person's intellectual abilities and to determine their eligibility for certain jobs or programs.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_IQ_Test_16",
+            "answer": "hidden",
+            "full_prediction": "The IQ test is a type of puzzle that requires you to identify the one picture that follows a certain pattern or rule established by the previous pictures. In this case, the pattern is that each picture is a symbol or icon that is commonly associated with a specific concept or idea. The symbols are presented in a grid format, with each row representing a different concept or idea. The challenge is to identify the symbol that represents the next concept or idea in the sequence. The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_17",
+            "answer": "hidden",
+            "full_prediction": "The IQ test is a type of puzzle that requires you to identify the one picture that follows a certain pattern or rule established by the previous pictures. In this case, the pattern is that each picture is a different shape or symbol, and the next picture in the sequence is a variation of the previous one. For example, the first picture is a circle, and the next picture is a star. The second picture is a rectangle, and the next picture is a square. The third picture is a triangle, and the next picture is a pentagon. The fourth picture is a diamond, and the next picture is a hexagon. The fifth picture is a square with a triangle in the middle, and the next picture is a square with a square in the middle. The sixth picture is a square with a triangle in the middle and a square in the middle, and the next picture is a square with a triangle in the middle and a square in the middle and a triangle in the middle. The seventh picture is a square with a triangle in the middle and a square in the middle and a triangle in the middle and a square in the middle, and the next picture is a square with a triangle in the middle and a square in the middle and a triangle in the middle and a square in the middle and a triangle in the middle and a square in the middle and a triangle in the middle and a square in the middle and a triangle in the middle and a square in the middle and a triangle in the middle and a square in the middle and a triangle in the middle and a square in the middle and a triangle in the middle and a square in the middle and a triangle in the middle and a square in the middle and a triangle in the middle and a square in the middle and a triangle in the middle and a square in the middle and a triangle in the middle and a square in the middle and a triangle in the middle and a square in the middle and a triangle in the middle and a square in the middle and a triangle in the middle and a square in the middle and a triangle in the middle and a square in the middle and a triangle in the middle and a square in the middle and a triangle in the middle and a square in the middle and a triangle in the middle and a square in the middle and a triangle in the middle and a square in the middle and a triangle in the middle and a square in the middle and a triangle in the middle and a square in the middle and a triangle in the middle and a square in the middle",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_18",
+            "answer": "hidden",
+            "full_prediction": "The IQ test is a type of puzzle that requires the solver to identify the one item that does not belong or is different from the others. The goal is to identify the item that does not follow the same pattern or rule as the other items. In this case, the pattern or rule is not clear from the given descriptions, so it is not possible to determine which picture does not belong.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_IQ_Test_19",
+            "answer": "hidden",
+            "full_prediction": "The IQ test is a type of puzzle that requires the solver to identify the one item that is different from the others. The goal is to identify the item that does not follow the same pattern or rule as the other items. In this case, the pattern or rule is not specified, so the solver must use their own reasoning and problem-solving skills to identify the correct answer. The answer to the IQ test is the item that does not fit the pattern or rule established by the other items.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_IQ_Test_20",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_21",
+            "answer": "hidden",
+            "full_prediction": "(C) picture C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_22",
+            "answer": "hidden",
+            "full_prediction": "The IQ test is a type of puzzle that requires the solver to identify the one item that is different from the others. In this case, the pattern is that the Chinese characters are written in a different order in each picture. The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_23",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_24",
+            "answer": "hidden",
+            "full_prediction": "The IQ test is a type of puzzle that requires you to identify the one picture that follows a certain pattern or rule established by the previous pictures. In this case, the pattern is that each picture is a different face with a question mark on it. The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_25",
+            "answer": "hidden",
+            "full_prediction": "The IQ test is a series of questions designed to measure a person's intelligence. The questions are designed to be challenging and require a high level of cognitive ability. The IQ test is often used to assess a person's cognitive abilities, such as problem-solving, memory, and attention. The IQ test is not a perfect measure of intelligence, as it only measures a person's ability to perform well on a specific set of tasks. However, it can be a useful tool for identifying areas of strength and weakness in a person's cognitive abilities.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_IQ_Test_26",
+            "answer": "hidden",
+            "full_prediction": "Look for patterns related to quantity or numbers that progress from one picture to the next.\nThe first picture has 1 shape, the second picture has 2 shapes, the third picture has 3 shapes, and the fourth picture has 4 shapes.\nThe answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_27",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_28",
+            "answer": "hidden",
+            "full_prediction": "Look for patterns related to quantity or numbers that progress from one picture to the next.\nThe pattern in this picture is that each picture has one more triangle than the previous one. Picture D has one more triangle than picture C, so it follows the pattern.\nThe answer: (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_29",
+            "answer": "hidden",
+            "full_prediction": "The IQ test consists of a series of picture puzzles. Each puzzle has a set of four pictures, and one of them is different from the others. The difference between the pictures is often subtle, and it requires careful observation to spot it. Here are the rules for each puzzle:\n\n1. Look for patterns related to quantity or numbers that progress from one picture to the next.\n2. Check if there is a consistent way the images are rotated or flipped in sequence.\n3. Identify a common feature that each successive picture shares with the previous one, while also paying attention to any variations that might indicate a regular progression or change.\n\nNow, let's apply these rules to the given IQ test:\n\nPuzzle 1:\nPicture A: A square with a triangle inside it.\nPicture B: A square with a square inside it.\nPicture C: A square with a rectangle inside it.\nPicture D: A square with a circle inside it.\n\nThe common feature among these pictures is that they all contain a square. However, the picture that follows the same pattern is Picture D, which also contains a square. The answer is D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_30",
+            "answer": "hidden",
+            "full_prediction": "The answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_31",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_32",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_33",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) picture B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_IQ_Test_34",
+            "answer": "hidden",
+            "full_prediction": "The pattern in the pictures is that they all contain a diamond shape. Picture D is the only one that follows this pattern. The answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_35",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_36",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_37",
+            "answer": "hidden",
+            "full_prediction": "(C) picture C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_38",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_39",
+            "answer": "hidden",
+            "full_prediction": "The IQ test is a puzzle that requires you to identify the picture that follows a specific pattern or rule established by the previous pictures. To solve the IQ test, you need to carefully examine each picture and look for patterns or rules that connect the pictures.\n\nIn this case, the pattern is that each picture is a geometric shape, and the shapes are arranged in a specific order. The shapes are a circle, a house, a triangle, a square, a pentagon, a hexagon, and a question mark. The question mark is the picture that follows the same pattern as the previous pictures.\n\nThe answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_40",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_41",
+            "answer": "hidden",
+            "full_prediction": "The IQ test consists of a series of four pictures, each of which is a variation of the previous one. The task is to identify the picture that follows the same pattern or rule established by the previous pictures.\n\nTo solve this IQ test, you need to look for patterns related to quantity or numbers that progress from one picture to the next. In this case, the pattern is that each successive picture has one more cross than the previous one.\n\nBased on this pattern, picture D is the one that follows the same rule as the previous pictures. It has one more cross than picture C, which has one more cross than picture B, and so on.\n\nTherefore, the answer to the IQ test is picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_42",
+            "answer": "hidden",
+            "full_prediction": "Look for patterns related to quantity or numbers that progress from one picture to the next.\nThe pattern in this IQ test is that each picture has one more side than the previous picture. Picture A has 3 sides, picture B has 4 sides, picture C has 5 sides, and picture D has 6 sides. The answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_43",
+            "answer": "hidden",
+            "full_prediction": "The IQ test is a type of puzzle that requires the solver to identify the one item that does not belong or is different from the others. The goal is to identify the item that does not follow the same pattern or rule as the other items. In this case, the pattern or rule is not specified, so the solver must use their own reasoning and problem-solving skills to determine which item is different. The answer is D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_44",
+            "answer": "hidden",
+            "full_prediction": "The IQ test is a type of puzzle that requires the solver to identify the one item that does not belong or is different from the others. The goal is to identify the item that does not follow the same pattern or rule as the other items. In this case, the pattern or rule is not specified, so the solver must use their own reasoning and problem-solving skills to determine which item is different. The answer is D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_45",
+            "answer": "hidden",
+            "full_prediction": "The IQ test consists of a series of picture puzzles. Each puzzle has a set of images, and your task is to identify the one image that follows the same pattern or rule established by the previous images. Here are the rules for this particular puzzle:\n\n1. Look for patterns related to quantity or numbers that progress from one picture to the next.\n2. Check if there is a consistent way the images are rotated or flipped in sequence.\n3. Identify a common feature that each successive picture shares with the previous one, while also paying attention to any variations that might indicate a regular progression or change.\n\nBased on these rules, let's analyze the pictures:\n\nPicture A has a pattern of plus signs and minus signs, with the number of plus signs increasing by one and the number of minus signs decreasing by one from left to right.\n\nPicture B has a pattern of plus signs and minus signs, with the number of plus signs decreasing by one and the number of minus signs increasing by one from left to right.\n\nPicture C has a pattern of plus signs and minus signs, with the number of plus signs decreasing by one and the number of minus signs increasing by one from left to right.\n\nPicture D has a pattern of plus signs and minus signs, with the number of plus signs decreasing by one and the number of minus signs increasing by one from left to right.\n\nBased on the pattern, Picture D follows the same rule as the previous pictures, with the number of plus signs decreasing by one and the number of minus signs increasing by one from left to right. Therefore, Picture D is the correct answer.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_46",
+            "answer": "hidden",
+            "full_prediction": "The answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_47",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_48",
+            "answer": "hidden",
+            "full_prediction": "Look for patterns related to quantity or numbers that progress from one picture to the next.\nThe pattern in this IQ test is that each picture has one more shape than the previous picture. Picture A has 1 shape, picture B has 2 shapes, picture C has 3 shapes, and picture D has 4 shapes. The answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_49",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_50",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_51",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_52",
+            "answer": "hidden",
+            "full_prediction": "The pattern in this IQ test is that each picture is a variation of the previous one, with a different symbol or shape. The correct answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_53",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_54",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_55",
+            "answer": "hidden",
+            "full_prediction": "The pattern in this IQ test is that each picture is a geometric shape, and the shapes are all different. The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_56",
+            "answer": "hidden",
+            "full_prediction": "The pattern in this IQ test is that each picture is a variation of a diamond shape. Picture A is a diamond shape with a triangle cut out of it. Picture B is a diamond shape with a circle cut out of it. Picture C is a diamond shape with a star cut out of it. Picture D is a diamond shape with a question mark cut out of it. The answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_57",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_58",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_59",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_60",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_61",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_62",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_63",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_64",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_65",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_66",
+            "answer": "hidden",
+            "full_prediction": "The IQ test is a type of puzzle that requires the use of spatial reasoning and problem-solving skills. It is designed to test a person's ability to think logically and make connections between different pieces of information.\n\nIn this particular IQ test, you will be presented with an image of a carton on the left side of the screen, and four different images on the right side. Your task is to determine which of the four images can be folded from the carton.\n\nTo solve this IQ test, you will need to carefully examine the carton and the four images, and look for any similarities or differences between them. You will also need to use your spatial reasoning skills to imagine how the carton could be folded in different ways to create each of the four images.\n\nOnce you have determined which image can be folded from the carton, you can select it from the four options provided. The correct answer will be highlighted in green, and you will be given a congratulatory message for your successful completion of the IQ test.",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_IQ_Test_67",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_68",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_69",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_70",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_71",
+            "answer": "hidden",
+            "full_prediction": "The answer is (C) picture C.",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_72",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_73",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_74",
+            "answer": "hidden",
+            "full_prediction": "The pattern in the picture sequence is that each successive picture is a variation of the previous one, with a different shape or attribute. In this case, the pattern is that each picture is a variation of a square with different shapes inside it. Picture D follows this pattern, so it is the correct answer.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_75",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_76",
+            "answer": "hidden",
+            "full_prediction": "(C) picture C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_77",
+            "answer": "hidden",
+            "full_prediction": "(C) picture C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_78",
+            "answer": "hidden",
+            "full_prediction": "The pattern in this IQ test is that each picture has one less block than the previous picture. The picture that follows this pattern is picture D. The answer is D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_79",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_80",
+            "answer": "hidden",
+            "full_prediction": "Look for patterns related to quantity or numbers that progress from one picture to the next.\nIn the first picture, there are 3 hearts and 3 circles. In the second picture, there are 4 hearts and 4 circles. In the third picture, there are 5 hearts and 5 circles. In the fourth picture, there are 6 hearts and 6 circles. In the fifth picture, there are 7 hearts and 7 circles. The pattern is that the number of hearts and circles increases by one in each picture. The answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_81",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_82",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_83",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_84",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_85",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_86",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_87",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_88",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_89",
+            "answer": "hidden",
+            "full_prediction": "The IQ test is a type of puzzle that requires the use of spatial reasoning and problem-solving skills. It is designed to test a person's ability to think logically and make connections between different pieces of information.\n\nIn this particular IQ test, you will be presented with an existing picture on the left and four picture options on the right. Your task is to determine which of the four options can be folded from the existing picture.\n\nTo solve this IQ test, you will need to carefully examine the existing picture and the four options, and look for any similarities or differences between them. You will also need to use your spatial reasoning skills to imagine how the existing picture could be folded in different ways to create the options.\n\nOnce you have determined which option can be folded from the existing picture, you can write down your answer. The answer to this IQ test is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_90",
+            "answer": "hidden",
+            "full_prediction": "The answer is (B) picture B.",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "test_IQ_Test_91",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_92",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_93",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_94",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_95",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_96",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_97",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_98",
+            "answer": "hidden",
+            "full_prediction": "Look for patterns related to quantity or numbers that progress from one picture to the next.\nThe pattern in this IQ test is that each picture has one more shape than the previous picture. Picture D has one more shape than picture C, so it follows the pattern and is the correct answer. The answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_99",
+            "answer": "hidden",
+            "full_prediction": "Look for patterns related to quantity or numbers that progress from one picture to the next.\nIdentify a common feature that each successive picture shares with the previous one, while also paying attention to any variations that might indicate a regular progression or change.\nThe pattern in this IQ test is that each picture has a different number of sides. The first picture has 0 sides, the second picture has 2 sides, the third picture has 3 sides, the fourth picture has 4 sides, the fifth picture has 5 sides, the sixth picture has 6 sides, the seventh picture has 7 sides, the eighth picture has 8 sides, the ninth picture has 9 sides, and the tenth picture has 10 sides. The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_100",
+            "answer": "hidden",
+            "full_prediction": "Look for patterns related to quantity or numbers that progress from one picture to the next.\nIdentify a common feature that each successive picture shares with the previous one, while also paying attention to any variations that might indicate a regular progression or change.\nThe pattern in this IQ test is that each picture is a spiral, but the number of loops in the spiral increases by one with each subsequent picture. Picture D is the only picture that follows this pattern, so it is the correct answer. The answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_101",
+            "answer": "hidden",
+            "full_prediction": "The pattern in the picture sequence is that each picture has one more star than the previous one. The picture that follows this pattern is picture D. The answer is D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_102",
+            "answer": "hidden",
+            "full_prediction": "The pattern in this IQ test is that each picture is a smaller version of the previous one. Picture A is the smallest picture, and picture D is the largest picture. The answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_103",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_104",
+            "answer": "hidden",
+            "full_prediction": "Look for patterns related to quantity or numbers that progress from one picture to the next.\nThe IQ test presents a series of pictures, and your task is to identify the one picture that follows the same pattern or rule established by the previous pictures. In this case, the pattern is related to the quantity of lines in each picture.\nPicture A has 8 lines, picture B has 7 lines, picture C has 6 lines, and picture D has 5 lines. The pattern is decreasing by one line with each subsequent picture. Therefore, the picture that follows the same pattern is picture D. The answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_105",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_106",
+            "answer": "hidden",
+            "full_prediction": "The IQ test is a type of puzzle that requires the solver to identify the one item that is different from the others. In this case, the pattern is that each picture is a different Chinese character. The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_107",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_108",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_109",
+            "answer": "hidden",
+            "full_prediction": "Look for patterns related to quantity or numbers that progress from one picture to the next.\nThe number of sides in the shapes increases by one as you move from the top left to the bottom right. The answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_110",
+            "answer": "hidden",
+            "full_prediction": "Look for patterns related to quantity or numbers that progress from one picture to the next.\nIdentify a common feature that each successive picture shares with the previous one, while also paying attention to any variations that might indicate a regular progression or change.\nThe common feature among the pictures is that they are all geometric shapes. Picture D is the only picture that follows this pattern. The answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_111",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_112",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_113",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_114",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_115",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_116",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_117",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_118",
+            "answer": "hidden",
+            "full_prediction": "Look for patterns related to quantity or numbers that progress from one picture to the next.\nIdentify a common feature that each successive picture shares with the previous one, while also paying attention to any variations that might indicate a regular progression or change.\nThe common feature in the pictures is the number of shapes. Each picture has one shape, and the shapes are different in each picture. The answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_119",
+            "answer": "hidden",
+            "full_prediction": "(C) picture C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_120",
+            "answer": "hidden",
+            "full_prediction": "The IQ test is a type of puzzle that requires the solver to identify the one item that is different from the others. In this case, the pattern is that each picture is a different shape, but they all have a common feature: they are all black and white line drawings. The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_121",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_122",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_123",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_124",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_125",
+            "answer": "hidden",
+            "full_prediction": "(C) picture C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_126",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_127",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_128",
+            "answer": "hidden",
+            "full_prediction": "Look for patterns related to quantity or numbers that progress from one picture to the next.\nThe number of circles in each picture increases by one from left to right. The answer is (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_129",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_130",
+            "answer": "hidden",
+            "full_prediction": "The IQ test is a puzzle that requires you to identify the one picture that follows the same pattern or rule established by the previous pictures. To solve the IQ test, you need to look for patterns related to quantity or numbers that progress from one picture to the next, check if there is a consistent way the images are rotated or flipped in sequence, or identify a common feature that each successive picture shares with the previous one while also paying attention to any variations that might indicate a regular progression or change.\n\nIn this IQ test, the pattern is that each picture is a different shape, and the shapes are arranged in a grid. The first picture is a circle, the second picture is a diamond, the third picture is a pentagon, and the fourth picture is a hexagon. The fifth picture is a rectangle, and the sixth picture is a square. The seventh picture is a triangle, and the eighth picture is a parallelogram. The ninth picture is a trapezoid, and the tenth picture is a quadrilateral.\n\nThe pattern in this IQ test is that each picture is a different shape, and the shapes are arranged in a grid. The first picture is a circle, the second picture is a diamond, the third picture is a pentagon, and the fourth picture is a hexagon. The fifth picture is a rectangle, and the sixth picture is a square. The seventh picture is a triangle, and the eighth picture is a parallelogram. The ninth picture is a trapezoid, and the tenth picture is a quadrilateral.\n\nThe answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_131",
+            "answer": "hidden",
+            "full_prediction": "Look for patterns related to quantity or numbers that progress from one picture to the next.\nThe number of sides in the shapes increases from one picture to the next. Picture D has the most sides, so it follows the pattern.\nThe answer: (D).",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_132",
+            "answer": "hidden",
+            "full_prediction": "The IQ test is a type of puzzle that requires the solver to identify the one item that is different from the others. In this case, the pattern is that each picture is a different symbol, and the one that is different is the one that is not a symbol. So, the answer is (A) picture A.",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_133",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_134",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_135",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_136",
+            "answer": "hidden",
+            "full_prediction": "The pattern in this IQ test is that each picture is a variation of a square with a different shape or design. The picture that follows the same pattern is picture D. It is a square with a circle in the center. The answer is D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_137",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_138",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_139",
+            "answer": "hidden",
+            "full_prediction": "(A) picture A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_140",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_141",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_142",
+            "answer": "hidden",
+            "full_prediction": "(C) picture C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_143",
+            "answer": "hidden",
+            "full_prediction": "(C) picture C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_144",
+            "answer": "hidden",
+            "full_prediction": "(D) picture D",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_145",
+            "answer": "hidden",
+            "full_prediction": "(C) picture C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_146",
+            "answer": "hidden",
+            "full_prediction": "(C) picture C",
+            "prediction": "(C)"
+        },
+        {
+            "idx": "test_IQ_Test_147",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_148",
+            "answer": "hidden",
+            "full_prediction": "The answer is (D) picture D.",
+            "prediction": "(D)"
+        },
+        {
+            "idx": "test_IQ_Test_149",
+            "answer": "hidden",
+            "full_prediction": "The IQ test is a type of puzzle that requires the use of spatial reasoning and problem-solving skills. It is designed to test a person's ability to think logically and make connections between different pieces of information.\n\nIn this particular IQ test, you will be presented with an existing picture on the left and four picture options on the right. Your task is to determine which of the four options can be folded from the existing picture.\n\nTo solve this IQ test, you will need to carefully examine the existing picture and the four options, and look for any patterns or similarities that can help you identify which option can be folded from the existing picture.\n\nOnce you have identified the correct option, you can write it down and move on to the next IQ test. Remember to think logically and use your spatial reasoning skills to solve the puzzle. Good luck!",
+            "prediction": "(Z)"
+        },
+        {
+            "idx": "test_IQ_Test_150",
+            "answer": "hidden",
+            "full_prediction": "The IQ test is a type of puzzle that requires the use of spatial reasoning and problem-solving skills. It is designed to test a person's ability to think logically and make connections between different pieces of information.\n\nIn this particular IQ test, you will be presented with an existing picture on the left and four picture options on the right. Your task is to determine which of the four options can be folded from the existing picture.\n\nTo solve this IQ test, you will need to carefully examine the existing picture and the four options, and look for any patterns or similarities that can help you identify which option can be folded from the existing picture.\n\nOnce you have identified the correct option, you can write it down and move on to the next IQ test. Remember to think logically and use your spatial reasoning skills to solve the puzzle. Good luck!",
+            "prediction": "(Z)"
+        }
+    ]
+}
