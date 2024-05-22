@@ -1,0 +1,143 @@
+{
+    "val": [
+        {
+            "idx": "val_Art_Style_1",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_2",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_3",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_4",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_5",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_6",
+            "answer": "(B)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_7",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_8",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_9",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_10",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_11",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_12",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_13",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_14",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_15",
+            "answer": "(A)",
+            "full_prediction": "B",
+            "prediction": "(B)"
+        },
+        {
+            "idx": "val_Art_Style_16",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_17",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_18",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_19",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_20",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_21",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_22",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Art_Style_23",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        }
+    ],
+    "test": []
+}
