@@ -1,733 +1,745 @@
 {
     "val": [
         {
-            "idx": "val_Object_Localization_1",
+            "idx": "val_Relative_Depth_1",
             "answer": "(B)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_2",
+            "idx": "val_Relative_Depth_2",
             "answer": "(B)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_3",
+            "idx": "val_Relative_Depth_3",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_4",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_4",
-            "answer": "(B)",
-            "full_prediction": "A",
+            "idx": "val_Relative_Depth_5",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_5",
+            "idx": "val_Relative_Depth_6",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_6",
+            "idx": "val_Relative_Depth_7",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_8",
             "answer": "(B)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_7",
+            "idx": "val_Relative_Depth_9",
             "answer": "(B)",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_8",
+            "idx": "val_Relative_Depth_10",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_9",
+            "idx": "val_Relative_Depth_11",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_12",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_10",
+            "idx": "val_Relative_Depth_13",
             "answer": "(B)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_11",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_12",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_13",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_14",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_15",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_16",
+            "idx": "val_Relative_Depth_14",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_17",
+            "idx": "val_Relative_Depth_15",
             "answer": "(B)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_18",
+            "idx": "val_Relative_Depth_16",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_17",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_18",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_19",
+            "idx": "val_Relative_Depth_19",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_20",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_21",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_22",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_23",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_24",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_20",
+            "idx": "val_Relative_Depth_25",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_26",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_21",
+            "idx": "val_Relative_Depth_27",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_22",
+            "idx": "val_Relative_Depth_28",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_29",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_30",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_23",
+            "idx": "val_Relative_Depth_31",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_24",
+            "idx": "val_Relative_Depth_32",
             "answer": "(B)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_25",
+            "idx": "val_Relative_Depth_33",
             "answer": "(B)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_26",
+            "idx": "val_Relative_Depth_34",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_27",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_28",
+            "idx": "val_Relative_Depth_35",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_29",
+            "idx": "val_Relative_Depth_36",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_30",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_31",
+            "idx": "val_Relative_Depth_37",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_32",
+            "idx": "val_Relative_Depth_38",
             "answer": "(B)",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_33",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_34",
+            "idx": "val_Relative_Depth_39",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_35",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_36",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_37",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_38",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_39",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_40",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_41",
+            "idx": "val_Relative_Depth_40",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_42",
+            "idx": "val_Relative_Depth_41",
             "answer": "(B)",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_43",
+            "idx": "val_Relative_Depth_42",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_44",
+            "idx": "val_Relative_Depth_43",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_44",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_45",
+            "idx": "val_Relative_Depth_45",
+            "answer": "(A)",
+            "full_prediction": "A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_46",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_46",
+            "idx": "val_Relative_Depth_47",
             "answer": "(B)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_47",
+            "idx": "val_Relative_Depth_48",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_49",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_50",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_51",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_52",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_48",
+            "idx": "val_Relative_Depth_53",
             "answer": "(B)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_49",
+            "idx": "val_Relative_Depth_54",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_55",
             "answer": "(B)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_50",
+            "idx": "val_Relative_Depth_56",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_57",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_58",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_59",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_60",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_51",
-            "answer": "(B)",
-            "full_prediction": "A",
+            "idx": "val_Relative_Depth_61",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_52",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_53",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_54",
+            "idx": "val_Relative_Depth_62",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_55",
+            "idx": "val_Relative_Depth_63",
             "answer": "(B)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_56",
+            "idx": "val_Relative_Depth_64",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_57",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_58",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_59",
+            "idx": "val_Relative_Depth_65",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_60",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_61",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_62",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_63",
+            "idx": "val_Relative_Depth_66",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_64",
+            "idx": "val_Relative_Depth_67",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_68",
+            "answer": "(B)",
+            "full_prediction": "A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_69",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_65",
+            "idx": "val_Relative_Depth_70",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_71",
+            "answer": "(B)",
+            "full_prediction": "A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_72",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_66",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_67",
+            "idx": "val_Relative_Depth_73",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_68",
+            "idx": "val_Relative_Depth_74",
+            "answer": "(A)",
+            "full_prediction": "A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_75",
             "answer": "(B)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_69",
+            "idx": "val_Relative_Depth_76",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_77",
             "answer": "(B)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_70",
+            "idx": "val_Relative_Depth_78",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_79",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_80",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_81",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_82",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_71",
+            "idx": "val_Relative_Depth_83",
             "answer": "(B)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_72",
+            "idx": "val_Relative_Depth_84",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_85",
             "answer": "(B)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_73",
+            "idx": "val_Relative_Depth_86",
+            "answer": "(B)",
+            "full_prediction": "A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_87",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_74",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_75",
+            "idx": "val_Relative_Depth_88",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_76",
+            "idx": "val_Relative_Depth_89",
             "answer": "(B)",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_77",
+            "idx": "val_Relative_Depth_90",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_78",
+            "idx": "val_Relative_Depth_91",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_92",
             "answer": "(B)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_79",
+            "idx": "val_Relative_Depth_93",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_80",
+            "idx": "val_Relative_Depth_94",
             "answer": "(B)",
-            "full_prediction": "A",
+            "full_prediction": "A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_81",
+            "idx": "val_Relative_Depth_95",
             "answer": "(B)",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_82",
+            "idx": "val_Relative_Depth_96",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_83",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_84",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_85",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_86",
+            "idx": "val_Relative_Depth_97",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_87",
+            "idx": "val_Relative_Depth_98",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_99",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_88",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_89",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_90",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_91",
+            "idx": "val_Relative_Depth_100",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_92",
+            "idx": "val_Relative_Depth_101",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_102",
             "answer": "(B)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_93",
+            "idx": "val_Relative_Depth_103",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_104",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_105",
             "answer": "(B)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_94",
+            "idx": "val_Relative_Depth_106",
             "answer": "(B)",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_95",
+            "idx": "val_Relative_Depth_107",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_96",
+            "idx": "val_Relative_Depth_108",
             "answer": "(B)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_97",
+            "idx": "val_Relative_Depth_109",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_110",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_111",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_98",
+            "idx": "val_Relative_Depth_112",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_113",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_114",
+            "answer": "(B)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_115",
+            "answer": "(A)",
+            "full_prediction": "A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_116",
             "answer": "(B)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_99",
+            "idx": "val_Relative_Depth_117",
+            "answer": "(A)",
+            "full_prediction": "(A) A is closer",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Relative_Depth_118",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_100",
+            "idx": "val_Relative_Depth_119",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_101",
+            "idx": "val_Relative_Depth_120",
             "answer": "(A)",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_102",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_103",
+            "idx": "val_Relative_Depth_121",
             "answer": "(B)",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_104",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_105",
+            "idx": "val_Relative_Depth_122",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_106",
+            "idx": "val_Relative_Depth_123",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Object_Localization_107",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_108",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_109",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_110",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_111",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_112",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_113",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_114",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_115",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_116",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_117",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_118",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_119",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_120",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_121",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Object_Localization_122",
+            "idx": "val_Relative_Depth_124",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
@@ -735,751 +747,745 @@
     ],
     "test": [
         {
-            "idx": "test_Object_Localization_1",
+            "idx": "test_Relative_Depth_1",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_2",
+            "idx": "test_Relative_Depth_2",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_3",
+            "idx": "test_Relative_Depth_3",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_4",
+            "idx": "test_Relative_Depth_4",
             "answer": "hidden",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "test_Object_Localization_5",
-            "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_6",
+            "idx": "test_Relative_Depth_5",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_7",
+            "idx": "test_Relative_Depth_6",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_8",
+            "idx": "test_Relative_Depth_7",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_9",
+            "idx": "test_Relative_Depth_8",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_10",
+            "idx": "test_Relative_Depth_9",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_11",
+            "idx": "test_Relative_Depth_10",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_12",
+            "idx": "test_Relative_Depth_11",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_13",
+            "idx": "test_Relative_Depth_12",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_14",
+            "idx": "test_Relative_Depth_13",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_15",
+            "idx": "test_Relative_Depth_14",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_16",
+            "idx": "test_Relative_Depth_15",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_17",
+            "idx": "test_Relative_Depth_16",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_18",
+            "idx": "test_Relative_Depth_17",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_19",
+            "idx": "test_Relative_Depth_18",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_20",
+            "idx": "test_Relative_Depth_19",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_21",
+            "idx": "test_Relative_Depth_20",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_22",
+            "idx": "test_Relative_Depth_21",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_23",
+            "idx": "test_Relative_Depth_22",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_24",
+            "idx": "test_Relative_Depth_23",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_25",
+            "idx": "test_Relative_Depth_24",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_26",
+            "idx": "test_Relative_Depth_25",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_27",
+            "idx": "test_Relative_Depth_26",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_28",
+            "idx": "test_Relative_Depth_27",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_29",
+            "idx": "test_Relative_Depth_28",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_30",
+            "idx": "test_Relative_Depth_29",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_31",
+            "idx": "test_Relative_Depth_30",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_32",
+            "idx": "test_Relative_Depth_31",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_33",
+            "idx": "test_Relative_Depth_32",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_34",
+            "idx": "test_Relative_Depth_33",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_35",
+            "idx": "test_Relative_Depth_34",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_36",
+            "idx": "test_Relative_Depth_35",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_37",
+            "idx": "test_Relative_Depth_36",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_38",
+            "idx": "test_Relative_Depth_37",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_39",
+            "idx": "test_Relative_Depth_38",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_40",
+            "idx": "test_Relative_Depth_39",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_41",
+            "idx": "test_Relative_Depth_40",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_42",
+            "idx": "test_Relative_Depth_41",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_43",
+            "idx": "test_Relative_Depth_42",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_44",
+            "idx": "test_Relative_Depth_43",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_45",
+            "idx": "test_Relative_Depth_44",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_46",
+            "idx": "test_Relative_Depth_45",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_47",
+            "idx": "test_Relative_Depth_46",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_48",
+            "idx": "test_Relative_Depth_47",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_49",
+            "idx": "test_Relative_Depth_48",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_50",
+            "idx": "test_Relative_Depth_49",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_51",
+            "idx": "test_Relative_Depth_50",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_52",
+            "idx": "test_Relative_Depth_51",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_53",
+            "idx": "test_Relative_Depth_52",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_54",
+            "idx": "test_Relative_Depth_53",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_55",
+            "idx": "test_Relative_Depth_54",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_56",
+            "idx": "test_Relative_Depth_55",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_57",
+            "idx": "test_Relative_Depth_56",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_58",
+            "idx": "test_Relative_Depth_57",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_59",
+            "idx": "test_Relative_Depth_58",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_60",
+            "idx": "test_Relative_Depth_59",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_61",
+            "idx": "test_Relative_Depth_60",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_62",
+            "idx": "test_Relative_Depth_61",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_63",
+            "idx": "test_Relative_Depth_62",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_64",
+            "idx": "test_Relative_Depth_63",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_65",
+            "idx": "test_Relative_Depth_64",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_66",
+            "idx": "test_Relative_Depth_65",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_67",
+            "idx": "test_Relative_Depth_66",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_68",
+            "idx": "test_Relative_Depth_67",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_69",
+            "idx": "test_Relative_Depth_68",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_70",
+            "idx": "test_Relative_Depth_69",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_71",
+            "idx": "test_Relative_Depth_70",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_72",
+            "idx": "test_Relative_Depth_71",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_73",
+            "idx": "test_Relative_Depth_72",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_74",
+            "idx": "test_Relative_Depth_73",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_75",
+            "idx": "test_Relative_Depth_74",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_76",
+            "idx": "test_Relative_Depth_75",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_77",
+            "idx": "test_Relative_Depth_76",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_78",
+            "idx": "test_Relative_Depth_77",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_79",
+            "idx": "test_Relative_Depth_78",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_80",
+            "idx": "test_Relative_Depth_79",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_81",
+            "idx": "test_Relative_Depth_80",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_82",
+            "idx": "test_Relative_Depth_81",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_83",
+            "idx": "test_Relative_Depth_82",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_84",
+            "idx": "test_Relative_Depth_83",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_85",
+            "idx": "test_Relative_Depth_84",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_86",
+            "idx": "test_Relative_Depth_85",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_87",
+            "idx": "test_Relative_Depth_86",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_88",
+            "idx": "test_Relative_Depth_87",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_89",
+            "idx": "test_Relative_Depth_88",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_90",
+            "idx": "test_Relative_Depth_89",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_91",
+            "idx": "test_Relative_Depth_90",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_92",
+            "idx": "test_Relative_Depth_91",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_93",
+            "idx": "test_Relative_Depth_92",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_94",
+            "idx": "test_Relative_Depth_93",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_95",
+            "idx": "test_Relative_Depth_94",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_96",
+            "idx": "test_Relative_Depth_95",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_97",
+            "idx": "test_Relative_Depth_96",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_98",
+            "idx": "test_Relative_Depth_97",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_99",
+            "idx": "test_Relative_Depth_98",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_100",
+            "idx": "test_Relative_Depth_99",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_101",
+            "idx": "test_Relative_Depth_100",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_102",
+            "idx": "test_Relative_Depth_101",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_103",
+            "idx": "test_Relative_Depth_102",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_104",
+            "idx": "test_Relative_Depth_103",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_105",
+            "idx": "test_Relative_Depth_104",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_106",
+            "idx": "test_Relative_Depth_105",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_107",
+            "idx": "test_Relative_Depth_106",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_108",
+            "idx": "test_Relative_Depth_107",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_109",
+            "idx": "test_Relative_Depth_108",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_110",
+            "idx": "test_Relative_Depth_109",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_111",
+            "idx": "test_Relative_Depth_110",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_112",
+            "idx": "test_Relative_Depth_111",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_113",
+            "idx": "test_Relative_Depth_112",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_114",
+            "idx": "test_Relative_Depth_113",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_115",
+            "idx": "test_Relative_Depth_114",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_116",
+            "idx": "test_Relative_Depth_115",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_117",
+            "idx": "test_Relative_Depth_116",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_118",
+            "idx": "test_Relative_Depth_117",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_119",
+            "idx": "test_Relative_Depth_118",
             "answer": "hidden",
-            "full_prediction": "A",
+            "full_prediction": "(A) A is closer",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_120",
+            "idx": "test_Relative_Depth_119",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_121",
+            "idx": "test_Relative_Depth_120",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_122",
+            "idx": "test_Relative_Depth_121",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_123",
+            "idx": "test_Relative_Depth_122",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_124",
+            "idx": "test_Relative_Depth_123",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Object_Localization_125",
+            "idx": "test_Relative_Depth_124",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"

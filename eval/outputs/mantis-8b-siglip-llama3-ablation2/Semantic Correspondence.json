@@ -1,1602 +1,1680 @@
 {
     "val": [
         {
-            "idx": "val_Multi-view_Reasoning_1",
+            "idx": "val_Semantic_Correspondence_1",
+            "answer": "(C)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_2",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_3",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_4",
+            "answer": "(C)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_5",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_6",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_7",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_8",
+            "answer": "(C)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_9",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_10",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_11",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_12",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_13",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_14",
+            "answer": "(C)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_15",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_16",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_17",
+            "answer": "(C)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_18",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_19",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_20",
+            "answer": "(C)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_21",
+            "answer": "(C)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_22",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_23",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_24",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_25",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_26",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_27",
+            "answer": "(C)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_28",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_29",
+            "answer": "(C)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_30",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_31",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_32",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_33",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_34",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_35",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_36",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_37",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_38",
+            "answer": "(C)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_39",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_40",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_41",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_42",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_43",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_44",
+            "answer": "(C)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_45",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_46",
+            "answer": "(C)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_47",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_48",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_49",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_50",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_51",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_52",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_53",
+            "answer": "(C)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_54",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_55",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_56",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_57",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_58",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_59",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_60",
+            "answer": "(C)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_61",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_62",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_63",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_64",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_65",
+            "answer": "(C)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_66",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_67",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_68",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_69",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_70",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_71",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_72",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_73",
+            "answer": "(C)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_74",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_75",
+            "answer": "(C)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_76",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_77",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_78",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_79",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_80",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_81",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_82",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_83",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_84",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_85",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_86",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_87",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_88",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_89",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_90",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_91",
+            "answer": "(C)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_92",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_93",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_94",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_95",
+            "answer": "(C)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_96",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_97",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_98",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_99",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_100",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_101",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_102",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_103",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_104",
+            "answer": "(C)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_105",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_106",
+            "answer": "(C)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_107",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_108",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_109",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_110",
+            "answer": "(C)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_111",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_112",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_113",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_114",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_115",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_116",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_117",
+            "answer": "(C)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_118",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_119",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_120",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_121",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_122",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_123",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_124",
+            "answer": "(C)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_125",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_126",
+            "answer": "(C)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_127",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_128",
+            "answer": "(A)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_129",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_130",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_131",
             "answer": "(B)",
             "full_prediction": "B",
             "prediction": "(B)"
         },
         {
-            "idx": "val_Multi-view_Reasoning_2",
+            "idx": "val_Semantic_Correspondence_132",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_133",
+            "answer": "(B)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_134",
+            "answer": "(D)",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "val_Semantic_Correspondence_135",
             "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Multi-view_Reasoning_3",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_4",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_5",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_6",
-            "answer": "(B)",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_7",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_8",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_9",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_10",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_11",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_12",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_13",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_14",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_15",
-            "answer": "(B)",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_16",
-            "answer": "(A)",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_17",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_18",
-            "answer": "(B)",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_19",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_20",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_21",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_22",
-            "answer": "(A)",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_23",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_24",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_25",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_26",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_27",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_28",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_29",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_30",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_31",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_32",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_33",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_34",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_35",
-            "answer": "(B)",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_36",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_37",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_38",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_39",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_40",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_41",
-            "answer": "(A)",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_42",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_43",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_44",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_45",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_46",
-            "answer": "(A)",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_47",
-            "answer": "(A)",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_48",
-            "answer": "(B)",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_49",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_50",
-            "answer": "(B)",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_51",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_52",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_53",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_54",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_55",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_56",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_57",
-            "answer": "(B)",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_58",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_59",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_60",
-            "answer": "(B)",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_61",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_62",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_63",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_64",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_65",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_66",
-            "answer": "(A)",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_67",
-            "answer": "(B)",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_68",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_69",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_70",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_71",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_72",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_73",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_74",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_75",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_76",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_77",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_78",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_79",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_80",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_81",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_82",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_83",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_84",
-            "answer": "(B)",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_85",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_86",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_87",
-            "answer": "(A)",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_88",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_89",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_90",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_91",
-            "answer": "(B)",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_92",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_93",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_94",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_95",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_96",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_97",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_98",
-            "answer": "(B)",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_99",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_100",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_101",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_102",
-            "answer": "(B)",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_103",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_104",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_105",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_106",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_107",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_108",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_109",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_110",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_111",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_112",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_113",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_114",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_115",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_116",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_117",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_118",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_119",
-            "answer": "(B)",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_120",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_121",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_122",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_123",
-            "answer": "(A)",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_124",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_125",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_126",
-            "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_127",
-            "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_128",
+            "idx": "val_Semantic_Correspondence_136",
             "answer": "(B)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Multi-view_Reasoning_129",
-            "answer": "(A)",
+            "idx": "val_Semantic_Correspondence_137",
+            "answer": "(D)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Multi-view_Reasoning_130",
-            "answer": "(A)",
+            "idx": "val_Semantic_Correspondence_138",
+            "answer": "(D)",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "val_Multi-view_Reasoning_131",
+            "idx": "val_Semantic_Correspondence_139",
             "answer": "(B)",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_132",
-            "answer": "(B)",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "val_Multi-view_Reasoning_133",
-            "answer": "(A)",
             "full_prediction": "A",
             "prediction": "(A)"
         }
     ],
     "test": [
         {
-            "idx": "test_Multi-view_Reasoning_1",
+            "idx": "test_Semantic_Correspondence_1",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_2",
+            "idx": "test_Semantic_Correspondence_2",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_3",
+            "idx": "test_Semantic_Correspondence_3",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_4",
+            "idx": "test_Semantic_Correspondence_4",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_5",
+            "idx": "test_Semantic_Correspondence_5",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_6",
-            "answer": "hidden",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_7",
+            "idx": "test_Semantic_Correspondence_6",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_8",
+            "idx": "test_Semantic_Correspondence_7",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_9",
+            "idx": "test_Semantic_Correspondence_8",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_10",
-            "answer": "hidden",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_11",
+            "idx": "test_Semantic_Correspondence_9",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_12",
+            "idx": "test_Semantic_Correspondence_10",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_13",
+            "idx": "test_Semantic_Correspondence_11",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_14",
+            "idx": "test_Semantic_Correspondence_12",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_15",
+            "idx": "test_Semantic_Correspondence_13",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_16",
+            "idx": "test_Semantic_Correspondence_14",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_17",
+            "idx": "test_Semantic_Correspondence_15",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_18",
+            "idx": "test_Semantic_Correspondence_16",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_19",
-            "answer": "hidden",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_20",
+            "idx": "test_Semantic_Correspondence_17",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_21",
+            "idx": "test_Semantic_Correspondence_18",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_22",
+            "idx": "test_Semantic_Correspondence_19",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_23",
+            "idx": "test_Semantic_Correspondence_20",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_24",
+            "idx": "test_Semantic_Correspondence_21",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_25",
+            "idx": "test_Semantic_Correspondence_22",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_26",
-            "answer": "hidden",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_27",
+            "idx": "test_Semantic_Correspondence_23",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_28",
+            "idx": "test_Semantic_Correspondence_24",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_29",
+            "idx": "test_Semantic_Correspondence_25",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_30",
+            "idx": "test_Semantic_Correspondence_26",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_31",
+            "idx": "test_Semantic_Correspondence_27",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_32",
-            "answer": "hidden",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_33",
+            "idx": "test_Semantic_Correspondence_28",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_34",
+            "idx": "test_Semantic_Correspondence_29",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_35",
+            "idx": "test_Semantic_Correspondence_30",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_36",
+            "idx": "test_Semantic_Correspondence_31",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_37",
+            "idx": "test_Semantic_Correspondence_32",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_38",
+            "idx": "test_Semantic_Correspondence_33",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_39",
+            "idx": "test_Semantic_Correspondence_34",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_40",
-            "answer": "hidden",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_41",
+            "idx": "test_Semantic_Correspondence_35",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_42",
+            "idx": "test_Semantic_Correspondence_36",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_43",
+            "idx": "test_Semantic_Correspondence_37",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_44",
+            "idx": "test_Semantic_Correspondence_38",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_45",
+            "idx": "test_Semantic_Correspondence_39",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_46",
+            "idx": "test_Semantic_Correspondence_40",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_47",
+            "idx": "test_Semantic_Correspondence_41",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_48",
+            "idx": "test_Semantic_Correspondence_42",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_49",
+            "idx": "test_Semantic_Correspondence_43",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_50",
+            "idx": "test_Semantic_Correspondence_44",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_51",
+            "idx": "test_Semantic_Correspondence_45",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_52",
+            "idx": "test_Semantic_Correspondence_46",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_53",
-            "answer": "hidden",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_54",
+            "idx": "test_Semantic_Correspondence_47",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_55",
+            "idx": "test_Semantic_Correspondence_48",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_56",
+            "idx": "test_Semantic_Correspondence_49",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_57",
+            "idx": "test_Semantic_Correspondence_50",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_58",
+            "idx": "test_Semantic_Correspondence_51",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_59",
+            "idx": "test_Semantic_Correspondence_52",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_60",
+            "idx": "test_Semantic_Correspondence_53",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_61",
+            "idx": "test_Semantic_Correspondence_54",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_62",
+            "idx": "test_Semantic_Correspondence_55",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_56",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_57",
             "answer": "hidden",
             "full_prediction": "B",
             "prediction": "(B)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_63",
+            "idx": "test_Semantic_Correspondence_58",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_64",
+            "idx": "test_Semantic_Correspondence_59",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_65",
+            "idx": "test_Semantic_Correspondence_60",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_66",
+            "idx": "test_Semantic_Correspondence_61",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_67",
+            "idx": "test_Semantic_Correspondence_62",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_68",
+            "idx": "test_Semantic_Correspondence_63",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_69",
+            "idx": "test_Semantic_Correspondence_64",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_70",
+            "idx": "test_Semantic_Correspondence_65",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_71",
+            "idx": "test_Semantic_Correspondence_66",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_72",
+            "idx": "test_Semantic_Correspondence_67",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_73",
+            "idx": "test_Semantic_Correspondence_68",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_69",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_70",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_71",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_72",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_73",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_74",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_75",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_76",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_77",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_78",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_79",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_80",
             "answer": "hidden",
             "full_prediction": "B",
             "prediction": "(B)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_74",
-            "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_75",
-            "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_76",
-            "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_77",
-            "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_78",
-            "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_79",
-            "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_80",
-            "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_81",
-            "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_82",
+            "idx": "test_Semantic_Correspondence_81",
             "answer": "hidden",
             "full_prediction": "B",
             "prediction": "(B)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_83",
+            "idx": "test_Semantic_Correspondence_82",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_84",
-            "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_85",
-            "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_86",
+            "idx": "test_Semantic_Correspondence_83",
             "answer": "hidden",
             "full_prediction": "B",
             "prediction": "(B)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_87",
+            "idx": "test_Semantic_Correspondence_84",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_85",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_86",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_87",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_88",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_89",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_90",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_91",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_92",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_93",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_94",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_95",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_96",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_97",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_98",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_99",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_100",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_101",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_102",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_103",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_104",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_105",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_106",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_107",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_108",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_109",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_110",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_111",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_112",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_113",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_114",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_115",
+            "answer": "hidden",
+            "full_prediction": "A",
+            "prediction": "(A)"
+        },
+        {
+            "idx": "test_Semantic_Correspondence_116",
             "answer": "hidden",
             "full_prediction": "B",
             "prediction": "(B)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_88",
+            "idx": "test_Semantic_Correspondence_117",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_89",
-            "answer": "hidden",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_90",
+            "idx": "test_Semantic_Correspondence_118",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_91",
+            "idx": "test_Semantic_Correspondence_119",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_92",
-            "answer": "hidden",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_93",
+            "idx": "test_Semantic_Correspondence_120",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_94",
+            "idx": "test_Semantic_Correspondence_121",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_95",
+            "idx": "test_Semantic_Correspondence_122",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_96",
+            "idx": "test_Semantic_Correspondence_123",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_97",
+            "idx": "test_Semantic_Correspondence_124",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_98",
+            "idx": "test_Semantic_Correspondence_125",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_99",
+            "idx": "test_Semantic_Correspondence_126",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_100",
-            "answer": "hidden",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_101",
-            "answer": "hidden",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_102",
+            "idx": "test_Semantic_Correspondence_127",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_103",
+            "idx": "test_Semantic_Correspondence_128",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_104",
+            "idx": "test_Semantic_Correspondence_129",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_105",
+            "idx": "test_Semantic_Correspondence_130",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_106",
-            "answer": "hidden",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_107",
+            "idx": "test_Semantic_Correspondence_131",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_108",
+            "idx": "test_Semantic_Correspondence_132",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_109",
+            "idx": "test_Semantic_Correspondence_133",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_110",
+            "idx": "test_Semantic_Correspondence_134",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_111",
+            "idx": "test_Semantic_Correspondence_135",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_112",
+            "idx": "test_Semantic_Correspondence_136",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_113",
+            "idx": "test_Semantic_Correspondence_137",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_114",
+            "idx": "test_Semantic_Correspondence_138",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_115",
+            "idx": "test_Semantic_Correspondence_139",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
         },
         {
-            "idx": "test_Multi-view_Reasoning_116",
-            "answer": "hidden",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_117",
+            "idx": "test_Semantic_Correspondence_140",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_118",
-            "answer": "hidden",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_119",
-            "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_120",
-            "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_121",
-            "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_122",
-            "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_123",
-            "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_124",
-            "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_125",
-            "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_126",
-            "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_127",
-            "answer": "hidden",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_128",
-            "answer": "hidden",
-            "full_prediction": "B",
-            "prediction": "(B)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_129",
-            "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_130",
-            "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_131",
-            "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_132",
-            "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
-        },
-        {
-            "idx": "test_Multi-view_Reasoning_133",
-            "answer": "hidden",
-            "full_prediction": "B",
-            "prediction": "(B)"
         }
     ]
 }

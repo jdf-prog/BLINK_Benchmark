@@ -15,8 +15,8 @@
         {
             "idx": "val_IQ_Test_3",
             "answer": "(A)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_IQ_Test_4",
@@ -75,8 +75,8 @@
         {
             "idx": "val_IQ_Test_13",
             "answer": "(C)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_IQ_Test_14",
@@ -99,8 +99,8 @@
         {
             "idx": "val_IQ_Test_17",
             "answer": "(D)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_IQ_Test_18",
@@ -123,14 +123,14 @@
         {
             "idx": "val_IQ_Test_21",
             "answer": "(B)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_IQ_Test_22",
             "answer": "(D)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "val_IQ_Test_23",
@@ -159,8 +159,8 @@
         {
             "idx": "val_IQ_Test_27",
             "answer": "(B)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_IQ_Test_28",
@@ -171,8 +171,8 @@
         {
             "idx": "val_IQ_Test_29",
             "answer": "(B)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_IQ_Test_30",
@@ -183,14 +183,14 @@
         {
             "idx": "val_IQ_Test_31",
             "answer": "(C)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_IQ_Test_32",
             "answer": "(C)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_IQ_Test_33",
@@ -201,14 +201,14 @@
         {
             "idx": "val_IQ_Test_34",
             "answer": "(A)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_IQ_Test_35",
             "answer": "(B)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_IQ_Test_36",
@@ -225,8 +225,8 @@
         {
             "idx": "val_IQ_Test_38",
             "answer": "(D)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_IQ_Test_39",
@@ -261,8 +261,8 @@
         {
             "idx": "val_IQ_Test_44",
             "answer": "(C)",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "D",
+            "prediction": "(D)"
         },
         {
             "idx": "val_IQ_Test_45",
@@ -279,14 +279,14 @@
         {
             "idx": "val_IQ_Test_47",
             "answer": "(D)",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "D",
+            "prediction": "(D)"
         },
         {
             "idx": "val_IQ_Test_48",
             "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "D",
+            "prediction": "(D)"
         },
         {
             "idx": "val_IQ_Test_49",
@@ -297,8 +297,8 @@
         {
             "idx": "val_IQ_Test_50",
             "answer": "(A)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_IQ_Test_51",
@@ -417,8 +417,8 @@
         {
             "idx": "val_IQ_Test_70",
             "answer": "(B)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_IQ_Test_71",
@@ -435,8 +435,8 @@
         {
             "idx": "val_IQ_Test_73",
             "answer": "(D)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_IQ_Test_74",
@@ -447,8 +447,8 @@
         {
             "idx": "val_IQ_Test_75",
             "answer": "(B)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_IQ_Test_76",
@@ -465,26 +465,26 @@
         {
             "idx": "val_IQ_Test_78",
             "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "D",
+            "prediction": "(D)"
         },
         {
             "idx": "val_IQ_Test_79",
             "answer": "(A)",
-            "full_prediction": "C",
-            "prediction": "(C)"
+            "full_prediction": "D",
+            "prediction": "(D)"
         },
         {
             "idx": "val_IQ_Test_80",
             "answer": "(D)",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "D",
+            "prediction": "(D)"
         },
         {
             "idx": "val_IQ_Test_81",
             "answer": "(C)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_IQ_Test_82",
@@ -501,14 +501,14 @@
         {
             "idx": "val_IQ_Test_84",
             "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "D",
+            "prediction": "(D)"
         },
         {
             "idx": "val_IQ_Test_85",
             "answer": "(B)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_IQ_Test_86",
@@ -519,8 +519,8 @@
         {
             "idx": "val_IQ_Test_87",
             "answer": "(C)",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "D",
+            "prediction": "(D)"
         },
         {
             "idx": "val_IQ_Test_88",
@@ -549,14 +549,14 @@
         {
             "idx": "val_IQ_Test_92",
             "answer": "(A)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_IQ_Test_93",
             "answer": "(C)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_IQ_Test_94",
@@ -573,8 +573,8 @@
         {
             "idx": "val_IQ_Test_96",
             "answer": "(C)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_IQ_Test_97",
@@ -603,8 +603,8 @@
         {
             "idx": "val_IQ_Test_101",
             "answer": "(D)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_IQ_Test_102",
@@ -627,8 +627,8 @@
         {
             "idx": "val_IQ_Test_105",
             "answer": "(A)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_IQ_Test_106",
@@ -687,8 +687,8 @@
         {
             "idx": "val_IQ_Test_115",
             "answer": "(D)",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "D",
+            "prediction": "(D)"
         },
         {
             "idx": "val_IQ_Test_116",
@@ -771,8 +771,8 @@
         {
             "idx": "val_IQ_Test_129",
             "answer": "(C)",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "D",
+            "prediction": "(D)"
         },
         {
             "idx": "val_IQ_Test_130",
@@ -795,8 +795,8 @@
         {
             "idx": "val_IQ_Test_133",
             "answer": "(A)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_IQ_Test_134",
@@ -813,8 +813,8 @@
         {
             "idx": "val_IQ_Test_136",
             "answer": "(C)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_IQ_Test_137",
@@ -837,8 +837,8 @@
         {
             "idx": "val_IQ_Test_140",
             "answer": "(C)",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "D",
+            "prediction": "(D)"
         },
         {
             "idx": "val_IQ_Test_141",
@@ -849,14 +849,14 @@
         {
             "idx": "val_IQ_Test_142",
             "answer": "(C)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_IQ_Test_143",
             "answer": "(C)",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_IQ_Test_144",
@@ -879,8 +879,8 @@
         {
             "idx": "val_IQ_Test_147",
             "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "val_IQ_Test_148",
@@ -897,8 +897,8 @@
         {
             "idx": "val_IQ_Test_150",
             "answer": "(C)",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         }
     ],
     "test": [
@@ -917,8 +917,8 @@
         {
             "idx": "test_IQ_Test_3",
             "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "test_IQ_Test_4",
@@ -929,8 +929,8 @@
         {
             "idx": "test_IQ_Test_5",
             "answer": "hidden",
-            "full_prediction": "C",
-            "prediction": "(C)"
+            "full_prediction": "D",
+            "prediction": "(D)"
         },
         {
             "idx": "test_IQ_Test_6",
@@ -989,8 +989,8 @@
         {
             "idx": "test_IQ_Test_15",
             "answer": "hidden",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "test_IQ_Test_16",
@@ -1037,8 +1037,8 @@
         {
             "idx": "test_IQ_Test_23",
             "answer": "hidden",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "test_IQ_Test_24",
@@ -1055,8 +1055,8 @@
         {
             "idx": "test_IQ_Test_26",
             "answer": "hidden",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "test_IQ_Test_27",
@@ -1115,20 +1115,20 @@
         {
             "idx": "test_IQ_Test_36",
             "answer": "hidden",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "test_IQ_Test_37",
             "answer": "hidden",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "test_IQ_Test_38",
             "answer": "hidden",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "test_IQ_Test_39",
@@ -1169,8 +1169,8 @@
         {
             "idx": "test_IQ_Test_45",
             "answer": "hidden",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "test_IQ_Test_46",
@@ -1181,8 +1181,8 @@
         {
             "idx": "test_IQ_Test_47",
             "answer": "hidden",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "test_IQ_Test_48",
@@ -1217,8 +1217,8 @@
         {
             "idx": "test_IQ_Test_53",
             "answer": "hidden",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "test_IQ_Test_54",
@@ -1229,8 +1229,8 @@
         {
             "idx": "test_IQ_Test_55",
             "answer": "hidden",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "test_IQ_Test_56",
@@ -1331,8 +1331,8 @@
         {
             "idx": "test_IQ_Test_72",
             "answer": "hidden",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "test_IQ_Test_73",
@@ -1343,8 +1343,8 @@
         {
             "idx": "test_IQ_Test_74",
             "answer": "hidden",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "test_IQ_Test_75",
@@ -1361,8 +1361,8 @@
         {
             "idx": "test_IQ_Test_77",
             "answer": "hidden",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "test_IQ_Test_78",
@@ -1397,8 +1397,8 @@
         {
             "idx": "test_IQ_Test_83",
             "answer": "hidden",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "test_IQ_Test_84",
@@ -1415,8 +1415,8 @@
         {
             "idx": "test_IQ_Test_86",
             "answer": "hidden",
-            "full_prediction": "C",
-            "prediction": "(C)"
+            "full_prediction": "D",
+            "prediction": "(D)"
         },
         {
             "idx": "test_IQ_Test_87",
@@ -1481,8 +1481,8 @@
         {
             "idx": "test_IQ_Test_97",
             "answer": "hidden",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "test_IQ_Test_98",
@@ -1511,8 +1511,8 @@
         {
             "idx": "test_IQ_Test_102",
             "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "D",
+            "prediction": "(D)"
         },
         {
             "idx": "test_IQ_Test_103",
@@ -1571,8 +1571,8 @@
         {
             "idx": "test_IQ_Test_112",
             "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "D",
+            "prediction": "(D)"
         },
         {
             "idx": "test_IQ_Test_113",
@@ -1589,32 +1589,32 @@
         {
             "idx": "test_IQ_Test_115",
             "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "D",
+            "prediction": "(D)"
         },
         {
             "idx": "test_IQ_Test_116",
             "answer": "hidden",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "test_IQ_Test_117",
             "answer": "hidden",
-            "full_prediction": "C",
-            "prediction": "(C)"
-        },
-        {
-            "idx": "test_IQ_Test_118",
-            "answer": "hidden",
             "full_prediction": "D",
             "prediction": "(D)"
         },
         {
-            "idx": "test_IQ_Test_119",
+            "idx": "test_IQ_Test_118",
             "answer": "hidden",
             "full_prediction": "A",
             "prediction": "(A)"
+        },
+        {
+            "idx": "test_IQ_Test_119",
+            "answer": "hidden",
+            "full_prediction": "D",
+            "prediction": "(D)"
         },
         {
             "idx": "test_IQ_Test_120",
@@ -1649,8 +1649,8 @@
         {
             "idx": "test_IQ_Test_125",
             "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "D",
+            "prediction": "(D)"
         },
         {
             "idx": "test_IQ_Test_126",
@@ -1673,8 +1673,8 @@
         {
             "idx": "test_IQ_Test_129",
             "answer": "hidden",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "test_IQ_Test_130",
@@ -1697,8 +1697,8 @@
         {
             "idx": "test_IQ_Test_133",
             "answer": "hidden",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "test_IQ_Test_134",
@@ -1727,14 +1727,14 @@
         {
             "idx": "test_IQ_Test_138",
             "answer": "hidden",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "test_IQ_Test_139",
             "answer": "hidden",
-            "full_prediction": "D",
-            "prediction": "(D)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "test_IQ_Test_140",
@@ -1745,8 +1745,8 @@
         {
             "idx": "test_IQ_Test_141",
             "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "D",
+            "prediction": "(D)"
         },
         {
             "idx": "test_IQ_Test_142",

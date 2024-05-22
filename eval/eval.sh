@@ -18,3 +18,4 @@ python test_benchmark.py --model_name "vila" --task_name all > ./logs/eval_vila.
 python test_benchmark.py --model_name "otterimage" --task_name all > ./logs/eval_otterimage.log 2>&1
 python test_benchmark.py --model_name "ottervideo" --task_name all > ./logs/eval_ottervideo.log 2>&1
 python test_benchmark.py --model_name "videollava" --task_name all > ./logs/eval_videollava.log 2>&1
+python test_benchmark.py --model_name "mantis-8b-siglip-llama3-ablation1" --task_name all > ./logs/eval_mantis-8b-siglip-llama3-ablation1.log 2>&1

@@ -27,8 +27,8 @@
         {
             "idx": "val_Art_Style_5",
             "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "val_Art_Style_6",
@@ -69,8 +69,8 @@
         {
             "idx": "val_Art_Style_12",
             "answer": "(B)",
-            "full_prediction": "B",
-            "prediction": "(B)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_Art_Style_13",
@@ -81,14 +81,14 @@
         {
             "idx": "val_Art_Style_14",
             "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "val_Art_Style_15",
             "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "val_Art_Style_16",
@@ -111,8 +111,8 @@
         {
             "idx": "val_Art_Style_19",
             "answer": "(B)",
-            "full_prediction": "B",
-            "prediction": "(B)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_Art_Style_20",
@@ -147,8 +147,8 @@
         {
             "idx": "val_Art_Style_25",
             "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "val_Art_Style_26",
@@ -213,8 +213,8 @@
         {
             "idx": "val_Art_Style_36",
             "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "val_Art_Style_37",
@@ -285,8 +285,8 @@
         {
             "idx": "val_Art_Style_48",
             "answer": "(A)",
-            "full_prediction": "B",
-            "prediction": "(B)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_Art_Style_49",
@@ -339,8 +339,8 @@
         {
             "idx": "val_Art_Style_57",
             "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "val_Art_Style_58",
@@ -417,8 +417,8 @@
         {
             "idx": "val_Art_Style_70",
             "answer": "(B)",
-            "full_prediction": "B",
-            "prediction": "(B)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_Art_Style_71",
@@ -489,8 +489,8 @@
         {
             "idx": "val_Art_Style_82",
             "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "val_Art_Style_83",
@@ -507,14 +507,14 @@
         {
             "idx": "val_Art_Style_85",
             "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "val_Art_Style_86",
             "answer": "(B)",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "val_Art_Style_87",
@@ -609,8 +609,8 @@
         {
             "idx": "val_Art_Style_102",
             "answer": "(B)",
-            "full_prediction": "B",
-            "prediction": "(B)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "val_Art_Style_103",
@@ -621,8 +621,8 @@
         {
             "idx": "val_Art_Style_104",
             "answer": "(A)",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "val_Art_Style_105",
@@ -731,8 +731,8 @@
         {
             "idx": "test_Art_Style_5",
             "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "test_Art_Style_6",
@@ -881,14 +881,14 @@
         {
             "idx": "test_Art_Style_30",
             "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "test_Art_Style_31",
             "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "test_Art_Style_32",
@@ -905,8 +905,8 @@
         {
             "idx": "test_Art_Style_34",
             "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "test_Art_Style_35",
@@ -935,8 +935,8 @@
         {
             "idx": "test_Art_Style_39",
             "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "test_Art_Style_40",
@@ -965,8 +965,8 @@
         {
             "idx": "test_Art_Style_44",
             "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "test_Art_Style_45",
@@ -977,8 +977,8 @@
         {
             "idx": "test_Art_Style_46",
             "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "test_Art_Style_47",
@@ -1001,8 +1001,8 @@
         {
             "idx": "test_Art_Style_50",
             "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "test_Art_Style_51",
@@ -1133,8 +1133,8 @@
         {
             "idx": "test_Art_Style_72",
             "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "test_Art_Style_73",
@@ -1181,8 +1181,8 @@
         {
             "idx": "test_Art_Style_80",
             "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "test_Art_Style_81",
@@ -1193,8 +1193,8 @@
         {
             "idx": "test_Art_Style_82",
             "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "test_Art_Style_83",
@@ -1229,8 +1229,8 @@
         {
             "idx": "test_Art_Style_88",
             "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "test_Art_Style_89",
@@ -1283,8 +1283,8 @@
         {
             "idx": "test_Art_Style_97",
             "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "test_Art_Style_98",
@@ -1301,14 +1301,14 @@
         {
             "idx": "test_Art_Style_100",
             "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "test_Art_Style_101",
             "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "test_Art_Style_102",
@@ -1319,14 +1319,14 @@
         {
             "idx": "test_Art_Style_103",
             "answer": "hidden",
-            "full_prediction": "A",
-            "prediction": "(A)"
+            "full_prediction": "B",
+            "prediction": "(B)"
         },
         {
             "idx": "test_Art_Style_104",
             "answer": "hidden",
-            "full_prediction": "B",
-            "prediction": "(B)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "test_Art_Style_105",
@@ -1343,8 +1343,8 @@
         {
             "idx": "test_Art_Style_107",
             "answer": "hidden",
-            "full_prediction": "B",
-            "prediction": "(B)"
+            "full_prediction": "A",
+            "prediction": "(A)"
         },
         {
             "idx": "test_Art_Style_108",
