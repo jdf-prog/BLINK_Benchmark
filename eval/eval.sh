@@ -19,3 +19,7 @@ python test_benchmark.py --model_name "otterimage" --task_name all > ./logs/eval
 python test_benchmark.py --model_name "ottervideo" --task_name all > ./logs/eval_ottervideo.log 2>&1
 python test_benchmark.py --model_name "videollava" --task_name all > ./logs/eval_videollava.log 2>&1
 python test_benchmark.py --model_name "mantis-8b-siglip-llama3-ablation1" --task_name all > ./logs/eval_mantis-8b-siglip-llama3-ablation1.log 2>&1
+python test_benchmark.py --model_name "mantis-8b-siglip-llama3-ablation2" --task_name all > ./logs/eval_mantis-8b-siglip-llama3-ablation2.log 2>&1
+python test_benchmark.py --model_name "mantis-8b-siglip-llama3-ablation3" --task_name all > ./logs/eval_mantis-8b-siglip-llama3-ablation3.log 2>&1
+python test_benchmark.py --model_name "mantis-8b-siglip-llama3-ablation4" --task_name all > ./logs/eval_mantis-8b-siglip-llama3-ablation4.log 2>&1
+python test_benchmark.py --model_name "mantis-8b-siglip-llama3-obelics-min" --task_name all > ./logs/eval_mantis-8b-siglip-llama3-obelics-min.log 2>&1
